@@ -1,0 +1,148 @@
+{
+  "id": 166,
+  "sku": "AUR-FUR-AUR-0166",
+  "title": "Taş Tablalı Altın Ayaklı Yemek Masası",
+  "englishTitle": "Elegant Golden-Base Stone Top Dining Table",
+  "slug": "elegant-golden-base-stone-top-dining-table",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Taş Tablalı Altın Ayaklı Yemek Masası, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 3149900,
+    "currency": "TRY",
+    "formatted": "₺31.499,00",
+    "compareAt": 3469053,
+    "compareAtFormatted": "₺34.690,53",
+    "discountPercentage": 9.2,
+    "savings": 319153,
+    "savingsFormatted": "₺3.191,53"
+  },
+  "unitPrice": 3149900,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.3,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 3,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 1605,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 19.81,
+    "height": 38.08,
+    "depth": 5.0,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 1605,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/NWIJKUj.jpeg",
+    "https://i.imgur.com/Jn1YSLk.jpeg",
+    "https://i.imgur.com/VNZRvx5.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/NWIJKUj.jpeg",
+  "barcode": "1030324329839",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 2,
+      "author": "Damla Sarı",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 3,
+      "author": "Emre Öztürk",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-01-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 4,
+      "author": "Can Aslan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-01-03T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 7
+    },
+    {
+      "id": 5,
+      "author": "Selin Kılıç",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-13T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 2
+    },
+    {
+      "id": 6,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-06-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/166",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-31T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

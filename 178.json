@@ -1,0 +1,151 @@
+{
+  "id": 178,
+  "sku": "AUR-SUN-AUR-0178",
+  "title": "Renkli Camlı Güneş Gözlüğü",
+  "englishTitle": "Trendy Tinted Sunglasses",
+  "slug": "trendy-tinted-sunglasses",
+  "brand": "Aurora Optics",
+  "category": "sunglasses",
+  "categoryName": "Güneş Gözlüğü",
+  "description": "Renkli Camlı Güneş Gözlüğü, Aurora Optics tarafından hafif ve şık çerçevesinde tam UV400 koruması sunar. Stil ve göz sağlığı bir arada.",
+  "price": {
+    "amount": 179990,
+    "currency": "TRY",
+    "formatted": "₺1.799,90",
+    "compareAt": 194647,
+    "compareAtFormatted": "₺1.946,47",
+    "discountPercentage": 7.53,
+    "savings": 14657,
+    "savingsFormatted": "₺146,57"
+  },
+  "unitPrice": 179990,
+  "currency": "TRY",
+  "stock": 112,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 3.92,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "gözlük",
+    "uv400"
+  ],
+  "attributes": {
+    "koruma": "UV400",
+    "çerçeve": "Asetat"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 14,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 25.9,
+    "height": 31.48,
+    "depth": 15.82,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 1,
+    "weightGrams": 14,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/0qQBkxX.jpg",
+    "https://i.imgur.com/I5g1DoE.jpg",
+    "https://i.imgur.com/myfFQBW.jpg"
+  ],
+  "thumbnail": "https://i.imgur.com/0qQBkxX.jpg",
+  "barcode": "5468356521568",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-03-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 3,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-01-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 4,
+      "author": "Kaan Turan",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-03-18T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 41
+    },
+    {
+      "id": 5,
+      "author": "Zeynep Çelik",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-06-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    },
+    {
+      "id": 6,
+      "author": "Aylin Şen",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/178",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sunglasses"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-21T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

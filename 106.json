@@ -1,0 +1,139 @@
+{
+  "id": 106,
+  "sku": "AUR-MOT-SCO-0106",
+  "title": "Scooter Motosiklet",
+  "englishTitle": "Scooter Motorcycle",
+  "slug": "scooter-motorcycle",
+  "brand": "ScootMaster",
+  "category": "motorcycle",
+  "categoryName": "Motosiklet",
+  "description": "Scooter Motosiklet, ScootMaster güvencesiyle güvenli sürüş ve güçlü, dengeli motor performansı sunar. Hem günlük kullanım hem uzun yollar için tasarlandı.",
+  "price": {
+    "amount": 14099900,
+    "currency": "TRY",
+    "formatted": "₺140.999,00",
+    "compareAt": 15043103,
+    "compareAtFormatted": "₺150.431,03",
+    "discountPercentage": 6.27,
+    "savings": 943203,
+    "savingsFormatted": "₺9.432,03"
+  },
+  "unitPrice": 14099900,
+  "currency": "TRY",
+  "stock": 84,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 2.53,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 0,
+    "2": 2,
+    "1": 1
+  },
+  "tags": [
+    "araç",
+    "motor",
+    "sürüş"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 5856,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 7.8,
+    "height": 30.56,
+    "depth": 23.42,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 5856,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/2.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/3.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+  "barcode": "9490580778795",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 39
+    },
+    {
+      "id": 2,
+      "author": "Gizem Yavuz",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-05-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 3,
+      "author": "Ayşe Yılmaz",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-03-13T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 4,
+      "author": "Furkan Ünal",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-29T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 36
+    },
+    {
+      "id": 5,
+      "author": "Berk Şimşek",
+      "rating": 1,
+      "title": "Bana göre değil",
+      "comment": "Tekrar almam.",
+      "date": "2026-02-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/106",
+    "category": "https://api.aurora-commerce.dev/v1/categories/motorcycle"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-02T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

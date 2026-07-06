@@ -1,0 +1,133 @@
+{
+  "id": 184,
+  "sku": "AUR-APP-AUR-0184",
+  "title": "Kırmızı Eşofman Altı",
+  "englishTitle": "Classic Red Jogger Sweatpants",
+  "slug": "classic-red-jogger-sweatpants",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Kırmızı Eşofman Altı, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 459990,
+    "currency": "TRY",
+    "formatted": "₺4.599,90",
+    "compareAt": 468851,
+    "compareAtFormatted": "₺4.688,51",
+    "discountPercentage": 1.89,
+    "savings": 8861,
+    "savingsFormatted": "₺88,61"
+  },
+  "unitPrice": 459990,
+  "currency": "TRY",
+  "stock": 64,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 2,
+  "maxOrderQuantity": 22,
+  "rating": 4.56,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 17,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 28.07,
+    "height": 14.62,
+    "depth": 37.72,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 3,
+    "weightGrams": 17,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/9LFjwpI.jpeg",
+    "https://i.imgur.com/vzrTgUR.jpeg",
+    "https://i.imgur.com/p5NdI6n.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/9LFjwpI.jpeg",
+  "barcode": "1753617061713",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Burak Doğan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 3,
+      "author": "Barış Yalçın",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-03-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 4,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/184",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-01T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

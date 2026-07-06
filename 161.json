@@ -1,0 +1,134 @@
+{
+  "id": 161,
+  "sku": "AUR-LAP-AUR-0161",
+  "title": "Profesyoneller için Modern Dizüstü Bilgisayar",
+  "englishTitle": "Sleek Modern Laptop for Professionals",
+  "slug": "sleek-modern-laptop-for-professionals",
+  "brand": "Aurora",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Profesyoneller için Modern Dizüstü Bilgisayar, Aurora güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 5149900,
+    "currency": "TRY",
+    "formatted": "₺51.499,00",
+    "compareAt": 5858150,
+    "compareAtFormatted": "₺58.581,50",
+    "discountPercentage": 12.09,
+    "savings": 708250,
+    "savingsFormatted": "₺7.082,50"
+  },
+  "unitPrice": 5149900,
+  "currency": "TRY",
+  "stock": 44,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.52,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 6343,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 11.4,
+    "height": 31.57,
+    "depth": 14.08,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 6343,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/ItHcq7o.jpeg",
+    "https://i.imgur.com/55GM3XZ.jpeg",
+    "https://i.imgur.com/tcNJxoW.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/ItHcq7o.jpeg",
+  "barcode": "5093771004090",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Buse Taş",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-03-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Zeynep Çelik",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-06-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 3,
+      "author": "İrem Bulut",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-05-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 4,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/161",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-19T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": 157,
+  "sku": "AUR-ELE-AUR-0157",
+  "title": "Kırmızı & Gümüş Kulak Üstü Kulaklık",
+  "englishTitle": "Stylish Red & Silver Over-Ear Headphones",
+  "slug": "stylish-red-&-silver-over-ear-headphones",
+  "brand": "Aurora Tech",
+  "category": "electronics",
+  "categoryName": "Elektronik",
+  "description": "Kırmızı & Gümüş Kulak Üstü Kulaklık, Aurora Tech güvencesiyle günlük teknoloji ihtiyaçların için tasarlandı. Güvenilir performans, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 184990,
+    "currency": "TRY",
+    "formatted": "₺1.849,90",
+    "compareAt": 187750,
+    "compareAtFormatted": "₺1.877,50",
+    "discountPercentage": 1.47,
+    "savings": 2760,
+    "savingsFormatted": "₺27,60"
+  },
+  "unitPrice": 184990,
+  "currency": "TRY",
+  "stock": 86,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 4.5,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "gadget",
+    "teknoloji"
+  ],
+  "attributes": {
+    "bağlantı": "Kablosuz",
+    "garantiTipi": "Resmi distribütör"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 27,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.94,
+    "height": 33.55,
+    "depth": 16.29,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 6,
+    "weightGrams": 27,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/YaSqa06.jpeg",
+    "https://i.imgur.com/isQAliJ.jpeg",
+    "https://i.imgur.com/5B8UQfh.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/YaSqa06.jpeg",
+  "barcode": "5063731495013",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-06-21T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 33
+    },
+    {
+      "id": 2,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 3,
+      "author": "Deniz Koç",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-12-15T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 12
+    },
+    {
+      "id": 4,
+      "author": "Mehmet Demir",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-06-06T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 21
+    },
+    {
+      "id": 5,
+      "author": "Kerem Özkan",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/157",
+    "category": "https://api.aurora-commerce.dev/v1/categories/electronics"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-27T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": 169,
+  "sku": "AUR-FUR-AUR-0169",
+  "title": "Minimalist Çalışma Masası Seti",
+  "englishTitle": "Modern Minimalist Workstation Setup",
+  "slug": "modern-minimalist-workstation-setup",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Minimalist Çalışma Masası Seti, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 2349900,
+    "currency": "TRY",
+    "formatted": "₺23.499,00",
+    "compareAt": 2841819,
+    "compareAtFormatted": "₺28.418,19",
+    "discountPercentage": 17.31,
+    "savings": 491919,
+    "savingsFormatted": "₺4.919,19"
+  },
+  "unitPrice": 2349900,
+  "currency": "TRY",
+  "stock": 91,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.47,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 3,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 40,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 21.11,
+    "height": 15.44,
+    "depth": 8.75,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 40,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/3oXNBst.jpeg",
+    "https://i.imgur.com/ErYYZnT.jpeg",
+    "https://i.imgur.com/boBPwYW.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/3oXNBst.jpeg",
+  "barcode": "4376545628417",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 2,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-01-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 3,
+      "author": "Ceren Er",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Kalitesi daha iyi olabilirdi.",
+      "date": "2026-03-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Aylin Şen",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 5,
+      "author": "Melis Acar",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-12-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 41
+    },
+    {
+      "id": 6,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/169",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-11T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": 162,
+  "sku": "AUR-KIT-AUR-0162",
+  "title": "2 Dilim Ekmek Kızartma Makinesi",
+  "englishTitle": "Efficient 2-Slice Toaster",
+  "slug": "efficient-2-slice-toaster",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "2 Dilim Ekmek Kızartma Makinesi, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 224990,
+    "currency": "TRY",
+    "formatted": "₺2.249,90",
+    "compareAt": 234389,
+    "compareAtFormatted": "₺2.343,89",
+    "discountPercentage": 4.01,
+    "savings": 9399,
+    "savingsFormatted": "₺93,99"
+  },
+  "unitPrice": 224990,
+  "currency": "TRY",
+  "stock": 48,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 10,
+  "maxOrderQuantity": 30,
+  "rating": 4.55,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 3,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.94,
+    "height": 30.75,
+    "depth": 28.73,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 11,
+    "weightGrams": 3,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/keVCVIa.jpeg",
+    "https://i.imgur.com/afHY7v2.jpeg",
+    "https://i.imgur.com/yAOihUe.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/keVCVIa.jpeg",
+  "barcode": "4932898027148",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-12T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 2,
+      "author": "Melis Acar",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-03-29T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 21
+    },
+    {
+      "id": 3,
+      "author": "Melis Acar",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    },
+    {
+      "id": 4,
+      "author": "Aylin Şen",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-04-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    },
+    {
+      "id": 5,
+      "author": "Deniz Koç",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/162",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-26T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

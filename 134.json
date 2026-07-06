@@ -1,0 +1,139 @@
+{
+  "id": 134,
+  "sku": "AUR-SPO-AUR-0134",
+  "title": "Futbol Topu",
+  "englishTitle": "Football",
+  "slug": "football",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Futbol Topu, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 84990,
+    "currency": "TRY",
+    "formatted": "₺849,90",
+    "compareAt": 89605,
+    "compareAtFormatted": "₺896,05",
+    "discountPercentage": 5.15,
+    "savings": 4615,
+    "savingsFormatted": "₺46,15"
+  },
+  "unitPrice": 84990,
+  "currency": "TRY",
+  "stock": 96,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 27,
+  "maxOrderQuantity": 47,
+  "rating": 3.28,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 1,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 26,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 18.07,
+    "height": 37.52,
+    "depth": 8.71,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 10,
+    "weightGrams": 26,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/football/2.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/football/3.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/football/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp",
+  "barcode": "9759230450189",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-02-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 35
+    },
+    {
+      "id": 2,
+      "author": "Gizem Yavuz",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-02-25T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    },
+    {
+      "id": 3,
+      "author": "Ozan Aksoy",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-11-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 4,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-02-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 5,
+      "author": "Ceren Er",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/134",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-12T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

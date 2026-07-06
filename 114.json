@@ -1,0 +1,134 @@
+{
+  "id": 114,
+  "sku": "AUR-SMA-OPP-0114",
+  "title": "Oppo K1",
+  "englishTitle": "Oppo K1",
+  "slug": "oppo-k1",
+  "brand": "Oppo",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Oppo K1, Oppo kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 1409990,
+    "currency": "TRY",
+    "formatted": "₺14.099,90",
+    "compareAt": 1725603,
+    "compareAtFormatted": "₺17.256,03",
+    "discountPercentage": 18.29,
+    "savings": 315613,
+    "savingsFormatted": "₺3.156,13"
+  },
+  "unitPrice": 1409990,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 4.25,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 25,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 36.2,
+    "height": 7.57,
+    "depth": 25.48,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 25,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim",
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+  "barcode": "3520904217762",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elif Kaya",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-03-05T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 11
+    },
+    {
+      "id": 2,
+      "author": "Mehmet Demir",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-05-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 3,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/114",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-23T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

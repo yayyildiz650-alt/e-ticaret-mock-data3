@@ -1,0 +1,114 @@
+{
+  "id": 123,
+  "sku": "AUR-SMA-VIV-0123",
+  "title": "Vivo X21",
+  "englishTitle": "Vivo X21",
+  "slug": "vivo-x21",
+  "brand": "Vivo",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Vivo X21, Vivo kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 2349900,
+    "currency": "TRY",
+    "formatted": "₺23.499,00",
+    "compareAt": 2845260,
+    "compareAtFormatted": "₺28.452,60",
+    "discountPercentage": 17.41,
+    "savings": 495360,
+    "savingsFormatted": "₺4.953,60"
+  },
+  "unitPrice": 2349900,
+  "currency": "TRY",
+  "stock": 7,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 7,
+  "rating": 4.26,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 38,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 17.17,
+    "height": 10.62,
+    "depth": 22.52,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 13,
+    "weightGrams": 38,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+  "barcode": "4280138759271",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-12-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 2,
+      "author": "Barış Yalçın",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/123",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-01T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

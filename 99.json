@@ -1,0 +1,149 @@
+{
+  "id": 99,
+  "sku": "AUR-MOB-TEC-0099",
+  "title": "Monopod",
+  "englishTitle": "Monopod",
+  "slug": "monopod",
+  "brand": "TechGear",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Monopod, TechGear tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 93990,
+    "currency": "TRY",
+    "formatted": "₺939,90",
+    "compareAt": 102811,
+    "compareAtFormatted": "₺1.028,11",
+    "discountPercentage": 8.58,
+    "savings": 8821,
+    "savingsFormatted": "₺88,21"
+  },
+  "unitPrice": 93990,
+  "currency": "TRY",
+  "stock": 48,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 30,
+  "maxOrderQuantity": 48,
+  "rating": 4.43,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 5,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 16,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 35.88,
+    "height": 14.73,
+    "depth": 27.0,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 16,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/3.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+  "barcode": "1622499982795",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-02-09T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 36
+    },
+    {
+      "id": 2,
+      "author": "Burak Doğan",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-11-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 3,
+      "author": "Onur Ateş",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-12-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 4,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-05-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 5,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-06-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 6,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-03-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/99",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-19T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

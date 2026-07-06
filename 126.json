@@ -1,0 +1,147 @@
+{
+  "id": 126,
+  "sku": "AUR-SPO-AUR-0126",
+  "title": "Beyzbol Eldiveni",
+  "englishTitle": "Baseball Glove",
+  "slug": "baseball-glove",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Beyzbol Eldiveni, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 114990,
+    "currency": "TRY",
+    "formatted": "₺1.149,90",
+    "compareAt": 118424,
+    "compareAtFormatted": "₺1.184,24",
+    "discountPercentage": 2.9,
+    "savings": 3434,
+    "savingsFormatted": "₺34,34"
+  },
+  "unitPrice": 114990,
+  "currency": "TRY",
+  "stock": 22,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 22,
+  "rating": 3.96,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 37,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 23.02,
+    "height": 19.74,
+    "depth": 5.71,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 37,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+  "barcode": "9456371834404",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 18
+    },
+    {
+      "id": 2,
+      "author": "Mustafa Şahin",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-04-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 3,
+      "author": "Nur Güneş",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-06-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 4,
+      "author": "Barış Yalçın",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-03-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 5,
+      "author": "Zeynep Çelik",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 6,
+      "author": "Emir Çetin",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/126",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-18T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

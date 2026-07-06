@@ -1,0 +1,118 @@
+{
+  "id": 168,
+  "sku": "AUR-FUR-AUR-0168",
+  "title": "Masif Ahşap Yemek Masası",
+  "englishTitle": "Elegant Solid Wood Dining Table",
+  "slug": "elegant-solid-wood-dining-table",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Masif Ahşap Yemek Masası, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 3599900,
+    "currency": "TRY",
+    "formatted": "₺35.999,00",
+    "compareAt": 4056225,
+    "compareAtFormatted": "₺40.562,25",
+    "discountPercentage": 11.25,
+    "savings": 456325,
+    "savingsFormatted": "₺4.563,25"
+  },
+  "unitPrice": 3599900,
+  "currency": "TRY",
+  "stock": 87,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.64,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 7961,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 15.7,
+    "height": 31.97,
+    "depth": 34.58,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 1,
+    "weightGrams": 7961,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/4lTaHfF.jpeg",
+    "https://i.imgur.com/JktHE1C.jpeg",
+    "https://i.imgur.com/cQeXQMi.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/4lTaHfF.jpeg",
+  "barcode": "7068277881609",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 2,
+      "author": "Gizem Yavuz",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-31T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 29
+    },
+    {
+      "id": 3,
+      "author": "Damla Sarı",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-03-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/168",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-06T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 164,
+  "sku": "AUR-FUR-AUR-0164",
+  "title": "Modern Deri Kanepe",
+  "englishTitle": "Sleek Modern Leather Sofa",
+  "slug": "sleek-modern-leather-sofa",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Modern Deri Kanepe, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 4499900,
+    "currency": "TRY",
+    "formatted": "₺44.999,00",
+    "compareAt": 4611498,
+    "compareAtFormatted": "₺46.114,98",
+    "discountPercentage": 2.42,
+    "savings": 111598,
+    "savingsFormatted": "₺1.115,98"
+  },
+  "unitPrice": 4499900,
+  "currency": "TRY",
+  "stock": 48,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.73,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 2440,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 39.89,
+    "height": 29.73,
+    "depth": 21.74,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 2440,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/Qphac99.jpeg",
+    "https://i.imgur.com/dJjpEgG.jpeg",
+    "https://i.imgur.com/MxJyADq.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/Qphac99.jpeg",
+  "barcode": "2764208656756",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-11-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 2,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-02-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 3,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-04-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 18
+    },
+    {
+      "id": 4,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-05-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/164",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-17T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

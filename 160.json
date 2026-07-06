@@ -1,0 +1,143 @@
+{
+  "id": 160,
+  "sku": "AUR-LAP-AUR-0160",
+  "title": "Ortam Işıklı Modern Dizüstü Bilgisayar",
+  "englishTitle": "Sleek Modern Laptop with Ambient Lighting",
+  "slug": "sleek-modern-laptop-with-ambient-lighting",
+  "brand": "Aurora",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Ortam Işıklı Modern Dizüstü Bilgisayar, Aurora güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 4249900,
+    "currency": "TRY",
+    "formatted": "₺42.499,00",
+    "compareAt": 4378632,
+    "compareAtFormatted": "₺43.786,32",
+    "discountPercentage": 2.94,
+    "savings": 128732,
+    "savingsFormatted": "₺1.287,32"
+  },
+  "unitPrice": 4249900,
+  "currency": "TRY",
+  "stock": 1,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 1,
+  "rating": 3.52,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 0,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 7935,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 28.84,
+    "height": 13.9,
+    "depth": 26.08,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 7935,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/OKn1KFI.jpeg",
+    "https://i.imgur.com/G4f21Ai.jpeg",
+    "https://i.imgur.com/Z9oKRVJ.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/OKn1KFI.jpeg",
+  "barcode": "3626448869461",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "İrem Bulut",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-03-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 2,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-06-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 3,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 4,
+      "author": "Mustafa Şahin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 5,
+      "author": "Mehmet Demir",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Kalitesi daha iyi olabilirdi.",
+      "date": "2026-03-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/160",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-25T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

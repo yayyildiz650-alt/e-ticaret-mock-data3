@@ -1,0 +1,110 @@
+{
+  "id": 146,
+  "sku": "AUR-TAB-APP-0146",
+  "title": "iPad Mini 2021 Yıldız Işığı",
+  "englishTitle": "iPad Mini 2021 Starlight",
+  "slug": "ipad-mini-2021-starlight",
+  "brand": "Apple",
+  "category": "tablets",
+  "categoryName": "Tabletler",
+  "description": "iPad Mini 2021 Yıldız Işığı, Apple kalitesiyle net laminasyonlu ekranı ve akıcı performansıyla okuma, izleme ve not alma için ideal.",
+  "price": {
+    "amount": 2349900,
+    "currency": "TRY",
+    "formatted": "₺23.499,00",
+    "compareAt": 2438667,
+    "compareAtFormatted": "₺24.386,67",
+    "discountPercentage": 3.64,
+    "savings": 88767,
+    "savingsFormatted": "₺887,67"
+  },
+  "unitPrice": 2349900,
+  "currency": "TRY",
+  "stock": 47,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 23,
+  "rating": 3.18,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "tablet",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "bağlantı": "Wi-Fi",
+    "ekran": "Laminasyonlu"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 20,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 33.29,
+    "height": 12.74,
+    "depth": 39.3,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 4,
+    "weightGrams": 20,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+    "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
+  "barcode": "4987283999219",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Onur Ateş",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-05-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 2,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-06T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 40
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/146",
+    "category": "https://api.aurora-commerce.dev/v1/categories/tablets"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-05T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

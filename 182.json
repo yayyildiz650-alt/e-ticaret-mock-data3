@@ -1,0 +1,153 @@
+{
+  "id": 182,
+  "sku": "AUR-APP-AUR-0182",
+  "title": "Rahat Kesim Eşofman Altı",
+  "englishTitle": "Classic Comfort Fit Joggers",
+  "slug": "classic-comfort-fit-joggers",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Rahat Kesim Eşofman Altı, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 119990,
+    "currency": "TRY",
+    "formatted": "₺1.199,90",
+    "compareAt": 143563,
+    "compareAtFormatted": "₺1.435,63",
+    "discountPercentage": 16.42,
+    "savings": 23573,
+    "savingsFormatted": "₺235,73"
+  },
+  "unitPrice": 119990,
+  "currency": "TRY",
+  "stock": 86,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 7,
+  "maxOrderQuantity": 27,
+  "rating": 3.39,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 28,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 27.19,
+    "height": 29.57,
+    "depth": 37.83,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 28,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/ZKGofuB.jpeg",
+    "https://i.imgur.com/GJi73H0.jpeg",
+    "https://i.imgur.com/633Fqrz.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/ZKGofuB.jpeg",
+  "barcode": "9046337861371",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2025-11-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 2,
+      "author": "Deniz Koç",
+      "rating": 1,
+      "title": "Daha iyisini bekledim",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2025-12-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 3,
+      "author": "Ayşe Yılmaz",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-05-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 19
+    },
+    {
+      "id": 4,
+      "author": "Emre Öztürk",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 5,
+      "author": "Nur Güneş",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-02-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 6,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-05-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/182",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-27T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

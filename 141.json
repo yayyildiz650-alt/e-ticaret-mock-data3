@@ -1,0 +1,141 @@
+{
+  "id": 141,
+  "sku": "AUR-SUN-FAS-0141",
+  "title": "Siyah Güneş Gözlüğü",
+  "englishTitle": "Black Sun Glasses",
+  "slug": "black-sun-glasses",
+  "brand": "Fashion Shades",
+  "category": "sunglasses",
+  "categoryName": "Güneş Gözlüğü",
+  "description": "Siyah Güneş Gözlüğü, Fashion Shades tarafından hafif ve şık çerçevesinde tam UV400 koruması sunar. Stil ve göz sağlığı bir arada.",
+  "price": {
+    "amount": 139990,
+    "currency": "TRY",
+    "formatted": "₺1.399,90",
+    "compareAt": 147265,
+    "compareAtFormatted": "₺1.472,65",
+    "discountPercentage": 4.94,
+    "savings": 7275,
+    "savingsFormatted": "₺72,75"
+  },
+  "unitPrice": 139990,
+  "currency": "TRY",
+  "stock": 60,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 17,
+  "maxOrderQuantity": 37,
+  "rating": 4.41,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 5,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "gözlük",
+    "uv400"
+  ],
+  "attributes": {
+    "koruma": "UV400",
+    "çerçeve": "Asetat"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 11,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.04,
+    "height": 17.93,
+    "depth": 38.31,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 11,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+  "barcode": "7022960443270",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-11-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-02-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    },
+    {
+      "id": 3,
+      "author": "Melis Acar",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2025-12-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 4,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-03-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 5,
+      "author": "Furkan Ünal",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/141",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sunglasses"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-02T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

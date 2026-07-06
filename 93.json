@@ -1,0 +1,132 @@
+{
+  "id": 93,
+  "sku": "AUR-MOB-APP-0093",
+  "title": "Apple HomePod Mini Uzay Grisi",
+  "englishTitle": "Apple HomePod Mini Cosmic Grey",
+  "slug": "apple-homepod-mini-cosmic-grey",
+  "brand": "Apple",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Apple HomePod Mini Uzay Grisi, Apple tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 469990,
+    "currency": "TRY",
+    "formatted": "₺4.699,90",
+    "compareAt": 573858,
+    "compareAtFormatted": "₺5.738,58",
+    "discountPercentage": 18.1,
+    "savings": 103868,
+    "savingsFormatted": "₺1.038,68"
+  },
+  "unitPrice": 469990,
+  "currency": "TRY",
+  "stock": 27,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 27,
+  "rating": 4.62,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 27,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 37.56,
+    "height": 9.22,
+    "depth": 31.96,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 1,
+    "weightGrams": 27,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/2.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/3.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+  "barcode": "8320679981364",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Aylin Şen",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-14T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 2,
+      "author": "Melis Acar",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    },
+    {
+      "id": 3,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 4,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/93",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-18T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

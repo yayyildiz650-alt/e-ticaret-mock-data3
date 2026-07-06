@@ -1,0 +1,121 @@
+{
+  "id": 176,
+  "sku": "AUR-SPO-AUR-0176",
+  "title": "Modern Elektrikli Bisiklet",
+  "englishTitle": "Sleek Futuristic Electric Bicycle",
+  "slug": "sleek-futuristic-electric-bicycle",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Modern Elektrikli Bisiklet, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 6099900,
+    "currency": "TRY",
+    "formatted": "₺60.999,00",
+    "compareAt": 7210284,
+    "compareAtFormatted": "₺72.102,84",
+    "discountPercentage": 15.4,
+    "savings": 1110384,
+    "savingsFormatted": "₺11.103,84"
+  },
+  "unitPrice": 6099900,
+  "currency": "TRY",
+  "stock": 9,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 9,
+  "rating": 4.41,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 5129,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 32.77,
+    "height": 16.67,
+    "depth": 33.07,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 5129,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "indirim",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/BG8J0Fj.jpg",
+    "https://i.imgur.com/ujHBpCX.jpg",
+    "https://i.imgur.com/WHeVL9H.jpg"
+  ],
+  "thumbnail": "https://i.imgur.com/BG8J0Fj.jpg",
+  "barcode": "1968931350305",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-05-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 7
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-02-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 3,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-04-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/176",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-10T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

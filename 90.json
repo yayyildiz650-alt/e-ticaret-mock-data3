@@ -1,0 +1,128 @@
+{
+  "id": 90,
+  "sku": "AUR-MOB-APP-0090",
+  "title": "Apple AirPods",
+  "englishTitle": "Apple Airpods",
+  "slug": "apple-airpods",
+  "brand": "Apple",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Apple AirPods, Apple tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 609990,
+    "currency": "TRY",
+    "formatted": "₺6.099,90",
+    "compareAt": 722224,
+    "compareAtFormatted": "₺7.222,24",
+    "discountPercentage": 15.54,
+    "savings": 112234,
+    "savingsFormatted": "₺1.122,34"
+  },
+  "unitPrice": 609990,
+  "currency": "TRY",
+  "stock": 67,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 4,
+  "maxOrderQuantity": 24,
+  "rating": 4.15,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 4,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 7.09,
+    "height": 27.56,
+    "depth": 29.55,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 4,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+  "barcode": "2407784873928",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-03-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 2,
+      "author": "Ayşe Yılmaz",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 3,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 4,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/90",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-26T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

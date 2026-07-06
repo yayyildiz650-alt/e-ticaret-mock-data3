@@ -1,0 +1,119 @@
+{
+  "id": 89,
+  "sku": "AUR-MOB-AMA-0089",
+  "title": "Amazon Echo Plus",
+  "englishTitle": "Amazon Echo Plus",
+  "slug": "amazon-echo-plus",
+  "brand": "Amazon",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Amazon Echo Plus, Amazon tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 469990,
+    "currency": "TRY",
+    "formatted": "₺4.699,90",
+    "compareAt": 534505,
+    "compareAtFormatted": "₺5.345,05",
+    "discountPercentage": 12.07,
+    "savings": 64515,
+    "savingsFormatted": "₺645,15"
+  },
+  "unitPrice": 469990,
+  "currency": "TRY",
+  "stock": 61,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 9,
+  "maxOrderQuantity": 29,
+  "rating": 4.99,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 4,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 14.33,
+    "height": 18.73,
+    "depth": 24.01,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 2,
+    "weightGrams": 4,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+  "barcode": "7303718376452",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Onur Ateş",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-05-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-02-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 3,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-09T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/89",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-22T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

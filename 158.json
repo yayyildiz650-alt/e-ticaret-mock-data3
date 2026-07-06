@@ -1,0 +1,131 @@
+{
+  "id": 158,
+  "sku": "AUR-ELE-AUR-0158",
+  "title": "Ayna Görünümlü Telefon Kılıfı",
+  "englishTitle": "Sleek Mirror Finish Phone Case",
+  "slug": "sleek-mirror-finish-phone-case",
+  "brand": "Aurora Tech",
+  "category": "electronics",
+  "categoryName": "Elektronik",
+  "description": "Ayna Görünümlü Telefon Kılıfı, Aurora Tech güvencesiyle günlük teknoloji ihtiyaçların için tasarlandı. Güvenilir performans, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 124990,
+    "currency": "TRY",
+    "formatted": "₺1.249,90",
+    "compareAt": 132587,
+    "compareAtFormatted": "₺1.325,87",
+    "discountPercentage": 5.73,
+    "savings": 7597,
+    "savingsFormatted": "₺75,97"
+  },
+  "unitPrice": 124990,
+  "currency": "TRY",
+  "stock": 13,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 12,
+  "maxOrderQuantity": 13,
+  "rating": 4.22,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "gadget",
+    "teknoloji"
+  ],
+  "attributes": {
+    "bağlantı": "Kablosuz",
+    "garantiTipi": "Resmi distribütör"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 9,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 18.11,
+    "height": 15.38,
+    "depth": 10.31,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 3,
+    "weightGrams": 9,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/yb9UQKL.jpeg",
+    "https://i.imgur.com/m2owtQG.jpeg",
+    "https://i.imgur.com/bNiORct.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/yb9UQKL.jpeg",
+  "barcode": "6403553380339",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    },
+    {
+      "id": 2,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-11-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 3,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Aylin Şen",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/158",
+    "category": "https://api.aurora-commerce.dev/v1/categories/electronics"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-12T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

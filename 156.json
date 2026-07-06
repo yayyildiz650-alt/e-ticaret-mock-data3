@@ -1,0 +1,113 @@
+{
+  "id": 156,
+  "sku": "AUR-ELE-AUR-0156",
+  "title": "Kablosuz Bilgisayar Faresi",
+  "englishTitle": "Sleek Wireless Computer Mouse",
+  "slug": "sleek-wireless-computer-mouse",
+  "brand": "Aurora Tech",
+  "category": "electronics",
+  "categoryName": "Elektronik",
+  "description": "Kablosuz Bilgisayar Faresi, Aurora Tech güvencesiyle günlük teknoloji ihtiyaçların için tasarlandı. Güvenilir performans, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 46990,
+    "currency": "TRY",
+    "formatted": "₺469,90",
+    "compareAt": 50971,
+    "compareAtFormatted": "₺509,71",
+    "discountPercentage": 7.81,
+    "savings": 3981,
+    "savingsFormatted": "₺39,81"
+  },
+  "unitPrice": 46990,
+  "currency": "TRY",
+  "stock": 15,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 6,
+  "maxOrderQuantity": 15,
+  "rating": 4.5,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "gadget",
+    "teknoloji"
+  ],
+  "attributes": {
+    "bağlantı": "Kablosuz",
+    "garantiTipi": "Resmi distribütör"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 13,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 18.88,
+    "height": 5.38,
+    "depth": 9.01,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 2,
+    "weightGrams": 13,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/w3Y8NwQ.jpeg",
+    "https://i.imgur.com/WJFOGIC.jpeg",
+    "https://i.imgur.com/dV4Nklf.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/w3Y8NwQ.jpeg",
+  "barcode": "2742209124186",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Onur Ateş",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-03-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 2,
+      "author": "Mehmet Demir",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/156",
+    "category": "https://api.aurora-commerce.dev/v1/categories/electronics"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-26T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

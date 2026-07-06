@@ -1,0 +1,122 @@
+{
+  "id": 147,
+  "sku": "AUR-TAB-SAM-0147",
+  "title": "Samsung Galaxy Tab S8 Plus Gri",
+  "englishTitle": "Samsung Galaxy Tab S8 Plus Grey",
+  "slug": "samsung-galaxy-tab-s8-plus-grey",
+  "brand": "Samsung",
+  "category": "tablets",
+  "categoryName": "Tabletler",
+  "description": "Samsung Galaxy Tab S8 Plus Gri, Samsung kalitesiyle net laminasyonlu ekranı ve akıcı performansıyla okuma, izleme ve not alma için ideal.",
+  "price": {
+    "amount": 2799900,
+    "currency": "TRY",
+    "formatted": "₺27.999,00",
+    "compareAt": 3229784,
+    "compareAtFormatted": "₺32.297,84",
+    "discountPercentage": 13.31,
+    "savings": 429884,
+    "savingsFormatted": "₺4.298,84"
+  },
+  "unitPrice": 2799900,
+  "currency": "TRY",
+  "stock": 62,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.68,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "tablet",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "bağlantı": "Wi-Fi",
+    "ekran": "Laminasyonlu"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 4022,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.35,
+    "height": 23.1,
+    "depth": 6.52,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 1,
+    "weightGrams": 4022,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
+  "barcode": "9036133254110",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Damla Sarı",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-05-02T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 1
+    },
+    {
+      "id": 2,
+      "author": "Yusuf Polat",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-01-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 3,
+      "author": "Emir Çetin",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-06-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/147",
+    "category": "https://api.aurora-commerce.dev/v1/categories/tablets"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-01T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

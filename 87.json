@@ -1,0 +1,141 @@
+{
+  "id": 87,
+  "sku": "AUR-MEN-ROL-0087",
+  "title": "Rolex Datejust",
+  "englishTitle": "Rolex Datejust",
+  "slug": "rolex-datejust",
+  "brand": "Rolex",
+  "category": "mens-watches",
+  "categoryName": "Erkek Saat",
+  "description": "Rolex Datejust, Rolex işçiliğiyle zarif kasası ve çizilmeye dayanıklı camıyla hassas bir saat. Sade ama iddialı bir zarafet ifadesi.",
+  "price": {
+    "amount": 51699900,
+    "currency": "TRY",
+    "formatted": "₺516.999,00",
+    "compareAt": 53703023,
+    "compareAtFormatted": "₺537.030,23",
+    "discountPercentage": 3.73,
+    "savings": 2003123,
+    "savingsFormatted": "₺20.031,23"
+  },
+  "unitPrice": 51699900,
+  "currency": "TRY",
+  "stock": 86,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.66,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "erkek",
+    "saat"
+  ],
+  "attributes": {
+    "mekanizma": "Otomatik",
+    "suyaDayanıklılık": "50m"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 722,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 37.79,
+    "height": 21.56,
+    "depth": 6.88,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 722,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/2.webp",
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp",
+  "barcode": "2282005577848",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-05-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 2,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-06-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 3,
+      "author": "Melis Acar",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-01-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 4,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-12-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 5,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-04-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/87",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-watches"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-14T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

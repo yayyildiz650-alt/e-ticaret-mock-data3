@@ -1,0 +1,109 @@
+{
+  "id": 120,
+  "sku": "AUR-SMA-SAM-0120",
+  "title": "Samsung Galaxy S10",
+  "englishTitle": "Samsung Galaxy S10",
+  "slug": "samsung-galaxy-s10",
+  "brand": "Samsung",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Samsung Galaxy S10, Samsung kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 3299900,
+    "currency": "TRY",
+    "formatted": "₺32.999,00",
+    "compareAt": 3495287,
+    "compareAtFormatted": "₺34.952,87",
+    "discountPercentage": 5.59,
+    "savings": 195387,
+    "savingsFormatted": "₺1.953,87"
+  },
+  "unitPrice": 3299900,
+  "currency": "TRY",
+  "stock": 19,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 2,
+  "maxOrderQuantity": 19,
+  "rating": 3.06,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 6940,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 33.92,
+    "height": 34.21,
+    "depth": 15.64,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 6940,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
+  "barcode": "4627301471959",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Can Aslan",
+      "rating": 1,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-03-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 2,
+      "author": "Can Aslan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-05-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/120",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-02T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

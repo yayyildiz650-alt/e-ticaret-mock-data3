@@ -1,0 +1,120 @@
+{
+  "id": 137,
+  "sku": "AUR-SPO-AUR-0137",
+  "title": "Metal Beyzbol Sopası",
+  "englishTitle": "Metal Baseball Bat",
+  "slug": "metal-baseball-bat",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Metal Beyzbol Sopası, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 139990,
+    "currency": "TRY",
+    "formatted": "₺1.399,90",
+    "compareAt": 173922,
+    "compareAtFormatted": "₺1.739,22",
+    "discountPercentage": 19.51,
+    "savings": 33932,
+    "savingsFormatted": "₺339,32"
+  },
+  "unitPrice": 139990,
+  "currency": "TRY",
+  "stock": 16,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 9,
+  "maxOrderQuantity": 16,
+  "rating": 4.66,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 32,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.97,
+    "height": 30.36,
+    "depth": 37.73,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 7,
+    "weightGrams": 32,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp",
+  "barcode": "4671795760243",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Berk Şimşek",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 2,
+      "author": "Melis Acar",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 3,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/137",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-27T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

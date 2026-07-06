@@ -1,0 +1,148 @@
+{
+  "id": 165,
+  "sku": "AUR-FUR-AUR-0165",
+  "title": "Ahşap Yemek Masası (Mid-Century)",
+  "englishTitle": "Mid-Century Modern Wooden Dining Table",
+  "slug": "mid-century-modern-wooden-dining-table",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Ahşap Yemek Masası (Mid-Century), Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 1994990,
+    "currency": "TRY",
+    "formatted": "₺19.949,90",
+    "compareAt": 2022496,
+    "compareAtFormatted": "₺20.224,96",
+    "discountPercentage": 1.36,
+    "savings": 27506,
+    "savingsFormatted": "₺275,06"
+  },
+  "unitPrice": 1994990,
+  "currency": "TRY",
+  "stock": 36,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.44,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 32,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 15.59,
+    "height": 25.87,
+    "depth": 11.04,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 32,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/DMQHGA0.jpeg",
+    "https://i.imgur.com/qrs9QBg.jpeg",
+    "https://i.imgur.com/XVp8T1I.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/DMQHGA0.jpeg",
+  "barcode": "1783099974192",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 2,
+      "author": "Onur Ateş",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 13
+    },
+    {
+      "id": 3,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 4,
+      "author": "Sena Korkmaz",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-03-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 5,
+      "author": "Nur Güneş",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-02-18T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 40
+    },
+    {
+      "id": 6,
+      "author": "Melis Acar",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/165",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-13T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

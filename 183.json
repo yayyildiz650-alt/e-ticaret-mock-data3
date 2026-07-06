@@ -1,0 +1,113 @@
+{
+  "id": 183,
+  "sku": "AUR-APP-AUR-0183",
+  "title": "Beli Bağcıklı Eşofman Altı",
+  "englishTitle": "Classic Comfort Drawstring Joggers",
+  "slug": "classic-comfort-drawstring-joggers",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Beli Bağcıklı Eşofman Altı, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 369990,
+    "currency": "TRY",
+    "formatted": "₺3.699,90",
+    "compareAt": 453308,
+    "compareAtFormatted": "₺4.533,08",
+    "discountPercentage": 18.38,
+    "savings": 83318,
+    "savingsFormatted": "₺833,18"
+  },
+  "unitPrice": 369990,
+  "currency": "TRY",
+  "stock": 52,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 11,
+  "maxOrderQuantity": 31,
+  "rating": 4.75,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 10,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 32.67,
+    "height": 34.43,
+    "depth": 23.16,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 4,
+    "weightGrams": 10,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/mp3rUty.jpeg",
+    "https://i.imgur.com/JQRGIc2.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/mp3rUty.jpeg",
+  "barcode": "9609626265826",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ozan Aksoy",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-02-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 2,
+      "author": "Aylin Şen",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/183",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-27T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": 139,
+  "sku": "AUR-SPO-AUR-0139",
+  "title": "Tenis Raketi",
+  "englishTitle": "Tennis Racket",
+  "slug": "tennis-racket",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Tenis Raketi, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 234990,
+    "currency": "TRY",
+    "formatted": "₺2.349,90",
+    "compareAt": 292312,
+    "compareAtFormatted": "₺2.923,12",
+    "discountPercentage": 19.61,
+    "savings": 57322,
+    "savingsFormatted": "₺573,22"
+  },
+  "unitPrice": 234990,
+  "currency": "TRY",
+  "stock": 6,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 6,
+  "rating": 4.03,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 4,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 30,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.31,
+    "height": 23.07,
+    "depth": 28.88,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 30,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp",
+  "barcode": "9084668455048",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-11-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Furkan Ünal",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 3,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-11-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 4,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 5,
+      "author": "İrem Bulut",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-03-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    },
+    {
+      "id": 6,
+      "author": "Kerem Özkan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-03-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/139",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-15T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

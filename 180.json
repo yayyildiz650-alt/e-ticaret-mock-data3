@@ -1,0 +1,143 @@
+{
+  "id": 180,
+  "sku": "AUR-APP-AUR-0180",
+  "title": "Klasik Gri Kapüşonlu Sweatshirt",
+  "englishTitle": "Classic Heather Gray Hoodie",
+  "slug": "classic-heather-gray-hoodie",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Klasik Gri Kapüşonlu Sweatshirt, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 324990,
+    "currency": "TRY",
+    "formatted": "₺3.249,90",
+    "compareAt": 351797,
+    "compareAtFormatted": "₺3.517,97",
+    "discountPercentage": 7.62,
+    "savings": 26807,
+    "savingsFormatted": "₺268,07"
+  },
+  "unitPrice": 324990,
+  "currency": "TRY",
+  "stock": 117,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 11,
+  "maxOrderQuantity": 31,
+  "rating": 4.66,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 26,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 31.89,
+    "height": 11.98,
+    "depth": 16.51,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 9,
+    "weightGrams": 26,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/cHddUCu.jpeg",
+    "https://i.imgur.com/CFOjAgK.jpeg",
+    "https://i.imgur.com/wbIMMme.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/cHddUCu.jpeg",
+  "barcode": "3590960567303",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "İrem Bulut",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 16
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 3,
+      "author": "Fatma Aydın",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-05-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 4,
+      "author": "Zeynep Çelik",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-11-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 42
+    },
+    {
+      "id": 5,
+      "author": "Gizem Yavuz",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/180",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-12T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": 136,
+  "sku": "AUR-SPO-AUR-0136",
+  "title": "Golf Sopası (Demir)",
+  "englishTitle": "Iron Golf",
+  "slug": "iron-golf",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Golf Sopası (Demir), gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 234990,
+    "currency": "TRY",
+    "formatted": "₺2.349,90",
+    "compareAt": 251407,
+    "compareAtFormatted": "₺2.514,07",
+    "discountPercentage": 6.53,
+    "savings": 16417,
+    "savingsFormatted": "₺164,17"
+  },
+  "unitPrice": 234990,
+  "currency": "TRY",
+  "stock": 90,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 4.41,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 39,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 30.41,
+    "height": 15.6,
+    "depth": 33.46,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 12,
+    "weightGrams": 39,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp",
+  "barcode": "7236831472760",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Yusuf Polat",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    },
+    {
+      "id": 2,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 3,
+      "author": "Buse Taş",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 4,
+      "author": "Yusuf Polat",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-01-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 5,
+      "author": "Fatma Aydın",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 6,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-06-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/136",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-29T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

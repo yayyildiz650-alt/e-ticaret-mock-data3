@@ -1,0 +1,119 @@
+{
+  "id": 102,
+  "sku": "AUR-MOB-PRO-0102",
+  "title": "TV Stüdyo Kamera Ayağı",
+  "englishTitle": "TV Studio Camera Pedestal",
+  "slug": "tv-studio-camera-pedestal",
+  "brand": "ProVision",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "TV Stüdyo Kamera Ayağı, ProVision tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 2349900,
+    "currency": "TRY",
+    "formatted": "₺23.499,00",
+    "compareAt": 2562875,
+    "compareAtFormatted": "₺25.628,75",
+    "discountPercentage": 8.31,
+    "savings": 212975,
+    "savingsFormatted": "₺2.129,75"
+  },
+  "unitPrice": 2349900,
+  "currency": "TRY",
+  "stock": 15,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 15,
+  "rating": 2.78,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 1
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 20,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 32.14,
+    "height": 10.02,
+    "depth": 35.51,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 8,
+    "weightGrams": 20,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/2.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/3.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp",
+  "barcode": "0409157018409",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ece Kurt",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Tekrar almam.",
+      "date": "2026-04-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 3,
+      "author": "Deniz Koç",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-05-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/102",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-07T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

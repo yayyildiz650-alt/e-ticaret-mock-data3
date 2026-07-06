@@ -1,0 +1,150 @@
+{
+  "id": 88,
+  "sku": "AUR-MEN-ROL-0088",
+  "title": "Rolex Submariner Saat",
+  "englishTitle": "Rolex Submariner Watch",
+  "slug": "rolex-submariner-watch",
+  "brand": "Rolex",
+  "category": "mens-watches",
+  "categoryName": "Erkek Saat",
+  "description": "Rolex Submariner Saat, Rolex işçiliğiyle zarif kasası ve çizilmeye dayanıklı camıyla hassas bir saat. Sade ama iddialı bir zarafet ifadesi.",
+  "price": {
+    "amount": 65799900,
+    "currency": "TRY",
+    "formatted": "₺657.999,00",
+    "compareAt": 69299526,
+    "compareAtFormatted": "₺692.995,26",
+    "discountPercentage": 5.05,
+    "savings": 3499626,
+    "savingsFormatted": "₺34.996,26"
+  },
+  "unitPrice": 65799900,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 2.69,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 5,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "erkek",
+    "saat"
+  ],
+  "attributes": {
+    "mekanizma": "Otomatik",
+    "suyaDayanıklılık": "50m"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 3392,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 33.99,
+    "height": 12.72,
+    "depth": 7.77,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 3392,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+  "barcode": "2417974973502",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Sena Korkmaz",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 2,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-12-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 16
+    },
+    {
+      "id": 3,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 4,
+      "author": "Ceren Er",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 5,
+      "author": "Ayşe Yılmaz",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    },
+    {
+      "id": 6,
+      "author": "Melis Acar",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Kalitesi daha iyi olabilirdi.",
+      "date": "2026-03-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/88",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-watches"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-26T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

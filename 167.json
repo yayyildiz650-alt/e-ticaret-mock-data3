@@ -1,0 +1,148 @@
+{
+  "id": 167,
+  "sku": "AUR-FUR-AUR-0167",
+  "title": "Petrol Yeşili Modern Berjer",
+  "englishTitle": "Modern Elegance Teal Armchair",
+  "slug": "modern-elegance-teal-armchair",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Petrol Yeşili Modern Berjer, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 1529990,
+    "currency": "TRY",
+    "formatted": "₺15.299,90",
+    "compareAt": 1615106,
+    "compareAtFormatted": "₺16.151,06",
+    "discountPercentage": 5.27,
+    "savings": 85116,
+    "savingsFormatted": "₺851,16"
+  },
+  "unitPrice": 1529990,
+  "currency": "TRY",
+  "stock": 54,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.44,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 3,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 18,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 5.35,
+    "height": 18.2,
+    "depth": 38.91,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 18,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/6wkyyIN.jpeg",
+    "https://i.imgur.com/Ald3Rec.jpeg",
+    "https://i.imgur.com/dIqo03c.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/6wkyyIN.jpeg",
+  "barcode": "4910256258896",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-11-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 16
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-01-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 3,
+      "author": "İrem Bulut",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-05-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 4,
+      "author": "Sena Korkmaz",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 5,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-06-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 6,
+      "author": "Nur Güneş",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-11-09T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 14
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/167",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-31T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

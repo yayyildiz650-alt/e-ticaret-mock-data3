@@ -1,0 +1,147 @@
+{
+  "id": 104,
+  "sku": "AUR-MOT-KAW-0104",
+  "title": "Kawasaki Z800",
+  "englishTitle": "Kawasaki Z800",
+  "slug": "kawasaki-z800",
+  "brand": "Kawasaki",
+  "category": "motorcycle",
+  "categoryName": "Motosiklet",
+  "description": "Kawasaki Z800, Kawasaki güvencesiyle güvenli sürüş ve güçlü, dengeli motor performansı sunar. Hem günlük kullanım hem uzun yollar için tasarlandı.",
+  "price": {
+    "amount": 42299900,
+    "currency": "TRY",
+    "formatted": "₺422.999,00",
+    "compareAt": 46880084,
+    "compareAtFormatted": "₺468.800,84",
+    "discountPercentage": 9.77,
+    "savings": 4580184,
+    "savingsFormatted": "₺45.801,84"
+  },
+  "unitPrice": 42299900,
+  "currency": "TRY",
+  "stock": 52,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.98,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 3,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "araç",
+    "motor",
+    "sürüş"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 1617,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 28.19,
+    "height": 7.73,
+    "depth": 37.58,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 10,
+    "weightGrams": 1617,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+  "barcode": "7013290227846",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-05-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 2,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 3,
+      "author": "Merve Arslan",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-02-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 4,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 5,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 6,
+      "author": "Sena Korkmaz",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/104",
+    "category": "https://api.aurora-commerce.dev/v1/categories/motorcycle"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-20T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

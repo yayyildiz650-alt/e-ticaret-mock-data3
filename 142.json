@@ -1,0 +1,113 @@
+{
+  "id": 142,
+  "sku": "AUR-SUN-FAS-0142",
+  "title": "Klasik Güneş Gözlüğü",
+  "englishTitle": "Classic Sun Glasses",
+  "slug": "classic-sun-glasses",
+  "brand": "Fashion Shades",
+  "category": "sunglasses",
+  "categoryName": "Güneş Gözlüğü",
+  "description": "Klasik Güneş Gözlüğü, Fashion Shades tarafından hafif ve şık çerçevesinde tam UV400 koruması sunar. Stil ve göz sağlığı bir arada.",
+  "price": {
+    "amount": 114990,
+    "currency": "TRY",
+    "formatted": "₺1.149,90",
+    "compareAt": 120966,
+    "compareAtFormatted": "₺1.209,66",
+    "discountPercentage": 4.94,
+    "savings": 5976,
+    "savingsFormatted": "₺59,76"
+  },
+  "unitPrice": 114990,
+  "currency": "TRY",
+  "stock": 1,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 18,
+  "maxOrderQuantity": 18,
+  "rating": 3.86,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 0,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "gözlük",
+    "uv400"
+  ],
+  "attributes": {
+    "koruma": "UV400",
+    "çerçeve": "Asetat"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 29,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.21,
+    "height": 30.48,
+    "depth": 8.13,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 29,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+  "barcode": "1209481813989",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Buse Taş",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-03T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 24
+    },
+    {
+      "id": 2,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-02-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/142",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sunglasses"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-28T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": 150,
+  "sku": "AUR-VEH-DOD-0150",
+  "title": "Dodge Charger SXT RWD",
+  "englishTitle": "Charger SXT RWD",
+  "slug": "charger-sxt-rwd",
+  "brand": "Dodge",
+  "category": "vehicle",
+  "categoryName": "Araçlar",
+  "description": "Dodge Charger SXT RWD, Dodge güvencesiyle konfor, iç mekân ferahlığı ve güvenilir performansı iyi donanımlı bir kabin ve modern güvenlik özellikleriyle dengeler.",
+  "price": {
+    "amount": 155099900,
+    "currency": "TRY",
+    "formatted": "₺1.550.999,00",
+    "compareAt": 169009371,
+    "compareAtFormatted": "₺1.690.093,71",
+    "discountPercentage": 8.23,
+    "savings": 13909471,
+    "savingsFormatted": "₺139.094,71"
+  },
+  "unitPrice": 155099900,
+  "currency": "TRY",
+  "stock": 57,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 2.58,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 2,
+    "2": 0,
+    "1": 1
+  },
+  "tags": [
+    "aile",
+    "araba",
+    "otomobil"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 2654,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 19.65,
+    "height": 10.68,
+    "depth": 20.9,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 2654,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp",
+  "barcode": "7563620501508",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 1,
+      "title": "Daha iyisini bekledim",
+      "comment": "Tekrar almam.",
+      "date": "2025-11-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 2,
+      "author": "Deniz Koç",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 3,
+      "author": "Nur Güneş",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2026-01-27T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 39
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/150",
+    "category": "https://api.aurora-commerce.dev/v1/categories/vehicle"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-28T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

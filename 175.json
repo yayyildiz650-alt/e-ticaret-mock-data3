@@ -1,0 +1,111 @@
+{
+  "id": 175,
+  "sku": "AUR-MEN-AUR-0175",
+  "title": "Mavi Süet Günlük Ayakkabı",
+  "englishTitle": "Classic Blue Suede Casual Shoes",
+  "slug": "classic-blue-suede-casual-shoes",
+  "brand": "Aurora Step",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Mavi Süet Günlük Ayakkabı, Aurora Step imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 464990,
+    "currency": "TRY",
+    "formatted": "₺4.649,90",
+    "compareAt": 492783,
+    "compareAtFormatted": "₺4.927,83",
+    "discountPercentage": 5.64,
+    "savings": 27793,
+    "savingsFormatted": "₺277,93"
+  },
+  "unitPrice": 464990,
+  "currency": "TRY",
+  "stock": 107,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 7,
+  "maxOrderQuantity": 27,
+  "rating": 4.07,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 15,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 8.56,
+    "height": 38.45,
+    "depth": 17.51,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 10,
+    "weightGrams": 15,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/sC0ztOB.jpeg",
+    "https://i.imgur.com/Jf9DL9R.jpeg",
+    "https://i.imgur.com/R1IN95T.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/sC0ztOB.jpeg",
+  "barcode": "5926249451475",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 2,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-11-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/175",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-13T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

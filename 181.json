@@ -1,0 +1,113 @@
+{
+  "id": 181,
+  "sku": "AUR-APP-AUR-0181",
+  "title": "Klasik Beyaz Kapüşonlu Sweatshirt",
+  "englishTitle": "Classic White Hooded Sweatshirt",
+  "slug": "classic-white-hooded-sweatshirt",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Klasik Beyaz Kapüşonlu Sweatshirt, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 704990,
+    "currency": "TRY",
+    "formatted": "₺7.049,90",
+    "compareAt": 860794,
+    "compareAtFormatted": "₺8.607,94",
+    "discountPercentage": 18.1,
+    "savings": 155804,
+    "savingsFormatted": "₺1.558,04"
+  },
+  "unitPrice": 704990,
+  "currency": "TRY",
+  "stock": 34,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 4.36,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 22,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.72,
+    "height": 15.39,
+    "depth": 11.95,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 22,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/cSytoSD.jpeg",
+    "https://i.imgur.com/WwKucXb.jpeg",
+    "https://i.imgur.com/cE2Dxh9.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/cSytoSD.jpeg",
+  "barcode": "8931992550272",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Buse Taş",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-06-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    },
+    {
+      "id": 2,
+      "author": "Yusuf Polat",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/181",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-11T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

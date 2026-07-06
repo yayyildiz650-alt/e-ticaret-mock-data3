@@ -1,0 +1,116 @@
+{
+  "id": 97,
+  "sku": "AUR-MOB-BEA-0097",
+  "title": "Beats Flex Kablosuz Kulaklık",
+  "englishTitle": "Beats Flex Wireless Earphones",
+  "slug": "beats-flex-wireless-earphones",
+  "brand": "Beats",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Beats Flex Kablosuz Kulaklık, Beats tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 234990,
+    "currency": "TRY",
+    "formatted": "₺2.349,90",
+    "compareAt": 249273,
+    "compareAtFormatted": "₺2.492,73",
+    "discountPercentage": 5.73,
+    "savings": 14283,
+    "savingsFormatted": "₺142,83"
+  },
+  "unitPrice": 234990,
+  "currency": "TRY",
+  "stock": 50,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 17,
+  "maxOrderQuantity": 37,
+  "rating": 4.24,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 2,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 17.57,
+    "height": 29.08,
+    "depth": 21.68,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 2,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+  "barcode": "3060463331279",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mehmet Demir",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-25T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 19
+    },
+    {
+      "id": 2,
+      "author": "Defne Erdoğan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-03-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 3,
+      "author": "Defne Erdoğan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-01-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/97",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-06T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

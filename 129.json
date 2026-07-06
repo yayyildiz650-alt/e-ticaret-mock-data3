@@ -1,0 +1,116 @@
+{
+  "id": 129,
+  "sku": "AUR-SPO-AUR-0129",
+  "title": "Kriket Topu",
+  "englishTitle": "Cricket Ball",
+  "slug": "cricket-ball",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Kriket Topu, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 60990,
+    "currency": "TRY",
+    "formatted": "₺609,90",
+    "compareAt": 66751,
+    "compareAtFormatted": "₺667,51",
+    "discountPercentage": 8.63,
+    "savings": 5761,
+    "savingsFormatted": "₺57,61"
+  },
+  "unitPrice": 60990,
+  "currency": "TRY",
+  "stock": 30,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 11,
+  "maxOrderQuantity": 30,
+  "rating": 3.53,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 24.1,
+    "height": 21.62,
+    "depth": 13.62,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 21,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+  "barcode": "3486451837606",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-11-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 3,
+      "author": "Mustafa Şahin",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/129",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-08T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

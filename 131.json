@@ -1,0 +1,109 @@
+{
+  "id": 131,
+  "sku": "AUR-SPO-AUR-0131",
+  "title": "Kriket Kaskı",
+  "englishTitle": "Cricket Helmet",
+  "slug": "cricket-helmet",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Kriket Kaskı, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 209990,
+    "currency": "TRY",
+    "formatted": "₺2.099,90",
+    "compareAt": 232393,
+    "compareAtFormatted": "₺2.323,93",
+    "discountPercentage": 9.64,
+    "savings": 22403,
+    "savingsFormatted": "₺224,03"
+  },
+  "unitPrice": 209990,
+  "currency": "TRY",
+  "stock": 10,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 4,
+  "maxOrderQuantity": 10,
+  "rating": 4.69,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 32.98,
+    "height": 11.95,
+    "depth": 19.51,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 1,
+    "weightGrams": 21,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "çok satan",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+  "barcode": "3173420696942",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Merve Arslan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-12-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    },
+    {
+      "id": 2,
+      "author": "Berk Şimşek",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/131",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-15T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

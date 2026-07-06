@@ -1,0 +1,133 @@
+{
+  "id": 172,
+  "sku": "AUR-MEN-AUR-0172",
+  "title": "Turuncu & Mavi Spor Ayakkabı",
+  "englishTitle": "Vibrant Orange & Blue Sneakers",
+  "slug": "vibrant-orange-&-blue-sneakers",
+  "brand": "Aurora Step",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Turuncu & Mavi Spor Ayakkabı, Aurora Step imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 369990,
+    "currency": "TRY",
+    "formatted": "₺3.699,90",
+    "compareAt": 447172,
+    "compareAtFormatted": "₺4.471,72",
+    "discountPercentage": 17.26,
+    "savings": 77182,
+    "savingsFormatted": "₺771,82"
+  },
+  "unitPrice": 369990,
+  "currency": "TRY",
+  "stock": 23,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 23,
+  "rating": 3.37,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 0,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 35,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 26.67,
+    "height": 15.55,
+    "depth": 21.6,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 35,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/hKcMNJs.jpeg",
+    "https://i.imgur.com/NYToymX.jpeg",
+    "https://i.imgur.com/HiiapCt.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/hKcMNJs.jpeg",
+  "barcode": "6176880294240",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 2,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-12-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 3,
+      "author": "Fatma Aydın",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-11-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 4,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-02T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/172",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-14T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

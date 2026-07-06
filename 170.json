@@ -1,0 +1,119 @@
+{
+  "id": 170,
+  "sku": "AUR-FUR-AUR-0170",
+  "title": "Ergonomik Ofis Koltuğu",
+  "englishTitle": "Modern Ergonomic Office Chair",
+  "slug": "modern-ergonomic-office-chair",
+  "brand": "Aurora Living",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Ergonomik Ofis Koltuğu, Aurora Living kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 1274990,
+    "currency": "TRY",
+    "formatted": "₺12.749,90",
+    "compareAt": 1315372,
+    "compareAtFormatted": "₺13.153,72",
+    "discountPercentage": 3.07,
+    "savings": 40382,
+    "savingsFormatted": "₺403,82"
+  },
+  "unitPrice": 1274990,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.8,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 9,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 8.84,
+    "height": 8.78,
+    "depth": 5.74,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 9,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/3dU0m72.jpeg",
+    "https://i.imgur.com/zPU3EVa.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/3dU0m72.jpeg",
+  "barcode": "7447163928234",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Melis Acar",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-05-26T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 10
+    },
+    {
+      "id": 2,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 3,
+      "author": "Merve Arslan",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-12-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/170",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-28T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": 148,
+  "sku": "AUR-TAB-SAM-0148",
+  "title": "Samsung Galaxy Tab Beyaz",
+  "englishTitle": "Samsung Galaxy Tab White",
+  "slug": "samsung-galaxy-tab-white",
+  "brand": "Samsung",
+  "category": "tablets",
+  "categoryName": "Tabletler",
+  "description": "Samsung Galaxy Tab Beyaz, Samsung kalitesiyle net laminasyonlu ekranı ve akıcı performansıyla okuma, izleme ve not alma için ideal.",
+  "price": {
+    "amount": 1644990,
+    "currency": "TRY",
+    "formatted": "₺16.449,90",
+    "compareAt": 2010990,
+    "compareAtFormatted": "₺20.109,90",
+    "discountPercentage": 18.2,
+    "savings": 366000,
+    "savingsFormatted": "₺3.660,00"
+  },
+  "unitPrice": 1644990,
+  "currency": "TRY",
+  "stock": 92,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 3.72,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "tablet",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "bağlantı": "Wi-Fi",
+    "ekran": "Laminasyonlu"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 39,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 26.68,
+    "height": 31.74,
+    "depth": 26.89,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 39,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp",
+    "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/2.webp",
+    "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/3.webp",
+    "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+  "barcode": "7049611080466",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Yusuf Polat",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    },
+    {
+      "id": 2,
+      "author": "Mustafa Şahin",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2025-11-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/148",
+    "category": "https://api.aurora-commerce.dev/v1/categories/tablets"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-19T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

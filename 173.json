@@ -1,0 +1,143 @@
+{
+  "id": 173,
+  "sku": "AUR-MEN-AUR-0173",
+  "title": "Gümüş & Altın Bilekli Spor Ayakkabı",
+  "englishTitle": "Futuristic Silver and Gold High-Top Sneaker",
+  "slug": "futuristic-silver-and-gold-high-top-sneaker",
+  "brand": "Aurora Step",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Gümüş & Altın Bilekli Spor Ayakkabı, Aurora Step imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 319990,
+    "currency": "TRY",
+    "formatted": "₺3.199,90",
+    "compareAt": 323745,
+    "compareAtFormatted": "₺3.237,45",
+    "discountPercentage": 1.16,
+    "savings": 3755,
+    "savingsFormatted": "₺37,55"
+  },
+  "unitPrice": 319990,
+  "currency": "TRY",
+  "stock": 24,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 12,
+  "maxOrderQuantity": 24,
+  "rating": 4.85,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 16,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 39.63,
+    "height": 12.35,
+    "depth": 9.07,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 16,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://i.imgur.com/npLfCGq.jpeg",
+    "https://i.imgur.com/vYim3gj.jpeg",
+    "https://i.imgur.com/HxuHwBO.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/npLfCGq.jpeg",
+  "barcode": "0053424089164",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-06-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": 2,
+      "author": "Defne Erdoğan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-03-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 3,
+      "author": "Furkan Ünal",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 4,
+      "author": "Defne Erdoğan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 5,
+      "author": "Burak Doğan",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-01-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/173",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-07T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

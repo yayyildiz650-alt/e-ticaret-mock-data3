@@ -1,0 +1,128 @@
+{
+  "id": 177,
+  "sku": "AUR-SPO-AUR-0177",
+  "title": "Arazi Tipi Go-Kart",
+  "englishTitle": "Sleek All-Terrain Go-Kart",
+  "slug": "sleek-all-terrain-go-kart",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Arazi Tipi Go-Kart, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 3499900,
+    "currency": "TRY",
+    "formatted": "₺34.999,00",
+    "compareAt": 3846044,
+    "compareAtFormatted": "₺38.460,44",
+    "discountPercentage": 9.0,
+    "savings": 346144,
+    "savingsFormatted": "₺3.461,44"
+  },
+  "unitPrice": 3499900,
+  "currency": "TRY",
+  "stock": 14,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 14,
+  "rating": 3.43,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 7330,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.54,
+    "height": 10.14,
+    "depth": 9.94,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 7330,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/Ex5x3IU.jpg",
+    "https://i.imgur.com/z7wAQwe.jpg",
+    "https://i.imgur.com/kc0Dj9S.jpg"
+  ],
+  "thumbnail": "https://i.imgur.com/Ex5x3IU.jpg",
+  "barcode": "6570412009282",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Merve Arslan",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-12-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    },
+    {
+      "id": 2,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-11-03T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 3
+    },
+    {
+      "id": 3,
+      "author": "Burak Doğan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-01-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 4,
+      "author": "Mustafa Şahin",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-03-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/177",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-06T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": 109,
+  "sku": "AUR-SMA-APP-0109",
+  "title": "iPhone 6",
+  "englishTitle": "iPhone 6",
+  "slug": "iphone-6",
+  "brand": "Apple",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "iPhone 6, Apple kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 1409990,
+    "currency": "TRY",
+    "formatted": "₺14.099,90",
+    "compareAt": 1511081,
+    "compareAtFormatted": "₺15.110,81",
+    "discountPercentage": 6.69,
+    "savings": 101091,
+    "savingsFormatted": "₺1.010,91"
+  },
+  "unitPrice": 1409990,
+  "currency": "TRY",
+  "stock": 60,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 3.41,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 14.01,
+    "height": 32.33,
+    "depth": 14.71,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 8,
+    "weightGrams": 21,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+  "barcode": "6271286391741",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-01-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 2,
+      "author": "Emre Öztürk",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-27T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 8
+    },
+    {
+      "id": 3,
+      "author": "Can Aslan",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Kalitesi daha iyi olabilirdi.",
+      "date": "2026-01-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 4,
+      "author": "Zeynep Çelik",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/109",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-18T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

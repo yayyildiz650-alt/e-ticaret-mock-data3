@@ -1,0 +1,119 @@
+{
+  "id": 145,
+  "sku": "AUR-SUN-FAS-0145",
+  "title": "Güneş Gözlüğü",
+  "englishTitle": "Sunglasses",
+  "slug": "sunglasses",
+  "brand": "Fashion Shades",
+  "category": "sunglasses",
+  "categoryName": "Güneş Gözlüğü",
+  "description": "Güneş Gözlüğü, Fashion Shades tarafından hafif ve şık çerçevesinde tam UV400 koruması sunar. Stil ve göz sağlığı bir arada.",
+  "price": {
+    "amount": 109990,
+    "currency": "TRY",
+    "formatted": "₺1.099,90",
+    "compareAt": 111676,
+    "compareAtFormatted": "₺1.116,76",
+    "discountPercentage": 1.51,
+    "savings": 1686,
+    "savingsFormatted": "₺16,86"
+  },
+  "unitPrice": 109990,
+  "currency": "TRY",
+  "stock": 27,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 27,
+  "rating": 3.02,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 0,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "gözlük",
+    "uv400"
+  ],
+  "attributes": {
+    "koruma": "UV400",
+    "çerçeve": "Asetat"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 22,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 12.37,
+    "height": 38.56,
+    "depth": 16.5,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 1,
+    "weightGrams": 22,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp",
+  "barcode": "7681180715695",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-14T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 35
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2026-04-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    },
+    {
+      "id": 3,
+      "author": "Yusuf Polat",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/145",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sunglasses"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-15T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": 149,
+  "sku": "AUR-VEH-CHR-0149",
+  "title": "Chrysler 300 Touring",
+  "englishTitle": "300 Touring",
+  "slug": "300-touring",
+  "brand": "Chrysler",
+  "category": "vehicle",
+  "categoryName": "Araçlar",
+  "description": "Chrysler 300 Touring, Chrysler güvencesiyle konfor, iç mekân ferahlığı ve güvenilir performansı iyi donanımlı bir kabin ve modern güvenlik özellikleriyle dengeler.",
+  "price": {
+    "amount": 136299900,
+    "currency": "TRY",
+    "formatted": "₺1.362.999,00",
+    "compareAt": 141949490,
+    "compareAtFormatted": "₺1.419.494,90",
+    "discountPercentage": 3.98,
+    "savings": 5649590,
+    "savingsFormatted": "₺56.495,90"
+  },
+  "unitPrice": 136299900,
+  "currency": "TRY",
+  "stock": 54,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.05,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aile",
+    "araba",
+    "otomobil"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 5421,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.81,
+    "height": 17.44,
+    "depth": 21.85,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 5421,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp",
+    "https://cdn.dummyjson.com/product-images/vehicle/300-touring/2.webp",
+    "https://cdn.dummyjson.com/product-images/vehicle/300-touring/3.webp",
+    "https://cdn.dummyjson.com/product-images/vehicle/300-touring/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp",
+  "barcode": "4982274954508",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 2,
+      "author": "Fatma Aydın",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2025-11-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    },
+    {
+      "id": 3,
+      "author": "Zeynep Çelik",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-06-26T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 8
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/149",
+    "category": "https://api.aurora-commerce.dev/v1/categories/vehicle"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-14T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

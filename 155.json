@@ -1,0 +1,121 @@
+{
+  "id": 155,
+  "sku": "AUR-ELE-AUR-0155",
+  "title": "Kablosuz Kulaklık & Kulakiçi Seti",
+  "englishTitle": "Sleek Wireless Headphone & Earbud Set",
+  "slug": "sleek-wireless-headphone-&-earbud-set",
+  "brand": "Aurora Tech",
+  "category": "electronics",
+  "categoryName": "Elektronik",
+  "description": "Kablosuz Kulaklık & Kulakiçi Seti, Aurora Tech güvencesiyle günlük teknoloji ihtiyaçların için tasarlandı. Güvenilir performans, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 204990,
+    "currency": "TRY",
+    "formatted": "₺2.049,90",
+    "compareAt": 210181,
+    "compareAtFormatted": "₺2.101,81",
+    "discountPercentage": 2.47,
+    "savings": 5191,
+    "savingsFormatted": "₺51,91"
+  },
+  "unitPrice": 204990,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 12,
+  "maxOrderQuantity": 32,
+  "rating": 3.55,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "gadget",
+    "teknoloji"
+  ],
+  "attributes": {
+    "bağlantı": "Kablosuz",
+    "garantiTipi": "Resmi distribütör"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 19,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 27.62,
+    "height": 37.16,
+    "depth": 17.14,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 19,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/yVeIeDa.jpeg",
+    "https://i.imgur.com/jByJ4ih.jpeg",
+    "https://i.imgur.com/KXj6Tpb.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/yVeIeDa.jpeg",
+  "barcode": "6291603248413",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Deniz Koç",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-01-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Onur Ateş",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-05-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 3,
+      "author": "Ceren Er",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-11-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/155",
+    "category": "https://api.aurora-commerce.dev/v1/categories/electronics"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-08T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

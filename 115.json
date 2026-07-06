@@ -1,0 +1,132 @@
+{
+  "id": 115,
+  "sku": "AUR-SMA-REA-0115",
+  "title": "Realme C35",
+  "englishTitle": "Realme C35",
+  "slug": "realme-c35",
+  "brand": "Realme",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Realme C35, Realme kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 704990,
+    "currency": "TRY",
+    "formatted": "₺7.049,90",
+    "compareAt": 832338,
+    "compareAtFormatted": "₺8.323,38",
+    "discountPercentage": 15.3,
+    "savings": 127348,
+    "savingsFormatted": "₺1.273,48"
+  },
+  "unitPrice": 704990,
+  "currency": "TRY",
+  "stock": 48,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 23,
+  "rating": 4.2,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 33,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 6.18,
+    "height": 23.59,
+    "depth": 21.77,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 4,
+    "weightGrams": 33,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp",
+  "barcode": "1074279907726",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-01-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-02-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 3,
+      "author": "Sena Korkmaz",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 37
+    },
+    {
+      "id": 4,
+      "author": "Ayşe Yılmaz",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-05-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/115",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-03T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

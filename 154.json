@@ -1,0 +1,154 @@
+{
+  "id": 154,
+  "sku": "AUR-ELE-AUR-0154",
+  "title": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+  "englishTitle": "Sleek White & Orange Wireless Gaming Controller",
+  "slug": "sleek-white-&-orange-wireless-gaming-controller",
+  "brand": "Aurora Tech",
+  "category": "electronics",
+  "categoryName": "Elektronik",
+  "description": "Beyaz & Turuncu Kablosuz Oyun Kolu, Aurora Tech güvencesiyle günlük teknoloji ihtiyaçların için tasarlandı. Güvenilir performans, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 324990,
+    "currency": "TRY",
+    "formatted": "₺3.249,90",
+    "compareAt": 380684,
+    "compareAtFormatted": "₺3.806,84",
+    "discountPercentage": 14.63,
+    "savings": 55694,
+    "savingsFormatted": "₺556,94"
+  },
+  "unitPrice": 324990,
+  "currency": "TRY",
+  "stock": 26,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 26,
+  "rating": 4.39,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "elektronik",
+    "gadget",
+    "teknoloji"
+  ],
+  "attributes": {
+    "bağlantı": "Kablosuz",
+    "garantiTipi": "Resmi distribütör"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 20,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 8.26,
+    "height": 8.65,
+    "depth": 24.35,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 20,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "indirim",
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/ZANVnHE.jpeg",
+    "https://i.imgur.com/Ro5z6Tn.jpeg",
+    "https://i.imgur.com/woA93Li.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+  "barcode": "0256621286716",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Merve Arslan",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    },
+    {
+      "id": 2,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-11-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 3,
+      "author": "Emir Çetin",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-04-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 4,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2025-11-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 5,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-03-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": 6,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-05-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/154",
+    "category": "https://api.aurora-commerce.dev/v1/categories/electronics"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-14T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}
