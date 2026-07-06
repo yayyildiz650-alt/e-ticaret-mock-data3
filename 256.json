@@ -1,0 +1,127 @@
+{
+  "id": 256,
+  "sku": "AUR-KIT-AUR-0256",
+  "title": "Ahşap Oklava — 2'li Set",
+  "englishTitle": "Wooden Rolling Pin",
+  "slug": "wooden-rolling-pin",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Ahşap Oklava, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 61589,
+    "currency": "TRY",
+    "formatted": "₺615,89",
+    "compareAt": 68243,
+    "compareAtFormatted": "₺682,43",
+    "discountPercentage": 9.75,
+    "savings": 6654,
+    "savingsFormatted": "₺66,54"
+  },
+  "unitPrice": 61589,
+  "currency": "TRY",
+  "stock": 73,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 11,
+  "maxOrderQuantity": 31,
+  "rating": 2.82,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 2,
+    "1": 1
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 66,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 31,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 36.73,
+    "height": 28.52,
+    "depth": 22.76,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 8,
+    "weightGrams": 31,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp",
+  "barcode": "2513534655494",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elif Kaya",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-11-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 2,
+      "author": "Ayşe Yılmaz",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-05-14T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 3,
+      "author": "Berk Şimşek",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 4,
+      "author": "Onur Ateş",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-03-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/256",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-24T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

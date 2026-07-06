@@ -1,0 +1,121 @@
+{
+  "id": 185,
+  "sku": "AUR-APP-AUR-0185",
+  "title": "Lacivert Beyzbol Şapkası",
+  "englishTitle": "Classic Navy Blue Baseball Cap",
+  "slug": "classic-navy-blue-baseball-cap",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Lacivert Beyzbol Şapkası, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 284990,
+    "currency": "TRY",
+    "formatted": "₺2.849,90",
+    "compareAt": 306870,
+    "compareAtFormatted": "₺3.068,70",
+    "discountPercentage": 7.13,
+    "savings": 21880,
+    "savingsFormatted": "₺218,80"
+  },
+  "unitPrice": 284990,
+  "currency": "TRY",
+  "stock": 116,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 3.73,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 14,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 6.03,
+    "height": 9.85,
+    "depth": 7.92,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 6,
+    "weightGrams": 14,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/R3iobJA.jpeg",
+    "https://i.imgur.com/Wv2KTsf.jpeg",
+    "https://i.imgur.com/76HAxcA.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/R3iobJA.jpeg",
+  "barcode": "7686342346199",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elif Kaya",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-12T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 30
+    },
+    {
+      "id": 2,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 12
+    },
+    {
+      "id": 3,
+      "author": "Furkan Ünal",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-02-17T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/185",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-07T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

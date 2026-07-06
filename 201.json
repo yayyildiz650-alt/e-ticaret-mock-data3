@@ -1,0 +1,109 @@
+{
+  "id": 201,
+  "sku": "AUR-GRO-AUR-0201",
+  "title": "Salatalık — Aile Boyu",
+  "englishTitle": "Cucumber",
+  "slug": "cucumber",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Salatalık — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 7689,
+    "currency": "TRY",
+    "formatted": "₺76,89",
+    "compareAt": 7701,
+    "compareAtFormatted": "₺77,01",
+    "discountPercentage": 0.16,
+    "savings": 12,
+    "savingsFormatted": "₺0,12"
+  },
+  "unitPrice": 7689,
+  "currency": "TRY",
+  "stock": 72,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 2,
+  "maxOrderQuantity": 22,
+  "rating": 3.91,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": 11,
+  "variantLabel": "Aile Boyu",
+  "weight": {
+    "value": 20,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 8.78,
+    "height": 5.9,
+    "depth": 15.92,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 20,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/3.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+  "barcode": "1905865185067",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elif Kaya",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-24T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 38
+    },
+    {
+      "id": 2,
+      "author": "Ahmet Yıldız",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/201",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-24T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

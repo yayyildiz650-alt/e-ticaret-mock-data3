@@ -1,0 +1,149 @@
+{
+  "id": 245,
+  "sku": "AUR-KIT-AUR-0245",
+  "title": "Beslenme Kabı — 2'li Set",
+  "englishTitle": "Lunch Box",
+  "slug": "lunch-box",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Beslenme Kabı, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 60990,
+    "currency": "TRY",
+    "formatted": "₺609,90",
+    "compareAt": 68024,
+    "compareAtFormatted": "₺680,24",
+    "discountPercentage": 10.34,
+    "savings": 7034,
+    "savingsFormatted": "₺70,34"
+  },
+  "unitPrice": 60990,
+  "currency": "TRY",
+  "stock": 116,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 39,
+  "maxOrderQuantity": 59,
+  "rating": 5.0,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 55,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 2,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 13.15,
+    "height": 17.12,
+    "depth": 34.39,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 2,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/2.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/3.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+  "barcode": "7024103865719",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 2,
+      "author": "Furkan Ünal",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2026-04-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 3,
+      "author": "Nur Güneş",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    },
+    {
+      "id": 5,
+      "author": "Sena Korkmaz",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-06-13T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 28
+    },
+    {
+      "id": 6,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/245",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-18T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

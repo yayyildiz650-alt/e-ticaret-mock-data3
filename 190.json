@@ -1,0 +1,143 @@
+{
+  "id": 190,
+  "sku": "AUR-APP-AUR-0190",
+  "title": "Yüksek Belli Spor Şort",
+  "englishTitle": "Classic High-Waisted Athletic Shorts",
+  "slug": "classic-high-waisted-athletic-shorts",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Yüksek Belli Spor Şort, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 199990,
+    "currency": "TRY",
+    "formatted": "₺1.999,90",
+    "compareAt": 240199,
+    "compareAtFormatted": "₺2.401,99",
+    "discountPercentage": 16.74,
+    "savings": 40209,
+    "savingsFormatted": "₺402,09"
+  },
+  "unitPrice": 199990,
+  "currency": "TRY",
+  "stock": 97,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.49,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 2,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.18,
+    "height": 19.36,
+    "depth": 12.71,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 2,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/eGOUveI.jpeg",
+    "https://i.imgur.com/UcsGO7E.jpeg",
+    "https://i.imgur.com/NLn4e7S.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/eGOUveI.jpeg",
+  "barcode": "4878245569644",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Berk Şimşek",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 36
+    },
+    {
+      "id": 2,
+      "author": "Ozan Aksoy",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-01-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 3,
+      "author": "Nur Güneş",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 4,
+      "author": "Ceren Er",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 5,
+      "author": "Berk Şimşek",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/190",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-06T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

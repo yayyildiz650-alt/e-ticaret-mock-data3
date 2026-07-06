@@ -1,0 +1,141 @@
+{
+  "id": 238,
+  "sku": "AUR-KIT-AUR-0238",
+  "title": "Çatal — 2'li Set",
+  "englishTitle": "Fork",
+  "slug": "fork",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Çatal, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 20889,
+    "currency": "TRY",
+    "formatted": "₺208,89",
+    "compareAt": 22723,
+    "compareAtFormatted": "₺227,23",
+    "discountPercentage": 8.07,
+    "savings": 1834,
+    "savingsFormatted": "₺18,34"
+  },
+  "unitPrice": 20889,
+  "currency": "TRY",
+  "stock": 10,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 36,
+  "maxOrderQuantity": 36,
+  "rating": 3.26,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 2,
+    "2": 3,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 48,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 34,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.81,
+    "height": 15.97,
+    "depth": 18.6,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 34,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/2.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/3.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+  "barcode": "9125134125286",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-01-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 2,
+      "author": "Ozan Aksoy",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 3,
+      "author": "Emre Öztürk",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-11-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Ozan Aksoy",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-02-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 5,
+      "author": "Tolga Bilgin",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Tekrar almam.",
+      "date": "2026-05-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/238",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-01T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

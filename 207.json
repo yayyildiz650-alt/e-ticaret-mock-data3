@@ -1,0 +1,121 @@
+{
+  "id": 207,
+  "sku": "AUR-GRO-AUR-0207",
+  "title": "Bal Kavanozu — Aile Boyu",
+  "englishTitle": "Honey Jar",
+  "slug": "honey-jar",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Bal Kavanozu — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 32990,
+    "currency": "TRY",
+    "formatted": "₺329,90",
+    "compareAt": 38540,
+    "compareAtFormatted": "₺385,40",
+    "discountPercentage": 14.4,
+    "savings": 5550,
+    "savingsFormatted": "₺55,50"
+  },
+  "unitPrice": 32990,
+  "currency": "TRY",
+  "stock": 33,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 47,
+  "maxOrderQuantity": 47,
+  "rating": 4.05,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": 17,
+  "variantLabel": "Aile Boyu",
+  "weight": {
+    "value": 22,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 35.44,
+    "height": 35.6,
+    "depth": 20.41,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 22,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/3.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+  "barcode": "9615865780913",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-05-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Emir Çetin",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-02-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 3,
+      "author": "Mehmet Demir",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/207",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-25T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": 208,
+  "sku": "AUR-GRO-AUR-0208",
+  "title": "Dondurma — Aile Boyu",
+  "englishTitle": "Ice Cream",
+  "slug": "ice-cream",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Dondurma — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 23391,
+    "currency": "TRY",
+    "formatted": "₺233,91",
+    "compareAt": 25617,
+    "compareAtFormatted": "₺256,17",
+    "discountPercentage": 8.69,
+    "savings": 2226,
+    "savingsFormatted": "₺22,26"
+  },
+  "unitPrice": 23391,
+  "currency": "TRY",
+  "stock": 44,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 42,
+  "maxOrderQuantity": 42,
+  "rating": 3.14,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 3,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": 18,
+  "variantLabel": "Aile Boyu",
+  "weight": {
+    "value": 10,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 13.55,
+    "height": 19.42,
+    "depth": 28.86,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 10,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+  "barcode": "7474074821759",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-01T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    },
+    {
+      "id": 2,
+      "author": "Emir Çetin",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-06-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 3,
+      "author": "Mehmet Demir",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/208",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-01T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

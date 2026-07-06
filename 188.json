@@ -1,0 +1,141 @@
+{
+  "id": 188,
+  "sku": "AUR-APP-AUR-0188",
+  "title": "Siyah Beyzbol Şapkası",
+  "englishTitle": "Classic Black Baseball Cap",
+  "slug": "classic-black-baseball-cap",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Siyah Beyzbol Şapkası, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 274990,
+    "currency": "TRY",
+    "formatted": "₺2.749,90",
+    "compareAt": 288159,
+    "compareAtFormatted": "₺2.881,59",
+    "discountPercentage": 4.57,
+    "savings": 13169,
+    "savingsFormatted": "₺131,69"
+  },
+  "unitPrice": 274990,
+  "currency": "TRY",
+  "stock": 62,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 5,
+  "maxOrderQuantity": 25,
+  "rating": 4.01,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 40,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.97,
+    "height": 32.3,
+    "depth": 11.58,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 12,
+    "weightGrams": 40,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/KeqG6r4.jpeg",
+    "https://i.imgur.com/xGQOw3p.jpeg",
+    "https://i.imgur.com/oO5OUjb.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/KeqG6r4.jpeg",
+  "barcode": "2407875418156",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 2,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-01-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 3,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-03-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 4,
+      "author": "Damla Sarı",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2025-12-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 5,
+      "author": "Merve Arslan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-11-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/188",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-17T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

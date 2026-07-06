@@ -1,0 +1,120 @@
+{
+  "id": 262,
+  "sku": "AUR-LAP-DEL-0262",
+  "title": "Dell XPS 13 9300 Dizüstü — 16GB / 512GB",
+  "englishTitle": "New DELL XPS 13 9300 Laptop",
+  "slug": "new-dell-xps-13-9300-laptop",
+  "brand": "Dell",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Dell XPS 13 9300 Dizüstü, Dell güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 6344910,
+    "currency": "TRY",
+    "formatted": "₺63.449,10",
+    "compareAt": 7201124,
+    "compareAtFormatted": "₺72.011,24",
+    "discountPercentage": 11.89,
+    "savings": 856214,
+    "savingsFormatted": "₺8.562,14"
+  },
+  "unitPrice": 6344910,
+  "currency": "TRY",
+  "stock": 95,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 2.43,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 1
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": 72,
+  "variantLabel": "16GB / 512GB",
+  "weight": {
+    "value": 6598,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 37.24,
+    "height": 11.2,
+    "depth": 25.25,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 6598,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+  "barcode": "3465472269848",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2025-11-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Gizem Yavuz",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-11-23T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 40
+    },
+    {
+      "id": 3,
+      "author": "Mehmet Demir",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2025-11-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/262",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-08T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

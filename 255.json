@@ -1,0 +1,146 @@
+{
+  "id": 255,
+  "sku": "AUR-KIT-AUR-0255",
+  "title": "Tepsi — 2'li Set",
+  "englishTitle": "Tray",
+  "slug": "tray",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Tepsi, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 91988,
+    "currency": "TRY",
+    "formatted": "₺919,88",
+    "compareAt": 99425,
+    "compareAtFormatted": "₺994,25",
+    "discountPercentage": 7.48,
+    "savings": 7437,
+    "savingsFormatted": "₺74,37"
+  },
+  "unitPrice": 91988,
+  "currency": "TRY",
+  "stock": 58,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 23,
+  "maxOrderQuantity": 43,
+  "rating": 4.64,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 5,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 65,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 18,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 19.83,
+    "height": 18.18,
+    "depth": 17.2,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 10,
+    "weightGrams": 18,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp",
+  "barcode": "8994417154544",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-06-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 2,
+      "author": "Berk Şimşek",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-06-01T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 34
+    },
+    {
+      "id": 3,
+      "author": "Ayşe Yılmaz",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 16
+    },
+    {
+      "id": 4,
+      "author": "Emir Çetin",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-05-28T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 42
+    },
+    {
+      "id": 5,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-12-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 6,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-05-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 39
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/255",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-30T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

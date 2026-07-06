@@ -1,0 +1,149 @@
+{
+  "id": 204,
+  "sku": "AUR-GRO-AUR-0204",
+  "title": "Balık Fileto — Aile Boyu",
+  "englishTitle": "Fish Steak",
+  "slug": "fish-steak",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Balık Fileto — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 80488,
+    "currency": "TRY",
+    "formatted": "₺804,88",
+    "compareAt": 84043,
+    "compareAtFormatted": "₺840,43",
+    "discountPercentage": 4.23,
+    "savings": 3555,
+    "savingsFormatted": "₺35,55"
+  },
+  "unitPrice": 80488,
+  "currency": "TRY",
+  "stock": 78,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 50,
+  "maxOrderQuantity": 70,
+  "rating": 4.04,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": 14,
+  "variantLabel": "Aile Boyu",
+  "weight": {
+    "value": 38,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 28.14,
+    "height": 37.68,
+    "depth": 19.88,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 10,
+    "weightGrams": 38,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/3.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+  "barcode": "1746488771906",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Defne Erdoğan",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-02-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 2,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 4,
+      "author": "Aylin Şen",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-06-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 1
+    },
+    {
+      "id": 5,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 39
+    },
+    {
+      "id": 6,
+      "author": "Ceren Er",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-03-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/204",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-10-13T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

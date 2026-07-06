@@ -1,0 +1,137 @@
+{
+  "id": 239,
+  "sku": "AUR-KIT-AUR-0239",
+  "title": "Bardak — 2'li Set",
+  "englishTitle": "Glass",
+  "slug": "glass",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Bardak, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 25289,
+    "currency": "TRY",
+    "formatted": "₺252,89",
+    "compareAt": 27464,
+    "compareAtFormatted": "₺274,64",
+    "discountPercentage": 7.92,
+    "savings": 2175,
+    "savingsFormatted": "₺21,75"
+  },
+  "unitPrice": 25289,
+  "currency": "TRY",
+  "stock": 63,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 17,
+  "maxOrderQuantity": 37,
+  "rating": 4.04,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 49,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 24,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 23.97,
+    "height": 31.49,
+    "depth": 31.6,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 24,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+  "barcode": "1339596292330",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Gizem Yavuz",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 2,
+      "author": "Ozan Aksoy",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 3,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-03-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 4,
+      "author": "Kerem Özkan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 5,
+      "author": "Selin Kılıç",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/239",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-16T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

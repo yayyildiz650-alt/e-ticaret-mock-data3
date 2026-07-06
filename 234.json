@@ -1,0 +1,128 @@
+{
+  "id": 234,
+  "sku": "AUR-KIT-AUR-0234",
+  "title": "Sarı Narenciye Sıkacağı — 2'li Set",
+  "englishTitle": "Citrus Squeezer Yellow",
+  "slug": "citrus-squeezer-yellow",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Sarı Narenciye Sıkacağı, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 46189,
+    "currency": "TRY",
+    "formatted": "₺461,89",
+    "compareAt": 52547,
+    "compareAtFormatted": "₺525,47",
+    "discountPercentage": 12.1,
+    "savings": 6358,
+    "savingsFormatted": "₺63,58"
+  },
+  "unitPrice": 46189,
+  "currency": "TRY",
+  "stock": 34,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 38,
+  "maxOrderQuantity": 38,
+  "rating": 4.53,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 44,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 26,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.91,
+    "height": 16.42,
+    "depth": 27.19,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 26,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+  "barcode": "4262655110475",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Buse Taş",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 3,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 4,
+      "author": "Ceren Er",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-01-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/234",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-16T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

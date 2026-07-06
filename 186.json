@@ -1,0 +1,141 @@
+{
+  "id": 186,
+  "sku": "AUR-APP-AUR-0186",
+  "title": "Mavi Beyzbol Şapkası",
+  "englishTitle": "Classic Blue Baseball Cap",
+  "slug": "classic-blue-baseball-cap",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Mavi Beyzbol Şapkası, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 404990,
+    "currency": "TRY",
+    "formatted": "₺4.049,90",
+    "compareAt": 418162,
+    "compareAtFormatted": "₺4.181,62",
+    "discountPercentage": 3.15,
+    "savings": 13172,
+    "savingsFormatted": "₺131,72"
+  },
+  "unitPrice": 404990,
+  "currency": "TRY",
+  "stock": 92,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 3.55,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 22,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 12.48,
+    "height": 24.86,
+    "depth": 16.25,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 13,
+    "weightGrams": 22,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/wXuQ7bm.jpeg",
+    "https://i.imgur.com/BZrIEmb.jpeg",
+    "https://i.imgur.com/KcT6BE0.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/wXuQ7bm.jpeg",
+  "barcode": "6655330770461",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emir Çetin",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2025-12-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 2,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 3,
+      "author": "Ozan Aksoy",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 4,
+      "author": "Emir Çetin",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-05-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 5,
+      "author": "Emir Çetin",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-05-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/186",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-03T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

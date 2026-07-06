@@ -1,0 +1,140 @@
+{
+  "id": 189,
+  "sku": "AUR-APP-AUR-0189",
+  "title": "Haki Chino Şort",
+  "englishTitle": "Classic Olive Chino Shorts",
+  "slug": "classic-olive-chino-shorts",
+  "brand": "Aurora Wear",
+  "category": "apparel",
+  "categoryName": "Giyim",
+  "description": "Haki Chino Şort, yumuşak ve nefes alabilen kumaşıyla rahat bir günlük parça. Modern kesimiyle kolayca kombinlenir ve her mevsim rahatça giyilir.",
+  "price": {
+    "amount": 394990,
+    "currency": "TRY",
+    "formatted": "₺3.949,90",
+    "compareAt": 406619,
+    "compareAtFormatted": "₺4.066,19",
+    "discountPercentage": 2.86,
+    "savings": 11629,
+    "savingsFormatted": "₺116,29"
+  },
+  "unitPrice": 394990,
+  "currency": "TRY",
+  "stock": 65,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 6,
+  "maxOrderQuantity": 26,
+  "rating": 4.05,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "giyim",
+    "günlük",
+    "unisex"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk",
+    "kesim": "Unisex"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 32,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 12.2,
+    "height": 32.5,
+    "depth": 17.17,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 32,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://i.imgur.com/UsFIvYs.jpeg",
+    "https://i.imgur.com/YIq57b6.jpeg"
+  ],
+  "thumbnail": "https://i.imgur.com/UsFIvYs.jpeg",
+  "barcode": "5122572076502",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-01-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 2,
+      "author": "Defne Erdoğan",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-05-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 3,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-06-01T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 36
+    },
+    {
+      "id": 4,
+      "author": "Aylin Şen",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-04-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 5,
+      "author": "Melis Acar",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-03-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/189",
+    "category": "https://api.aurora-commerce.dev/v1/categories/apparel"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-13T09:41:02.000Z",
+    "imageSource": "i.imgur.com"
+  }
+}

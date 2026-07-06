@@ -1,0 +1,118 @@
+{
+  "id": 215,
+  "sku": "AUR-GRO-AUR-0215",
+  "title": "Patates — Aile Boyu",
+  "englishTitle": "Potatoes",
+  "slug": "potatoes",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Patates — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 9891,
+    "currency": "TRY",
+    "formatted": "₺98,91",
+    "compareAt": 10453,
+    "compareAtFormatted": "₺104,53",
+    "discountPercentage": 5.38,
+    "savings": 562,
+    "savingsFormatted": "₺5,62"
+  },
+  "unitPrice": 9891,
+  "currency": "TRY",
+  "stock": 38,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 9,
+  "maxOrderQuantity": 13,
+  "rating": 4.89,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": 25,
+  "variantLabel": "Aile Boyu",
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.28,
+    "height": 7.39,
+    "depth": 20.48,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 6,
+    "weightGrams": 21,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/potatoes/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/potatoes/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+  "barcode": "9986798079359",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Deniz Koç",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-05-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 2,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-12-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-12-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/215",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-30T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

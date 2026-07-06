@@ -1,0 +1,149 @@
+{
+  "id": 228,
+  "sku": "AUR-KIT-AUR-0228",
+  "title": "Bambu Spatula — 2'li Set",
+  "englishTitle": "Bamboo Spatula",
+  "slug": "bamboo-spatula",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Bambu Spatula, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 41789,
+    "currency": "TRY",
+    "formatted": "₺417,89",
+    "compareAt": 43010,
+    "compareAtFormatted": "₺430,10",
+    "discountPercentage": 2.84,
+    "savings": 1221,
+    "savingsFormatted": "₺12,21"
+  },
+  "unitPrice": 41789,
+  "currency": "TRY",
+  "stock": 35,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 29,
+  "maxOrderQuantity": 37,
+  "rating": 3.18,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 3,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 38,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 24,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 19.55,
+    "height": 24.22,
+    "depth": 21.48,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 9,
+    "weightGrams": 24,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/2.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/3.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+  "barcode": "9108839822587",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Kalitesi daha iyi olabilirdi.",
+      "date": "2026-04-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-04-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 3,
+      "author": "İrem Bulut",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-04-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 4,
+      "author": "Fatma Aydın",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 5,
+      "author": "Can Aslan",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-06-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 6,
+      "author": "Mehmet Demir",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-05-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/228",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-29T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

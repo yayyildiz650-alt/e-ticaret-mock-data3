@@ -1,0 +1,109 @@
+{
+  "id": 267,
+  "sku": "AUR-MEN-URB-0267",
+  "title": "Erkek Kareli Gömlek — Beden S",
+  "englishTitle": "Men Check Shirt",
+  "slug": "men-check-shirt",
+  "brand": "Urban Chic",
+  "category": "mens-shirts",
+  "categoryName": "Erkek Gömlek",
+  "description": "Erkek Kareli Gömlek, Urban Chic tarafından nefes alabilen, kolay bakımlı kumaştan modern regular kesimle üretildi. Kolayca kombinlenen bir gardırop klasiği.",
+  "price": {
+    "amount": 149488,
+    "currency": "TRY",
+    "formatted": "₺1.494,88",
+    "compareAt": 168684,
+    "compareAtFormatted": "₺1.686,84",
+    "discountPercentage": 11.38,
+    "savings": 19196,
+    "savingsFormatted": "₺191,96"
+  },
+  "unitPrice": 149488,
+  "currency": "TRY",
+  "stock": 111,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 12,
+  "maxOrderQuantity": 32,
+  "rating": 2.77,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "erkek",
+    "giyim",
+    "günlük"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk karışımı",
+    "kesim": "Regular"
+  },
+  "variantOf": 77,
+  "variantLabel": "Beden S",
+  "weight": {
+    "value": 15,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 26.59,
+    "height": 13.85,
+    "depth": 9.01,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 15,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+  "barcode": "1413975523149",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Onur Ateş",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 2,
+      "author": "Barış Yalçın",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-06-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/267",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shirts"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-05T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 250,
+  "sku": "AUR-KIT-AUR-0250",
+  "title": "Kırmızı Maşa — 2'li Set",
+  "englishTitle": "Red Tongs",
+  "slug": "red-tongs",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Kırmızı Maşa, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 36289,
+    "currency": "TRY",
+    "formatted": "₺362,89",
+    "compareAt": 42453,
+    "compareAtFormatted": "₺424,53",
+    "discountPercentage": 14.52,
+    "savings": 6164,
+    "savingsFormatted": "₺61,64"
+  },
+  "unitPrice": 36289,
+  "currency": "TRY",
+  "stock": 101,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 23,
+  "maxOrderQuantity": 43,
+  "rating": 4.42,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 2,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": 60,
+  "variantLabel": "2'li Set",
+  "weight": {
+    "value": 22,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.95,
+    "height": 18.14,
+    "depth": 30.62,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 22,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/2.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/3.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp",
+  "barcode": "9620153368844",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-06-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    },
+    {
+      "id": 2,
+      "author": "Ahmet Yıldız",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-11-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 3,
+      "author": "Defne Erdoğan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-11T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    },
+    {
+      "id": 4,
+      "author": "Nur Güneş",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-01-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    },
+    {
+      "id": 5,
+      "author": "Sena Korkmaz",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 6,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/250",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-30T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

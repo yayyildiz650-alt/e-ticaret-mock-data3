@@ -1,0 +1,148 @@
+{
+  "id": 279,
+  "sku": "AUR-MOB-AMA-0279",
+  "title": "Amazon Echo Plus — Beyaz",
+  "englishTitle": "Amazon Echo Plus",
+  "slug": "amazon-echo-plus",
+  "brand": "Amazon",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Amazon Echo Plus, Amazon tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 540488,
+    "currency": "TRY",
+    "formatted": "₺5.404,88",
+    "compareAt": 614680,
+    "compareAtFormatted": "₺6.146,80",
+    "discountPercentage": 12.07,
+    "savings": 74192,
+    "savingsFormatted": "₺741,92"
+  },
+  "unitPrice": 540488,
+  "currency": "TRY",
+  "stock": 65,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 9,
+  "maxOrderQuantity": 29,
+  "rating": 5.0,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 5,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": 89,
+  "variantLabel": "Beyaz",
+  "weight": {
+    "value": 4,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 14.33,
+    "height": 18.73,
+    "depth": 24.01,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 2,
+    "weightGrams": 4,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+  "barcode": "7303718376452",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-04-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 3,
+      "author": "Deniz Koç",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-02-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 4,
+      "author": "Merve Arslan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-11-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 39
+    },
+    {
+      "id": 5,
+      "author": "Fatma Aydın",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-06-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 6,
+      "author": "Ahmet Yıldız",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/279",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-22T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

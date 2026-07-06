@@ -1,0 +1,140 @@
+{
+  "id": 268,
+  "sku": "AUR-MEN-NIK-0268",
+  "title": "Nike Air Jordan 1 Kırmızı ve Siyah — 41 Numara",
+  "englishTitle": "Nike Air Jordan 1 Red And Black",
+  "slug": "nike-air-jordan-1-red-and-black",
+  "brand": "Nike",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Nike Air Jordan 1 Kırmızı ve Siyah, Nike imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 704990,
+    "currency": "TRY",
+    "formatted": "₺7.049,90",
+    "compareAt": 735284,
+    "compareAtFormatted": "₺7.352,84",
+    "discountPercentage": 4.12,
+    "savings": 30294,
+    "savingsFormatted": "₺302,94"
+  },
+  "unitPrice": 704990,
+  "currency": "TRY",
+  "stock": 17,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 7,
+  "rating": 4.6,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": 78,
+  "variantLabel": "41 Numara",
+  "weight": {
+    "value": 32,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 24.31,
+    "height": 11.15,
+    "depth": 26.23,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 12,
+    "weightGrams": 32,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+  "barcode": "0996930848872",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-04-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 2,
+      "author": "Emir Çetin",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 3,
+      "author": "Zeynep Çelik",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-06-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 4,
+      "author": "Can Aslan",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 5,
+      "author": "Melis Acar",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-06-05T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 24
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/268",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-04T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

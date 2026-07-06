@@ -1,0 +1,119 @@
+{
+  "id": 259,
+  "sku": "AUR-LAP-ASU-0259",
+  "title": "Asus Zenbook Pro Çift Ekranlı Dizüstü — 16GB / 512GB",
+  "englishTitle": "Asus Zenbook Pro Dual Screen Laptop",
+  "slug": "asus-zenbook-pro-dual-screen-laptop",
+  "brand": "Asus",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Asus Zenbook Pro Çift Ekranlı Dizüstü, Asus güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 7604910,
+    "currency": "TRY",
+    "formatted": "₺76.049,10",
+    "compareAt": 8558305,
+    "compareAtFormatted": "₺85.583,05",
+    "discountPercentage": 11.14,
+    "savings": 953395,
+    "savingsFormatted": "₺9.533,95"
+  },
+  "unitPrice": 7604910,
+  "currency": "TRY",
+  "stock": 33,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.1,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": 69,
+  "variantLabel": "16GB / 512GB",
+  "weight": {
+    "value": 7360,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 6.38,
+    "height": 15.17,
+    "depth": 33.06,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 7360,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+  "barcode": "4155216674676",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Aylin Şen",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-12-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 2,
+      "author": "Deniz Koç",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 3,
+      "author": "Burak Doğan",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/259",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-25T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}
