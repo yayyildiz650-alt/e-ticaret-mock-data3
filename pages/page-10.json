@@ -1,0 +1,878 @@
+{
+  "data": [
+    {
+      "id": 181,
+      "sku": "AUR-APP-AUR-0181",
+      "title": "Klasik Beyaz Kapüşonlu Sweatshirt",
+      "slug": "classic-white-hooded-sweatshirt",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 704990,
+      "price": {
+        "amount": 704990,
+        "currency": "TRY",
+        "formatted": "₺7.049,90",
+        "compareAt": 860794,
+        "compareAtFormatted": "₺8.607,94",
+        "discountPercentage": 18.1,
+        "savings": 155804,
+        "savingsFormatted": "₺1.558,04"
+      },
+      "currency": "TRY",
+      "rating": 4.36,
+      "reviewCount": 2,
+      "stock": 34,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/cSytoSD.jpeg",
+      "images": [
+        "https://i.imgur.com/cSytoSD.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/181"
+      }
+    },
+    {
+      "id": 182,
+      "sku": "AUR-APP-AUR-0182",
+      "title": "Rahat Kesim Eşofman Altı",
+      "slug": "classic-comfort-fit-joggers",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 119990,
+      "price": {
+        "amount": 119990,
+        "currency": "TRY",
+        "formatted": "₺1.199,90",
+        "compareAt": 143563,
+        "compareAtFormatted": "₺1.435,63",
+        "discountPercentage": 16.42,
+        "savings": 23573,
+        "savingsFormatted": "₺235,73"
+      },
+      "currency": "TRY",
+      "rating": 3.39,
+      "reviewCount": 6,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/ZKGofuB.jpeg",
+      "images": [
+        "https://i.imgur.com/ZKGofuB.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/182"
+      }
+    },
+    {
+      "id": 183,
+      "sku": "AUR-APP-AUR-0183",
+      "title": "Beli Bağcıklı Eşofman Altı",
+      "slug": "classic-comfort-drawstring-joggers",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 369990,
+      "price": {
+        "amount": 369990,
+        "currency": "TRY",
+        "formatted": "₺3.699,90",
+        "compareAt": 453308,
+        "compareAtFormatted": "₺4.533,08",
+        "discountPercentage": 18.38,
+        "savings": 83318,
+        "savingsFormatted": "₺833,18"
+      },
+      "currency": "TRY",
+      "rating": 4.75,
+      "reviewCount": 2,
+      "stock": 52,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/mp3rUty.jpeg",
+      "images": [
+        "https://i.imgur.com/mp3rUty.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/183"
+      }
+    },
+    {
+      "id": 184,
+      "sku": "AUR-APP-AUR-0184",
+      "title": "Kırmızı Eşofman Altı",
+      "slug": "classic-red-jogger-sweatpants",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 459990,
+      "price": {
+        "amount": 459990,
+        "currency": "TRY",
+        "formatted": "₺4.599,90",
+        "compareAt": 468851,
+        "compareAtFormatted": "₺4.688,51",
+        "discountPercentage": 1.89,
+        "savings": 8861,
+        "savingsFormatted": "₺88,61"
+      },
+      "currency": "TRY",
+      "rating": 4.56,
+      "reviewCount": 4,
+      "stock": 64,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/9LFjwpI.jpeg",
+      "images": [
+        "https://i.imgur.com/9LFjwpI.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/184"
+      }
+    },
+    {
+      "id": 185,
+      "sku": "AUR-APP-AUR-0185",
+      "title": "Lacivert Beyzbol Şapkası",
+      "slug": "classic-navy-blue-baseball-cap",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 284990,
+      "price": {
+        "amount": 284990,
+        "currency": "TRY",
+        "formatted": "₺2.849,90",
+        "compareAt": 306870,
+        "compareAtFormatted": "₺3.068,70",
+        "discountPercentage": 7.13,
+        "savings": 21880,
+        "savingsFormatted": "₺218,80"
+      },
+      "currency": "TRY",
+      "rating": 3.73,
+      "reviewCount": 3,
+      "stock": 116,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/R3iobJA.jpeg",
+      "images": [
+        "https://i.imgur.com/R3iobJA.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/185"
+      }
+    },
+    {
+      "id": 186,
+      "sku": "AUR-APP-AUR-0186",
+      "title": "Mavi Beyzbol Şapkası",
+      "slug": "classic-blue-baseball-cap",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 404990,
+      "price": {
+        "amount": 404990,
+        "currency": "TRY",
+        "formatted": "₺4.049,90",
+        "compareAt": 418162,
+        "compareAtFormatted": "₺4.181,62",
+        "discountPercentage": 3.15,
+        "savings": 13172,
+        "savingsFormatted": "₺131,72"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 5,
+      "stock": 92,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/wXuQ7bm.jpeg",
+      "images": [
+        "https://i.imgur.com/wXuQ7bm.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/186"
+      }
+    },
+    {
+      "id": 187,
+      "sku": "AUR-APP-AUR-0187",
+      "title": "Kırmızı Beyzbol Şapkası",
+      "slug": "classic-red-baseball-cap",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 180514,
+        "compareAtFormatted": "₺1.805,14",
+        "discountPercentage": 8.6,
+        "savings": 15524,
+        "savingsFormatted": "₺155,24"
+      },
+      "currency": "TRY",
+      "rating": 4.22,
+      "reviewCount": 6,
+      "stock": 75,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/cBuLvBi.jpeg",
+      "images": [
+        "https://i.imgur.com/cBuLvBi.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/187"
+      }
+    },
+    {
+      "id": 188,
+      "sku": "AUR-APP-AUR-0188",
+      "title": "Siyah Beyzbol Şapkası",
+      "slug": "classic-black-baseball-cap",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 274990,
+      "price": {
+        "amount": 274990,
+        "currency": "TRY",
+        "formatted": "₺2.749,90",
+        "compareAt": 288159,
+        "compareAtFormatted": "₺2.881,59",
+        "discountPercentage": 4.57,
+        "savings": 13169,
+        "savingsFormatted": "₺131,69"
+      },
+      "currency": "TRY",
+      "rating": 4.01,
+      "reviewCount": 5,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/KeqG6r4.jpeg",
+      "images": [
+        "https://i.imgur.com/KeqG6r4.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/188"
+      }
+    },
+    {
+      "id": 189,
+      "sku": "AUR-APP-AUR-0189",
+      "title": "Haki Chino Şort",
+      "slug": "classic-olive-chino-shorts",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 394990,
+      "price": {
+        "amount": 394990,
+        "currency": "TRY",
+        "formatted": "₺3.949,90",
+        "compareAt": 406619,
+        "compareAtFormatted": "₺4.066,19",
+        "discountPercentage": 2.86,
+        "savings": 11629,
+        "savingsFormatted": "₺116,29"
+      },
+      "currency": "TRY",
+      "rating": 4.05,
+      "reviewCount": 5,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/UsFIvYs.jpeg",
+      "images": [
+        "https://i.imgur.com/UsFIvYs.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/189"
+      }
+    },
+    {
+      "id": 190,
+      "sku": "AUR-APP-AUR-0190",
+      "title": "Yüksek Belli Spor Şort",
+      "slug": "classic-high-waisted-athletic-shorts",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 199990,
+      "price": {
+        "amount": 199990,
+        "currency": "TRY",
+        "formatted": "₺1.999,90",
+        "compareAt": 240199,
+        "compareAtFormatted": "₺2.401,99",
+        "discountPercentage": 16.74,
+        "savings": 40209,
+        "savingsFormatted": "₺402,09"
+      },
+      "currency": "TRY",
+      "rating": 3.49,
+      "reviewCount": 5,
+      "stock": 97,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/eGOUveI.jpeg",
+      "images": [
+        "https://i.imgur.com/eGOUveI.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/190"
+      }
+    },
+    {
+      "id": 191,
+      "sku": "AUR-FUR-ANN-0191",
+      "title": "Annibale Colombo Yatak — Ceviz Kaplama",
+      "slug": "annibale-colombo-bed",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 8054910,
+      "price": {
+        "amount": 8054910,
+        "currency": "TRY",
+        "formatted": "₺80.549,10",
+        "compareAt": 8809920,
+        "compareAtFormatted": "₺88.099,20",
+        "discountPercentage": 8.57,
+        "savings": 755010,
+        "savingsFormatted": "₺7.550,10"
+      },
+      "currency": "TRY",
+      "rating": 4.78,
+      "reviewCount": 4,
+      "stock": 110,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+      ],
+      "variantOf": 1,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/191"
+      }
+    },
+    {
+      "id": 192,
+      "sku": "AUR-FUR-ANN-0192",
+      "title": "Annibale Colombo Kanepe — Ceviz Kaplama",
+      "slug": "annibale-colombo-sofa",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 10574910,
+      "price": {
+        "amount": 10574910,
+        "currency": "TRY",
+        "formatted": "₺105.749,10",
+        "compareAt": 12353867,
+        "compareAtFormatted": "₺123.538,67",
+        "discountPercentage": 14.4,
+        "savings": 1778957,
+        "savingsFormatted": "₺17.789,57"
+      },
+      "currency": "TRY",
+      "rating": 3.77,
+      "reviewCount": 4,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+      ],
+      "variantOf": 2,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/192"
+      }
+    },
+    {
+      "id": 193,
+      "sku": "AUR-FUR-FUR-0193",
+      "title": "Afrika Kirazı Komodin — Ceviz Kaplama",
+      "slug": "bedside-table-african-cherry",
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 2004064,
+        "compareAtFormatted": "₺20.040,64",
+        "discountPercentage": 19.09,
+        "savings": 382576,
+        "savingsFormatted": "₺3.825,76"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 4,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+      ],
+      "variantOf": 3,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/193"
+      }
+    },
+    {
+      "id": 194,
+      "sku": "AUR-FUR-KNO-0194",
+      "title": "Knoll Saarinen Yönetici Toplantı Koltuğu — Ceviz Kaplama",
+      "slug": "knoll-saarinen-executive-conference-chair",
+      "brand": "Knoll",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 2637912,
+        "compareAtFormatted": "₺26.379,12",
+        "discountPercentage": 2.01,
+        "savings": 53022,
+        "savingsFormatted": "₺530,22"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 5,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+      ],
+      "variantOf": 4,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/194"
+      }
+    },
+    {
+      "id": 195,
+      "sku": "AUR-FUR-BAT-0195",
+      "title": "Aynalı Ahşap Banyo Lavabosu — Ceviz Kaplama",
+      "slug": "wooden-bathroom-sink-with-mirror",
+      "brand": "Bath Trends",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3374910,
+      "price": {
+        "amount": 3374910,
+        "currency": "TRY",
+        "formatted": "₺33.749,10",
+        "compareAt": 3700559,
+        "compareAtFormatted": "₺37.005,59",
+        "discountPercentage": 8.8,
+        "savings": 325649,
+        "savingsFormatted": "₺3.256,49"
+      },
+      "currency": "TRY",
+      "rating": 3.3,
+      "reviewCount": 6,
+      "stock": 22,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+      ],
+      "variantOf": 5,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/195"
+      }
+    },
+    {
+      "id": 196,
+      "sku": "AUR-GRO-AUR-0196",
+      "title": "Elma — Aile Boyu",
+      "slug": "apple",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 10338,
+      "price": {
+        "amount": 10338,
+        "currency": "TRY",
+        "formatted": "₺103,38",
+        "compareAt": 11831,
+        "compareAtFormatted": "₺118,31",
+        "discountPercentage": 12.62,
+        "savings": 1493,
+        "savingsFormatted": "₺14,93"
+      },
+      "currency": "TRY",
+      "rating": 4.43,
+      "reviewCount": 4,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "indirim",
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "variantOf": 6,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/196"
+      }
+    },
+    {
+      "id": 197,
+      "sku": "AUR-GRO-AUR-0197",
+      "title": "Dana Biftek — Aile Boyu",
+      "slug": "beef-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 67089,
+      "price": {
+        "amount": 67089,
+        "currency": "TRY",
+        "formatted": "₺670,89",
+        "compareAt": 74222,
+        "compareAtFormatted": "₺742,22",
+        "discountPercentage": 9.61,
+        "savings": 7133,
+        "savingsFormatted": "₺71,33"
+      },
+      "currency": "TRY",
+      "rating": 4.59,
+      "reviewCount": 6,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "variantOf": 7,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/197"
+      }
+    },
+    {
+      "id": 198,
+      "sku": "AUR-GRO-AUR-0198",
+      "title": "Kedi Maması — Aile Boyu",
+      "slug": "cat-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 48288,
+      "price": {
+        "amount": 48288,
+        "currency": "TRY",
+        "formatted": "₺482,88",
+        "compareAt": 53404,
+        "compareAtFormatted": "₺534,04",
+        "discountPercentage": 9.58,
+        "savings": 5116,
+        "savingsFormatted": "₺51,16"
+      },
+      "currency": "TRY",
+      "rating": 3.32,
+      "reviewCount": 3,
+      "stock": 64,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "variantOf": 8,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/198"
+      }
+    },
+    {
+      "id": 199,
+      "sku": "AUR-GRO-AUR-0199",
+      "title": "Tavuk Eti — Aile Boyu",
+      "slug": "chicken-meat",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 54038,
+      "price": {
+        "amount": 54038,
+        "currency": "TRY",
+        "formatted": "₺540,38",
+        "compareAt": 62616,
+        "compareAtFormatted": "₺626,16",
+        "discountPercentage": 13.7,
+        "savings": 8578,
+        "savingsFormatted": "₺85,78"
+      },
+      "currency": "TRY",
+      "rating": 3.27,
+      "reviewCount": 2,
+      "stock": 109,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+      ],
+      "variantOf": 9,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/199"
+      }
+    },
+    {
+      "id": 200,
+      "sku": "AUR-GRO-AUR-0200",
+      "title": "Sıvı Yağ — Aile Boyu",
+      "slug": "cooking-oil",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 25289,
+      "price": {
+        "amount": 25289,
+        "currency": "TRY",
+        "formatted": "₺252,89",
+        "compareAt": 27891,
+        "compareAtFormatted": "₺278,91",
+        "discountPercentage": 9.33,
+        "savings": 2602,
+        "savingsFormatted": "₺26,02"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 3,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "variantOf": 10,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/200"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 10,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=10&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=11&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=9&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

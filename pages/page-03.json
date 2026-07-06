@@ -1,0 +1,892 @@
+{
+  "data": [
+    {
+      "id": 41,
+      "sku": "AUR-KIT-AUR-0041",
+      "title": "Kutulu Blender",
+      "slug": "boxed-blender",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 204863,
+        "compareAtFormatted": "₺2.048,63",
+        "discountPercentage": 7.26,
+        "savings": 14873,
+        "savingsFormatted": "₺148,73"
+      },
+      "currency": "TRY",
+      "rating": 4.56,
+      "reviewCount": 2,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/41"
+      }
+    },
+    {
+      "id": 42,
+      "sku": "AUR-KIT-AUR-0042",
+      "title": "Karbon Çelik Wok Tava",
+      "slug": "carbon-steel-wok",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 149770,
+        "compareAtFormatted": "₺1.497,70",
+        "discountPercentage": 6.53,
+        "savings": 9780,
+        "savingsFormatted": "₺97,80"
+      },
+      "currency": "TRY",
+      "rating": 4.05,
+      "reviewCount": 6,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/42"
+      }
+    },
+    {
+      "id": 43,
+      "sku": "AUR-KIT-AUR-0043",
+      "title": "Doğrama Tahtası",
+      "slug": "chopping-board",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 66315,
+        "compareAtFormatted": "₺663,15",
+        "discountPercentage": 8.03,
+        "savings": 5325,
+        "savingsFormatted": "₺53,25"
+      },
+      "currency": "TRY",
+      "rating": 3.7,
+      "reviewCount": 2,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/43"
+      }
+    },
+    {
+      "id": 44,
+      "sku": "AUR-KIT-AUR-0044",
+      "title": "Sarı Narenciye Sıkacağı",
+      "slug": "citrus-squeezer-yellow",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 41990,
+      "price": {
+        "amount": 41990,
+        "currency": "TRY",
+        "formatted": "₺419,90",
+        "compareAt": 47770,
+        "compareAtFormatted": "₺477,70",
+        "discountPercentage": 12.1,
+        "savings": 5780,
+        "savingsFormatted": "₺57,80"
+      },
+      "currency": "TRY",
+      "rating": 4.63,
+      "reviewCount": 6,
+      "stock": 22,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/44"
+      }
+    },
+    {
+      "id": 45,
+      "sku": "AUR-KIT-AUR-0045",
+      "title": "Yumurta Dilimleyici",
+      "slug": "egg-slicer",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 38702,
+        "compareAtFormatted": "₺387,02",
+        "discountPercentage": 14.76,
+        "savings": 5712,
+        "savingsFormatted": "₺57,12"
+      },
+      "currency": "TRY",
+      "rating": 3.09,
+      "reviewCount": 3,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/45"
+      }
+    },
+    {
+      "id": 46,
+      "sku": "AUR-KIT-AUR-0046",
+      "title": "Elektrikli Ocak",
+      "slug": "electric-stove",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 273371,
+        "compareAtFormatted": "₺2.733,71",
+        "discountPercentage": 14.04,
+        "savings": 38381,
+        "savingsFormatted": "₺383,81"
+      },
+      "currency": "TRY",
+      "rating": 4.11,
+      "reviewCount": 4,
+      "stock": 21,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/46"
+      }
+    },
+    {
+      "id": 47,
+      "sku": "AUR-KIT-AUR-0047",
+      "title": "İnce Telli Süzgeç",
+      "slug": "fine-mesh-strainer",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 48694,
+        "compareAtFormatted": "₺486,94",
+        "discountPercentage": 3.5,
+        "savings": 1704,
+        "savingsFormatted": "₺17,04"
+      },
+      "currency": "TRY",
+      "rating": 3.04,
+      "reviewCount": 4,
+      "stock": 85,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/47"
+      }
+    },
+    {
+      "id": 48,
+      "sku": "AUR-KIT-AUR-0048",
+      "title": "Çatal",
+      "slug": "fork",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 20657,
+        "compareAtFormatted": "₺206,57",
+        "discountPercentage": 8.07,
+        "savings": 1667,
+        "savingsFormatted": "₺16,67"
+      },
+      "currency": "TRY",
+      "rating": 3.11,
+      "reviewCount": 2,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/48"
+      }
+    },
+    {
+      "id": 49,
+      "sku": "AUR-KIT-AUR-0049",
+      "title": "Bardak",
+      "slug": "glass",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 24967,
+        "compareAtFormatted": "₺249,67",
+        "discountPercentage": 7.92,
+        "savings": 1977,
+        "savingsFormatted": "₺19,77"
+      },
+      "currency": "TRY",
+      "rating": 4.02,
+      "reviewCount": 6,
+      "stock": 46,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/49"
+      }
+    },
+    {
+      "id": 50,
+      "sku": "AUR-KIT-AUR-0050",
+      "title": "Siyah Rende",
+      "slug": "grater-black",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 51990,
+      "price": {
+        "amount": 51990,
+        "currency": "TRY",
+        "formatted": "₺519,90",
+        "compareAt": 53909,
+        "compareAtFormatted": "₺539,09",
+        "discountPercentage": 3.56,
+        "savings": 1919,
+        "savingsFormatted": "₺19,19"
+      },
+      "currency": "TRY",
+      "rating": 3.21,
+      "reviewCount": 6,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/50"
+      }
+    },
+    {
+      "id": 51,
+      "sku": "AUR-KIT-AUR-0051",
+      "title": "El Blenderı",
+      "slug": "hand-blender",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 198831,
+        "compareAtFormatted": "₺1.988,31",
+        "discountPercentage": 17.02,
+        "savings": 33841,
+        "savingsFormatted": "₺338,41"
+      },
+      "currency": "TRY",
+      "rating": 3.86,
+      "reviewCount": 2,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/51"
+      }
+    },
+    {
+      "id": 52,
+      "sku": "AUR-KIT-AUR-0052",
+      "title": "Buz Kalıbı",
+      "slug": "ice-cube-tray",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 28167,
+        "compareAtFormatted": "₺281,67",
+        "discountPercentage": 0.63,
+        "savings": 177,
+        "savingsFormatted": "₺1,77"
+      },
+      "currency": "TRY",
+      "rating": 4.71,
+      "reviewCount": 4,
+      "stock": 13,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/52"
+      }
+    },
+    {
+      "id": 53,
+      "sku": "AUR-KIT-AUR-0053",
+      "title": "Mutfak Süzgeci",
+      "slug": "kitchen-sieve",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 37990,
+      "price": {
+        "amount": 37990,
+        "currency": "TRY",
+        "formatted": "₺379,90",
+        "compareAt": 46849,
+        "compareAtFormatted": "₺468,49",
+        "discountPercentage": 18.91,
+        "savings": 8859,
+        "savingsFormatted": "₺88,59"
+      },
+      "currency": "TRY",
+      "rating": 3.09,
+      "reviewCount": 3,
+      "stock": 68,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/53"
+      }
+    },
+    {
+      "id": 54,
+      "sku": "AUR-KIT-AUR-0054",
+      "title": "Bıçak",
+      "slug": "knife",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 86258,
+        "compareAtFormatted": "₺862,58",
+        "discountPercentage": 18.86,
+        "savings": 16268,
+        "savingsFormatted": "₺162,68"
+      },
+      "currency": "TRY",
+      "rating": 3.26,
+      "reviewCount": 4,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/54"
+      }
+    },
+    {
+      "id": 55,
+      "sku": "AUR-KIT-AUR-0055",
+      "title": "Beslenme Kabı",
+      "slug": "lunch-box",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 68024,
+        "compareAtFormatted": "₺680,24",
+        "discountPercentage": 10.34,
+        "savings": 7034,
+        "savingsFormatted": "₺70,34"
+      },
+      "currency": "TRY",
+      "rating": 4.93,
+      "reviewCount": 2,
+      "stock": 94,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/55"
+      }
+    },
+    {
+      "id": 56,
+      "sku": "AUR-KIT-AUR-0056",
+      "title": "Mikrodalga Fırın",
+      "slug": "microwave-oven",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 483658,
+        "compareAtFormatted": "₺4.836,58",
+        "discountPercentage": 12.13,
+        "savings": 58668,
+        "savingsFormatted": "₺586,68"
+      },
+      "currency": "TRY",
+      "rating": 4.82,
+      "reviewCount": 5,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni",
+        "çok satan"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/56"
+      }
+    },
+    {
+      "id": 57,
+      "sku": "AUR-KIT-AUR-0057",
+      "title": "Kupa Askılığı",
+      "slug": "mug-tree-stand",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 74990,
+      "price": {
+        "amount": 74990,
+        "currency": "TRY",
+        "formatted": "₺749,90",
+        "compareAt": 82634,
+        "compareAtFormatted": "₺826,34",
+        "discountPercentage": 9.25,
+        "savings": 7644,
+        "savingsFormatted": "₺76,44"
+      },
+      "currency": "TRY",
+      "rating": 2.64,
+      "reviewCount": 6,
+      "stock": 88,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/57"
+      }
+    },
+    {
+      "id": 58,
+      "sku": "AUR-KIT-AUR-0058",
+      "title": "Tava",
+      "slug": "pan",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 118546,
+        "compareAtFormatted": "₺1.185,46",
+        "discountPercentage": 3.0,
+        "savings": 3556,
+        "savingsFormatted": "₺35,56"
+      },
+      "currency": "TRY",
+      "rating": 2.79,
+      "reviewCount": 3,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/58"
+      }
+    },
+    {
+      "id": 59,
+      "sku": "AUR-KIT-AUR-0059",
+      "title": "Tabak",
+      "slug": "plate",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 20488,
+        "compareAtFormatted": "₺204,88",
+        "discountPercentage": 7.31,
+        "savings": 1498,
+        "savingsFormatted": "₺14,98"
+      },
+      "currency": "TRY",
+      "rating": 3.65,
+      "reviewCount": 4,
+      "stock": 66,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/59"
+      }
+    },
+    {
+      "id": 60,
+      "sku": "AUR-KIT-AUR-0060",
+      "title": "Kırmızı Maşa",
+      "slug": "red-tongs",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 38594,
+        "compareAtFormatted": "₺385,94",
+        "discountPercentage": 14.52,
+        "savings": 5604,
+        "savingsFormatted": "₺56,04"
+      },
+      "currency": "TRY",
+      "rating": 4.42,
+      "reviewCount": 2,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/60"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 3,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=3&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=4&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=2&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

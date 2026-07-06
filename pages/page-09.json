@@ -1,0 +1,880 @@
+{
+  "data": [
+    {
+      "id": 161,
+      "sku": "AUR-LAP-AUR-0161",
+      "title": "Profesyoneller için Modern Dizüstü Bilgisayar",
+      "slug": "sleek-modern-laptop-for-professionals",
+      "brand": "Aurora",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 5149900,
+      "price": {
+        "amount": 5149900,
+        "currency": "TRY",
+        "formatted": "₺51.499,00",
+        "compareAt": 5858150,
+        "compareAtFormatted": "₺58.581,50",
+        "discountPercentage": 12.09,
+        "savings": 708250,
+        "savingsFormatted": "₺7.082,50"
+      },
+      "currency": "TRY",
+      "rating": 4.52,
+      "reviewCount": 4,
+      "stock": 44,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/ItHcq7o.jpeg",
+      "images": [
+        "https://i.imgur.com/ItHcq7o.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/161"
+      }
+    },
+    {
+      "id": 162,
+      "sku": "AUR-KIT-AUR-0162",
+      "title": "2 Dilim Ekmek Kızartma Makinesi",
+      "slug": "efficient-2-slice-toaster",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 224990,
+      "price": {
+        "amount": 224990,
+        "currency": "TRY",
+        "formatted": "₺2.249,90",
+        "compareAt": 234389,
+        "compareAtFormatted": "₺2.343,89",
+        "discountPercentage": 4.01,
+        "savings": 9399,
+        "savingsFormatted": "₺93,99"
+      },
+      "currency": "TRY",
+      "rating": 4.55,
+      "reviewCount": 5,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/keVCVIa.jpeg",
+      "images": [
+        "https://i.imgur.com/keVCVIa.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/162"
+      }
+    },
+    {
+      "id": 163,
+      "sku": "AUR-KIT-AUR-0163",
+      "title": "Cam Bardak Seti",
+      "slug": "elegant-glass-tumbler-set",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 242733,
+        "compareAtFormatted": "₺2.427,33",
+        "discountPercentage": 3.19,
+        "savings": 7743,
+        "savingsFormatted": "₺77,43"
+      },
+      "currency": "TRY",
+      "rating": 3.96,
+      "reviewCount": 3,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/TF0pXdL.jpg",
+      "images": [
+        "https://i.imgur.com/TF0pXdL.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/163"
+      }
+    },
+    {
+      "id": 164,
+      "sku": "AUR-FUR-AUR-0164",
+      "title": "Modern Deri Kanepe",
+      "slug": "sleek-modern-leather-sofa",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 4499900,
+      "price": {
+        "amount": 4499900,
+        "currency": "TRY",
+        "formatted": "₺44.999,00",
+        "compareAt": 4611498,
+        "compareAtFormatted": "₺46.114,98",
+        "discountPercentage": 2.42,
+        "savings": 111598,
+        "savingsFormatted": "₺1.115,98"
+      },
+      "currency": "TRY",
+      "rating": 3.73,
+      "reviewCount": 4,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Qphac99.jpeg",
+      "images": [
+        "https://i.imgur.com/Qphac99.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/164"
+      }
+    },
+    {
+      "id": 165,
+      "sku": "AUR-FUR-AUR-0165",
+      "title": "Ahşap Yemek Masası (Mid-Century)",
+      "slug": "mid-century-modern-wooden-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1994990,
+      "price": {
+        "amount": 1994990,
+        "currency": "TRY",
+        "formatted": "₺19.949,90",
+        "compareAt": 2022496,
+        "compareAtFormatted": "₺20.224,96",
+        "discountPercentage": 1.36,
+        "savings": 27506,
+        "savingsFormatted": "₺275,06"
+      },
+      "currency": "TRY",
+      "rating": 4.44,
+      "reviewCount": 6,
+      "stock": 36,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/DMQHGA0.jpeg",
+      "images": [
+        "https://i.imgur.com/DMQHGA0.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/165"
+      }
+    },
+    {
+      "id": 166,
+      "sku": "AUR-FUR-AUR-0166",
+      "title": "Taş Tablalı Altın Ayaklı Yemek Masası",
+      "slug": "elegant-golden-base-stone-top-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3149900,
+      "price": {
+        "amount": 3149900,
+        "currency": "TRY",
+        "formatted": "₺31.499,00",
+        "compareAt": 3469053,
+        "compareAtFormatted": "₺34.690,53",
+        "discountPercentage": 9.2,
+        "savings": 319153,
+        "savingsFormatted": "₺3.191,53"
+      },
+      "currency": "TRY",
+      "rating": 4.3,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/NWIJKUj.jpeg",
+      "images": [
+        "https://i.imgur.com/NWIJKUj.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/166"
+      }
+    },
+    {
+      "id": 167,
+      "sku": "AUR-FUR-AUR-0167",
+      "title": "Petrol Yeşili Modern Berjer",
+      "slug": "modern-elegance-teal-armchair",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1529990,
+      "price": {
+        "amount": 1529990,
+        "currency": "TRY",
+        "formatted": "₺15.299,90",
+        "compareAt": 1615106,
+        "compareAtFormatted": "₺16.151,06",
+        "discountPercentage": 5.27,
+        "savings": 85116,
+        "savingsFormatted": "₺851,16"
+      },
+      "currency": "TRY",
+      "rating": 4.44,
+      "reviewCount": 6,
+      "stock": 54,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/6wkyyIN.jpeg",
+      "images": [
+        "https://i.imgur.com/6wkyyIN.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/167"
+      }
+    },
+    {
+      "id": 168,
+      "sku": "AUR-FUR-AUR-0168",
+      "title": "Masif Ahşap Yemek Masası",
+      "slug": "elegant-solid-wood-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3599900,
+      "price": {
+        "amount": 3599900,
+        "currency": "TRY",
+        "formatted": "₺35.999,00",
+        "compareAt": 4056225,
+        "compareAtFormatted": "₺40.562,25",
+        "discountPercentage": 11.25,
+        "savings": 456325,
+        "savingsFormatted": "₺4.563,25"
+      },
+      "currency": "TRY",
+      "rating": 3.64,
+      "reviewCount": 3,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/4lTaHfF.jpeg",
+      "images": [
+        "https://i.imgur.com/4lTaHfF.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/168"
+      }
+    },
+    {
+      "id": 169,
+      "sku": "AUR-FUR-AUR-0169",
+      "title": "Minimalist Çalışma Masası Seti",
+      "slug": "modern-minimalist-workstation-setup",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2841819,
+        "compareAtFormatted": "₺28.418,19",
+        "discountPercentage": 17.31,
+        "savings": 491919,
+        "savingsFormatted": "₺4.919,19"
+      },
+      "currency": "TRY",
+      "rating": 4.47,
+      "reviewCount": 6,
+      "stock": 91,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/3oXNBst.jpeg",
+      "images": [
+        "https://i.imgur.com/3oXNBst.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/169"
+      }
+    },
+    {
+      "id": 170,
+      "sku": "AUR-FUR-AUR-0170",
+      "title": "Ergonomik Ofis Koltuğu",
+      "slug": "modern-ergonomic-office-chair",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1274990,
+      "price": {
+        "amount": 1274990,
+        "currency": "TRY",
+        "formatted": "₺12.749,90",
+        "compareAt": 1315372,
+        "compareAtFormatted": "₺13.153,72",
+        "discountPercentage": 3.07,
+        "savings": 40382,
+        "savingsFormatted": "₺403,82"
+      },
+      "currency": "TRY",
+      "rating": 3.8,
+      "reviewCount": 3,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/3dU0m72.jpeg",
+      "images": [
+        "https://i.imgur.com/3dU0m72.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/170"
+      }
+    },
+    {
+      "id": 171,
+      "sku": "AUR-MEN-AUR-0171",
+      "title": "Holografik Krampon",
+      "slug": "futuristic-holographic-soccer-cleats",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 419990,
+      "price": {
+        "amount": 419990,
+        "currency": "TRY",
+        "formatted": "₺4.199,90",
+        "compareAt": 502501,
+        "compareAtFormatted": "₺5.025,01",
+        "discountPercentage": 16.42,
+        "savings": 82511,
+        "savingsFormatted": "₺825,11"
+      },
+      "currency": "TRY",
+      "rating": 4.89,
+      "reviewCount": 3,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/qNOjJje.jpeg",
+      "images": [
+        "https://i.imgur.com/qNOjJje.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/171"
+      }
+    },
+    {
+      "id": 172,
+      "sku": "AUR-MEN-AUR-0172",
+      "title": "Turuncu & Mavi Spor Ayakkabı",
+      "slug": "vibrant-orange-&-blue-sneakers",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 369990,
+      "price": {
+        "amount": 369990,
+        "currency": "TRY",
+        "formatted": "₺3.699,90",
+        "compareAt": 447172,
+        "compareAtFormatted": "₺4.471,72",
+        "discountPercentage": 17.26,
+        "savings": 77182,
+        "savingsFormatted": "₺771,82"
+      },
+      "currency": "TRY",
+      "rating": 3.37,
+      "reviewCount": 4,
+      "stock": 23,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/hKcMNJs.jpeg",
+      "images": [
+        "https://i.imgur.com/hKcMNJs.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/172"
+      }
+    },
+    {
+      "id": 173,
+      "sku": "AUR-MEN-AUR-0173",
+      "title": "Gümüş & Altın Bilekli Spor Ayakkabı",
+      "slug": "futuristic-silver-and-gold-high-top-sneaker",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 319990,
+      "price": {
+        "amount": 319990,
+        "currency": "TRY",
+        "formatted": "₺3.199,90",
+        "compareAt": 323745,
+        "compareAtFormatted": "₺3.237,45",
+        "discountPercentage": 1.16,
+        "savings": 3755,
+        "savingsFormatted": "₺37,55"
+      },
+      "currency": "TRY",
+      "rating": 4.85,
+      "reviewCount": 5,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/npLfCGq.jpeg",
+      "images": [
+        "https://i.imgur.com/npLfCGq.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/173"
+      }
+    },
+    {
+      "id": 174,
+      "sku": "AUR-MEN-AUR-0174",
+      "title": "Mor Deri Loafer Ayakkabı",
+      "slug": "elegant-purple-leather-loafers",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 549990,
+      "price": {
+        "amount": 549990,
+        "currency": "TRY",
+        "formatted": "₺5.499,90",
+        "compareAt": 572429,
+        "compareAtFormatted": "₺5.724,29",
+        "discountPercentage": 3.92,
+        "savings": 22439,
+        "savingsFormatted": "₺224,39"
+      },
+      "currency": "TRY",
+      "rating": 3.95,
+      "reviewCount": 6,
+      "stock": 41,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Au8J9sX.jpeg",
+      "images": [
+        "https://i.imgur.com/Au8J9sX.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/174"
+      }
+    },
+    {
+      "id": 175,
+      "sku": "AUR-MEN-AUR-0175",
+      "title": "Mavi Süet Günlük Ayakkabı",
+      "slug": "classic-blue-suede-casual-shoes",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 464990,
+      "price": {
+        "amount": 464990,
+        "currency": "TRY",
+        "formatted": "₺4.649,90",
+        "compareAt": 492783,
+        "compareAtFormatted": "₺4.927,83",
+        "discountPercentage": 5.64,
+        "savings": 27793,
+        "savingsFormatted": "₺277,93"
+      },
+      "currency": "TRY",
+      "rating": 4.07,
+      "reviewCount": 2,
+      "stock": 107,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/sC0ztOB.jpeg",
+      "images": [
+        "https://i.imgur.com/sC0ztOB.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/175"
+      }
+    },
+    {
+      "id": 176,
+      "sku": "AUR-SPO-AUR-0176",
+      "title": "Modern Elektrikli Bisiklet",
+      "slug": "sleek-futuristic-electric-bicycle",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 6099900,
+      "price": {
+        "amount": 6099900,
+        "currency": "TRY",
+        "formatted": "₺60.999,00",
+        "compareAt": 7210284,
+        "compareAtFormatted": "₺72.102,84",
+        "discountPercentage": 15.4,
+        "savings": 1110384,
+        "savingsFormatted": "₺11.103,84"
+      },
+      "currency": "TRY",
+      "rating": 4.41,
+      "reviewCount": 3,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/BG8J0Fj.jpg",
+      "images": [
+        "https://i.imgur.com/BG8J0Fj.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/176"
+      }
+    },
+    {
+      "id": 177,
+      "sku": "AUR-SPO-AUR-0177",
+      "title": "Arazi Tipi Go-Kart",
+      "slug": "sleek-all-terrain-go-kart",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 3499900,
+      "price": {
+        "amount": 3499900,
+        "currency": "TRY",
+        "formatted": "₺34.999,00",
+        "compareAt": 3846044,
+        "compareAtFormatted": "₺38.460,44",
+        "discountPercentage": 9.0,
+        "savings": 346144,
+        "savingsFormatted": "₺3.461,44"
+      },
+      "currency": "TRY",
+      "rating": 3.43,
+      "reviewCount": 4,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Ex5x3IU.jpg",
+      "images": [
+        "https://i.imgur.com/Ex5x3IU.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/177"
+      }
+    },
+    {
+      "id": 178,
+      "sku": "AUR-SUN-AUR-0178",
+      "title": "Renkli Camlı Güneş Gözlüğü",
+      "slug": "trendy-tinted-sunglasses",
+      "brand": "Aurora Optics",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 179990,
+      "price": {
+        "amount": 179990,
+        "currency": "TRY",
+        "formatted": "₺1.799,90",
+        "compareAt": 194647,
+        "compareAtFormatted": "₺1.946,47",
+        "discountPercentage": 7.53,
+        "savings": 14657,
+        "savingsFormatted": "₺146,57"
+      },
+      "currency": "TRY",
+      "rating": 3.92,
+      "reviewCount": 6,
+      "stock": 112,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/0qQBkxX.jpg",
+      "images": [
+        "https://i.imgur.com/0qQBkxX.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/178"
+      }
+    },
+    {
+      "id": 179,
+      "sku": "AUR-APP-AUR-0179",
+      "title": "Dağ Baskılı Grafik Tişört",
+      "slug": "majestic-mountain-graphic-t-shirt",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 204990,
+      "price": {
+        "amount": 204990,
+        "currency": "TRY",
+        "formatted": "₺2.049,90",
+        "compareAt": 226608,
+        "compareAtFormatted": "₺2.266,08",
+        "discountPercentage": 9.54,
+        "savings": 21618,
+        "savingsFormatted": "₺216,18"
+      },
+      "currency": "TRY",
+      "rating": 4.52,
+      "reviewCount": 5,
+      "stock": 3,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/QkIa5tT.jpeg",
+      "images": [
+        "https://i.imgur.com/QkIa5tT.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/179"
+      }
+    },
+    {
+      "id": 180,
+      "sku": "AUR-APP-AUR-0180",
+      "title": "Klasik Gri Kapüşonlu Sweatshirt",
+      "slug": "classic-heather-gray-hoodie",
+      "brand": "Aurora Wear",
+      "category": "apparel",
+      "categoryName": "Giyim",
+      "unitPrice": 324990,
+      "price": {
+        "amount": 324990,
+        "currency": "TRY",
+        "formatted": "₺3.249,90",
+        "compareAt": 351797,
+        "compareAtFormatted": "₺3.517,97",
+        "discountPercentage": 7.62,
+        "savings": 26807,
+        "savingsFormatted": "₺268,07"
+      },
+      "currency": "TRY",
+      "rating": 4.66,
+      "reviewCount": 5,
+      "stock": 117,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/cHddUCu.jpeg",
+      "images": [
+        "https://i.imgur.com/cHddUCu.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/180"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 9,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=9&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=10&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=8&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

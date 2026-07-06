@@ -1,0 +1,885 @@
+{
+  "data": [
+    {
+      "id": 21,
+      "sku": "AUR-GRO-AUR-0021",
+      "title": "Limon",
+      "slug": "lemon",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 3990,
+      "price": {
+        "amount": 3990,
+        "currency": "TRY",
+        "formatted": "₺39,90",
+        "compareAt": 4419,
+        "compareAtFormatted": "₺44,19",
+        "discountPercentage": 9.7,
+        "savings": 429,
+        "savingsFormatted": "₺4,29"
+      },
+      "currency": "TRY",
+      "rating": 3.53,
+      "reviewCount": 4,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/21"
+      }
+    },
+    {
+      "id": 22,
+      "sku": "AUR-GRO-AUR-0022",
+      "title": "Süt",
+      "slug": "milk",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 15990,
+      "price": {
+        "amount": 15990,
+        "currency": "TRY",
+        "formatted": "₺159,90",
+        "compareAt": 18537,
+        "compareAtFormatted": "₺185,37",
+        "discountPercentage": 13.74,
+        "savings": 2547,
+        "savingsFormatted": "₺25,47"
+      },
+      "currency": "TRY",
+      "rating": 2.61,
+      "reviewCount": 5,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/22"
+      }
+    },
+    {
+      "id": 23,
+      "sku": "AUR-GRO-AUR-0023",
+      "title": "Dut",
+      "slug": "mulberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 26386,
+        "compareAtFormatted": "₺263,86",
+        "discountPercentage": 12.87,
+        "savings": 3396,
+        "savingsFormatted": "₺33,96"
+      },
+      "currency": "TRY",
+      "rating": 4.95,
+      "reviewCount": 4,
+      "stock": 99,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/23"
+      }
+    },
+    {
+      "id": 24,
+      "sku": "AUR-GRO-AUR-0024",
+      "title": "Nescafe Kahve",
+      "slug": "nescafe-coffee",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 37990,
+      "price": {
+        "amount": 37990,
+        "currency": "TRY",
+        "formatted": "₺379,90",
+        "compareAt": 38604,
+        "compareAtFormatted": "₺386,04",
+        "discountPercentage": 1.59,
+        "savings": 614,
+        "savingsFormatted": "₺6,14"
+      },
+      "currency": "TRY",
+      "rating": 4.82,
+      "reviewCount": 6,
+      "stock": 57,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/24"
+      }
+    },
+    {
+      "id": 25,
+      "sku": "AUR-GRO-AUR-0025",
+      "title": "Patates",
+      "slug": "potatoes",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 10990,
+      "price": {
+        "amount": 10990,
+        "currency": "TRY",
+        "formatted": "₺109,90",
+        "compareAt": 11615,
+        "compareAtFormatted": "₺116,15",
+        "discountPercentage": 5.38,
+        "savings": 625,
+        "savingsFormatted": "₺6,25"
+      },
+      "currency": "TRY",
+      "rating": 4.81,
+      "reviewCount": 4,
+      "stock": 13,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/25"
+      }
+    },
+    {
+      "id": 26,
+      "sku": "AUR-GRO-AUR-0026",
+      "title": "Protein Tozu",
+      "slug": "protein-powder",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 101710,
+        "compareAtFormatted": "₺1.017,10",
+        "discountPercentage": 7.59,
+        "savings": 7720,
+        "savingsFormatted": "₺77,20"
+      },
+      "currency": "TRY",
+      "rating": 4.18,
+      "reviewCount": 2,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/26"
+      }
+    },
+    {
+      "id": 27,
+      "sku": "AUR-GRO-AUR-0027",
+      "title": "Kırmızı Soğan",
+      "slug": "red-onions",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 9978,
+        "compareAtFormatted": "₺99,78",
+        "discountPercentage": 9.9,
+        "savings": 988,
+        "savingsFormatted": "₺9,88"
+      },
+      "currency": "TRY",
+      "rating": 4.2,
+      "reviewCount": 5,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/27"
+      }
+    },
+    {
+      "id": 28,
+      "sku": "AUR-GRO-AUR-0028",
+      "title": "Pirinç",
+      "slug": "rice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 30857,
+        "compareAtFormatted": "₺308,57",
+        "discountPercentage": 9.29,
+        "savings": 2867,
+        "savingsFormatted": "₺28,67"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 4,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/28"
+      }
+    },
+    {
+      "id": 29,
+      "sku": "AUR-GRO-AUR-0029",
+      "title": "Gazlı İçecek",
+      "slug": "soft-drinks",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 10894,
+        "compareAtFormatted": "₺108,94",
+        "discountPercentage": 17.48,
+        "savings": 1904,
+        "savingsFormatted": "₺19,04"
+      },
+      "currency": "TRY",
+      "rating": 4.75,
+      "reviewCount": 3,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/29"
+      }
+    },
+    {
+      "id": 30,
+      "sku": "AUR-GRO-AUR-0030",
+      "title": "Çilek",
+      "slug": "strawberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 19205,
+        "compareAtFormatted": "₺192,05",
+        "discountPercentage": 1.12,
+        "savings": 215,
+        "savingsFormatted": "₺2,15"
+      },
+      "currency": "TRY",
+      "rating": 3.08,
+      "reviewCount": 6,
+      "stock": 46,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/30"
+      }
+    },
+    {
+      "id": 31,
+      "sku": "AUR-GRO-AUR-0031",
+      "title": "Kutu Peçete",
+      "slug": "tissue-paper-box",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 11990,
+      "price": {
+        "amount": 11990,
+        "currency": "TRY",
+        "formatted": "₺119,90",
+        "compareAt": 13826,
+        "compareAtFormatted": "₺138,26",
+        "discountPercentage": 13.28,
+        "savings": 1836,
+        "savingsFormatted": "₺18,36"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 6,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/31"
+      }
+    },
+    {
+      "id": 32,
+      "sku": "AUR-GRO-AUR-0032",
+      "title": "Su",
+      "slug": "water",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5865,
+        "compareAtFormatted": "₺58,65",
+        "discountPercentage": 14.92,
+        "savings": 875,
+        "savingsFormatted": "₺8,75"
+      },
+      "currency": "TRY",
+      "rating": 4.96,
+      "reviewCount": 2,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/32"
+      }
+    },
+    {
+      "id": 33,
+      "sku": "AUR-HOM-AUR-0033",
+      "title": "Dekoratif Salıncak",
+      "slug": "decoration-swing",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 279990,
+      "price": {
+        "amount": 279990,
+        "currency": "TRY",
+        "formatted": "₺2.799,90",
+        "compareAt": 312524,
+        "compareAtFormatted": "₺3.125,24",
+        "discountPercentage": 10.41,
+        "savings": 32534,
+        "savingsFormatted": "₺325,34"
+      },
+      "currency": "TRY",
+      "rating": 3.16,
+      "reviewCount": 5,
+      "stock": 47,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/33"
+      }
+    },
+    {
+      "id": 34,
+      "sku": "AUR-HOM-AUR-0034",
+      "title": "Aile Ağacı Fotoğraf Çerçevesi",
+      "slug": "family-tree-photo-frame",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 164443,
+        "compareAtFormatted": "₺1.644,43",
+        "discountPercentage": 14.87,
+        "savings": 24453,
+        "savingsFormatted": "₺244,53"
+      },
+      "currency": "TRY",
+      "rating": 4.53,
+      "reviewCount": 4,
+      "stock": 77,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/34"
+      }
+    },
+    {
+      "id": 35,
+      "sku": "AUR-HOM-AUR-0035",
+      "title": "Dekoratif Ev Bitkisi",
+      "slug": "house-showpiece-plant",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 205306,
+        "compareAtFormatted": "₺2.053,06",
+        "discountPercentage": 7.46,
+        "savings": 15316,
+        "savingsFormatted": "₺153,16"
+      },
+      "currency": "TRY",
+      "rating": 4.67,
+      "reviewCount": 2,
+      "stock": 28,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/35"
+      }
+    },
+    {
+      "id": 36,
+      "sku": "AUR-HOM-AUR-0036",
+      "title": "Saksı",
+      "slug": "plant-pot",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 75129,
+        "compareAtFormatted": "₺751,29",
+        "discountPercentage": 6.84,
+        "savings": 5139,
+        "savingsFormatted": "₺51,39"
+      },
+      "currency": "TRY",
+      "rating": 3.01,
+      "reviewCount": 3,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/36"
+      }
+    },
+    {
+      "id": 37,
+      "sku": "AUR-HOM-AUR-0037",
+      "title": "Masa Lambası",
+      "slug": "table-lamp",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 252922,
+        "compareAtFormatted": "₺2.529,22",
+        "discountPercentage": 7.09,
+        "savings": 17932,
+        "savingsFormatted": "₺179,32"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 5,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/37"
+      }
+    },
+    {
+      "id": 38,
+      "sku": "AUR-KIT-AUR-0038",
+      "title": "Bambu Spatula",
+      "slug": "bamboo-spatula",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 37990,
+      "price": {
+        "amount": 37990,
+        "currency": "TRY",
+        "formatted": "₺379,90",
+        "compareAt": 39100,
+        "compareAtFormatted": "₺391,00",
+        "discountPercentage": 2.84,
+        "savings": 1110,
+        "savingsFormatted": "₺11,10"
+      },
+      "currency": "TRY",
+      "rating": 3.27,
+      "reviewCount": 4,
+      "stock": 37,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/38"
+      }
+    },
+    {
+      "id": 39,
+      "sku": "AUR-KIT-AUR-0039",
+      "title": "Siyah Alüminyum Bardak",
+      "slug": "black-aluminium-cup",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 33183,
+        "compareAtFormatted": "₺331,83",
+        "discountPercentage": 15.65,
+        "savings": 5193,
+        "savingsFormatted": "₺51,93"
+      },
+      "currency": "TRY",
+      "rating": 4.46,
+      "reviewCount": 6,
+      "stock": 75,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/39"
+      }
+    },
+    {
+      "id": 40,
+      "sku": "AUR-KIT-AUR-0040",
+      "title": "Siyah Çırpıcı",
+      "slug": "black-whisk",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 52351,
+        "compareAtFormatted": "₺523,51",
+        "discountPercentage": 10.24,
+        "savings": 5361,
+        "savingsFormatted": "₺53,61"
+      },
+      "currency": "TRY",
+      "rating": 3.9,
+      "reviewCount": 3,
+      "stock": 73,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/40"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 2,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=2&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=3&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

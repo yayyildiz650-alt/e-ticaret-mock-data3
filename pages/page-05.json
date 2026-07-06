@@ -1,0 +1,890 @@
+{
+  "data": [
+    {
+      "id": 81,
+      "sku": "AUR-MEN-OFF-0081",
+      "title": "Off White & Kırmızı Spor Ayakkabı",
+      "slug": "sports-sneakers-off-white-&-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 564990,
+      "price": {
+        "amount": 564990,
+        "currency": "TRY",
+        "formatted": "₺5.649,90",
+        "compareAt": 594539,
+        "compareAtFormatted": "₺5.945,39",
+        "discountPercentage": 4.97,
+        "savings": 29549,
+        "savingsFormatted": "₺295,49"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 4,
+      "stock": 17,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/81"
+      }
+    },
+    {
+      "id": 82,
+      "sku": "AUR-MEN-OFF-0082",
+      "title": "Off White Kırmızı Spor Ayakkabı",
+      "slug": "sports-sneakers-off-white-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 514990,
+      "price": {
+        "amount": 514990,
+        "currency": "TRY",
+        "formatted": "₺5.149,90",
+        "compareAt": 515196,
+        "compareAtFormatted": "₺5.151,96",
+        "discountPercentage": 0.04,
+        "savings": 206,
+        "savingsFormatted": "₺2,06"
+      },
+      "currency": "TRY",
+      "rating": 4.69,
+      "reviewCount": 4,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/82"
+      }
+    },
+    {
+      "id": 83,
+      "sku": "AUR-MEN-FAS-0083",
+      "title": "Kahverengi Deri Kayışlı Saat",
+      "slug": "brown-leather-belt-watch",
+      "brand": "Fashion Timepieces",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 452069,
+        "compareAtFormatted": "₺4.520,69",
+        "discountPercentage": 5.99,
+        "savings": 27079,
+        "savingsFormatted": "₺270,79"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 2,
+      "stock": 32,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/83"
+      }
+    },
+    {
+      "id": 84,
+      "sku": "AUR-MEN-LON-0084",
+      "title": "Longines Master Collection",
+      "slug": "longines-master-collection",
+      "brand": "Longines",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 7049900,
+      "price": {
+        "amount": 7049900,
+        "currency": "TRY",
+        "formatted": "₺70.499,00",
+        "compareAt": 8518487,
+        "compareAtFormatted": "₺85.184,87",
+        "discountPercentage": 17.24,
+        "savings": 1468587,
+        "savingsFormatted": "₺14.685,87"
+      },
+      "currency": "TRY",
+      "rating": 3.87,
+      "reviewCount": 6,
+      "stock": 100,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/84"
+      }
+    },
+    {
+      "id": 85,
+      "sku": "AUR-MEN-ROL-0085",
+      "title": "Rolex Cellini Date Siyah Kadran",
+      "slug": "rolex-cellini-date-black-dial",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 42299900,
+      "price": {
+        "amount": 42299900,
+        "currency": "TRY",
+        "formatted": "₺422.999,00",
+        "compareAt": 46422191,
+        "compareAtFormatted": "₺464.221,91",
+        "discountPercentage": 8.88,
+        "savings": 4122291,
+        "savingsFormatted": "₺41.222,91"
+      },
+      "currency": "TRY",
+      "rating": 4.97,
+      "reviewCount": 3,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/85"
+      }
+    },
+    {
+      "id": 86,
+      "sku": "AUR-MEN-ROL-0086",
+      "title": "Rolex Cellini Moonphase",
+      "slug": "rolex-cellini-moonphase",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 61099900,
+      "price": {
+        "amount": 61099900,
+        "currency": "TRY",
+        "formatted": "₺610.999,00",
+        "compareAt": 74078443,
+        "compareAtFormatted": "₺740.784,43",
+        "discountPercentage": 17.52,
+        "savings": 12978543,
+        "savingsFormatted": "₺129.785,43"
+      },
+      "currency": "TRY",
+      "rating": 2.58,
+      "reviewCount": 6,
+      "stock": 36,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/86"
+      }
+    },
+    {
+      "id": 87,
+      "sku": "AUR-MEN-ROL-0087",
+      "title": "Rolex Datejust",
+      "slug": "rolex-datejust",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 51699900,
+      "price": {
+        "amount": 51699900,
+        "currency": "TRY",
+        "formatted": "₺516.999,00",
+        "compareAt": 53703023,
+        "compareAtFormatted": "₺537.030,23",
+        "discountPercentage": 3.73,
+        "savings": 2003123,
+        "savingsFormatted": "₺20.031,23"
+      },
+      "currency": "TRY",
+      "rating": 3.66,
+      "reviewCount": 5,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/87"
+      }
+    },
+    {
+      "id": 88,
+      "sku": "AUR-MEN-ROL-0088",
+      "title": "Rolex Submariner Saat",
+      "slug": "rolex-submariner-watch",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 65799900,
+      "price": {
+        "amount": 65799900,
+        "currency": "TRY",
+        "formatted": "₺657.999,00",
+        "compareAt": 69299526,
+        "compareAtFormatted": "₺692.995,26",
+        "discountPercentage": 5.05,
+        "savings": 3499626,
+        "savingsFormatted": "₺34.996,26"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/88"
+      }
+    },
+    {
+      "id": 89,
+      "sku": "AUR-MOB-AMA-0089",
+      "title": "Amazon Echo Plus",
+      "slug": "amazon-echo-plus",
+      "brand": "Amazon",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 534505,
+        "compareAtFormatted": "₺5.345,05",
+        "discountPercentage": 12.07,
+        "savings": 64515,
+        "savingsFormatted": "₺645,15"
+      },
+      "currency": "TRY",
+      "rating": 4.99,
+      "reviewCount": 3,
+      "stock": 61,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/89"
+      }
+    },
+    {
+      "id": 90,
+      "sku": "AUR-MOB-APP-0090",
+      "title": "Apple AirPods",
+      "slug": "apple-airpods",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 609990,
+      "price": {
+        "amount": 609990,
+        "currency": "TRY",
+        "formatted": "₺6.099,90",
+        "compareAt": 722224,
+        "compareAtFormatted": "₺7.222,24",
+        "discountPercentage": 15.54,
+        "savings": 112234,
+        "savingsFormatted": "₺1.122,34"
+      },
+      "currency": "TRY",
+      "rating": 4.15,
+      "reviewCount": 4,
+      "stock": 67,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/90"
+      }
+    },
+    {
+      "id": 91,
+      "sku": "AUR-MOB-APP-0091",
+      "title": "Apple AirPods Max Gümüş",
+      "slug": "apple-airpods-max-silver",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 2599900,
+      "price": {
+        "amount": 2599900,
+        "currency": "TRY",
+        "formatted": "₺25.999,00",
+        "compareAt": 3011583,
+        "compareAtFormatted": "₺30.115,83",
+        "discountPercentage": 13.67,
+        "savings": 411683,
+        "savingsFormatted": "₺4.116,83"
+      },
+      "currency": "TRY",
+      "rating": 3.47,
+      "reviewCount": 5,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/91"
+      }
+    },
+    {
+      "id": 92,
+      "sku": "AUR-MOB-APP-0092",
+      "title": "Apple AirPower Kablosuz Şarj Cihazı",
+      "slug": "apple-airpower-wireless-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 374990,
+      "price": {
+        "amount": 374990,
+        "currency": "TRY",
+        "formatted": "₺3.749,90",
+        "compareAt": 392577,
+        "compareAtFormatted": "₺3.925,77",
+        "discountPercentage": 4.48,
+        "savings": 17587,
+        "savingsFormatted": "₺175,87"
+      },
+      "currency": "TRY",
+      "rating": 3.68,
+      "reviewCount": 6,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/92"
+      }
+    },
+    {
+      "id": 93,
+      "sku": "AUR-MOB-APP-0093",
+      "title": "Apple HomePod Mini Uzay Grisi",
+      "slug": "apple-homepod-mini-cosmic-grey",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 573858,
+        "compareAtFormatted": "₺5.738,58",
+        "discountPercentage": 18.1,
+        "savings": 103868,
+        "savingsFormatted": "₺1.038,68"
+      },
+      "currency": "TRY",
+      "rating": 4.62,
+      "reviewCount": 4,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/93"
+      }
+    },
+    {
+      "id": 94,
+      "sku": "AUR-MOB-APP-0094",
+      "title": "Apple iPhone Şarj Cihazı",
+      "slug": "apple-iphone-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 115353,
+        "compareAtFormatted": "₺1.153,53",
+        "discountPercentage": 18.52,
+        "savings": 21363,
+        "savingsFormatted": "₺213,63"
+      },
+      "currency": "TRY",
+      "rating": 4.15,
+      "reviewCount": 3,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/94"
+      }
+    },
+    {
+      "id": 95,
+      "sku": "AUR-MOB-APP-0095",
+      "title": "Apple MagSafe Taşınabilir Batarya",
+      "slug": "apple-magsafe-battery-pack",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 567415,
+        "compareAtFormatted": "₺5.674,15",
+        "discountPercentage": 17.17,
+        "savings": 97425,
+        "savingsFormatted": "₺974,25"
+      },
+      "currency": "TRY",
+      "rating": 3.62,
+      "reviewCount": 2,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/95"
+      }
+    },
+    {
+      "id": 96,
+      "sku": "AUR-MOB-APP-0096",
+      "title": "Apple Watch Series 4 Altın",
+      "slug": "apple-watch-series-4-gold",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 1869732,
+        "compareAtFormatted": "₺18.697,32",
+        "discountPercentage": 12.02,
+        "savings": 224742,
+        "savingsFormatted": "₺2.247,42"
+      },
+      "currency": "TRY",
+      "rating": 2.74,
+      "reviewCount": 5,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/96"
+      }
+    },
+    {
+      "id": 97,
+      "sku": "AUR-MOB-BEA-0097",
+      "title": "Beats Flex Kablosuz Kulaklık",
+      "slug": "beats-flex-wireless-earphones",
+      "brand": "Beats",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 249273,
+        "compareAtFormatted": "₺2.492,73",
+        "discountPercentage": 5.73,
+        "savings": 14283,
+        "savingsFormatted": "₺142,83"
+      },
+      "currency": "TRY",
+      "rating": 4.24,
+      "reviewCount": 3,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/97"
+      }
+    },
+    {
+      "id": 98,
+      "sku": "AUR-MOB-APP-0098",
+      "title": "iPhone 12 MagSafe Silikon Kılıf Erik Moru",
+      "slug": "iphone-12-silicone-case-with-magsafe-plum",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 162496,
+        "compareAtFormatted": "₺1.624,96",
+        "discountPercentage": 13.85,
+        "savings": 22506,
+        "savingsFormatted": "₺225,06"
+      },
+      "currency": "TRY",
+      "rating": 3.62,
+      "reviewCount": 5,
+      "stock": 69,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/98"
+      }
+    },
+    {
+      "id": 99,
+      "sku": "AUR-MOB-TEC-0099",
+      "title": "Monopod",
+      "slug": "monopod",
+      "brand": "TechGear",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 102811,
+        "compareAtFormatted": "₺1.028,11",
+        "discountPercentage": 8.58,
+        "savings": 8821,
+        "savingsFormatted": "₺88,21"
+      },
+      "currency": "TRY",
+      "rating": 4.43,
+      "reviewCount": 6,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/99"
+      }
+    },
+    {
+      "id": 100,
+      "sku": "AUR-MOB-GAD-0100",
+      "title": "iPhone'lu Selfie Işığı",
+      "slug": "selfie-lamp-with-iphone",
+      "brand": "GadgetMaster",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 86836,
+        "compareAtFormatted": "₺868,36",
+        "discountPercentage": 19.4,
+        "savings": 16846,
+        "savingsFormatted": "₺168,46"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 4,
+      "stock": 58,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/100"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 5,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=5&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=6&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=4&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

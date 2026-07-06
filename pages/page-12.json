@@ -1,0 +1,874 @@
+{
+  "data": [
+    {
+      "id": 221,
+      "sku": "AUR-GRO-AUR-0221",
+      "title": "Kutu Peçete — Aile Boyu",
+      "slug": "tissue-paper-box",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 13788,
+      "price": {
+        "amount": 13788,
+        "currency": "TRY",
+        "formatted": "₺137,88",
+        "compareAt": 15899,
+        "compareAtFormatted": "₺158,99",
+        "discountPercentage": 13.28,
+        "savings": 2111,
+        "savingsFormatted": "₺21,11"
+      },
+      "currency": "TRY",
+      "rating": 2.84,
+      "reviewCount": 6,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+      ],
+      "variantOf": 31,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/221"
+      }
+    },
+    {
+      "id": 222,
+      "sku": "AUR-GRO-AUR-0222",
+      "title": "Su — Aile Boyu",
+      "slug": "water",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5865,
+        "compareAtFormatted": "₺58,65",
+        "discountPercentage": 14.92,
+        "savings": 875,
+        "savingsFormatted": "₺8,75"
+      },
+      "currency": "TRY",
+      "rating": 4.83,
+      "reviewCount": 5,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+      ],
+      "variantOf": 32,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/222"
+      }
+    },
+    {
+      "id": 223,
+      "sku": "AUR-HOM-AUR-0223",
+      "title": "Dekoratif Salıncak — Büyük Boy",
+      "slug": "decoration-swing",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 321988,
+      "price": {
+        "amount": 321988,
+        "currency": "TRY",
+        "formatted": "₺3.219,88",
+        "compareAt": 359402,
+        "compareAtFormatted": "₺3.594,02",
+        "discountPercentage": 10.41,
+        "savings": 37414,
+        "savingsFormatted": "₺374,14"
+      },
+      "currency": "TRY",
+      "rating": 3.26,
+      "reviewCount": 4,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+      ],
+      "variantOf": 33,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/223"
+      }
+    },
+    {
+      "id": 224,
+      "sku": "AUR-HOM-AUR-0224",
+      "title": "Aile Ağacı Fotoğraf Çerçevesi — Büyük Boy",
+      "slug": "family-tree-photo-frame",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 153989,
+      "price": {
+        "amount": 153989,
+        "currency": "TRY",
+        "formatted": "₺1.539,89",
+        "compareAt": 180887,
+        "compareAtFormatted": "₺1.808,87",
+        "discountPercentage": 14.87,
+        "savings": 26898,
+        "savingsFormatted": "₺268,98"
+      },
+      "currency": "TRY",
+      "rating": 4.36,
+      "reviewCount": 6,
+      "stock": 89,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+      ],
+      "variantOf": 34,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/224"
+      }
+    },
+    {
+      "id": 225,
+      "sku": "AUR-HOM-AUR-0225",
+      "title": "Dekoratif Ev Bitkisi — Büyük Boy",
+      "slug": "house-showpiece-plant",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 218488,
+      "price": {
+        "amount": 218488,
+        "currency": "TRY",
+        "formatted": "₺2.184,88",
+        "compareAt": 236101,
+        "compareAtFormatted": "₺2.361,01",
+        "discountPercentage": 7.46,
+        "savings": 17613,
+        "savingsFormatted": "₺176,13"
+      },
+      "currency": "TRY",
+      "rating": 4.8,
+      "reviewCount": 4,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+      ],
+      "variantOf": 35,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/225"
+      }
+    },
+    {
+      "id": 226,
+      "sku": "AUR-HOM-AUR-0226",
+      "title": "Saksı — Büyük Boy",
+      "slug": "plant-pot",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 62991,
+      "price": {
+        "amount": 62991,
+        "currency": "TRY",
+        "formatted": "₺629,91",
+        "compareAt": 67616,
+        "compareAtFormatted": "₺676,16",
+        "discountPercentage": 6.84,
+        "savings": 4625,
+        "savingsFormatted": "₺46,25"
+      },
+      "currency": "TRY",
+      "rating": 2.87,
+      "reviewCount": 4,
+      "stock": 63,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+      ],
+      "variantOf": 36,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/226"
+      }
+    },
+    {
+      "id": 227,
+      "sku": "AUR-HOM-AUR-0227",
+      "title": "Masa Lambası — Büyük Boy",
+      "slug": "table-lamp",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 252922,
+        "compareAtFormatted": "₺2.529,22",
+        "discountPercentage": 7.09,
+        "savings": 17932,
+        "savingsFormatted": "₺179,32"
+      },
+      "currency": "TRY",
+      "rating": 3.41,
+      "reviewCount": 3,
+      "stock": 6,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+      ],
+      "variantOf": 37,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/227"
+      }
+    },
+    {
+      "id": 228,
+      "sku": "AUR-KIT-AUR-0228",
+      "title": "Bambu Spatula — 2'li Set",
+      "slug": "bamboo-spatula",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 41789,
+      "price": {
+        "amount": 41789,
+        "currency": "TRY",
+        "formatted": "₺417,89",
+        "compareAt": 43010,
+        "compareAtFormatted": "₺430,10",
+        "discountPercentage": 2.84,
+        "savings": 1221,
+        "savingsFormatted": "₺12,21"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 6,
+      "stock": 35,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
+      ],
+      "variantOf": 38,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/228"
+      }
+    },
+    {
+      "id": 229,
+      "sku": "AUR-KIT-AUR-0229",
+      "title": "Siyah Alüminyum Bardak — 2'li Set",
+      "slug": "black-aluminium-cup",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 32188,
+      "price": {
+        "amount": 32188,
+        "currency": "TRY",
+        "formatted": "₺321,88",
+        "compareAt": 38160,
+        "compareAtFormatted": "₺381,60",
+        "discountPercentage": 15.65,
+        "savings": 5972,
+        "savingsFormatted": "₺59,72"
+      },
+      "currency": "TRY",
+      "rating": 4.18,
+      "reviewCount": 3,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp"
+      ],
+      "variantOf": 39,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/229"
+      }
+    },
+    {
+      "id": 230,
+      "sku": "AUR-KIT-AUR-0230",
+      "title": "Siyah Çırpıcı — 2'li Set",
+      "slug": "black-whisk",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 42291,
+      "price": {
+        "amount": 42291,
+        "currency": "TRY",
+        "formatted": "₺422,91",
+        "compareAt": 47116,
+        "compareAtFormatted": "₺471,16",
+        "discountPercentage": 10.24,
+        "savings": 4825,
+        "savingsFormatted": "₺48,25"
+      },
+      "currency": "TRY",
+      "rating": 4.08,
+      "reviewCount": 3,
+      "stock": 77,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+      ],
+      "variantOf": 40,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/230"
+      }
+    },
+    {
+      "id": 231,
+      "sku": "AUR-KIT-AUR-0231",
+      "title": "Kutulu Blender — 2'li Set",
+      "slug": "boxed-blender",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 204863,
+        "compareAtFormatted": "₺2.048,63",
+        "discountPercentage": 7.26,
+        "savings": 14873,
+        "savingsFormatted": "₺148,73"
+      },
+      "currency": "TRY",
+      "rating": 4.66,
+      "reviewCount": 5,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp"
+      ],
+      "variantOf": 41,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/231"
+      }
+    },
+    {
+      "id": 232,
+      "sku": "AUR-KIT-AUR-0232",
+      "title": "Karbon Çelik Wok Tava — 2'li Set",
+      "slug": "carbon-steel-wok",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 153989,
+      "price": {
+        "amount": 153989,
+        "currency": "TRY",
+        "formatted": "₺1.539,89",
+        "compareAt": 164747,
+        "compareAtFormatted": "₺1.647,47",
+        "discountPercentage": 6.53,
+        "savings": 10758,
+        "savingsFormatted": "₺107,58"
+      },
+      "currency": "TRY",
+      "rating": 4.16,
+      "reviewCount": 5,
+      "stock": 49,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
+      ],
+      "variantOf": 42,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/232"
+      }
+    },
+    {
+      "id": 233,
+      "sku": "AUR-KIT-AUR-0233",
+      "title": "Doğrama Tahtası — 2'li Set",
+      "slug": "chopping-board",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 70138,
+      "price": {
+        "amount": 70138,
+        "currency": "TRY",
+        "formatted": "₺701,38",
+        "compareAt": 76262,
+        "compareAtFormatted": "₺762,62",
+        "discountPercentage": 8.03,
+        "savings": 6124,
+        "savingsFormatted": "₺61,24"
+      },
+      "currency": "TRY",
+      "rating": 3.86,
+      "reviewCount": 2,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
+      ],
+      "variantOf": 43,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/233"
+      }
+    },
+    {
+      "id": 234,
+      "sku": "AUR-KIT-AUR-0234",
+      "title": "Sarı Narenciye Sıkacağı — 2'li Set",
+      "slug": "citrus-squeezer-yellow",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 46189,
+      "price": {
+        "amount": 46189,
+        "currency": "TRY",
+        "formatted": "₺461,89",
+        "compareAt": 52547,
+        "compareAtFormatted": "₺525,47",
+        "discountPercentage": 12.1,
+        "savings": 6358,
+        "savingsFormatted": "₺63,58"
+      },
+      "currency": "TRY",
+      "rating": 4.53,
+      "reviewCount": 4,
+      "stock": 34,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+      ],
+      "variantOf": 44,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/234"
+      }
+    },
+    {
+      "id": 235,
+      "sku": "AUR-KIT-AUR-0235",
+      "title": "Yumurta Dilimleyici — 2'li Set",
+      "slug": "egg-slicer",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 37938,
+      "price": {
+        "amount": 37938,
+        "currency": "TRY",
+        "formatted": "₺379,38",
+        "compareAt": 44507,
+        "compareAtFormatted": "₺445,07",
+        "discountPercentage": 14.76,
+        "savings": 6569,
+        "savingsFormatted": "₺65,69"
+      },
+      "currency": "TRY",
+      "rating": 2.84,
+      "reviewCount": 4,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
+      ],
+      "variantOf": 45,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/235"
+      }
+    },
+    {
+      "id": 236,
+      "sku": "AUR-KIT-AUR-0236",
+      "title": "Elektrikli Ocak — 2'li Set",
+      "slug": "electric-stove",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 273371,
+        "compareAtFormatted": "₺2.733,71",
+        "discountPercentage": 14.04,
+        "savings": 38381,
+        "savingsFormatted": "₺383,81"
+      },
+      "currency": "TRY",
+      "rating": 4.11,
+      "reviewCount": 2,
+      "stock": 23,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp"
+      ],
+      "variantOf": 46,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/236"
+      }
+    },
+    {
+      "id": 237,
+      "sku": "AUR-KIT-AUR-0237",
+      "title": "İnce Telli Süzgeç — 2'li Set",
+      "slug": "fine-mesh-strainer",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 42291,
+      "price": {
+        "amount": 42291,
+        "currency": "TRY",
+        "formatted": "₺422,91",
+        "compareAt": 43825,
+        "compareAtFormatted": "₺438,25",
+        "discountPercentage": 3.5,
+        "savings": 1534,
+        "savingsFormatted": "₺15,34"
+      },
+      "currency": "TRY",
+      "rating": 2.87,
+      "reviewCount": 4,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+      ],
+      "variantOf": 47,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/237"
+      }
+    },
+    {
+      "id": 238,
+      "sku": "AUR-KIT-AUR-0238",
+      "title": "Çatal — 2'li Set",
+      "slug": "fork",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 20889,
+      "price": {
+        "amount": 20889,
+        "currency": "TRY",
+        "formatted": "₺208,89",
+        "compareAt": 22723,
+        "compareAtFormatted": "₺227,23",
+        "discountPercentage": 8.07,
+        "savings": 1834,
+        "savingsFormatted": "₺18,34"
+      },
+      "currency": "TRY",
+      "rating": 3.26,
+      "reviewCount": 5,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
+      ],
+      "variantOf": 48,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/238"
+      }
+    },
+    {
+      "id": 239,
+      "sku": "AUR-KIT-AUR-0239",
+      "title": "Bardak — 2'li Set",
+      "slug": "glass",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 25289,
+      "price": {
+        "amount": 25289,
+        "currency": "TRY",
+        "formatted": "₺252,89",
+        "compareAt": 27464,
+        "compareAtFormatted": "₺274,64",
+        "discountPercentage": 7.92,
+        "savings": 2175,
+        "savingsFormatted": "₺21,75"
+      },
+      "currency": "TRY",
+      "rating": 4.04,
+      "reviewCount": 5,
+      "stock": 63,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
+      ],
+      "variantOf": 49,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/239"
+      }
+    },
+    {
+      "id": 240,
+      "sku": "AUR-KIT-AUR-0240",
+      "title": "Siyah Rende — 2'li Set",
+      "slug": "grater-black",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 51990,
+      "price": {
+        "amount": 51990,
+        "currency": "TRY",
+        "formatted": "₺519,90",
+        "compareAt": 53909,
+        "compareAtFormatted": "₺539,09",
+        "discountPercentage": 3.56,
+        "savings": 1919,
+        "savingsFormatted": "₺19,19"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 3,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
+      ],
+      "variantOf": 50,
+      "variantLabel": "2'li Set",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/240"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 12,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=12&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=13&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=11&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

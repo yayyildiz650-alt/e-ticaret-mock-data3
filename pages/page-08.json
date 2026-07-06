@@ -1,0 +1,880 @@
+{
+  "data": [
+    {
+      "id": 141,
+      "sku": "AUR-SUN-FAS-0141",
+      "title": "Siyah Güneş Gözlüğü",
+      "slug": "black-sun-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 147265,
+        "compareAtFormatted": "₺1.472,65",
+        "discountPercentage": 4.94,
+        "savings": 7275,
+        "savingsFormatted": "₺72,75"
+      },
+      "currency": "TRY",
+      "rating": 4.41,
+      "reviewCount": 5,
+      "stock": 60,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/141"
+      }
+    },
+    {
+      "id": 142,
+      "sku": "AUR-SUN-FAS-0142",
+      "title": "Klasik Güneş Gözlüğü",
+      "slug": "classic-sun-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 120966,
+        "compareAtFormatted": "₺1.209,66",
+        "discountPercentage": 4.94,
+        "savings": 5976,
+        "savingsFormatted": "₺59,76"
+      },
+      "currency": "TRY",
+      "rating": 3.86,
+      "reviewCount": 2,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/142"
+      }
+    },
+    {
+      "id": 143,
+      "sku": "AUR-SUN-FAS-0143",
+      "title": "Yeşil ve Siyah Gözlük",
+      "slug": "green-and-black-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 166673,
+        "compareAtFormatted": "₺1.666,73",
+        "discountPercentage": 1.01,
+        "savings": 1683,
+        "savingsFormatted": "₺16,83"
+      },
+      "currency": "TRY",
+      "rating": 4.55,
+      "reviewCount": 5,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/143"
+      }
+    },
+    {
+      "id": 144,
+      "sku": "AUR-SUN-FAS-0144",
+      "title": "Parti Gözlüğü",
+      "slug": "party-glasses",
+      "brand": "Fashion Fun",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 105868,
+        "compareAtFormatted": "₺1.058,68",
+        "discountPercentage": 11.22,
+        "savings": 11878,
+        "savingsFormatted": "₺118,78"
+      },
+      "currency": "TRY",
+      "rating": 2.79,
+      "reviewCount": 2,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/144"
+      }
+    },
+    {
+      "id": 145,
+      "sku": "AUR-SUN-FAS-0145",
+      "title": "Güneş Gözlüğü",
+      "slug": "sunglasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 109990,
+      "price": {
+        "amount": 109990,
+        "currency": "TRY",
+        "formatted": "₺1.099,90",
+        "compareAt": 111676,
+        "compareAtFormatted": "₺1.116,76",
+        "discountPercentage": 1.51,
+        "savings": 1686,
+        "savingsFormatted": "₺16,86"
+      },
+      "currency": "TRY",
+      "rating": 3.02,
+      "reviewCount": 3,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/145"
+      }
+    },
+    {
+      "id": 146,
+      "sku": "AUR-TAB-APP-0146",
+      "title": "iPad Mini 2021 Yıldız Işığı",
+      "slug": "ipad-mini-2021-starlight",
+      "brand": "Apple",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2438667,
+        "compareAtFormatted": "₺24.386,67",
+        "discountPercentage": 3.64,
+        "savings": 88767,
+        "savingsFormatted": "₺887,67"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 2,
+      "stock": 47,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/146"
+      }
+    },
+    {
+      "id": 147,
+      "sku": "AUR-TAB-SAM-0147",
+      "title": "Samsung Galaxy Tab S8 Plus Gri",
+      "slug": "samsung-galaxy-tab-s8-plus-grey",
+      "brand": "Samsung",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 2799900,
+      "price": {
+        "amount": 2799900,
+        "currency": "TRY",
+        "formatted": "₺27.999,00",
+        "compareAt": 3229784,
+        "compareAtFormatted": "₺32.297,84",
+        "discountPercentage": 13.31,
+        "savings": 429884,
+        "savingsFormatted": "₺4.298,84"
+      },
+      "currency": "TRY",
+      "rating": 4.68,
+      "reviewCount": 3,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/147"
+      }
+    },
+    {
+      "id": 148,
+      "sku": "AUR-TAB-SAM-0148",
+      "title": "Samsung Galaxy Tab Beyaz",
+      "slug": "samsung-galaxy-tab-white",
+      "brand": "Samsung",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 2010990,
+        "compareAtFormatted": "₺20.109,90",
+        "discountPercentage": 18.2,
+        "savings": 366000,
+        "savingsFormatted": "₺3.660,00"
+      },
+      "currency": "TRY",
+      "rating": 3.72,
+      "reviewCount": 2,
+      "stock": 92,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/148"
+      }
+    },
+    {
+      "id": 149,
+      "sku": "AUR-VEH-CHR-0149",
+      "title": "Chrysler 300 Touring",
+      "slug": "300-touring",
+      "brand": "Chrysler",
+      "category": "vehicle",
+      "categoryName": "Araçlar",
+      "unitPrice": 136299900,
+      "price": {
+        "amount": 136299900,
+        "currency": "TRY",
+        "formatted": "₺1.362.999,00",
+        "compareAt": 141949490,
+        "compareAtFormatted": "₺1.419.494,90",
+        "discountPercentage": 3.98,
+        "savings": 5649590,
+        "savingsFormatted": "₺56.495,90"
+      },
+      "currency": "TRY",
+      "rating": 4.05,
+      "reviewCount": 3,
+      "stock": 54,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/149"
+      }
+    },
+    {
+      "id": 150,
+      "sku": "AUR-VEH-DOD-0150",
+      "title": "Dodge Charger SXT RWD",
+      "slug": "charger-sxt-rwd",
+      "brand": "Dodge",
+      "category": "vehicle",
+      "categoryName": "Araçlar",
+      "unitPrice": 155099900,
+      "price": {
+        "amount": 155099900,
+        "currency": "TRY",
+        "formatted": "₺1.550.999,00",
+        "compareAt": 169009371,
+        "compareAtFormatted": "₺1.690.093,71",
+        "discountPercentage": 8.23,
+        "savings": 13909471,
+        "savingsFormatted": "₺139.094,71"
+      },
+      "currency": "TRY",
+      "rating": 2.58,
+      "reviewCount": 3,
+      "stock": 57,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/150"
+      }
+    },
+    {
+      "id": 151,
+      "sku": "AUR-VEH-DOD-0151",
+      "title": "Dodge Hornet GT Plus",
+      "slug": "dodge-hornet-gt-plus",
+      "brand": "Dodge",
+      "category": "vehicle",
+      "categoryName": "Araçlar",
+      "unitPrice": 117499900,
+      "price": {
+        "amount": 117499900,
+        "currency": "TRY",
+        "formatted": "₺1.174.999,00",
+        "compareAt": 120673616,
+        "compareAtFormatted": "₺1.206.736,16",
+        "discountPercentage": 2.63,
+        "savings": 3173716,
+        "savingsFormatted": "₺31.737,16"
+      },
+      "currency": "TRY",
+      "rating": 2.65,
+      "reviewCount": 4,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/151"
+      }
+    },
+    {
+      "id": 152,
+      "sku": "AUR-VEH-DOD-0152",
+      "title": "Dodge Durango SXT RWD",
+      "slug": "durango-sxt-rwd",
+      "brand": "Dodge",
+      "category": "vehicle",
+      "categoryName": "Araçlar",
+      "unitPrice": 173899900,
+      "price": {
+        "amount": 173899900,
+        "currency": "TRY",
+        "formatted": "₺1.738.999,00",
+        "compareAt": 208113810,
+        "compareAtFormatted": "₺2.081.138,10",
+        "discountPercentage": 16.44,
+        "savings": 34213910,
+        "savingsFormatted": "₺342.139,10"
+      },
+      "currency": "TRY",
+      "rating": 4.07,
+      "reviewCount": 4,
+      "stock": 95,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/152"
+      }
+    },
+    {
+      "id": 153,
+      "sku": "AUR-VEH-CHR-0153",
+      "title": "Chrysler Pacifica Touring",
+      "slug": "pacifica-touring",
+      "brand": "Chrysler",
+      "category": "vehicle",
+      "categoryName": "Araçlar",
+      "unitPrice": 150399900,
+      "price": {
+        "amount": 150399900,
+        "currency": "TRY",
+        "formatted": "₺1.503.999,00",
+        "compareAt": 176442867,
+        "compareAtFormatted": "₺1.764.428,67",
+        "discountPercentage": 14.76,
+        "savings": 26042967,
+        "savingsFormatted": "₺260.429,67"
+      },
+      "currency": "TRY",
+      "rating": 3.62,
+      "reviewCount": 5,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/153"
+      }
+    },
+    {
+      "id": 154,
+      "sku": "AUR-ELE-AUR-0154",
+      "title": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+      "slug": "sleek-white-&-orange-wireless-gaming-controller",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 324990,
+      "price": {
+        "amount": 324990,
+        "currency": "TRY",
+        "formatted": "₺3.249,90",
+        "compareAt": 380684,
+        "compareAtFormatted": "₺3.806,84",
+        "discountPercentage": 14.63,
+        "savings": 55694,
+        "savingsFormatted": "₺556,94"
+      },
+      "currency": "TRY",
+      "rating": 4.39,
+      "reviewCount": 6,
+      "stock": 26,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+      "images": [
+        "https://i.imgur.com/ZANVnHE.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/154"
+      }
+    },
+    {
+      "id": 155,
+      "sku": "AUR-ELE-AUR-0155",
+      "title": "Kablosuz Kulaklık & Kulakiçi Seti",
+      "slug": "sleek-wireless-headphone-&-earbud-set",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 204990,
+      "price": {
+        "amount": 204990,
+        "currency": "TRY",
+        "formatted": "₺2.049,90",
+        "compareAt": 210181,
+        "compareAtFormatted": "₺2.101,81",
+        "discountPercentage": 2.47,
+        "savings": 5191,
+        "savingsFormatted": "₺51,91"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 3,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/yVeIeDa.jpeg",
+      "images": [
+        "https://i.imgur.com/yVeIeDa.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/155"
+      }
+    },
+    {
+      "id": 156,
+      "sku": "AUR-ELE-AUR-0156",
+      "title": "Kablosuz Bilgisayar Faresi",
+      "slug": "sleek-wireless-computer-mouse",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 50971,
+        "compareAtFormatted": "₺509,71",
+        "discountPercentage": 7.81,
+        "savings": 3981,
+        "savingsFormatted": "₺39,81"
+      },
+      "currency": "TRY",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "stock": 15,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/w3Y8NwQ.jpeg",
+      "images": [
+        "https://i.imgur.com/w3Y8NwQ.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/156"
+      }
+    },
+    {
+      "id": 157,
+      "sku": "AUR-ELE-AUR-0157",
+      "title": "Kırmızı & Gümüş Kulak Üstü Kulaklık",
+      "slug": "stylish-red-&-silver-over-ear-headphones",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 184990,
+      "price": {
+        "amount": 184990,
+        "currency": "TRY",
+        "formatted": "₺1.849,90",
+        "compareAt": 187750,
+        "compareAtFormatted": "₺1.877,50",
+        "discountPercentage": 1.47,
+        "savings": 2760,
+        "savingsFormatted": "₺27,60"
+      },
+      "currency": "TRY",
+      "rating": 4.5,
+      "reviewCount": 5,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/YaSqa06.jpeg",
+      "images": [
+        "https://i.imgur.com/YaSqa06.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/157"
+      }
+    },
+    {
+      "id": 158,
+      "sku": "AUR-ELE-AUR-0158",
+      "title": "Ayna Görünümlü Telefon Kılıfı",
+      "slug": "sleek-mirror-finish-phone-case",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 124990,
+      "price": {
+        "amount": 124990,
+        "currency": "TRY",
+        "formatted": "₺1.249,90",
+        "compareAt": 132587,
+        "compareAtFormatted": "₺1.325,87",
+        "discountPercentage": 5.73,
+        "savings": 7597,
+        "savingsFormatted": "₺75,97"
+      },
+      "currency": "TRY",
+      "rating": 4.22,
+      "reviewCount": 4,
+      "stock": 13,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/yb9UQKL.jpeg",
+      "images": [
+        "https://i.imgur.com/yb9UQKL.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/158"
+      }
+    },
+    {
+      "id": 159,
+      "sku": "AUR-ELE-AUR-0159",
+      "title": "Canlı Ekranlı Akıllı Saat",
+      "slug": "sleek-smartwatch-with-vibrant-display",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 604990,
+      "price": {
+        "amount": 604990,
+        "currency": "TRY",
+        "formatted": "₺6.049,90",
+        "compareAt": 671540,
+        "compareAtFormatted": "₺6.715,40",
+        "discountPercentage": 9.91,
+        "savings": 66550,
+        "savingsFormatted": "₺665,50"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 5,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/LGk9Jn2.jpeg",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/159"
+      }
+    },
+    {
+      "id": 160,
+      "sku": "AUR-LAP-AUR-0160",
+      "title": "Ortam Işıklı Modern Dizüstü Bilgisayar",
+      "slug": "sleek-modern-laptop-with-ambient-lighting",
+      "brand": "Aurora",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 4249900,
+      "price": {
+        "amount": 4249900,
+        "currency": "TRY",
+        "formatted": "₺42.499,00",
+        "compareAt": 4378632,
+        "compareAtFormatted": "₺43.786,32",
+        "discountPercentage": 2.94,
+        "savings": 128732,
+        "savingsFormatted": "₺1.287,32"
+      },
+      "currency": "TRY",
+      "rating": 3.52,
+      "reviewCount": 5,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/OKn1KFI.jpeg",
+      "images": [
+        "https://i.imgur.com/OKn1KFI.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/160"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 8,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=8&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=9&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=7&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

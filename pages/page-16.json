@@ -1,0 +1,873 @@
+{
+  "data": [
+    {
+      "id": 301,
+      "sku": "AUR-SMA-APP-0301",
+      "title": "iPhone X — 128GB",
+      "slug": "iphone-x",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 4249900,
+      "price": {
+        "amount": 4249900,
+        "currency": "TRY",
+        "formatted": "₺42.499,00",
+        "compareAt": 5285288,
+        "compareAtFormatted": "₺52.852,88",
+        "discountPercentage": 19.59,
+        "savings": 1035388,
+        "savingsFormatted": "₺10.353,88"
+      },
+      "currency": "TRY",
+      "rating": 2.5,
+      "reviewCount": 4,
+      "stock": 43,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp"
+      ],
+      "variantOf": 111,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/301"
+      }
+    },
+    {
+      "id": 302,
+      "sku": "AUR-SMA-OPP-0302",
+      "title": "Oppo A57 — 128GB",
+      "slug": "oppo-a57",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1057491,
+      "price": {
+        "amount": 1057491,
+        "currency": "TRY",
+        "formatted": "₺10.574,91",
+        "compareAt": 1083828,
+        "compareAtFormatted": "₺10.838,28",
+        "discountPercentage": 2.43,
+        "savings": 26337,
+        "savingsFormatted": "₺263,37"
+      },
+      "currency": "TRY",
+      "rating": 3.65,
+      "reviewCount": 2,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp"
+      ],
+      "variantOf": 112,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/302"
+      }
+    },
+    {
+      "id": 303,
+      "sku": "AUR-SMA-OPP-0303",
+      "title": "Oppo F19 Pro Plus — 128GB",
+      "slug": "oppo-f19-pro-plus",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2067989,
+      "price": {
+        "amount": 2067989,
+        "currency": "TRY",
+        "formatted": "₺20.679,89",
+        "compareAt": 2541776,
+        "compareAtFormatted": "₺25.417,76",
+        "discountPercentage": 18.64,
+        "savings": 473787,
+        "savingsFormatted": "₺4.737,87"
+      },
+      "currency": "TRY",
+      "rating": 3.58,
+      "reviewCount": 5,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+      ],
+      "variantOf": 113,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/303"
+      }
+    },
+    {
+      "id": 304,
+      "sku": "AUR-SMA-OPP-0304",
+      "title": "Oppo K1 — 128GB",
+      "slug": "oppo-k1",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 1984443,
+        "compareAtFormatted": "₺19.844,43",
+        "discountPercentage": 18.29,
+        "savings": 362955,
+        "savingsFormatted": "₺3.629,55"
+      },
+      "currency": "TRY",
+      "rating": 4.32,
+      "reviewCount": 2,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp"
+      ],
+      "variantOf": 114,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/304"
+      }
+    },
+    {
+      "id": 305,
+      "sku": "AUR-SMA-REA-0305",
+      "title": "Realme C35 — 128GB",
+      "slug": "realme-c35",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 634491,
+      "price": {
+        "amount": 634491,
+        "currency": "TRY",
+        "formatted": "₺6.344,91",
+        "compareAt": 749104,
+        "compareAtFormatted": "₺7.491,04",
+        "discountPercentage": 15.3,
+        "savings": 114613,
+        "savingsFormatted": "₺1.146,13"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 5,
+      "stock": 66,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp"
+      ],
+      "variantOf": 115,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/305"
+      }
+    },
+    {
+      "id": 306,
+      "sku": "AUR-SMA-REA-0306",
+      "title": "Realme X — 128GB",
+      "slug": "realme-x",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1268991,
+      "price": {
+        "amount": 1268991,
+        "currency": "TRY",
+        "formatted": "₺12.689,91",
+        "compareAt": 1363773,
+        "compareAtFormatted": "₺13.637,73",
+        "discountPercentage": 6.95,
+        "savings": 94782,
+        "savingsFormatted": "₺947,82"
+      },
+      "currency": "TRY",
+      "rating": 3.68,
+      "reviewCount": 4,
+      "stock": 23,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp"
+      ],
+      "variantOf": 116,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/306"
+      }
+    },
+    {
+      "id": 307,
+      "sku": "AUR-SMA-REA-0307",
+      "title": "Realme XT — 128GB",
+      "slug": "realme-xt",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 1858956,
+        "compareAtFormatted": "₺18.589,56",
+        "discountPercentage": 11.51,
+        "savings": 213966,
+        "savingsFormatted": "₺2.139,66"
+      },
+      "currency": "TRY",
+      "rating": 4.36,
+      "reviewCount": 5,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp"
+      ],
+      "variantOf": 117,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/307"
+      }
+    },
+    {
+      "id": 308,
+      "sku": "AUR-SMA-SAM-0308",
+      "title": "Samsung Galaxy S7 — 128GB",
+      "slug": "samsung-galaxy-s7",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1268991,
+      "price": {
+        "amount": 1268991,
+        "currency": "TRY",
+        "formatted": "₺12.689,91",
+        "compareAt": 1577366,
+        "compareAtFormatted": "₺15.773,66",
+        "discountPercentage": 19.55,
+        "savings": 308375,
+        "savingsFormatted": "₺3.083,75"
+      },
+      "currency": "TRY",
+      "rating": 3.03,
+      "reviewCount": 4,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp"
+      ],
+      "variantOf": 118,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/308"
+      }
+    },
+    {
+      "id": 309,
+      "sku": "AUR-SMA-SAM-0309",
+      "title": "Samsung Galaxy S8 — 128GB",
+      "slug": "samsung-galaxy-s8",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 3209050,
+        "compareAtFormatted": "₺32.090,50",
+        "discountPercentage": 19.45,
+        "savings": 624160,
+        "savingsFormatted": "₺6.241,60"
+      },
+      "currency": "TRY",
+      "rating": 4.6,
+      "reviewCount": 6,
+      "stock": 4,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp"
+      ],
+      "variantOf": 119,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/309"
+      }
+    },
+    {
+      "id": 310,
+      "sku": "AUR-SMA-SAM-0310",
+      "title": "Samsung Galaxy S10 — 128GB",
+      "slug": "samsung-galaxy-s10",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 3629890,
+      "price": {
+        "amount": 3629890,
+        "currency": "TRY",
+        "formatted": "₺36.298,90",
+        "compareAt": 3844815,
+        "compareAtFormatted": "₺38.448,15",
+        "discountPercentage": 5.59,
+        "savings": 214925,
+        "savingsFormatted": "₺2.149,25"
+      },
+      "currency": "TRY",
+      "rating": 3.09,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+      ],
+      "variantOf": 120,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/310"
+      }
+    },
+    {
+      "id": 311,
+      "sku": "AUR-SMA-VIV-0311",
+      "title": "Vivo S1 — 128GB",
+      "slug": "vivo-s1",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1351238,
+      "price": {
+        "amount": 1351238,
+        "currency": "TRY",
+        "formatted": "₺13.512,38",
+        "compareAt": 1504217,
+        "compareAtFormatted": "₺15.042,17",
+        "discountPercentage": 10.17,
+        "savings": 152979,
+        "savingsFormatted": "₺1.529,79"
+      },
+      "currency": "TRY",
+      "rating": 3.79,
+      "reviewCount": 2,
+      "stock": 70,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp"
+      ],
+      "variantOf": 121,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/311"
+      }
+    },
+    {
+      "id": 312,
+      "sku": "AUR-SMA-VIV-0312",
+      "title": "Vivo V9 — 128GB",
+      "slug": "vivo-v9",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 1969498,
+        "compareAtFormatted": "₺19.694,98",
+        "discountPercentage": 17.67,
+        "savings": 348010,
+        "savingsFormatted": "₺3.480,10"
+      },
+      "currency": "TRY",
+      "rating": 3.37,
+      "reviewCount": 3,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp"
+      ],
+      "variantOf": 122,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/312"
+      }
+    },
+    {
+      "id": 313,
+      "sku": "AUR-SMA-VIV-0313",
+      "title": "Vivo X21 — 128GB",
+      "slug": "vivo-x21",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 3129786,
+        "compareAtFormatted": "₺31.297,86",
+        "discountPercentage": 17.41,
+        "savings": 544896,
+        "savingsFormatted": "₺5.448,96"
+      },
+      "currency": "TRY",
+      "rating": 4.17,
+      "reviewCount": 3,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp"
+      ],
+      "variantOf": 123,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/313"
+      }
+    },
+    {
+      "id": 314,
+      "sku": "AUR-SPO-AUR-0314",
+      "title": "Amerikan Futbolu Topu — 3'lü Paket",
+      "slug": "american-football",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 103389,
+      "price": {
+        "amount": 103389,
+        "currency": "TRY",
+        "formatted": "₺1.033,89",
+        "compareAt": 108750,
+        "compareAtFormatted": "₺1.087,50",
+        "discountPercentage": 4.93,
+        "savings": 5361,
+        "savingsFormatted": "₺53,61"
+      },
+      "currency": "TRY",
+      "rating": 4.96,
+      "reviewCount": 6,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+      ],
+      "variantOf": 124,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/314"
+      }
+    },
+    {
+      "id": 315,
+      "sku": "AUR-SPO-AUR-0315",
+      "title": "Beyzbol Topu — 3'lü Paket",
+      "slug": "baseball-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 48288,
+      "price": {
+        "amount": 48288,
+        "currency": "TRY",
+        "formatted": "₺482,88",
+        "compareAt": 49128,
+        "compareAtFormatted": "₺491,28",
+        "discountPercentage": 1.71,
+        "savings": 840,
+        "savingsFormatted": "₺8,40"
+      },
+      "currency": "TRY",
+      "rating": 2.5,
+      "reviewCount": 4,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+      ],
+      "variantOf": 125,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/315"
+      }
+    },
+    {
+      "id": 316,
+      "sku": "AUR-SPO-AUR-0316",
+      "title": "Beyzbol Eldiveni — 3'lü Paket",
+      "slug": "baseball-glove",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 126489,
+      "price": {
+        "amount": 126489,
+        "currency": "TRY",
+        "formatted": "₺1.264,89",
+        "compareAt": 130267,
+        "compareAtFormatted": "₺1.302,67",
+        "discountPercentage": 2.9,
+        "savings": 3778,
+        "savingsFormatted": "₺37,78"
+      },
+      "currency": "TRY",
+      "rating": 4.18,
+      "reviewCount": 4,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp"
+      ],
+      "variantOf": 126,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/316"
+      }
+    },
+    {
+      "id": 317,
+      "sku": "AUR-SPO-AUR-0317",
+      "title": "Basketbol Topu — 3'lü Paket",
+      "slug": "basketball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 62991,
+      "price": {
+        "amount": 62991,
+        "currency": "TRY",
+        "formatted": "₺629,91",
+        "compareAt": 68054,
+        "compareAtFormatted": "₺680,54",
+        "discountPercentage": 7.44,
+        "savings": 5063,
+        "savingsFormatted": "₺50,63"
+      },
+      "currency": "TRY",
+      "rating": 4.87,
+      "reviewCount": 4,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+      ],
+      "variantOf": 127,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/317"
+      }
+    },
+    {
+      "id": 318,
+      "sku": "AUR-SPO-AUR-0318",
+      "title": "Basketbol Potası Çemberi — 3'lü Paket",
+      "slug": "basketball-rim",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 218488,
+      "price": {
+        "amount": 218488,
+        "currency": "TRY",
+        "formatted": "₺2.184,88",
+        "compareAt": 236818,
+        "compareAtFormatted": "₺2.368,18",
+        "discountPercentage": 7.74,
+        "savings": 18330,
+        "savingsFormatted": "₺183,30"
+      },
+      "currency": "TRY",
+      "rating": 4.58,
+      "reviewCount": 6,
+      "stock": 61,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+      ],
+      "variantOf": 128,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/318"
+      }
+    },
+    {
+      "id": 319,
+      "sku": "AUR-SPO-AUR-0319",
+      "title": "Kriket Topu — 3'lü Paket",
+      "slug": "cricket-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 66751,
+        "compareAtFormatted": "₺667,51",
+        "discountPercentage": 8.63,
+        "savings": 5761,
+        "savingsFormatted": "₺57,61"
+      },
+      "currency": "TRY",
+      "rating": 3.78,
+      "reviewCount": 4,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+      ],
+      "variantOf": 129,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/319"
+      }
+    },
+    {
+      "id": 320,
+      "sku": "AUR-SPO-AUR-0320",
+      "title": "Kriket Sopası — 3'lü Paket",
+      "slug": "cricket-bat",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 160988,
+      "price": {
+        "amount": 160988,
+        "currency": "TRY",
+        "formatted": "₺1.609,88",
+        "compareAt": 166465,
+        "compareAtFormatted": "₺1.664,65",
+        "discountPercentage": 3.29,
+        "savings": 5477,
+        "savingsFormatted": "₺54,77"
+      },
+      "currency": "TRY",
+      "rating": 3.24,
+      "reviewCount": 4,
+      "stock": 105,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+      ],
+      "variantOf": 130,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/320"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 16,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": false,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": null,
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=15&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

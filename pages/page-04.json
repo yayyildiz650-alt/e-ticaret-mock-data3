@@ -1,0 +1,882 @@
+{
+  "data": [
+    {
+      "id": 61,
+      "sku": "AUR-KIT-AUR-0061",
+      "title": "Cam Kapaklı Gümüş Tencere",
+      "slug": "silver-pot-with-glass-cap",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 201474,
+        "compareAtFormatted": "₺2.014,74",
+        "discountPercentage": 5.7,
+        "savings": 11484,
+        "savingsFormatted": "₺114,84"
+      },
+      "currency": "TRY",
+      "rating": 3.22,
+      "reviewCount": 2,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/61"
+      }
+    },
+    {
+      "id": 62,
+      "sku": "AUR-KIT-AUR-0062",
+      "title": "Delikli Spatula",
+      "slug": "slotted-turner",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 41990,
+      "price": {
+        "amount": 41990,
+        "currency": "TRY",
+        "formatted": "₺419,90",
+        "compareAt": 48459,
+        "compareAtFormatted": "₺484,59",
+        "discountPercentage": 13.35,
+        "savings": 6469,
+        "savingsFormatted": "₺64,69"
+      },
+      "currency": "TRY",
+      "rating": 3.4,
+      "reviewCount": 2,
+      "stock": 88,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/62"
+      }
+    },
+    {
+      "id": 63,
+      "sku": "AUR-KIT-AUR-0063",
+      "title": "Baharatlık",
+      "slug": "spice-rack",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 106916,
+        "compareAtFormatted": "₺1.069,16",
+        "discountPercentage": 12.09,
+        "savings": 12926,
+        "savingsFormatted": "₺129,26"
+      },
+      "currency": "TRY",
+      "rating": 4.87,
+      "reviewCount": 5,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni",
+        "çok satan"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/63"
+      }
+    },
+    {
+      "id": 64,
+      "sku": "AUR-KIT-AUR-0064",
+      "title": "Kaşık",
+      "slug": "spoon",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 23347,
+        "compareAtFormatted": "₺233,47",
+        "discountPercentage": 1.53,
+        "savings": 357,
+        "savingsFormatted": "₺3,57"
+      },
+      "currency": "TRY",
+      "rating": 4.03,
+      "reviewCount": 2,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/64"
+      }
+    },
+    {
+      "id": 65,
+      "sku": "AUR-KIT-AUR-0065",
+      "title": "Tepsi",
+      "slug": "tray",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 79990,
+      "price": {
+        "amount": 79990,
+        "currency": "TRY",
+        "formatted": "₺799,90",
+        "compareAt": 86457,
+        "compareAtFormatted": "₺864,57",
+        "discountPercentage": 7.48,
+        "savings": 6467,
+        "savingsFormatted": "₺64,67"
+      },
+      "currency": "TRY",
+      "rating": 4.62,
+      "reviewCount": 3,
+      "stock": 71,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/65"
+      }
+    },
+    {
+      "id": 66,
+      "sku": "AUR-KIT-AUR-0066",
+      "title": "Ahşap Oklava",
+      "slug": "wooden-rolling-pin",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 55990,
+      "price": {
+        "amount": 55990,
+        "currency": "TRY",
+        "formatted": "₺559,90",
+        "compareAt": 62039,
+        "compareAtFormatted": "₺620,39",
+        "discountPercentage": 9.75,
+        "savings": 6049,
+        "savingsFormatted": "₺60,49"
+      },
+      "currency": "TRY",
+      "rating": 2.92,
+      "reviewCount": 3,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/66"
+      }
+    },
+    {
+      "id": 67,
+      "sku": "AUR-KIT-AUR-0067",
+      "title": "Sarı Soyacak",
+      "slug": "yellow-peeler",
+      "brand": "Aurora Kitchen",
+      "category": "kitchen-accessories",
+      "categoryName": "Mutfak Gereçleri",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 31981,
+        "compareAtFormatted": "₺319,81",
+        "discountPercentage": 12.48,
+        "savings": 3991,
+        "savingsFormatted": "₺39,91"
+      },
+      "currency": "TRY",
+      "rating": 4.24,
+      "reviewCount": 5,
+      "stock": 35,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/67"
+      }
+    },
+    {
+      "id": 68,
+      "sku": "AUR-LAP-APP-0068",
+      "title": "Apple MacBook Pro 14 inç Uzay Grisi",
+      "slug": "apple-macbook-pro-14-inch-space-grey",
+      "brand": "Apple",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 9399900,
+      "price": {
+        "amount": 9399900,
+        "currency": "TRY",
+        "formatted": "₺93.999,00",
+        "compareAt": 9862449,
+        "compareAtFormatted": "₺98.624,49",
+        "discountPercentage": 4.69,
+        "savings": 462549,
+        "savingsFormatted": "₺4.625,49"
+      },
+      "currency": "TRY",
+      "rating": 3.65,
+      "reviewCount": 4,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/68"
+      }
+    },
+    {
+      "id": 69,
+      "sku": "AUR-LAP-ASU-0069",
+      "title": "Asus Zenbook Pro Çift Ekranlı Dizüstü",
+      "slug": "asus-zenbook-pro-dual-screen-laptop",
+      "brand": "Asus",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 8449900,
+      "price": {
+        "amount": 8449900,
+        "currency": "TRY",
+        "formatted": "₺84.499,00",
+        "compareAt": 9509228,
+        "compareAtFormatted": "₺95.092,28",
+        "discountPercentage": 11.14,
+        "savings": 1059328,
+        "savingsFormatted": "₺10.593,28"
+      },
+      "currency": "TRY",
+      "rating": 3.95,
+      "reviewCount": 5,
+      "stock": 45,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/69"
+      }
+    },
+    {
+      "id": 70,
+      "sku": "AUR-LAP-HUA-0070",
+      "title": "Huawei MateBook X Pro",
+      "slug": "huawei-matebook-x-pro",
+      "brand": "Huawei",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 6599900,
+      "price": {
+        "amount": 6599900,
+        "currency": "TRY",
+        "formatted": "₺65.999,00",
+        "compareAt": 7283050,
+        "compareAtFormatted": "₺72.830,50",
+        "discountPercentage": 9.38,
+        "savings": 683150,
+        "savingsFormatted": "₺6.831,50"
+      },
+      "currency": "TRY",
+      "rating": 4.98,
+      "reviewCount": 3,
+      "stock": 75,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/70"
+      }
+    },
+    {
+      "id": 71,
+      "sku": "AUR-LAP-LEN-0071",
+      "title": "Lenovo Yoga 920",
+      "slug": "lenovo-yoga-920",
+      "brand": "Lenovo",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 5149900,
+      "price": {
+        "amount": 5149900,
+        "currency": "TRY",
+        "formatted": "₺51.499,00",
+        "compareAt": 5510861,
+        "compareAtFormatted": "₺55.108,61",
+        "discountPercentage": 6.55,
+        "savings": 360961,
+        "savingsFormatted": "₺3.609,61"
+      },
+      "currency": "TRY",
+      "rating": 2.86,
+      "reviewCount": 5,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/71"
+      }
+    },
+    {
+      "id": 72,
+      "sku": "AUR-LAP-DEL-0072",
+      "title": "Dell XPS 13 9300 Dizüstü",
+      "slug": "new-dell-xps-13-9300-laptop",
+      "brand": "Dell",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 7049900,
+      "price": {
+        "amount": 7049900,
+        "currency": "TRY",
+        "formatted": "₺70.499,00",
+        "compareAt": 8001248,
+        "compareAtFormatted": "₺80.012,48",
+        "discountPercentage": 11.89,
+        "savings": 951348,
+        "savingsFormatted": "₺9.513,48"
+      },
+      "currency": "TRY",
+      "rating": 2.67,
+      "reviewCount": 3,
+      "stock": 74,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/72"
+      }
+    },
+    {
+      "id": 73,
+      "sku": "AUR-MEN-FAS-0073",
+      "title": "Mavi & Siyah Ekose Gömlek",
+      "slug": "blue-&-black-check-shirt",
+      "brand": "Fashion Trends",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 165375,
+        "compareAtFormatted": "₺1.653,75",
+        "discountPercentage": 15.35,
+        "savings": 25385,
+        "savingsFormatted": "₺253,85"
+      },
+      "currency": "TRY",
+      "rating": 3.64,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/73"
+      }
+    },
+    {
+      "id": 74,
+      "sku": "AUR-MEN-GIG-0074",
+      "title": "Gigabyte Aorus Erkek Tişört",
+      "slug": "gigabyte-aorus-men-tshirt",
+      "brand": "Gigabyte",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 116081,
+        "compareAtFormatted": "₺1.160,81",
+        "discountPercentage": 0.94,
+        "savings": 1091,
+        "savingsFormatted": "₺10,91"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 5,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/74"
+      }
+    },
+    {
+      "id": 75,
+      "sku": "AUR-MEN-CLA-0075",
+      "title": "Erkek Ekose Gömlek",
+      "slug": "man-plaid-shirt",
+      "brand": "Classic Wear",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 204957,
+        "compareAtFormatted": "₺2.049,57",
+        "discountPercentage": 19.5,
+        "savings": 39967,
+        "savingsFormatted": "₺399,67"
+      },
+      "currency": "TRY",
+      "rating": 3.46,
+      "reviewCount": 3,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/75"
+      }
+    },
+    {
+      "id": 76,
+      "sku": "AUR-MEN-CAS-0076",
+      "title": "Erkek Kısa Kollu Gömlek",
+      "slug": "man-short-sleeve-shirt",
+      "brand": "Casual Comfort",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 100880,
+        "compareAtFormatted": "₺1.008,80",
+        "discountPercentage": 6.83,
+        "savings": 6890,
+        "savingsFormatted": "₺68,90"
+      },
+      "currency": "TRY",
+      "rating": 2.9,
+      "reviewCount": 3,
+      "stock": 2,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/76"
+      }
+    },
+    {
+      "id": 77,
+      "sku": "AUR-MEN-URB-0077",
+      "title": "Erkek Kareli Gömlek",
+      "slug": "men-check-shirt",
+      "brand": "Urban Chic",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 129990,
+      "price": {
+        "amount": 129990,
+        "currency": "TRY",
+        "formatted": "₺1.299,90",
+        "compareAt": 146682,
+        "compareAtFormatted": "₺1.466,82",
+        "discountPercentage": 11.38,
+        "savings": 16692,
+        "savingsFormatted": "₺166,92"
+      },
+      "currency": "TRY",
+      "rating": 2.72,
+      "reviewCount": 2,
+      "stock": 95,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/77"
+      }
+    },
+    {
+      "id": 78,
+      "sku": "AUR-MEN-NIK-0078",
+      "title": "Nike Air Jordan 1 Kırmızı ve Siyah",
+      "slug": "nike-air-jordan-1-red-and-black",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 704990,
+      "price": {
+        "amount": 704990,
+        "currency": "TRY",
+        "formatted": "₺7.049,90",
+        "compareAt": 735284,
+        "compareAtFormatted": "₺7.352,84",
+        "discountPercentage": 4.12,
+        "savings": 30294,
+        "savingsFormatted": "₺302,94"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 4,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/78"
+      }
+    },
+    {
+      "id": 79,
+      "sku": "AUR-MEN-NIK-0079",
+      "title": "Nike Beyzbol Krampon",
+      "slug": "nike-baseball-cleats",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 374990,
+      "price": {
+        "amount": 374990,
+        "currency": "TRY",
+        "formatted": "₺3.749,90",
+        "compareAt": 457528,
+        "compareAtFormatted": "₺4.575,28",
+        "discountPercentage": 18.04,
+        "savings": 82538,
+        "savingsFormatted": "₺825,38"
+      },
+      "currency": "TRY",
+      "rating": 3.88,
+      "reviewCount": 3,
+      "stock": 12,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/79"
+      }
+    },
+    {
+      "id": 80,
+      "sku": "AUR-MEN-PUM-0080",
+      "title": "Puma Future Rider Spor Ayakkabı",
+      "slug": "puma-future-rider-trainers",
+      "brand": "Puma",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 443622,
+        "compareAtFormatted": "₺4.436,22",
+        "discountPercentage": 4.2,
+        "savings": 18632,
+        "savingsFormatted": "₺186,32"
+      },
+      "currency": "TRY",
+      "rating": 4.9,
+      "reviewCount": 4,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/80"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 4,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": true
+  },
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=4&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=5&pageSize=20",
+    "prev": "https://api.aurora-commerce.dev/v1/products?page=3&pageSize=20"
+  },
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}
