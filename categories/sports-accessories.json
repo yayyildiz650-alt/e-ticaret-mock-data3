@@ -1,0 +1,1039 @@
+{
+  "category": {
+    "slug": "sports-accessories",
+    "name": "Spor Aksesuarları",
+    "productCount": 26
+  },
+  "data": [
+    {
+      "id": 124,
+      "sku": "AUR-SPO-AUR-0124",
+      "title": "Amerikan Futbolu Topu",
+      "slug": "american-football",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 98864,
+        "compareAtFormatted": "₺988,64",
+        "discountPercentage": 4.93,
+        "savings": 4874,
+        "savingsFormatted": "₺48,74"
+      },
+      "currency": "TRY",
+      "rating": 4.91,
+      "reviewCount": 5,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni",
+        "çok satan"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/124"
+      }
+    },
+    {
+      "id": 125,
+      "sku": "AUR-SPO-AUR-0125",
+      "title": "Beyzbol Topu",
+      "slug": "baseball-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 41990,
+      "price": {
+        "amount": 41990,
+        "currency": "TRY",
+        "formatted": "₺419,90",
+        "compareAt": 42721,
+        "compareAtFormatted": "₺427,21",
+        "discountPercentage": 1.71,
+        "savings": 731,
+        "savingsFormatted": "₺7,31"
+      },
+      "currency": "TRY",
+      "rating": 2.57,
+      "reviewCount": 5,
+      "stock": 100,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/125"
+      }
+    },
+    {
+      "id": 126,
+      "sku": "AUR-SPO-AUR-0126",
+      "title": "Beyzbol Eldiveni",
+      "slug": "baseball-glove",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 118424,
+        "compareAtFormatted": "₺1.184,24",
+        "discountPercentage": 2.9,
+        "savings": 3434,
+        "savingsFormatted": "₺34,34"
+      },
+      "currency": "TRY",
+      "rating": 3.96,
+      "reviewCount": 6,
+      "stock": 22,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/126"
+      }
+    },
+    {
+      "id": 127,
+      "sku": "AUR-SPO-AUR-0127",
+      "title": "Basketbol Topu",
+      "slug": "basketball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 75616,
+        "compareAtFormatted": "₺756,16",
+        "discountPercentage": 7.44,
+        "savings": 5626,
+        "savingsFormatted": "₺56,26"
+      },
+      "currency": "TRY",
+      "rating": 4.66,
+      "reviewCount": 3,
+      "stock": 75,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/127"
+      }
+    },
+    {
+      "id": 128,
+      "sku": "AUR-SPO-AUR-0128",
+      "title": "Basketbol Potası Çemberi",
+      "slug": "basketball-rim",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 205929,
+        "compareAtFormatted": "₺2.059,29",
+        "discountPercentage": 7.74,
+        "savings": 15939,
+        "savingsFormatted": "₺159,39"
+      },
+      "currency": "TRY",
+      "rating": 4.6,
+      "reviewCount": 4,
+      "stock": 43,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/128"
+      }
+    },
+    {
+      "id": 129,
+      "sku": "AUR-SPO-AUR-0129",
+      "title": "Kriket Topu",
+      "slug": "cricket-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 66751,
+        "compareAtFormatted": "₺667,51",
+        "discountPercentage": 8.63,
+        "savings": 5761,
+        "savingsFormatted": "₺57,61"
+      },
+      "currency": "TRY",
+      "rating": 3.53,
+      "reviewCount": 3,
+      "stock": 30,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/129"
+      }
+    },
+    {
+      "id": 130,
+      "sku": "AUR-SPO-AUR-0130",
+      "title": "Kriket Sopası",
+      "slug": "cricket-bat",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 144752,
+        "compareAtFormatted": "₺1.447,52",
+        "discountPercentage": 3.29,
+        "savings": 4762,
+        "savingsFormatted": "₺47,62"
+      },
+      "currency": "TRY",
+      "rating": 3.17,
+      "reviewCount": 2,
+      "stock": 98,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/130"
+      }
+    },
+    {
+      "id": 131,
+      "sku": "AUR-SPO-AUR-0131",
+      "title": "Kriket Kaskı",
+      "slug": "cricket-helmet",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 209990,
+      "price": {
+        "amount": 209990,
+        "currency": "TRY",
+        "formatted": "₺2.099,90",
+        "compareAt": 232393,
+        "compareAtFormatted": "₺2.323,93",
+        "discountPercentage": 9.64,
+        "savings": 22403,
+        "savingsFormatted": "₺224,03"
+      },
+      "currency": "TRY",
+      "rating": 4.69,
+      "reviewCount": 2,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/131"
+      }
+    },
+    {
+      "id": 132,
+      "sku": "AUR-SPO-AUR-0132",
+      "title": "Kriket Kalesi",
+      "slug": "cricket-wicket",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 168521,
+        "compareAtFormatted": "₺1.685,21",
+        "discountPercentage": 16.93,
+        "savings": 28531,
+        "savingsFormatted": "₺285,31"
+      },
+      "currency": "TRY",
+      "rating": 4.73,
+      "reviewCount": 3,
+      "stock": 25,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/132"
+      }
+    },
+    {
+      "id": 133,
+      "sku": "AUR-SPO-AUR-0133",
+      "title": "Tüylü Badminton Topu",
+      "slug": "feather-shuttlecock",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 28841,
+        "compareAtFormatted": "₺288,41",
+        "discountPercentage": 2.95,
+        "savings": 851,
+        "savingsFormatted": "₺8,51"
+      },
+      "currency": "TRY",
+      "rating": 2.85,
+      "reviewCount": 4,
+      "stock": 95,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/133"
+      }
+    },
+    {
+      "id": 134,
+      "sku": "AUR-SPO-AUR-0134",
+      "title": "Futbol Topu",
+      "slug": "football",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 84990,
+      "price": {
+        "amount": 84990,
+        "currency": "TRY",
+        "formatted": "₺849,90",
+        "compareAt": 89605,
+        "compareAtFormatted": "₺896,05",
+        "discountPercentage": 5.15,
+        "savings": 4615,
+        "savingsFormatted": "₺46,15"
+      },
+      "currency": "TRY",
+      "rating": 3.28,
+      "reviewCount": 5,
+      "stock": 96,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/134"
+      }
+    },
+    {
+      "id": 135,
+      "sku": "AUR-SPO-AUR-0135",
+      "title": "Golf Topu",
+      "slug": "golf-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 56868,
+        "compareAtFormatted": "₺568,68",
+        "discountPercentage": 17.37,
+        "savings": 9878,
+        "savingsFormatted": "₺98,78"
+      },
+      "currency": "TRY",
+      "rating": 4.3,
+      "reviewCount": 5,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/135"
+      }
+    },
+    {
+      "id": 136,
+      "sku": "AUR-SPO-AUR-0136",
+      "title": "Golf Sopası (Demir)",
+      "slug": "iron-golf",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 251407,
+        "compareAtFormatted": "₺2.514,07",
+        "discountPercentage": 6.53,
+        "savings": 16417,
+        "savingsFormatted": "₺164,17"
+      },
+      "currency": "TRY",
+      "rating": 4.41,
+      "reviewCount": 6,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/136"
+      }
+    },
+    {
+      "id": 137,
+      "sku": "AUR-SPO-AUR-0137",
+      "title": "Metal Beyzbol Sopası",
+      "slug": "metal-baseball-bat",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 173922,
+        "compareAtFormatted": "₺1.739,22",
+        "discountPercentage": 19.51,
+        "savings": 33932,
+        "savingsFormatted": "₺339,32"
+      },
+      "currency": "TRY",
+      "rating": 4.66,
+      "reviewCount": 3,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/137"
+      }
+    },
+    {
+      "id": 138,
+      "sku": "AUR-SPO-AUR-0138",
+      "title": "Tenis Topu",
+      "slug": "tennis-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 37387,
+        "compareAtFormatted": "₺373,87",
+        "discountPercentage": 11.76,
+        "savings": 4397,
+        "savingsFormatted": "₺43,97"
+      },
+      "currency": "TRY",
+      "rating": 4.06,
+      "reviewCount": 5,
+      "stock": 28,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/138"
+      }
+    },
+    {
+      "id": 139,
+      "sku": "AUR-SPO-AUR-0139",
+      "title": "Tenis Raketi",
+      "slug": "tennis-racket",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 292312,
+        "compareAtFormatted": "₺2.923,12",
+        "discountPercentage": 19.61,
+        "savings": 57322,
+        "savingsFormatted": "₺573,22"
+      },
+      "currency": "TRY",
+      "rating": 4.03,
+      "reviewCount": 6,
+      "stock": 6,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/139"
+      }
+    },
+    {
+      "id": 140,
+      "sku": "AUR-SPO-AUR-0140",
+      "title": "Voleybol Topu",
+      "slug": "volleyball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 55990,
+      "price": {
+        "amount": 55990,
+        "currency": "TRY",
+        "formatted": "₺559,90",
+        "compareAt": 63806,
+        "compareAtFormatted": "₺638,06",
+        "discountPercentage": 12.25,
+        "savings": 7816,
+        "savingsFormatted": "₺78,16"
+      },
+      "currency": "TRY",
+      "rating": 3.84,
+      "reviewCount": 5,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "indirim",
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/140"
+      }
+    },
+    {
+      "id": 176,
+      "sku": "AUR-SPO-AUR-0176",
+      "title": "Modern Elektrikli Bisiklet",
+      "slug": "sleek-futuristic-electric-bicycle",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 6099900,
+      "price": {
+        "amount": 6099900,
+        "currency": "TRY",
+        "formatted": "₺60.999,00",
+        "compareAt": 7210284,
+        "compareAtFormatted": "₺72.102,84",
+        "discountPercentage": 15.4,
+        "savings": 1110384,
+        "savingsFormatted": "₺11.103,84"
+      },
+      "currency": "TRY",
+      "rating": 4.41,
+      "reviewCount": 3,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/BG8J0Fj.jpg",
+      "images": [
+        "https://i.imgur.com/BG8J0Fj.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/176"
+      }
+    },
+    {
+      "id": 177,
+      "sku": "AUR-SPO-AUR-0177",
+      "title": "Arazi Tipi Go-Kart",
+      "slug": "sleek-all-terrain-go-kart",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 3499900,
+      "price": {
+        "amount": 3499900,
+        "currency": "TRY",
+        "formatted": "₺34.999,00",
+        "compareAt": 3846044,
+        "compareAtFormatted": "₺38.460,44",
+        "discountPercentage": 9.0,
+        "savings": 346144,
+        "savingsFormatted": "₺3.461,44"
+      },
+      "currency": "TRY",
+      "rating": 3.43,
+      "reviewCount": 4,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Ex5x3IU.jpg",
+      "images": [
+        "https://i.imgur.com/Ex5x3IU.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/177"
+      }
+    },
+    {
+      "id": 314,
+      "sku": "AUR-SPO-AUR-0314",
+      "title": "Amerikan Futbolu Topu — 3'lü Paket",
+      "slug": "american-football",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 103389,
+      "price": {
+        "amount": 103389,
+        "currency": "TRY",
+        "formatted": "₺1.033,89",
+        "compareAt": 108750,
+        "compareAtFormatted": "₺1.087,50",
+        "discountPercentage": 4.93,
+        "savings": 5361,
+        "savingsFormatted": "₺53,61"
+      },
+      "currency": "TRY",
+      "rating": 4.96,
+      "reviewCount": 6,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+      ],
+      "variantOf": 124,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/314"
+      }
+    },
+    {
+      "id": 315,
+      "sku": "AUR-SPO-AUR-0315",
+      "title": "Beyzbol Topu — 3'lü Paket",
+      "slug": "baseball-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 48288,
+      "price": {
+        "amount": 48288,
+        "currency": "TRY",
+        "formatted": "₺482,88",
+        "compareAt": 49128,
+        "compareAtFormatted": "₺491,28",
+        "discountPercentage": 1.71,
+        "savings": 840,
+        "savingsFormatted": "₺8,40"
+      },
+      "currency": "TRY",
+      "rating": 2.5,
+      "reviewCount": 4,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+      ],
+      "variantOf": 125,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/315"
+      }
+    },
+    {
+      "id": 316,
+      "sku": "AUR-SPO-AUR-0316",
+      "title": "Beyzbol Eldiveni — 3'lü Paket",
+      "slug": "baseball-glove",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 126489,
+      "price": {
+        "amount": 126489,
+        "currency": "TRY",
+        "formatted": "₺1.264,89",
+        "compareAt": 130267,
+        "compareAtFormatted": "₺1.302,67",
+        "discountPercentage": 2.9,
+        "savings": 3778,
+        "savingsFormatted": "₺37,78"
+      },
+      "currency": "TRY",
+      "rating": 4.18,
+      "reviewCount": 4,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp"
+      ],
+      "variantOf": 126,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/316"
+      }
+    },
+    {
+      "id": 317,
+      "sku": "AUR-SPO-AUR-0317",
+      "title": "Basketbol Topu — 3'lü Paket",
+      "slug": "basketball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 62991,
+      "price": {
+        "amount": 62991,
+        "currency": "TRY",
+        "formatted": "₺629,91",
+        "compareAt": 68054,
+        "compareAtFormatted": "₺680,54",
+        "discountPercentage": 7.44,
+        "savings": 5063,
+        "savingsFormatted": "₺50,63"
+      },
+      "currency": "TRY",
+      "rating": 4.87,
+      "reviewCount": 4,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+      ],
+      "variantOf": 127,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/317"
+      }
+    },
+    {
+      "id": 318,
+      "sku": "AUR-SPO-AUR-0318",
+      "title": "Basketbol Potası Çemberi — 3'lü Paket",
+      "slug": "basketball-rim",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 218488,
+      "price": {
+        "amount": 218488,
+        "currency": "TRY",
+        "formatted": "₺2.184,88",
+        "compareAt": 236818,
+        "compareAtFormatted": "₺2.368,18",
+        "discountPercentage": 7.74,
+        "savings": 18330,
+        "savingsFormatted": "₺183,30"
+      },
+      "currency": "TRY",
+      "rating": 4.58,
+      "reviewCount": 6,
+      "stock": 61,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+      ],
+      "variantOf": 128,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/318"
+      }
+    },
+    {
+      "id": 319,
+      "sku": "AUR-SPO-AUR-0319",
+      "title": "Kriket Topu — 3'lü Paket",
+      "slug": "cricket-ball",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 66751,
+        "compareAtFormatted": "₺667,51",
+        "discountPercentage": 8.63,
+        "savings": 5761,
+        "savingsFormatted": "₺57,61"
+      },
+      "currency": "TRY",
+      "rating": 3.78,
+      "reviewCount": 4,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+      ],
+      "variantOf": 129,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/319"
+      }
+    },
+    {
+      "id": 320,
+      "sku": "AUR-SPO-AUR-0320",
+      "title": "Kriket Sopası — 3'lü Paket",
+      "slug": "cricket-bat",
+      "brand": "Aurora Sport",
+      "category": "sports-accessories",
+      "categoryName": "Spor Aksesuarları",
+      "unitPrice": 160988,
+      "price": {
+        "amount": 160988,
+        "currency": "TRY",
+        "formatted": "₺1.609,88",
+        "compareAt": 166465,
+        "compareAtFormatted": "₺1.664,65",
+        "discountPercentage": 3.29,
+        "savings": 5477,
+        "savingsFormatted": "₺54,77"
+      },
+      "currency": "TRY",
+      "rating": 3.24,
+      "reviewCount": 4,
+      "stock": 105,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+      ],
+      "variantOf": 130,
+      "variantLabel": "3'lü Paket",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/320"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 26,
+    "total": 26,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

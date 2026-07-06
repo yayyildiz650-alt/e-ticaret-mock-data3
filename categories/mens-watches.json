@@ -1,0 +1,488 @@
+{
+  "category": {
+    "slug": "mens-watches",
+    "name": "Erkek Saat",
+    "productCount": 12
+  },
+  "data": [
+    {
+      "id": 83,
+      "sku": "AUR-MEN-FAS-0083",
+      "title": "Kahverengi Deri Kayışlı Saat",
+      "slug": "brown-leather-belt-watch",
+      "brand": "Fashion Timepieces",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 452069,
+        "compareAtFormatted": "₺4.520,69",
+        "discountPercentage": 5.99,
+        "savings": 27079,
+        "savingsFormatted": "₺270,79"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 2,
+      "stock": 32,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/83"
+      }
+    },
+    {
+      "id": 84,
+      "sku": "AUR-MEN-LON-0084",
+      "title": "Longines Master Collection",
+      "slug": "longines-master-collection",
+      "brand": "Longines",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 7049900,
+      "price": {
+        "amount": 7049900,
+        "currency": "TRY",
+        "formatted": "₺70.499,00",
+        "compareAt": 8518487,
+        "compareAtFormatted": "₺85.184,87",
+        "discountPercentage": 17.24,
+        "savings": 1468587,
+        "savingsFormatted": "₺14.685,87"
+      },
+      "currency": "TRY",
+      "rating": 3.87,
+      "reviewCount": 6,
+      "stock": 100,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/84"
+      }
+    },
+    {
+      "id": 85,
+      "sku": "AUR-MEN-ROL-0085",
+      "title": "Rolex Cellini Date Siyah Kadran",
+      "slug": "rolex-cellini-date-black-dial",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 42299900,
+      "price": {
+        "amount": 42299900,
+        "currency": "TRY",
+        "formatted": "₺422.999,00",
+        "compareAt": 46422191,
+        "compareAtFormatted": "₺464.221,91",
+        "discountPercentage": 8.88,
+        "savings": 4122291,
+        "savingsFormatted": "₺41.222,91"
+      },
+      "currency": "TRY",
+      "rating": 4.97,
+      "reviewCount": 3,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/85"
+      }
+    },
+    {
+      "id": 86,
+      "sku": "AUR-MEN-ROL-0086",
+      "title": "Rolex Cellini Moonphase",
+      "slug": "rolex-cellini-moonphase",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 61099900,
+      "price": {
+        "amount": 61099900,
+        "currency": "TRY",
+        "formatted": "₺610.999,00",
+        "compareAt": 74078443,
+        "compareAtFormatted": "₺740.784,43",
+        "discountPercentage": 17.52,
+        "savings": 12978543,
+        "savingsFormatted": "₺129.785,43"
+      },
+      "currency": "TRY",
+      "rating": 2.58,
+      "reviewCount": 6,
+      "stock": 36,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/86"
+      }
+    },
+    {
+      "id": 87,
+      "sku": "AUR-MEN-ROL-0087",
+      "title": "Rolex Datejust",
+      "slug": "rolex-datejust",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 51699900,
+      "price": {
+        "amount": 51699900,
+        "currency": "TRY",
+        "formatted": "₺516.999,00",
+        "compareAt": 53703023,
+        "compareAtFormatted": "₺537.030,23",
+        "discountPercentage": 3.73,
+        "savings": 2003123,
+        "savingsFormatted": "₺20.031,23"
+      },
+      "currency": "TRY",
+      "rating": 3.66,
+      "reviewCount": 5,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/87"
+      }
+    },
+    {
+      "id": 88,
+      "sku": "AUR-MEN-ROL-0088",
+      "title": "Rolex Submariner Saat",
+      "slug": "rolex-submariner-watch",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 65799900,
+      "price": {
+        "amount": 65799900,
+        "currency": "TRY",
+        "formatted": "₺657.999,00",
+        "compareAt": 69299526,
+        "compareAtFormatted": "₺692.995,26",
+        "discountPercentage": 5.05,
+        "savings": 3499626,
+        "savingsFormatted": "₺34.996,26"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/88"
+      }
+    },
+    {
+      "id": 273,
+      "sku": "AUR-MEN-FAS-0273",
+      "title": "Kahverengi Deri Kayışlı Saat — Çelik Kordon",
+      "slug": "brown-leather-belt-watch",
+      "brand": "Fashion Timepieces",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 488738,
+      "price": {
+        "amount": 488738,
+        "currency": "TRY",
+        "formatted": "₺4.887,38",
+        "compareAt": 519879,
+        "compareAtFormatted": "₺5.198,79",
+        "discountPercentage": 5.99,
+        "savings": 31141,
+        "savingsFormatted": "₺311,41"
+      },
+      "currency": "TRY",
+      "rating": 4.32,
+      "reviewCount": 4,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+      ],
+      "variantOf": 83,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/273"
+      }
+    },
+    {
+      "id": 274,
+      "sku": "AUR-MEN-LON-0274",
+      "title": "Longines Master Collection — Çelik Kordon",
+      "slug": "longines-master-collection",
+      "brand": "Longines",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 8107385,
+      "price": {
+        "amount": 8107385,
+        "currency": "TRY",
+        "formatted": "₺81.073,85",
+        "compareAt": 9796260,
+        "compareAtFormatted": "₺97.962,60",
+        "discountPercentage": 17.24,
+        "savings": 1688875,
+        "savingsFormatted": "₺16.888,75"
+      },
+      "currency": "TRY",
+      "rating": 3.89,
+      "reviewCount": 4,
+      "stock": 103,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp"
+      ],
+      "variantOf": 84,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/274"
+      }
+    },
+    {
+      "id": 275,
+      "sku": "AUR-MEN-ROL-0275",
+      "title": "Rolex Cellini Date Siyah Kadran — Çelik Kordon",
+      "slug": "rolex-cellini-date-black-dial",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 42299900,
+      "price": {
+        "amount": 42299900,
+        "currency": "TRY",
+        "formatted": "₺422.999,00",
+        "compareAt": 46422191,
+        "compareAtFormatted": "₺464.221,91",
+        "discountPercentage": 8.88,
+        "savings": 4122291,
+        "savingsFormatted": "₺41.222,91"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp"
+      ],
+      "variantOf": 85,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/275"
+      }
+    },
+    {
+      "id": 276,
+      "sku": "AUR-MEN-ROL-0276",
+      "title": "Rolex Cellini Moonphase — Çelik Kordon",
+      "slug": "rolex-cellini-moonphase",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 61099900,
+      "price": {
+        "amount": 61099900,
+        "currency": "TRY",
+        "formatted": "₺610.999,00",
+        "compareAt": 74078443,
+        "compareAtFormatted": "₺740.784,43",
+        "discountPercentage": 17.52,
+        "savings": 12978543,
+        "savingsFormatted": "₺129.785,43"
+      },
+      "currency": "TRY",
+      "rating": 2.67,
+      "reviewCount": 5,
+      "stock": 42,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp"
+      ],
+      "variantOf": 86,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/276"
+      }
+    },
+    {
+      "id": 277,
+      "sku": "AUR-MEN-ROL-0277",
+      "title": "Rolex Datejust — Çelik Kordon",
+      "slug": "rolex-datejust",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 56869890,
+      "price": {
+        "amount": 56869890,
+        "currency": "TRY",
+        "formatted": "₺568.698,90",
+        "compareAt": 59073325,
+        "compareAtFormatted": "₺590.733,25",
+        "discountPercentage": 3.73,
+        "savings": 2203435,
+        "savingsFormatted": "₺22.034,35"
+      },
+      "currency": "TRY",
+      "rating": 3.59,
+      "reviewCount": 3,
+      "stock": 110,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp"
+      ],
+      "variantOf": 87,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/277"
+      }
+    },
+    {
+      "id": 278,
+      "sku": "AUR-MEN-ROL-0278",
+      "title": "Rolex Submariner Saat — Çelik Kordon",
+      "slug": "rolex-submariner-watch",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 65799900,
+      "price": {
+        "amount": 65799900,
+        "currency": "TRY",
+        "formatted": "₺657.999,00",
+        "compareAt": 69299526,
+        "compareAtFormatted": "₺692.995,26",
+        "discountPercentage": 5.05,
+        "savings": 3499626,
+        "savingsFormatted": "₺34.996,26"
+      },
+      "currency": "TRY",
+      "rating": 2.47,
+      "reviewCount": 4,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+      ],
+      "variantOf": 88,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/278"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 12,
+    "total": 12,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

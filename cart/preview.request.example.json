@@ -1,0 +1,17 @@
+{
+  "customerId": 1,
+  "lines": [
+    {
+      "productId": 108,
+      "quantity": 2
+    },
+    {
+      "productId": 154,
+      "quantity": 1
+    },
+    {
+      "productId": 38,
+      "quantity": 3
+    }
+  ]
+}

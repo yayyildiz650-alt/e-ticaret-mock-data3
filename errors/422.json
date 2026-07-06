@@ -1,0 +1,5 @@
+{
+  "error": "invalid_request",
+  "status": 422,
+  "message": "İstek gövdesi doğrulamadan geçemedi."
+}

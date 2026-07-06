@@ -1,0 +1,485 @@
+{
+  "category": {
+    "slug": "laptops",
+    "name": "Dizüstü Bilgisayarlar",
+    "productCount": 12
+  },
+  "data": [
+    {
+      "id": 68,
+      "sku": "AUR-LAP-APP-0068",
+      "title": "Apple MacBook Pro 14 inç Uzay Grisi",
+      "slug": "apple-macbook-pro-14-inch-space-grey",
+      "brand": "Apple",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 9399900,
+      "price": {
+        "amount": 9399900,
+        "currency": "TRY",
+        "formatted": "₺93.999,00",
+        "compareAt": 9862449,
+        "compareAtFormatted": "₺98.624,49",
+        "discountPercentage": 4.69,
+        "savings": 462549,
+        "savingsFormatted": "₺4.625,49"
+      },
+      "currency": "TRY",
+      "rating": 3.65,
+      "reviewCount": 4,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/68"
+      }
+    },
+    {
+      "id": 69,
+      "sku": "AUR-LAP-ASU-0069",
+      "title": "Asus Zenbook Pro Çift Ekranlı Dizüstü",
+      "slug": "asus-zenbook-pro-dual-screen-laptop",
+      "brand": "Asus",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 8449900,
+      "price": {
+        "amount": 8449900,
+        "currency": "TRY",
+        "formatted": "₺84.499,00",
+        "compareAt": 9509228,
+        "compareAtFormatted": "₺95.092,28",
+        "discountPercentage": 11.14,
+        "savings": 1059328,
+        "savingsFormatted": "₺10.593,28"
+      },
+      "currency": "TRY",
+      "rating": 3.95,
+      "reviewCount": 5,
+      "stock": 45,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/69"
+      }
+    },
+    {
+      "id": 70,
+      "sku": "AUR-LAP-HUA-0070",
+      "title": "Huawei MateBook X Pro",
+      "slug": "huawei-matebook-x-pro",
+      "brand": "Huawei",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 6599900,
+      "price": {
+        "amount": 6599900,
+        "currency": "TRY",
+        "formatted": "₺65.999,00",
+        "compareAt": 7283050,
+        "compareAtFormatted": "₺72.830,50",
+        "discountPercentage": 9.38,
+        "savings": 683150,
+        "savingsFormatted": "₺6.831,50"
+      },
+      "currency": "TRY",
+      "rating": 4.98,
+      "reviewCount": 3,
+      "stock": 75,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/70"
+      }
+    },
+    {
+      "id": 71,
+      "sku": "AUR-LAP-LEN-0071",
+      "title": "Lenovo Yoga 920",
+      "slug": "lenovo-yoga-920",
+      "brand": "Lenovo",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 5149900,
+      "price": {
+        "amount": 5149900,
+        "currency": "TRY",
+        "formatted": "₺51.499,00",
+        "compareAt": 5510861,
+        "compareAtFormatted": "₺55.108,61",
+        "discountPercentage": 6.55,
+        "savings": 360961,
+        "savingsFormatted": "₺3.609,61"
+      },
+      "currency": "TRY",
+      "rating": 2.86,
+      "reviewCount": 5,
+      "stock": 40,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/71"
+      }
+    },
+    {
+      "id": 72,
+      "sku": "AUR-LAP-DEL-0072",
+      "title": "Dell XPS 13 9300 Dizüstü",
+      "slug": "new-dell-xps-13-9300-laptop",
+      "brand": "Dell",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 7049900,
+      "price": {
+        "amount": 7049900,
+        "currency": "TRY",
+        "formatted": "₺70.499,00",
+        "compareAt": 8001248,
+        "compareAtFormatted": "₺80.012,48",
+        "discountPercentage": 11.89,
+        "savings": 951348,
+        "savingsFormatted": "₺9.513,48"
+      },
+      "currency": "TRY",
+      "rating": 2.67,
+      "reviewCount": 3,
+      "stock": 74,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/72"
+      }
+    },
+    {
+      "id": 160,
+      "sku": "AUR-LAP-AUR-0160",
+      "title": "Ortam Işıklı Modern Dizüstü Bilgisayar",
+      "slug": "sleek-modern-laptop-with-ambient-lighting",
+      "brand": "Aurora",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 4249900,
+      "price": {
+        "amount": 4249900,
+        "currency": "TRY",
+        "formatted": "₺42.499,00",
+        "compareAt": 4378632,
+        "compareAtFormatted": "₺43.786,32",
+        "discountPercentage": 2.94,
+        "savings": 128732,
+        "savingsFormatted": "₺1.287,32"
+      },
+      "currency": "TRY",
+      "rating": 3.52,
+      "reviewCount": 5,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/OKn1KFI.jpeg",
+      "images": [
+        "https://i.imgur.com/OKn1KFI.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/160"
+      }
+    },
+    {
+      "id": 161,
+      "sku": "AUR-LAP-AUR-0161",
+      "title": "Profesyoneller için Modern Dizüstü Bilgisayar",
+      "slug": "sleek-modern-laptop-for-professionals",
+      "brand": "Aurora",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 5149900,
+      "price": {
+        "amount": 5149900,
+        "currency": "TRY",
+        "formatted": "₺51.499,00",
+        "compareAt": 5858150,
+        "compareAtFormatted": "₺58.581,50",
+        "discountPercentage": 12.09,
+        "savings": 708250,
+        "savingsFormatted": "₺7.082,50"
+      },
+      "currency": "TRY",
+      "rating": 4.52,
+      "reviewCount": 4,
+      "stock": 44,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/ItHcq7o.jpeg",
+      "images": [
+        "https://i.imgur.com/ItHcq7o.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/161"
+      }
+    },
+    {
+      "id": 258,
+      "sku": "AUR-LAP-APP-0258",
+      "title": "Apple MacBook Pro 14 inç Uzay Grisi — 16GB / 512GB",
+      "slug": "apple-macbook-pro-14-inch-space-grey",
+      "brand": "Apple",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 8459910,
+      "price": {
+        "amount": 8459910,
+        "currency": "TRY",
+        "formatted": "₺84.599,10",
+        "compareAt": 8876204,
+        "compareAtFormatted": "₺88.762,04",
+        "discountPercentage": 4.69,
+        "savings": 416294,
+        "savingsFormatted": "₺4.162,94"
+      },
+      "currency": "TRY",
+      "rating": 3.46,
+      "reviewCount": 6,
+      "stock": 41,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+      ],
+      "variantOf": 68,
+      "variantLabel": "16GB / 512GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/258"
+      }
+    },
+    {
+      "id": 259,
+      "sku": "AUR-LAP-ASU-0259",
+      "title": "Asus Zenbook Pro Çift Ekranlı Dizüstü — 16GB / 512GB",
+      "slug": "asus-zenbook-pro-dual-screen-laptop",
+      "brand": "Asus",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 7604910,
+      "price": {
+        "amount": 7604910,
+        "currency": "TRY",
+        "formatted": "₺76.049,10",
+        "compareAt": 8558305,
+        "compareAtFormatted": "₺85.583,05",
+        "discountPercentage": 11.14,
+        "savings": 953395,
+        "savingsFormatted": "₺9.533,95"
+      },
+      "currency": "TRY",
+      "rating": 4.1,
+      "reviewCount": 3,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+      ],
+      "variantOf": 69,
+      "variantLabel": "16GB / 512GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/259"
+      }
+    },
+    {
+      "id": 260,
+      "sku": "AUR-LAP-HUA-0260",
+      "title": "Huawei MateBook X Pro — 16GB / 512GB",
+      "slug": "huawei-matebook-x-pro",
+      "brand": "Huawei",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 5939910,
+      "price": {
+        "amount": 5939910,
+        "currency": "TRY",
+        "formatted": "₺59.399,10",
+        "compareAt": 6554745,
+        "compareAtFormatted": "₺65.547,45",
+        "discountPercentage": 9.38,
+        "savings": 614835,
+        "savingsFormatted": "₺6.148,35"
+      },
+      "currency": "TRY",
+      "rating": 4.87,
+      "reviewCount": 2,
+      "stock": 93,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp"
+      ],
+      "variantOf": 70,
+      "variantLabel": "16GB / 512GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/260"
+      }
+    },
+    {
+      "id": 261,
+      "sku": "AUR-LAP-LEN-0261",
+      "title": "Lenovo Yoga 920 — 16GB / 512GB",
+      "slug": "lenovo-yoga-920",
+      "brand": "Lenovo",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 4634910,
+      "price": {
+        "amount": 4634910,
+        "currency": "TRY",
+        "formatted": "₺46.349,10",
+        "compareAt": 4959775,
+        "compareAtFormatted": "₺49.597,75",
+        "discountPercentage": 6.55,
+        "savings": 324865,
+        "savingsFormatted": "₺3.248,65"
+      },
+      "currency": "TRY",
+      "rating": 2.84,
+      "reviewCount": 6,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp"
+      ],
+      "variantOf": 71,
+      "variantLabel": "16GB / 512GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/261"
+      }
+    },
+    {
+      "id": 262,
+      "sku": "AUR-LAP-DEL-0262",
+      "title": "Dell XPS 13 9300 Dizüstü — 16GB / 512GB",
+      "slug": "new-dell-xps-13-9300-laptop",
+      "brand": "Dell",
+      "category": "laptops",
+      "categoryName": "Dizüstü Bilgisayarlar",
+      "unitPrice": 6344910,
+      "price": {
+        "amount": 6344910,
+        "currency": "TRY",
+        "formatted": "₺63.449,10",
+        "compareAt": 7201124,
+        "compareAtFormatted": "₺72.011,24",
+        "discountPercentage": 11.89,
+        "savings": 856214,
+        "savingsFormatted": "₺8.562,14"
+      },
+      "currency": "TRY",
+      "rating": 2.43,
+      "reviewCount": 3,
+      "stock": 95,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp"
+      ],
+      "variantOf": 72,
+      "variantLabel": "16GB / 512GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/262"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 12,
+    "total": 12,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

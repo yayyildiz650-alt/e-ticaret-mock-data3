@@ -1,0 +1,2139 @@
+{
+  "category": {
+    "slug": "groceries",
+    "name": "Market",
+    "productCount": 54
+  },
+  "data": [
+    {
+      "id": 6,
+      "sku": "AUR-GRO-AUR-0006",
+      "title": "Elma",
+      "slug": "apple",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 10288,
+        "compareAtFormatted": "₺102,88",
+        "discountPercentage": 12.62,
+        "savings": 1298,
+        "savingsFormatted": "₺12,98"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 6,
+      "stock": 8,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/6"
+      }
+    },
+    {
+      "id": 7,
+      "sku": "AUR-GRO-AUR-0007",
+      "title": "Dana Biftek",
+      "slug": "beef-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 67474,
+        "compareAtFormatted": "₺674,74",
+        "discountPercentage": 9.61,
+        "savings": 6484,
+        "savingsFormatted": "₺64,84"
+      },
+      "currency": "TRY",
+      "rating": 4.47,
+      "reviewCount": 4,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/7"
+      }
+    },
+    {
+      "id": 8,
+      "sku": "AUR-GRO-AUR-0008",
+      "title": "Kedi Maması",
+      "slug": "cat-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 41990,
+      "price": {
+        "amount": 41990,
+        "currency": "TRY",
+        "formatted": "₺419,90",
+        "compareAt": 46439,
+        "compareAtFormatted": "₺464,39",
+        "discountPercentage": 9.58,
+        "savings": 4449,
+        "savingsFormatted": "₺44,49"
+      },
+      "currency": "TRY",
+      "rating": 3.13,
+      "reviewCount": 4,
+      "stock": 46,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/8"
+      }
+    },
+    {
+      "id": 9,
+      "sku": "AUR-GRO-AUR-0009",
+      "title": "Tavuk Eti",
+      "slug": "chicken-meat",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 54450,
+        "compareAtFormatted": "₺544,50",
+        "discountPercentage": 13.7,
+        "savings": 7460,
+        "savingsFormatted": "₺74,60"
+      },
+      "currency": "TRY",
+      "rating": 3.19,
+      "reviewCount": 6,
+      "stock": 97,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/9"
+      }
+    },
+    {
+      "id": 10,
+      "sku": "AUR-GRO-AUR-0010",
+      "title": "Sıvı Yağ",
+      "slug": "cooking-oil",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 25356,
+        "compareAtFormatted": "₺253,56",
+        "discountPercentage": 9.33,
+        "savings": 2366,
+        "savingsFormatted": "₺23,66"
+      },
+      "currency": "TRY",
+      "rating": 4.8,
+      "reviewCount": 4,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/10"
+      }
+    },
+    {
+      "id": 11,
+      "sku": "AUR-GRO-AUR-0011",
+      "title": "Salatalık",
+      "slug": "cucumber",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 6990,
+      "price": {
+        "amount": 6990,
+        "currency": "TRY",
+        "formatted": "₺69,90",
+        "compareAt": 7001,
+        "compareAtFormatted": "₺70,01",
+        "discountPercentage": 0.16,
+        "savings": 11,
+        "savingsFormatted": "₺0,11"
+      },
+      "currency": "TRY",
+      "rating": 4.07,
+      "reviewCount": 4,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/11"
+      }
+    },
+    {
+      "id": 12,
+      "sku": "AUR-GRO-AUR-0012",
+      "title": "Köpek Maması",
+      "slug": "dog-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 51990,
+      "price": {
+        "amount": 51990,
+        "currency": "TRY",
+        "formatted": "₺519,90",
+        "compareAt": 57940,
+        "compareAtFormatted": "₺579,40",
+        "discountPercentage": 10.27,
+        "savings": 5950,
+        "savingsFormatted": "₺59,50"
+      },
+      "currency": "TRY",
+      "rating": 4.55,
+      "reviewCount": 4,
+      "stock": 71,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/12"
+      }
+    },
+    {
+      "id": 13,
+      "sku": "AUR-GRO-AUR-0013",
+      "title": "Yumurta",
+      "slug": "eggs",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 13990,
+      "price": {
+        "amount": 13990,
+        "currency": "TRY",
+        "formatted": "₺139,90",
+        "compareAt": 15728,
+        "compareAtFormatted": "₺157,28",
+        "discountPercentage": 11.05,
+        "savings": 1738,
+        "savingsFormatted": "₺17,38"
+      },
+      "currency": "TRY",
+      "rating": 2.53,
+      "reviewCount": 5,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/13"
+      }
+    },
+    {
+      "id": 14,
+      "sku": "AUR-GRO-AUR-0014",
+      "title": "Balık Fileto",
+      "slug": "fish-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 73081,
+        "compareAtFormatted": "₺730,81",
+        "discountPercentage": 4.23,
+        "savings": 3091,
+        "savingsFormatted": "₺30,91"
+      },
+      "currency": "TRY",
+      "rating": 3.78,
+      "reviewCount": 4,
+      "stock": 74,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/14"
+      }
+    },
+    {
+      "id": 15,
+      "sku": "AUR-GRO-AUR-0015",
+      "title": "Yeşil Dolmalık Biber",
+      "slug": "green-bell-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 5990,
+      "price": {
+        "amount": 5990,
+        "currency": "TRY",
+        "formatted": "₺59,90",
+        "compareAt": 6000,
+        "compareAtFormatted": "₺60,00",
+        "discountPercentage": 0.16,
+        "savings": 10,
+        "savingsFormatted": "₺0,10"
+      },
+      "currency": "TRY",
+      "rating": 3.25,
+      "reviewCount": 2,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/15"
+      }
+    },
+    {
+      "id": 16,
+      "sku": "AUR-GRO-AUR-0016",
+      "title": "Yeşil Acı Biber",
+      "slug": "green-chili-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5040,
+        "compareAtFormatted": "₺50,40",
+        "discountPercentage": 1.0,
+        "savings": 50,
+        "savingsFormatted": "₺0,50"
+      },
+      "currency": "TRY",
+      "rating": 3.66,
+      "reviewCount": 3,
+      "stock": 3,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/16"
+      }
+    },
+    {
+      "id": 17,
+      "sku": "AUR-GRO-AUR-0017",
+      "title": "Bal Kavanozu",
+      "slug": "honey-jar",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 38540,
+        "compareAtFormatted": "₺385,40",
+        "discountPercentage": 14.4,
+        "savings": 5550,
+        "savingsFormatted": "₺55,50"
+      },
+      "currency": "TRY",
+      "rating": 3.97,
+      "reviewCount": 3,
+      "stock": 34,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/17"
+      }
+    },
+    {
+      "id": 18,
+      "sku": "AUR-GRO-AUR-0018",
+      "title": "Dondurma",
+      "slug": "ice-cream",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 25990,
+      "price": {
+        "amount": 25990,
+        "currency": "TRY",
+        "formatted": "₺259,90",
+        "compareAt": 28463,
+        "compareAtFormatted": "₺284,63",
+        "discountPercentage": 8.69,
+        "savings": 2473,
+        "savingsFormatted": "₺24,73"
+      },
+      "currency": "TRY",
+      "rating": 3.39,
+      "reviewCount": 2,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/18"
+      }
+    },
+    {
+      "id": 19,
+      "sku": "AUR-GRO-AUR-0019",
+      "title": "Meyve Suyu",
+      "slug": "juice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 21594,
+        "compareAtFormatted": "₺215,94",
+        "discountPercentage": 12.06,
+        "savings": 2604,
+        "savingsFormatted": "₺26,04"
+      },
+      "currency": "TRY",
+      "rating": 3.94,
+      "reviewCount": 4,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/19"
+      }
+    },
+    {
+      "id": 20,
+      "sku": "AUR-GRO-AUR-0020",
+      "title": "Kivi",
+      "slug": "kiwi",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 11990,
+      "price": {
+        "amount": 11990,
+        "currency": "TRY",
+        "formatted": "₺119,90",
+        "compareAt": 14142,
+        "compareAtFormatted": "₺141,42",
+        "discountPercentage": 15.22,
+        "savings": 2152,
+        "savingsFormatted": "₺21,52"
+      },
+      "currency": "TRY",
+      "rating": 4.93,
+      "reviewCount": 4,
+      "stock": 99,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/20"
+      }
+    },
+    {
+      "id": 21,
+      "sku": "AUR-GRO-AUR-0021",
+      "title": "Limon",
+      "slug": "lemon",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 3990,
+      "price": {
+        "amount": 3990,
+        "currency": "TRY",
+        "formatted": "₺39,90",
+        "compareAt": 4419,
+        "compareAtFormatted": "₺44,19",
+        "discountPercentage": 9.7,
+        "savings": 429,
+        "savingsFormatted": "₺4,29"
+      },
+      "currency": "TRY",
+      "rating": 3.53,
+      "reviewCount": 4,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/21"
+      }
+    },
+    {
+      "id": 22,
+      "sku": "AUR-GRO-AUR-0022",
+      "title": "Süt",
+      "slug": "milk",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 15990,
+      "price": {
+        "amount": 15990,
+        "currency": "TRY",
+        "formatted": "₺159,90",
+        "compareAt": 18537,
+        "compareAtFormatted": "₺185,37",
+        "discountPercentage": 13.74,
+        "savings": 2547,
+        "savingsFormatted": "₺25,47"
+      },
+      "currency": "TRY",
+      "rating": 2.61,
+      "reviewCount": 5,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/22"
+      }
+    },
+    {
+      "id": 23,
+      "sku": "AUR-GRO-AUR-0023",
+      "title": "Dut",
+      "slug": "mulberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 26386,
+        "compareAtFormatted": "₺263,86",
+        "discountPercentage": 12.87,
+        "savings": 3396,
+        "savingsFormatted": "₺33,96"
+      },
+      "currency": "TRY",
+      "rating": 4.95,
+      "reviewCount": 4,
+      "stock": 99,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/23"
+      }
+    },
+    {
+      "id": 24,
+      "sku": "AUR-GRO-AUR-0024",
+      "title": "Nescafe Kahve",
+      "slug": "nescafe-coffee",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 37990,
+      "price": {
+        "amount": 37990,
+        "currency": "TRY",
+        "formatted": "₺379,90",
+        "compareAt": 38604,
+        "compareAtFormatted": "₺386,04",
+        "discountPercentage": 1.59,
+        "savings": 614,
+        "savingsFormatted": "₺6,14"
+      },
+      "currency": "TRY",
+      "rating": 4.82,
+      "reviewCount": 6,
+      "stock": 57,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/24"
+      }
+    },
+    {
+      "id": 25,
+      "sku": "AUR-GRO-AUR-0025",
+      "title": "Patates",
+      "slug": "potatoes",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 10990,
+      "price": {
+        "amount": 10990,
+        "currency": "TRY",
+        "formatted": "₺109,90",
+        "compareAt": 11615,
+        "compareAtFormatted": "₺116,15",
+        "discountPercentage": 5.38,
+        "savings": 625,
+        "savingsFormatted": "₺6,25"
+      },
+      "currency": "TRY",
+      "rating": 4.81,
+      "reviewCount": 4,
+      "stock": 13,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/25"
+      }
+    },
+    {
+      "id": 26,
+      "sku": "AUR-GRO-AUR-0026",
+      "title": "Protein Tozu",
+      "slug": "protein-powder",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 101710,
+        "compareAtFormatted": "₺1.017,10",
+        "discountPercentage": 7.59,
+        "savings": 7720,
+        "savingsFormatted": "₺77,20"
+      },
+      "currency": "TRY",
+      "rating": 4.18,
+      "reviewCount": 2,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/26"
+      }
+    },
+    {
+      "id": 27,
+      "sku": "AUR-GRO-AUR-0027",
+      "title": "Kırmızı Soğan",
+      "slug": "red-onions",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 9978,
+        "compareAtFormatted": "₺99,78",
+        "discountPercentage": 9.9,
+        "savings": 988,
+        "savingsFormatted": "₺9,88"
+      },
+      "currency": "TRY",
+      "rating": 4.2,
+      "reviewCount": 5,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/27"
+      }
+    },
+    {
+      "id": 28,
+      "sku": "AUR-GRO-AUR-0028",
+      "title": "Pirinç",
+      "slug": "rice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 27990,
+      "price": {
+        "amount": 27990,
+        "currency": "TRY",
+        "formatted": "₺279,90",
+        "compareAt": 30857,
+        "compareAtFormatted": "₺308,57",
+        "discountPercentage": 9.29,
+        "savings": 2867,
+        "savingsFormatted": "₺28,67"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 4,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/28"
+      }
+    },
+    {
+      "id": 29,
+      "sku": "AUR-GRO-AUR-0029",
+      "title": "Gazlı İçecek",
+      "slug": "soft-drinks",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 10894,
+        "compareAtFormatted": "₺108,94",
+        "discountPercentage": 17.48,
+        "savings": 1904,
+        "savingsFormatted": "₺19,04"
+      },
+      "currency": "TRY",
+      "rating": 4.75,
+      "reviewCount": 3,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/29"
+      }
+    },
+    {
+      "id": 30,
+      "sku": "AUR-GRO-AUR-0030",
+      "title": "Çilek",
+      "slug": "strawberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 19205,
+        "compareAtFormatted": "₺192,05",
+        "discountPercentage": 1.12,
+        "savings": 215,
+        "savingsFormatted": "₺2,15"
+      },
+      "currency": "TRY",
+      "rating": 3.08,
+      "reviewCount": 6,
+      "stock": 46,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/30"
+      }
+    },
+    {
+      "id": 31,
+      "sku": "AUR-GRO-AUR-0031",
+      "title": "Kutu Peçete",
+      "slug": "tissue-paper-box",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 11990,
+      "price": {
+        "amount": 11990,
+        "currency": "TRY",
+        "formatted": "₺119,90",
+        "compareAt": 13826,
+        "compareAtFormatted": "₺138,26",
+        "discountPercentage": 13.28,
+        "savings": 1836,
+        "savingsFormatted": "₺18,36"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 6,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/31"
+      }
+    },
+    {
+      "id": 32,
+      "sku": "AUR-GRO-AUR-0032",
+      "title": "Su",
+      "slug": "water",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5865,
+        "compareAtFormatted": "₺58,65",
+        "discountPercentage": 14.92,
+        "savings": 875,
+        "savingsFormatted": "₺8,75"
+      },
+      "currency": "TRY",
+      "rating": 4.96,
+      "reviewCount": 2,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/32"
+      }
+    },
+    {
+      "id": 196,
+      "sku": "AUR-GRO-AUR-0196",
+      "title": "Elma — Aile Boyu",
+      "slug": "apple",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 10338,
+      "price": {
+        "amount": 10338,
+        "currency": "TRY",
+        "formatted": "₺103,38",
+        "compareAt": 11831,
+        "compareAtFormatted": "₺118,31",
+        "discountPercentage": 12.62,
+        "savings": 1493,
+        "savingsFormatted": "₺14,93"
+      },
+      "currency": "TRY",
+      "rating": 4.43,
+      "reviewCount": 4,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "indirim",
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "variantOf": 6,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/196"
+      }
+    },
+    {
+      "id": 197,
+      "sku": "AUR-GRO-AUR-0197",
+      "title": "Dana Biftek — Aile Boyu",
+      "slug": "beef-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 67089,
+      "price": {
+        "amount": 67089,
+        "currency": "TRY",
+        "formatted": "₺670,89",
+        "compareAt": 74222,
+        "compareAtFormatted": "₺742,22",
+        "discountPercentage": 9.61,
+        "savings": 7133,
+        "savingsFormatted": "₺71,33"
+      },
+      "currency": "TRY",
+      "rating": 4.59,
+      "reviewCount": 6,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "variantOf": 7,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/197"
+      }
+    },
+    {
+      "id": 198,
+      "sku": "AUR-GRO-AUR-0198",
+      "title": "Kedi Maması — Aile Boyu",
+      "slug": "cat-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 48288,
+      "price": {
+        "amount": 48288,
+        "currency": "TRY",
+        "formatted": "₺482,88",
+        "compareAt": 53404,
+        "compareAtFormatted": "₺534,04",
+        "discountPercentage": 9.58,
+        "savings": 5116,
+        "savingsFormatted": "₺51,16"
+      },
+      "currency": "TRY",
+      "rating": 3.32,
+      "reviewCount": 3,
+      "stock": 64,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "variantOf": 8,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/198"
+      }
+    },
+    {
+      "id": 199,
+      "sku": "AUR-GRO-AUR-0199",
+      "title": "Tavuk Eti — Aile Boyu",
+      "slug": "chicken-meat",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 54038,
+      "price": {
+        "amount": 54038,
+        "currency": "TRY",
+        "formatted": "₺540,38",
+        "compareAt": 62616,
+        "compareAtFormatted": "₺626,16",
+        "discountPercentage": 13.7,
+        "savings": 8578,
+        "savingsFormatted": "₺85,78"
+      },
+      "currency": "TRY",
+      "rating": 3.27,
+      "reviewCount": 2,
+      "stock": 109,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+      ],
+      "variantOf": 9,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/199"
+      }
+    },
+    {
+      "id": 200,
+      "sku": "AUR-GRO-AUR-0200",
+      "title": "Sıvı Yağ — Aile Boyu",
+      "slug": "cooking-oil",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 25289,
+      "price": {
+        "amount": 25289,
+        "currency": "TRY",
+        "formatted": "₺252,89",
+        "compareAt": 27891,
+        "compareAtFormatted": "₺278,91",
+        "discountPercentage": 9.33,
+        "savings": 2602,
+        "savingsFormatted": "₺26,02"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 3,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "variantOf": 10,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/200"
+      }
+    },
+    {
+      "id": 201,
+      "sku": "AUR-GRO-AUR-0201",
+      "title": "Salatalık — Aile Boyu",
+      "slug": "cucumber",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 7689,
+      "price": {
+        "amount": 7689,
+        "currency": "TRY",
+        "formatted": "₺76,89",
+        "compareAt": 7701,
+        "compareAtFormatted": "₺77,01",
+        "discountPercentage": 0.16,
+        "savings": 12,
+        "savingsFormatted": "₺0,12"
+      },
+      "currency": "TRY",
+      "rating": 3.91,
+      "reviewCount": 2,
+      "stock": 72,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+      ],
+      "variantOf": 11,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/201"
+      }
+    },
+    {
+      "id": 202,
+      "sku": "AUR-GRO-AUR-0202",
+      "title": "Köpek Maması — Aile Boyu",
+      "slug": "dog-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 51990,
+      "price": {
+        "amount": 51990,
+        "currency": "TRY",
+        "formatted": "₺519,90",
+        "compareAt": 57940,
+        "compareAtFormatted": "₺579,40",
+        "discountPercentage": 10.27,
+        "savings": 5950,
+        "savingsFormatted": "₺59,50"
+      },
+      "currency": "TRY",
+      "rating": 4.51,
+      "reviewCount": 4,
+      "stock": 78,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+      ],
+      "variantOf": 12,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/202"
+      }
+    },
+    {
+      "id": 203,
+      "sku": "AUR-GRO-AUR-0203",
+      "title": "Yumurta — Aile Boyu",
+      "slug": "eggs",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 12591,
+      "price": {
+        "amount": 12591,
+        "currency": "TRY",
+        "formatted": "₺125,91",
+        "compareAt": 14155,
+        "compareAtFormatted": "₺141,55",
+        "discountPercentage": 11.05,
+        "savings": 1564,
+        "savingsFormatted": "₺15,64"
+      },
+      "currency": "TRY",
+      "rating": 2.75,
+      "reviewCount": 3,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+      ],
+      "variantOf": 13,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/203"
+      }
+    },
+    {
+      "id": 204,
+      "sku": "AUR-GRO-AUR-0204",
+      "title": "Balık Fileto — Aile Boyu",
+      "slug": "fish-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 80488,
+      "price": {
+        "amount": 80488,
+        "currency": "TRY",
+        "formatted": "₺804,88",
+        "compareAt": 84043,
+        "compareAtFormatted": "₺840,43",
+        "discountPercentage": 4.23,
+        "savings": 3555,
+        "savingsFormatted": "₺35,55"
+      },
+      "currency": "TRY",
+      "rating": 4.04,
+      "reviewCount": 6,
+      "stock": 78,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+      ],
+      "variantOf": 14,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/204"
+      }
+    },
+    {
+      "id": 205,
+      "sku": "AUR-GRO-AUR-0205",
+      "title": "Yeşil Dolmalık Biber — Aile Boyu",
+      "slug": "green-bell-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 6589,
+      "price": {
+        "amount": 6589,
+        "currency": "TRY",
+        "formatted": "₺65,89",
+        "compareAt": 6600,
+        "compareAtFormatted": "₺66,00",
+        "discountPercentage": 0.16,
+        "savings": 11,
+        "savingsFormatted": "₺0,11"
+      },
+      "currency": "TRY",
+      "rating": 3.5,
+      "reviewCount": 4,
+      "stock": 19,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+      ],
+      "variantOf": 15,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/205"
+      }
+    },
+    {
+      "id": 206,
+      "sku": "AUR-GRO-AUR-0206",
+      "title": "Yeşil Acı Biber — Aile Boyu",
+      "slug": "green-chili-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 5738,
+      "price": {
+        "amount": 5738,
+        "currency": "TRY",
+        "formatted": "₺57,38",
+        "compareAt": 5796,
+        "compareAtFormatted": "₺57,96",
+        "discountPercentage": 1.0,
+        "savings": 58,
+        "savingsFormatted": "₺0,58"
+      },
+      "currency": "TRY",
+      "rating": 3.73,
+      "reviewCount": 4,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+      ],
+      "variantOf": 16,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/206"
+      }
+    },
+    {
+      "id": 207,
+      "sku": "AUR-GRO-AUR-0207",
+      "title": "Bal Kavanozu — Aile Boyu",
+      "slug": "honey-jar",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 38540,
+        "compareAtFormatted": "₺385,40",
+        "discountPercentage": 14.4,
+        "savings": 5550,
+        "savingsFormatted": "₺55,50"
+      },
+      "currency": "TRY",
+      "rating": 4.05,
+      "reviewCount": 3,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+      ],
+      "variantOf": 17,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/207"
+      }
+    },
+    {
+      "id": 208,
+      "sku": "AUR-GRO-AUR-0208",
+      "title": "Dondurma — Aile Boyu",
+      "slug": "ice-cream",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 23391,
+      "price": {
+        "amount": 23391,
+        "currency": "TRY",
+        "formatted": "₺233,91",
+        "compareAt": 25617,
+        "compareAtFormatted": "₺256,17",
+        "discountPercentage": 8.69,
+        "savings": 2226,
+        "savingsFormatted": "₺22,26"
+      },
+      "currency": "TRY",
+      "rating": 3.14,
+      "reviewCount": 3,
+      "stock": 44,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+      ],
+      "variantOf": 18,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/208"
+      }
+    },
+    {
+      "id": 209,
+      "sku": "AUR-GRO-AUR-0209",
+      "title": "Meyve Suyu — Aile Boyu",
+      "slug": "juice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 21594,
+        "compareAtFormatted": "₺215,94",
+        "discountPercentage": 12.06,
+        "savings": 2604,
+        "savingsFormatted": "₺26,04"
+      },
+      "currency": "TRY",
+      "rating": 3.95,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+      ],
+      "variantOf": 19,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/209"
+      }
+    },
+    {
+      "id": 210,
+      "sku": "AUR-GRO-AUR-0210",
+      "title": "Kivi — Aile Boyu",
+      "slug": "kiwi",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 11990,
+      "price": {
+        "amount": 11990,
+        "currency": "TRY",
+        "formatted": "₺119,90",
+        "compareAt": 14142,
+        "compareAtFormatted": "₺141,42",
+        "discountPercentage": 15.22,
+        "savings": 2152,
+        "savingsFormatted": "₺21,52"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 3,
+      "stock": 120,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+      ],
+      "variantOf": 20,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/210"
+      }
+    },
+    {
+      "id": 211,
+      "sku": "AUR-GRO-AUR-0211",
+      "title": "Limon — Aile Boyu",
+      "slug": "lemon",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4588,
+      "price": {
+        "amount": 4588,
+        "currency": "TRY",
+        "formatted": "₺45,88",
+        "compareAt": 5081,
+        "compareAtFormatted": "₺50,81",
+        "discountPercentage": 9.7,
+        "savings": 493,
+        "savingsFormatted": "₺4,93"
+      },
+      "currency": "TRY",
+      "rating": 3.31,
+      "reviewCount": 2,
+      "stock": 22,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+      ],
+      "variantOf": 21,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/211"
+      }
+    },
+    {
+      "id": 212,
+      "sku": "AUR-GRO-AUR-0212",
+      "title": "Süt — Aile Boyu",
+      "slug": "milk",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 17589,
+      "price": {
+        "amount": 17589,
+        "currency": "TRY",
+        "formatted": "₺175,89",
+        "compareAt": 20391,
+        "compareAtFormatted": "₺203,91",
+        "discountPercentage": 13.74,
+        "savings": 2802,
+        "savingsFormatted": "₺28,02"
+      },
+      "currency": "TRY",
+      "rating": 2.66,
+      "reviewCount": 6,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+      ],
+      "variantOf": 22,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/212"
+      }
+    },
+    {
+      "id": 213,
+      "sku": "AUR-GRO-AUR-0213",
+      "title": "Dut — Aile Boyu",
+      "slug": "mulberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 26386,
+        "compareAtFormatted": "₺263,86",
+        "discountPercentage": 12.87,
+        "savings": 3396,
+        "savingsFormatted": "₺33,96"
+      },
+      "currency": "TRY",
+      "rating": 4.96,
+      "reviewCount": 6,
+      "stock": 111,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+      ],
+      "variantOf": 23,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/213"
+      }
+    },
+    {
+      "id": 214,
+      "sku": "AUR-GRO-AUR-0214",
+      "title": "Nescafe Kahve — Aile Boyu",
+      "slug": "nescafe-coffee",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 43688,
+      "price": {
+        "amount": 43688,
+        "currency": "TRY",
+        "formatted": "₺436,88",
+        "compareAt": 44394,
+        "compareAtFormatted": "₺443,94",
+        "discountPercentage": 1.59,
+        "savings": 706,
+        "savingsFormatted": "₺7,06"
+      },
+      "currency": "TRY",
+      "rating": 4.68,
+      "reviewCount": 3,
+      "stock": 73,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+      ],
+      "variantOf": 24,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/214"
+      }
+    },
+    {
+      "id": 215,
+      "sku": "AUR-GRO-AUR-0215",
+      "title": "Patates — Aile Boyu",
+      "slug": "potatoes",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 9891,
+      "price": {
+        "amount": 9891,
+        "currency": "TRY",
+        "formatted": "₺98,91",
+        "compareAt": 10453,
+        "compareAtFormatted": "₺104,53",
+        "discountPercentage": 5.38,
+        "savings": 562,
+        "savingsFormatted": "₺5,62"
+      },
+      "currency": "TRY",
+      "rating": 4.89,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+      ],
+      "variantOf": 25,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/215"
+      }
+    },
+    {
+      "id": 216,
+      "sku": "AUR-GRO-AUR-0216",
+      "title": "Protein Tozu — Aile Boyu",
+      "slug": "protein-powder",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 84591,
+      "price": {
+        "amount": 84591,
+        "currency": "TRY",
+        "formatted": "₺845,91",
+        "compareAt": 91539,
+        "compareAtFormatted": "₺915,39",
+        "discountPercentage": 7.59,
+        "savings": 6948,
+        "savingsFormatted": "₺69,48"
+      },
+      "currency": "TRY",
+      "rating": 4.29,
+      "reviewCount": 6,
+      "stock": 91,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+      ],
+      "variantOf": 26,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/216"
+      }
+    },
+    {
+      "id": 217,
+      "sku": "AUR-GRO-AUR-0217",
+      "title": "Kırmızı Soğan — Aile Boyu",
+      "slug": "red-onions",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 9889,
+      "price": {
+        "amount": 9889,
+        "currency": "TRY",
+        "formatted": "₺98,89",
+        "compareAt": 10976,
+        "compareAtFormatted": "₺109,76",
+        "discountPercentage": 9.9,
+        "savings": 1087,
+        "savingsFormatted": "₺10,87"
+      },
+      "currency": "TRY",
+      "rating": 4.15,
+      "reviewCount": 5,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+      ],
+      "variantOf": 27,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/217"
+      }
+    },
+    {
+      "id": 218,
+      "sku": "AUR-GRO-AUR-0218",
+      "title": "Pirinç — Aile Boyu",
+      "slug": "rice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 30789,
+      "price": {
+        "amount": 30789,
+        "currency": "TRY",
+        "formatted": "₺307,89",
+        "compareAt": 33942,
+        "compareAtFormatted": "₺339,42",
+        "discountPercentage": 9.29,
+        "savings": 3153,
+        "savingsFormatted": "₺31,53"
+      },
+      "currency": "TRY",
+      "rating": 3.13,
+      "reviewCount": 6,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+      ],
+      "variantOf": 28,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/218"
+      }
+    },
+    {
+      "id": 219,
+      "sku": "AUR-GRO-AUR-0219",
+      "title": "Gazlı İçecek — Aile Boyu",
+      "slug": "soft-drinks",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 10338,
+      "price": {
+        "amount": 10338,
+        "currency": "TRY",
+        "formatted": "₺103,38",
+        "compareAt": 12528,
+        "compareAtFormatted": "₺125,28",
+        "discountPercentage": 17.48,
+        "savings": 2190,
+        "savingsFormatted": "₺21,90"
+      },
+      "currency": "TRY",
+      "rating": 4.58,
+      "reviewCount": 5,
+      "stock": 43,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+      ],
+      "variantOf": 29,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/219"
+      }
+    },
+    {
+      "id": 220,
+      "sku": "AUR-GRO-AUR-0220",
+      "title": "Çilek — Aile Boyu",
+      "slug": "strawberry",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 21838,
+      "price": {
+        "amount": 21838,
+        "currency": "TRY",
+        "formatted": "₺218,38",
+        "compareAt": 22085,
+        "compareAtFormatted": "₺220,85",
+        "discountPercentage": 1.12,
+        "savings": 247,
+        "savingsFormatted": "₺2,47"
+      },
+      "currency": "TRY",
+      "rating": 3.03,
+      "reviewCount": 4,
+      "stock": 47,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+      ],
+      "variantOf": 30,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/220"
+      }
+    },
+    {
+      "id": 221,
+      "sku": "AUR-GRO-AUR-0221",
+      "title": "Kutu Peçete — Aile Boyu",
+      "slug": "tissue-paper-box",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 13788,
+      "price": {
+        "amount": 13788,
+        "currency": "TRY",
+        "formatted": "₺137,88",
+        "compareAt": 15899,
+        "compareAtFormatted": "₺158,99",
+        "discountPercentage": 13.28,
+        "savings": 2111,
+        "savingsFormatted": "₺21,11"
+      },
+      "currency": "TRY",
+      "rating": 2.84,
+      "reviewCount": 6,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+      ],
+      "variantOf": 31,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/221"
+      }
+    },
+    {
+      "id": 222,
+      "sku": "AUR-GRO-AUR-0222",
+      "title": "Su — Aile Boyu",
+      "slug": "water",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5865,
+        "compareAtFormatted": "₺58,65",
+        "discountPercentage": 14.92,
+        "savings": 875,
+        "savingsFormatted": "₺8,75"
+      },
+      "currency": "TRY",
+      "rating": 4.83,
+      "reviewCount": 5,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+      ],
+      "variantOf": 32,
+      "variantLabel": "Aile Boyu",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/222"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 54,
+    "total": 54,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

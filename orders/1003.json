@@ -1,0 +1,54 @@
+{
+  "orderId": 1003,
+  "status": "teslim edildi",
+  "currency": "TRY",
+  "customerId": 1,
+  "customerEmail": "demo@aurora.test",
+  "items": [
+    {
+      "productId": 38,
+      "sku": "AUR-KIT-AUR-0038",
+      "name": "Bambu Spatula",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "quantity": 1,
+      "unitPrice": 37990,
+      "unitPriceFormatted": "₺379,90",
+      "lineTotal": 37990,
+      "lineTotalFormatted": "₺379,90"
+    }
+  ],
+  "subtotal": 37990,
+  "subtotalFormatted": "₺379,90",
+  "shipping": 4990,
+  "shippingFormatted": "₺49,90",
+  "tax": 7598,
+  "taxFormatted": "₺75,98",
+  "total": 50578,
+  "totalFormatted": "₺505,78",
+  "itemCount": 1,
+  "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+  "shippingAddress": {
+    "name": "Demo Müşteri",
+    "line1": "Aurora Caddesi No:123",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "country": "Türkiye",
+    "postalCode": "34000"
+  },
+  "timeline": [
+    {
+      "status": "beklemede",
+      "at": "2026-06-20T11:47:55.000Z"
+    },
+    {
+      "status": "teslim edildi",
+      "at": "2026-06-20T11:47:55.000Z"
+    }
+  ],
+  "createdAt": "2026-06-20T11:47:55.000Z",
+  "updatedAt": "2026-06-20T11:47:55.000Z",
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/orders/1003",
+    "receipt": "https://api.aurora-commerce.dev/v1/orders/1003/receipt"
+  }
+}

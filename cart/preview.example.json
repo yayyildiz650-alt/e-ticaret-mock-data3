@@ -1,0 +1,61 @@
+{
+  "currency": "TRY",
+  "lines": [
+    {
+      "productId": 108,
+      "sku": "AUR-SMA-APP-0108",
+      "name": "iPhone 5s",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "unitPrice": 939990,
+      "unitPriceFormatted": "₺9.399,90",
+      "quantity": 2,
+      "lineTotal": 1879980,
+      "lineTotalFormatted": "₺18.799,80",
+      "inStock": true,
+      "stock": 25
+    },
+    {
+      "productId": 154,
+      "sku": "AUR-ELE-AUR-0154",
+      "name": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+      "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+      "unitPrice": 324990,
+      "unitPriceFormatted": "₺3.249,90",
+      "quantity": 1,
+      "lineTotal": 324990,
+      "lineTotalFormatted": "₺3.249,90",
+      "inStock": true,
+      "stock": 26
+    },
+    {
+      "productId": 38,
+      "sku": "AUR-KIT-AUR-0038",
+      "name": "Bambu Spatula",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "unitPrice": 37990,
+      "unitPriceFormatted": "₺379,90",
+      "quantity": 3,
+      "lineTotal": 113970,
+      "lineTotalFormatted": "₺1.139,70",
+      "inStock": true,
+      "stock": 37
+    }
+  ],
+  "subtotal": 2318940,
+  "subtotalFormatted": "₺23.189,40",
+  "shipping": 0,
+  "shippingFormatted": "₺0,00",
+  "tax": 463788,
+  "taxFormatted": "₺4.637,88",
+  "taxRate": 0.2,
+  "taxLabel": "KDV %20",
+  "discount": 0,
+  "discountFormatted": "₺0,00",
+  "total": 2782728,
+  "totalFormatted": "₺27.827,28",
+  "itemCount": 6,
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "note": "Yalnızca önizleme — stok düşülmez. Kesin sonuç /checkout adımında oluşur."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "error": "invalid_request",
+  "status": 422,
+  "message": "Sepet satırları geçersiz.",
+  "details": [
+    {
+      "field": "lines[0].quantity",
+      "reason": "0'dan büyük olmalı"
+    }
+  ]
+}

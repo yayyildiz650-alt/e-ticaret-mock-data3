@@ -1,0 +1,5 @@
+{
+  "error": "rate_limited",
+  "status": 429,
+  "message": "Çok fazla istek. Lütfen biraz yavaşlayın."
+}

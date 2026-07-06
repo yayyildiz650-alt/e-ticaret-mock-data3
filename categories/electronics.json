@@ -1,0 +1,257 @@
+{
+  "category": {
+    "slug": "electronics",
+    "name": "Elektronik",
+    "productCount": 6
+  },
+  "data": [
+    {
+      "id": 154,
+      "sku": "AUR-ELE-AUR-0154",
+      "title": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+      "slug": "sleek-white-&-orange-wireless-gaming-controller",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 324990,
+      "price": {
+        "amount": 324990,
+        "currency": "TRY",
+        "formatted": "₺3.249,90",
+        "compareAt": 380684,
+        "compareAtFormatted": "₺3.806,84",
+        "discountPercentage": 14.63,
+        "savings": 55694,
+        "savingsFormatted": "₺556,94"
+      },
+      "currency": "TRY",
+      "rating": 4.39,
+      "reviewCount": 6,
+      "stock": 26,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+      "images": [
+        "https://i.imgur.com/ZANVnHE.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/154"
+      }
+    },
+    {
+      "id": 155,
+      "sku": "AUR-ELE-AUR-0155",
+      "title": "Kablosuz Kulaklık & Kulakiçi Seti",
+      "slug": "sleek-wireless-headphone-&-earbud-set",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 204990,
+      "price": {
+        "amount": 204990,
+        "currency": "TRY",
+        "formatted": "₺2.049,90",
+        "compareAt": 210181,
+        "compareAtFormatted": "₺2.101,81",
+        "discountPercentage": 2.47,
+        "savings": 5191,
+        "savingsFormatted": "₺51,91"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 3,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/yVeIeDa.jpeg",
+      "images": [
+        "https://i.imgur.com/yVeIeDa.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/155"
+      }
+    },
+    {
+      "id": 156,
+      "sku": "AUR-ELE-AUR-0156",
+      "title": "Kablosuz Bilgisayar Faresi",
+      "slug": "sleek-wireless-computer-mouse",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 50971,
+        "compareAtFormatted": "₺509,71",
+        "discountPercentage": 7.81,
+        "savings": 3981,
+        "savingsFormatted": "₺39,81"
+      },
+      "currency": "TRY",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "stock": 15,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/w3Y8NwQ.jpeg",
+      "images": [
+        "https://i.imgur.com/w3Y8NwQ.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/156"
+      }
+    },
+    {
+      "id": 157,
+      "sku": "AUR-ELE-AUR-0157",
+      "title": "Kırmızı & Gümüş Kulak Üstü Kulaklık",
+      "slug": "stylish-red-&-silver-over-ear-headphones",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 184990,
+      "price": {
+        "amount": 184990,
+        "currency": "TRY",
+        "formatted": "₺1.849,90",
+        "compareAt": 187750,
+        "compareAtFormatted": "₺1.877,50",
+        "discountPercentage": 1.47,
+        "savings": 2760,
+        "savingsFormatted": "₺27,60"
+      },
+      "currency": "TRY",
+      "rating": 4.5,
+      "reviewCount": 5,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/YaSqa06.jpeg",
+      "images": [
+        "https://i.imgur.com/YaSqa06.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/157"
+      }
+    },
+    {
+      "id": 158,
+      "sku": "AUR-ELE-AUR-0158",
+      "title": "Ayna Görünümlü Telefon Kılıfı",
+      "slug": "sleek-mirror-finish-phone-case",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 124990,
+      "price": {
+        "amount": 124990,
+        "currency": "TRY",
+        "formatted": "₺1.249,90",
+        "compareAt": 132587,
+        "compareAtFormatted": "₺1.325,87",
+        "discountPercentage": 5.73,
+        "savings": 7597,
+        "savingsFormatted": "₺75,97"
+      },
+      "currency": "TRY",
+      "rating": 4.22,
+      "reviewCount": 4,
+      "stock": 13,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/yb9UQKL.jpeg",
+      "images": [
+        "https://i.imgur.com/yb9UQKL.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/158"
+      }
+    },
+    {
+      "id": 159,
+      "sku": "AUR-ELE-AUR-0159",
+      "title": "Canlı Ekranlı Akıllı Saat",
+      "slug": "sleek-smartwatch-with-vibrant-display",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 604990,
+      "price": {
+        "amount": 604990,
+        "currency": "TRY",
+        "formatted": "₺6.049,90",
+        "compareAt": 671540,
+        "compareAtFormatted": "₺6.715,40",
+        "discountPercentage": 9.91,
+        "savings": 66550,
+        "savingsFormatted": "₺665,50"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 5,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/LGk9Jn2.jpeg",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/159"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 6,
+    "total": 6,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

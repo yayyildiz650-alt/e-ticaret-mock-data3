@@ -1,0 +1,414 @@
+{
+  "category": {
+    "slug": "mens-shirts",
+    "name": "Erkek Gömlek",
+    "productCount": 10
+  },
+  "data": [
+    {
+      "id": 73,
+      "sku": "AUR-MEN-FAS-0073",
+      "title": "Mavi & Siyah Ekose Gömlek",
+      "slug": "blue-&-black-check-shirt",
+      "brand": "Fashion Trends",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 165375,
+        "compareAtFormatted": "₺1.653,75",
+        "discountPercentage": 15.35,
+        "savings": 25385,
+        "savingsFormatted": "₺253,85"
+      },
+      "currency": "TRY",
+      "rating": 3.64,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/73"
+      }
+    },
+    {
+      "id": 74,
+      "sku": "AUR-MEN-GIG-0074",
+      "title": "Gigabyte Aorus Erkek Tişört",
+      "slug": "gigabyte-aorus-men-tshirt",
+      "brand": "Gigabyte",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 116081,
+        "compareAtFormatted": "₺1.160,81",
+        "discountPercentage": 0.94,
+        "savings": 1091,
+        "savingsFormatted": "₺10,91"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 5,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/74"
+      }
+    },
+    {
+      "id": 75,
+      "sku": "AUR-MEN-CLA-0075",
+      "title": "Erkek Ekose Gömlek",
+      "slug": "man-plaid-shirt",
+      "brand": "Classic Wear",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 204957,
+        "compareAtFormatted": "₺2.049,57",
+        "discountPercentage": 19.5,
+        "savings": 39967,
+        "savingsFormatted": "₺399,67"
+      },
+      "currency": "TRY",
+      "rating": 3.46,
+      "reviewCount": 3,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/75"
+      }
+    },
+    {
+      "id": 76,
+      "sku": "AUR-MEN-CAS-0076",
+      "title": "Erkek Kısa Kollu Gömlek",
+      "slug": "man-short-sleeve-shirt",
+      "brand": "Casual Comfort",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 100880,
+        "compareAtFormatted": "₺1.008,80",
+        "discountPercentage": 6.83,
+        "savings": 6890,
+        "savingsFormatted": "₺68,90"
+      },
+      "currency": "TRY",
+      "rating": 2.9,
+      "reviewCount": 3,
+      "stock": 2,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/76"
+      }
+    },
+    {
+      "id": 77,
+      "sku": "AUR-MEN-URB-0077",
+      "title": "Erkek Kareli Gömlek",
+      "slug": "men-check-shirt",
+      "brand": "Urban Chic",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 129990,
+      "price": {
+        "amount": 129990,
+        "currency": "TRY",
+        "formatted": "₺1.299,90",
+        "compareAt": 146682,
+        "compareAtFormatted": "₺1.466,82",
+        "discountPercentage": 11.38,
+        "savings": 16692,
+        "savingsFormatted": "₺166,92"
+      },
+      "currency": "TRY",
+      "rating": 2.72,
+      "reviewCount": 2,
+      "stock": 95,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/77"
+      }
+    },
+    {
+      "id": 263,
+      "sku": "AUR-MEN-FAS-0263",
+      "title": "Mavi & Siyah Ekose Gömlek — Beden S",
+      "slug": "blue-&-black-check-shirt",
+      "brand": "Fashion Trends",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 160988,
+      "price": {
+        "amount": 160988,
+        "currency": "TRY",
+        "formatted": "₺1.609,88",
+        "compareAt": 190181,
+        "compareAtFormatted": "₺1.901,81",
+        "discountPercentage": 15.35,
+        "savings": 29193,
+        "savingsFormatted": "₺291,93"
+      },
+      "currency": "TRY",
+      "rating": 3.78,
+      "reviewCount": 4,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp"
+      ],
+      "variantOf": 73,
+      "variantLabel": "Beden S",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/263"
+      }
+    },
+    {
+      "id": 264,
+      "sku": "AUR-MEN-GIG-0264",
+      "title": "Gigabyte Aorus Erkek Tişört — Beden S",
+      "slug": "gigabyte-aorus-men-tshirt",
+      "brand": "Gigabyte",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 132238,
+      "price": {
+        "amount": 132238,
+        "currency": "TRY",
+        "formatted": "₺1.322,38",
+        "compareAt": 133493,
+        "compareAtFormatted": "₺1.334,93",
+        "discountPercentage": 0.94,
+        "savings": 1255,
+        "savingsFormatted": "₺12,55"
+      },
+      "currency": "TRY",
+      "rating": 3.04,
+      "reviewCount": 5,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp"
+      ],
+      "variantOf": 74,
+      "variantLabel": "Beden S",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/264"
+      }
+    },
+    {
+      "id": 265,
+      "sku": "AUR-MEN-CLA-0265",
+      "title": "Erkek Ekose Gömlek — Beden S",
+      "slug": "man-plaid-shirt",
+      "brand": "Classic Wear",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 181489,
+      "price": {
+        "amount": 181489,
+        "currency": "TRY",
+        "formatted": "₺1.814,89",
+        "compareAt": 225452,
+        "compareAtFormatted": "₺2.254,52",
+        "discountPercentage": 19.5,
+        "savings": 43963,
+        "savingsFormatted": "₺439,63"
+      },
+      "currency": "TRY",
+      "rating": 3.46,
+      "reviewCount": 3,
+      "stock": 68,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp"
+      ],
+      "variantOf": 75,
+      "variantLabel": "Beden S",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/265"
+      }
+    },
+    {
+      "id": 266,
+      "sku": "AUR-MEN-CAS-0266",
+      "title": "Erkek Kısa Kollu Gömlek — Beden S",
+      "slug": "man-short-sleeve-shirt",
+      "brand": "Casual Comfort",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 103389,
+      "price": {
+        "amount": 103389,
+        "currency": "TRY",
+        "formatted": "₺1.033,89",
+        "compareAt": 110968,
+        "compareAtFormatted": "₺1.109,68",
+        "discountPercentage": 6.83,
+        "savings": 7579,
+        "savingsFormatted": "₺75,79"
+      },
+      "currency": "TRY",
+      "rating": 3.14,
+      "reviewCount": 3,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+      ],
+      "variantOf": 76,
+      "variantLabel": "Beden S",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/266"
+      }
+    },
+    {
+      "id": 267,
+      "sku": "AUR-MEN-URB-0267",
+      "title": "Erkek Kareli Gömlek — Beden S",
+      "slug": "men-check-shirt",
+      "brand": "Urban Chic",
+      "category": "mens-shirts",
+      "categoryName": "Erkek Gömlek",
+      "unitPrice": 149488,
+      "price": {
+        "amount": 149488,
+        "currency": "TRY",
+        "formatted": "₺1.494,88",
+        "compareAt": 168684,
+        "compareAtFormatted": "₺1.686,84",
+        "discountPercentage": 11.38,
+        "savings": 19196,
+        "savingsFormatted": "₺191,96"
+      },
+      "currency": "TRY",
+      "rating": 2.77,
+      "reviewCount": 2,
+      "stock": 111,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp"
+      ],
+      "variantOf": 77,
+      "variantLabel": "Beden S",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/267"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 10,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

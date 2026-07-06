@@ -1,0 +1,5 @@
+{
+  "error": "internal_error",
+  "status": 500,
+  "message": "Sunucu tarafında bir hata oluştu."
+}

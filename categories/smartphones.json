@@ -1,0 +1,1286 @@
+{
+  "category": {
+    "slug": "smartphones",
+    "name": "Akıllı Telefonlar",
+    "productCount": 32
+  },
+  "data": [
+    {
+      "id": 108,
+      "sku": "AUR-SMA-APP-0108",
+      "title": "iPhone 5s",
+      "slug": "iphone-5s",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 939990,
+      "price": {
+        "amount": 939990,
+        "currency": "TRY",
+        "formatted": "₺9.399,90",
+        "compareAt": 1079332,
+        "compareAtFormatted": "₺10.793,32",
+        "discountPercentage": 12.91,
+        "savings": 139342,
+        "savingsFormatted": "₺1.393,42"
+      },
+      "currency": "TRY",
+      "rating": 2.83,
+      "reviewCount": 3,
+      "stock": 25,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/108"
+      }
+    },
+    {
+      "id": 109,
+      "sku": "AUR-SMA-APP-0109",
+      "title": "iPhone 6",
+      "slug": "iphone-6",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1511081,
+        "compareAtFormatted": "₺15.110,81",
+        "discountPercentage": 6.69,
+        "savings": 101091,
+        "savingsFormatted": "₺1.010,91"
+      },
+      "currency": "TRY",
+      "rating": 3.41,
+      "reviewCount": 4,
+      "stock": 60,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/109"
+      }
+    },
+    {
+      "id": 110,
+      "sku": "AUR-SMA-APP-0110",
+      "title": "iPhone 13 Pro",
+      "slug": "iphone-13-pro",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 5149900,
+      "price": {
+        "amount": 5149900,
+        "currency": "TRY",
+        "formatted": "₺51.499,00",
+        "compareAt": 5682335,
+        "compareAtFormatted": "₺56.823,35",
+        "discountPercentage": 9.37,
+        "savings": 532435,
+        "savingsFormatted": "₺5.324,35"
+      },
+      "currency": "TRY",
+      "rating": 4.12,
+      "reviewCount": 2,
+      "stock": 56,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/110"
+      }
+    },
+    {
+      "id": 111,
+      "sku": "AUR-SMA-APP-0111",
+      "title": "iPhone X",
+      "slug": "iphone-x",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 4249900,
+      "price": {
+        "amount": 4249900,
+        "currency": "TRY",
+        "formatted": "₺42.499,00",
+        "compareAt": 5285288,
+        "compareAtFormatted": "₺52.852,88",
+        "discountPercentage": 19.59,
+        "savings": 1035388,
+        "savingsFormatted": "₺10.353,88"
+      },
+      "currency": "TRY",
+      "rating": 2.51,
+      "reviewCount": 3,
+      "stock": 37,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/111"
+      }
+    },
+    {
+      "id": 112,
+      "sku": "AUR-SMA-OPP-0112",
+      "title": "Oppo A57",
+      "slug": "oppo-a57",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1174990,
+      "price": {
+        "amount": 1174990,
+        "currency": "TRY",
+        "formatted": "₺11.749,90",
+        "compareAt": 1204253,
+        "compareAtFormatted": "₺12.042,53",
+        "discountPercentage": 2.43,
+        "savings": 29263,
+        "savingsFormatted": "₺292,63"
+      },
+      "currency": "TRY",
+      "rating": 3.94,
+      "reviewCount": 3,
+      "stock": 19,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/112"
+      }
+    },
+    {
+      "id": 113,
+      "sku": "AUR-SMA-OPP-0113",
+      "title": "Oppo F19 Pro Plus",
+      "slug": "oppo-f19-pro-plus",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1879990,
+      "price": {
+        "amount": 1879990,
+        "currency": "TRY",
+        "formatted": "₺18.799,90",
+        "compareAt": 2310706,
+        "compareAtFormatted": "₺23.107,06",
+        "discountPercentage": 18.64,
+        "savings": 430716,
+        "savingsFormatted": "₺4.307,16"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 3,
+      "stock": 78,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/113"
+      }
+    },
+    {
+      "id": 114,
+      "sku": "AUR-SMA-OPP-0114",
+      "title": "Oppo K1",
+      "slug": "oppo-k1",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1725603,
+        "compareAtFormatted": "₺17.256,03",
+        "discountPercentage": 18.29,
+        "savings": 315613,
+        "savingsFormatted": "₺3.156,13"
+      },
+      "currency": "TRY",
+      "rating": 4.25,
+      "reviewCount": 4,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/114"
+      }
+    },
+    {
+      "id": 115,
+      "sku": "AUR-SMA-REA-0115",
+      "title": "Realme C35",
+      "slug": "realme-c35",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 704990,
+      "price": {
+        "amount": 704990,
+        "currency": "TRY",
+        "formatted": "₺7.049,90",
+        "compareAt": 832338,
+        "compareAtFormatted": "₺8.323,38",
+        "discountPercentage": 15.3,
+        "savings": 127348,
+        "savingsFormatted": "₺1.273,48"
+      },
+      "currency": "TRY",
+      "rating": 4.2,
+      "reviewCount": 4,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/115"
+      }
+    },
+    {
+      "id": 116,
+      "sku": "AUR-SMA-REA-0116",
+      "title": "Realme X",
+      "slug": "realme-x",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1515304,
+        "compareAtFormatted": "₺15.153,04",
+        "discountPercentage": 6.95,
+        "savings": 105314,
+        "savingsFormatted": "₺1.053,14"
+      },
+      "currency": "TRY",
+      "rating": 3.7,
+      "reviewCount": 5,
+      "stock": 12,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/116"
+      }
+    },
+    {
+      "id": 117,
+      "sku": "AUR-SMA-REA-0117",
+      "title": "Realme XT",
+      "slug": "realme-xt",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 1858956,
+        "compareAtFormatted": "₺18.589,56",
+        "discountPercentage": 11.51,
+        "savings": 213966,
+        "savingsFormatted": "₺2.139,66"
+      },
+      "currency": "TRY",
+      "rating": 4.58,
+      "reviewCount": 2,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni",
+        "çok satan"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/117"
+      }
+    },
+    {
+      "id": 118,
+      "sku": "AUR-SMA-SAM-0118",
+      "title": "Samsung Galaxy S7",
+      "slug": "samsung-galaxy-s7",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1752629,
+        "compareAtFormatted": "₺17.526,29",
+        "discountPercentage": 19.55,
+        "savings": 342639,
+        "savingsFormatted": "₺3.426,39"
+      },
+      "currency": "TRY",
+      "rating": 3.3,
+      "reviewCount": 4,
+      "stock": 67,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/118"
+      }
+    },
+    {
+      "id": 119,
+      "sku": "AUR-SMA-SAM-0119",
+      "title": "Samsung Galaxy S8",
+      "slug": "samsung-galaxy-s8",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2917318,
+        "compareAtFormatted": "₺29.173,18",
+        "discountPercentage": 19.45,
+        "savings": 567418,
+        "savingsFormatted": "₺5.674,18"
+      },
+      "currency": "TRY",
+      "rating": 4.4,
+      "reviewCount": 4,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "indirim",
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/119"
+      }
+    },
+    {
+      "id": 120,
+      "sku": "AUR-SMA-SAM-0120",
+      "title": "Samsung Galaxy S10",
+      "slug": "samsung-galaxy-s10",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 3299900,
+      "price": {
+        "amount": 3299900,
+        "currency": "TRY",
+        "formatted": "₺32.999,00",
+        "compareAt": 3495287,
+        "compareAtFormatted": "₺34.952,87",
+        "discountPercentage": 5.59,
+        "savings": 195387,
+        "savingsFormatted": "₺1.953,87"
+      },
+      "currency": "TRY",
+      "rating": 3.06,
+      "reviewCount": 2,
+      "stock": 19,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/120"
+      }
+    },
+    {
+      "id": 121,
+      "sku": "AUR-SMA-VIV-0121",
+      "title": "Vivo S1",
+      "slug": "vivo-s1",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1174990,
+      "price": {
+        "amount": 1174990,
+        "currency": "TRY",
+        "formatted": "₺11.749,90",
+        "compareAt": 1308015,
+        "compareAtFormatted": "₺13.080,15",
+        "discountPercentage": 10.17,
+        "savings": 133025,
+        "savingsFormatted": "₺1.330,25"
+      },
+      "currency": "TRY",
+      "rating": 3.5,
+      "reviewCount": 4,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/121"
+      }
+    },
+    {
+      "id": 122,
+      "sku": "AUR-SMA-VIV-0122",
+      "title": "Vivo V9",
+      "slug": "vivo-v9",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1712608,
+        "compareAtFormatted": "₺17.126,08",
+        "discountPercentage": 17.67,
+        "savings": 302618,
+        "savingsFormatted": "₺3.026,18"
+      },
+      "currency": "TRY",
+      "rating": 3.6,
+      "reviewCount": 3,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/122"
+      }
+    },
+    {
+      "id": 123,
+      "sku": "AUR-SMA-VIV-0123",
+      "title": "Vivo X21",
+      "slug": "vivo-x21",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2845260,
+        "compareAtFormatted": "₺28.452,60",
+        "discountPercentage": 17.41,
+        "savings": 495360,
+        "savingsFormatted": "₺4.953,60"
+      },
+      "currency": "TRY",
+      "rating": 4.26,
+      "reviewCount": 2,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/123"
+      }
+    },
+    {
+      "id": 298,
+      "sku": "AUR-SMA-APP-0298",
+      "title": "iPhone 5s — 128GB",
+      "slug": "iphone-5s",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1033989,
+      "price": {
+        "amount": 1033989,
+        "currency": "TRY",
+        "formatted": "₺10.339,89",
+        "compareAt": 1187265,
+        "compareAtFormatted": "₺11.872,65",
+        "discountPercentage": 12.91,
+        "savings": 153276,
+        "savingsFormatted": "₺1.532,76"
+      },
+      "currency": "TRY",
+      "rating": 2.7,
+      "reviewCount": 2,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp"
+      ],
+      "variantOf": 108,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/298"
+      }
+    },
+    {
+      "id": 299,
+      "sku": "AUR-SMA-APP-0299",
+      "title": "iPhone 6 — 128GB",
+      "slug": "iphone-6",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1550989,
+      "price": {
+        "amount": 1550989,
+        "currency": "TRY",
+        "formatted": "₺15.509,89",
+        "compareAt": 1662189,
+        "compareAtFormatted": "₺16.621,89",
+        "discountPercentage": 6.69,
+        "savings": 111200,
+        "savingsFormatted": "₺1.112,00"
+      },
+      "currency": "TRY",
+      "rating": 3.12,
+      "reviewCount": 6,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp"
+      ],
+      "variantOf": 109,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/299"
+      }
+    },
+    {
+      "id": 300,
+      "sku": "AUR-SMA-APP-0300",
+      "title": "iPhone 13 Pro — 128GB",
+      "slug": "iphone-13-pro",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 5664890,
+      "price": {
+        "amount": 5664890,
+        "currency": "TRY",
+        "formatted": "₺56.648,90",
+        "compareAt": 6250568,
+        "compareAtFormatted": "₺62.505,68",
+        "discountPercentage": 9.37,
+        "savings": 585678,
+        "savingsFormatted": "₺5.856,78"
+      },
+      "currency": "TRY",
+      "rating": 3.92,
+      "reviewCount": 5,
+      "stock": 67,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp"
+      ],
+      "variantOf": 110,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/300"
+      }
+    },
+    {
+      "id": 301,
+      "sku": "AUR-SMA-APP-0301",
+      "title": "iPhone X — 128GB",
+      "slug": "iphone-x",
+      "brand": "Apple",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 4249900,
+      "price": {
+        "amount": 4249900,
+        "currency": "TRY",
+        "formatted": "₺42.499,00",
+        "compareAt": 5285288,
+        "compareAtFormatted": "₺52.852,88",
+        "discountPercentage": 19.59,
+        "savings": 1035388,
+        "savingsFormatted": "₺10.353,88"
+      },
+      "currency": "TRY",
+      "rating": 2.5,
+      "reviewCount": 4,
+      "stock": 43,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp"
+      ],
+      "variantOf": 111,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/301"
+      }
+    },
+    {
+      "id": 302,
+      "sku": "AUR-SMA-OPP-0302",
+      "title": "Oppo A57 — 128GB",
+      "slug": "oppo-a57",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1057491,
+      "price": {
+        "amount": 1057491,
+        "currency": "TRY",
+        "formatted": "₺10.574,91",
+        "compareAt": 1083828,
+        "compareAtFormatted": "₺10.838,28",
+        "discountPercentage": 2.43,
+        "savings": 26337,
+        "savingsFormatted": "₺263,37"
+      },
+      "currency": "TRY",
+      "rating": 3.65,
+      "reviewCount": 2,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp"
+      ],
+      "variantOf": 112,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/302"
+      }
+    },
+    {
+      "id": 303,
+      "sku": "AUR-SMA-OPP-0303",
+      "title": "Oppo F19 Pro Plus — 128GB",
+      "slug": "oppo-f19-pro-plus",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2067989,
+      "price": {
+        "amount": 2067989,
+        "currency": "TRY",
+        "formatted": "₺20.679,89",
+        "compareAt": 2541776,
+        "compareAtFormatted": "₺25.417,76",
+        "discountPercentage": 18.64,
+        "savings": 473787,
+        "savingsFormatted": "₺4.737,87"
+      },
+      "currency": "TRY",
+      "rating": 3.58,
+      "reviewCount": 5,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+      ],
+      "variantOf": 113,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/303"
+      }
+    },
+    {
+      "id": 304,
+      "sku": "AUR-SMA-OPP-0304",
+      "title": "Oppo K1 — 128GB",
+      "slug": "oppo-k1",
+      "brand": "Oppo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 1984443,
+        "compareAtFormatted": "₺19.844,43",
+        "discountPercentage": 18.29,
+        "savings": 362955,
+        "savingsFormatted": "₺3.629,55"
+      },
+      "currency": "TRY",
+      "rating": 4.32,
+      "reviewCount": 2,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp"
+      ],
+      "variantOf": 114,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/304"
+      }
+    },
+    {
+      "id": 305,
+      "sku": "AUR-SMA-REA-0305",
+      "title": "Realme C35 — 128GB",
+      "slug": "realme-c35",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 634491,
+      "price": {
+        "amount": 634491,
+        "currency": "TRY",
+        "formatted": "₺6.344,91",
+        "compareAt": 749104,
+        "compareAtFormatted": "₺7.491,04",
+        "discountPercentage": 15.3,
+        "savings": 114613,
+        "savingsFormatted": "₺1.146,13"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 5,
+      "stock": 66,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp"
+      ],
+      "variantOf": 115,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/305"
+      }
+    },
+    {
+      "id": 306,
+      "sku": "AUR-SMA-REA-0306",
+      "title": "Realme X — 128GB",
+      "slug": "realme-x",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1268991,
+      "price": {
+        "amount": 1268991,
+        "currency": "TRY",
+        "formatted": "₺12.689,91",
+        "compareAt": 1363773,
+        "compareAtFormatted": "₺13.637,73",
+        "discountPercentage": 6.95,
+        "savings": 94782,
+        "savingsFormatted": "₺947,82"
+      },
+      "currency": "TRY",
+      "rating": 3.68,
+      "reviewCount": 4,
+      "stock": 23,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp"
+      ],
+      "variantOf": 116,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/306"
+      }
+    },
+    {
+      "id": 307,
+      "sku": "AUR-SMA-REA-0307",
+      "title": "Realme XT — 128GB",
+      "slug": "realme-xt",
+      "brand": "Realme",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 1858956,
+        "compareAtFormatted": "₺18.589,56",
+        "discountPercentage": 11.51,
+        "savings": 213966,
+        "savingsFormatted": "₺2.139,66"
+      },
+      "currency": "TRY",
+      "rating": 4.36,
+      "reviewCount": 5,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp"
+      ],
+      "variantOf": 117,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/307"
+      }
+    },
+    {
+      "id": 308,
+      "sku": "AUR-SMA-SAM-0308",
+      "title": "Samsung Galaxy S7 — 128GB",
+      "slug": "samsung-galaxy-s7",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1268991,
+      "price": {
+        "amount": 1268991,
+        "currency": "TRY",
+        "formatted": "₺12.689,91",
+        "compareAt": 1577366,
+        "compareAtFormatted": "₺15.773,66",
+        "discountPercentage": 19.55,
+        "savings": 308375,
+        "savingsFormatted": "₺3.083,75"
+      },
+      "currency": "TRY",
+      "rating": 3.03,
+      "reviewCount": 4,
+      "stock": 79,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp"
+      ],
+      "variantOf": 118,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/308"
+      }
+    },
+    {
+      "id": 309,
+      "sku": "AUR-SMA-SAM-0309",
+      "title": "Samsung Galaxy S8 — 128GB",
+      "slug": "samsung-galaxy-s8",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 3209050,
+        "compareAtFormatted": "₺32.090,50",
+        "discountPercentage": 19.45,
+        "savings": 624160,
+        "savingsFormatted": "₺6.241,60"
+      },
+      "currency": "TRY",
+      "rating": 4.6,
+      "reviewCount": 6,
+      "stock": 4,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp"
+      ],
+      "variantOf": 119,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/309"
+      }
+    },
+    {
+      "id": 310,
+      "sku": "AUR-SMA-SAM-0310",
+      "title": "Samsung Galaxy S10 — 128GB",
+      "slug": "samsung-galaxy-s10",
+      "brand": "Samsung",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 3629890,
+      "price": {
+        "amount": 3629890,
+        "currency": "TRY",
+        "formatted": "₺36.298,90",
+        "compareAt": 3844815,
+        "compareAtFormatted": "₺38.448,15",
+        "discountPercentage": 5.59,
+        "savings": 214925,
+        "savingsFormatted": "₺2.149,25"
+      },
+      "currency": "TRY",
+      "rating": 3.09,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+      ],
+      "variantOf": 120,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/310"
+      }
+    },
+    {
+      "id": 311,
+      "sku": "AUR-SMA-VIV-0311",
+      "title": "Vivo S1 — 128GB",
+      "slug": "vivo-s1",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1351238,
+      "price": {
+        "amount": 1351238,
+        "currency": "TRY",
+        "formatted": "₺13.512,38",
+        "compareAt": 1504217,
+        "compareAtFormatted": "₺15.042,17",
+        "discountPercentage": 10.17,
+        "savings": 152979,
+        "savingsFormatted": "₺1.529,79"
+      },
+      "currency": "TRY",
+      "rating": 3.79,
+      "reviewCount": 2,
+      "stock": 70,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp"
+      ],
+      "variantOf": 121,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/311"
+      }
+    },
+    {
+      "id": 312,
+      "sku": "AUR-SMA-VIV-0312",
+      "title": "Vivo V9 — 128GB",
+      "slug": "vivo-v9",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 1969498,
+        "compareAtFormatted": "₺19.694,98",
+        "discountPercentage": 17.67,
+        "savings": 348010,
+        "savingsFormatted": "₺3.480,10"
+      },
+      "currency": "TRY",
+      "rating": 3.37,
+      "reviewCount": 3,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp"
+      ],
+      "variantOf": 122,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/312"
+      }
+    },
+    {
+      "id": 313,
+      "sku": "AUR-SMA-VIV-0313",
+      "title": "Vivo X21 — 128GB",
+      "slug": "vivo-x21",
+      "brand": "Vivo",
+      "category": "smartphones",
+      "categoryName": "Akıllı Telefonlar",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 3129786,
+        "compareAtFormatted": "₺31.297,86",
+        "discountPercentage": 17.41,
+        "savings": 544896,
+        "savingsFormatted": "₺5.448,96"
+      },
+      "currency": "TRY",
+      "rating": 4.17,
+      "reviewCount": 3,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp"
+      ],
+      "variantOf": 123,
+      "variantLabel": "128GB",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/313"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 32,
+    "total": 32,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "category": {
+    "slug": "home-decoration",
+    "name": "Ev Dekorasyonu",
+    "productCount": 10
+  },
+  "data": [
+    {
+      "id": 33,
+      "sku": "AUR-HOM-AUR-0033",
+      "title": "Dekoratif Salıncak",
+      "slug": "decoration-swing",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 279990,
+      "price": {
+        "amount": 279990,
+        "currency": "TRY",
+        "formatted": "₺2.799,90",
+        "compareAt": 312524,
+        "compareAtFormatted": "₺3.125,24",
+        "discountPercentage": 10.41,
+        "savings": 32534,
+        "savingsFormatted": "₺325,34"
+      },
+      "currency": "TRY",
+      "rating": 3.16,
+      "reviewCount": 5,
+      "stock": 47,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/33"
+      }
+    },
+    {
+      "id": 34,
+      "sku": "AUR-HOM-AUR-0034",
+      "title": "Aile Ağacı Fotoğraf Çerçevesi",
+      "slug": "family-tree-photo-frame",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 164443,
+        "compareAtFormatted": "₺1.644,43",
+        "discountPercentage": 14.87,
+        "savings": 24453,
+        "savingsFormatted": "₺244,53"
+      },
+      "currency": "TRY",
+      "rating": 4.53,
+      "reviewCount": 4,
+      "stock": 77,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/34"
+      }
+    },
+    {
+      "id": 35,
+      "sku": "AUR-HOM-AUR-0035",
+      "title": "Dekoratif Ev Bitkisi",
+      "slug": "house-showpiece-plant",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 189990,
+      "price": {
+        "amount": 189990,
+        "currency": "TRY",
+        "formatted": "₺1.899,90",
+        "compareAt": 205306,
+        "compareAtFormatted": "₺2.053,06",
+        "discountPercentage": 7.46,
+        "savings": 15316,
+        "savingsFormatted": "₺153,16"
+      },
+      "currency": "TRY",
+      "rating": 4.67,
+      "reviewCount": 2,
+      "stock": 28,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/35"
+      }
+    },
+    {
+      "id": 36,
+      "sku": "AUR-HOM-AUR-0036",
+      "title": "Saksı",
+      "slug": "plant-pot",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 75129,
+        "compareAtFormatted": "₺751,29",
+        "discountPercentage": 6.84,
+        "savings": 5139,
+        "savingsFormatted": "₺51,39"
+      },
+      "currency": "TRY",
+      "rating": 3.01,
+      "reviewCount": 3,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/36"
+      }
+    },
+    {
+      "id": 37,
+      "sku": "AUR-HOM-AUR-0037",
+      "title": "Masa Lambası",
+      "slug": "table-lamp",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 252922,
+        "compareAtFormatted": "₺2.529,22",
+        "discountPercentage": 7.09,
+        "savings": 17932,
+        "savingsFormatted": "₺179,32"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 5,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/37"
+      }
+    },
+    {
+      "id": 223,
+      "sku": "AUR-HOM-AUR-0223",
+      "title": "Dekoratif Salıncak — Büyük Boy",
+      "slug": "decoration-swing",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 321988,
+      "price": {
+        "amount": 321988,
+        "currency": "TRY",
+        "formatted": "₺3.219,88",
+        "compareAt": 359402,
+        "compareAtFormatted": "₺3.594,02",
+        "discountPercentage": 10.41,
+        "savings": 37414,
+        "savingsFormatted": "₺374,14"
+      },
+      "currency": "TRY",
+      "rating": 3.26,
+      "reviewCount": 4,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+      ],
+      "variantOf": 33,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/223"
+      }
+    },
+    {
+      "id": 224,
+      "sku": "AUR-HOM-AUR-0224",
+      "title": "Aile Ağacı Fotoğraf Çerçevesi — Büyük Boy",
+      "slug": "family-tree-photo-frame",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 153989,
+      "price": {
+        "amount": 153989,
+        "currency": "TRY",
+        "formatted": "₺1.539,89",
+        "compareAt": 180887,
+        "compareAtFormatted": "₺1.808,87",
+        "discountPercentage": 14.87,
+        "savings": 26898,
+        "savingsFormatted": "₺268,98"
+      },
+      "currency": "TRY",
+      "rating": 4.36,
+      "reviewCount": 6,
+      "stock": 89,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+      ],
+      "variantOf": 34,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/224"
+      }
+    },
+    {
+      "id": 225,
+      "sku": "AUR-HOM-AUR-0225",
+      "title": "Dekoratif Ev Bitkisi — Büyük Boy",
+      "slug": "house-showpiece-plant",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 218488,
+      "price": {
+        "amount": 218488,
+        "currency": "TRY",
+        "formatted": "₺2.184,88",
+        "compareAt": 236101,
+        "compareAtFormatted": "₺2.361,01",
+        "discountPercentage": 7.46,
+        "savings": 17613,
+        "savingsFormatted": "₺176,13"
+      },
+      "currency": "TRY",
+      "rating": 4.8,
+      "reviewCount": 4,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+      ],
+      "variantOf": 35,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/225"
+      }
+    },
+    {
+      "id": 226,
+      "sku": "AUR-HOM-AUR-0226",
+      "title": "Saksı — Büyük Boy",
+      "slug": "plant-pot",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 62991,
+      "price": {
+        "amount": 62991,
+        "currency": "TRY",
+        "formatted": "₺629,91",
+        "compareAt": 67616,
+        "compareAtFormatted": "₺676,16",
+        "discountPercentage": 6.84,
+        "savings": 4625,
+        "savingsFormatted": "₺46,25"
+      },
+      "currency": "TRY",
+      "rating": 2.87,
+      "reviewCount": 4,
+      "stock": 63,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+      ],
+      "variantOf": 36,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/226"
+      }
+    },
+    {
+      "id": 227,
+      "sku": "AUR-HOM-AUR-0227",
+      "title": "Masa Lambası — Büyük Boy",
+      "slug": "table-lamp",
+      "brand": "Aurora Home",
+      "category": "home-decoration",
+      "categoryName": "Ev Dekorasyonu",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 252922,
+        "compareAtFormatted": "₺2.529,22",
+        "discountPercentage": 7.09,
+        "savings": 17932,
+        "savingsFormatted": "₺179,32"
+      },
+      "currency": "TRY",
+      "rating": 3.41,
+      "reviewCount": 3,
+      "stock": 6,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+      ],
+      "variantOf": 37,
+      "variantLabel": "Büyük Boy",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/227"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 10,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

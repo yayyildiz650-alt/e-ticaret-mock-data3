@@ -1,0 +1,65 @@
+{
+  "orderId": 1001,
+  "status": "onaylandı",
+  "currency": "TRY",
+  "customerId": 1,
+  "customerEmail": "demo@aurora.test",
+  "items": [
+    {
+      "productId": 108,
+      "sku": "AUR-SMA-APP-0108",
+      "name": "iPhone 5s",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "quantity": 2,
+      "unitPrice": 939990,
+      "unitPriceFormatted": "₺9.399,90",
+      "lineTotal": 1879980,
+      "lineTotalFormatted": "₺18.799,80"
+    },
+    {
+      "productId": 154,
+      "sku": "AUR-ELE-AUR-0154",
+      "name": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+      "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+      "quantity": 1,
+      "unitPrice": 324990,
+      "unitPriceFormatted": "₺3.249,90",
+      "lineTotal": 324990,
+      "lineTotalFormatted": "₺3.249,90"
+    }
+  ],
+  "subtotal": 2204970,
+  "subtotalFormatted": "₺22.049,70",
+  "shipping": 0,
+  "shippingFormatted": "₺0,00",
+  "tax": 440994,
+  "taxFormatted": "₺4.409,94",
+  "total": 2645964,
+  "totalFormatted": "₺26.459,64",
+  "itemCount": 3,
+  "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+  "shippingAddress": {
+    "name": "Demo Müşteri",
+    "line1": "Aurora Caddesi No:123",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "country": "Türkiye",
+    "postalCode": "34000"
+  },
+  "timeline": [
+    {
+      "status": "beklemede",
+      "at": "2026-07-06T09:15:22.000Z"
+    },
+    {
+      "status": "onaylandı",
+      "at": "2026-07-06T09:15:22.000Z"
+    }
+  ],
+  "createdAt": "2026-07-06T09:15:22.000Z",
+  "updatedAt": "2026-07-06T09:15:22.000Z",
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/orders/1001",
+    "receipt": "https://api.aurora-commerce.dev/v1/orders/1001/receipt"
+  }
+}

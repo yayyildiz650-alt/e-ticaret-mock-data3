@@ -1,0 +1,1134 @@
+{
+  "category": {
+    "slug": "mobile-accessories",
+    "name": "Telefon Aksesuarları",
+    "productCount": 28
+  },
+  "data": [
+    {
+      "id": 89,
+      "sku": "AUR-MOB-AMA-0089",
+      "title": "Amazon Echo Plus",
+      "slug": "amazon-echo-plus",
+      "brand": "Amazon",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 534505,
+        "compareAtFormatted": "₺5.345,05",
+        "discountPercentage": 12.07,
+        "savings": 64515,
+        "savingsFormatted": "₺645,15"
+      },
+      "currency": "TRY",
+      "rating": 4.99,
+      "reviewCount": 3,
+      "stock": 61,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/89"
+      }
+    },
+    {
+      "id": 90,
+      "sku": "AUR-MOB-APP-0090",
+      "title": "Apple AirPods",
+      "slug": "apple-airpods",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 609990,
+      "price": {
+        "amount": 609990,
+        "currency": "TRY",
+        "formatted": "₺6.099,90",
+        "compareAt": 722224,
+        "compareAtFormatted": "₺7.222,24",
+        "discountPercentage": 15.54,
+        "savings": 112234,
+        "savingsFormatted": "₺1.122,34"
+      },
+      "currency": "TRY",
+      "rating": 4.15,
+      "reviewCount": 4,
+      "stock": 67,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/90"
+      }
+    },
+    {
+      "id": 91,
+      "sku": "AUR-MOB-APP-0091",
+      "title": "Apple AirPods Max Gümüş",
+      "slug": "apple-airpods-max-silver",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 2599900,
+      "price": {
+        "amount": 2599900,
+        "currency": "TRY",
+        "formatted": "₺25.999,00",
+        "compareAt": 3011583,
+        "compareAtFormatted": "₺30.115,83",
+        "discountPercentage": 13.67,
+        "savings": 411683,
+        "savingsFormatted": "₺4.116,83"
+      },
+      "currency": "TRY",
+      "rating": 3.47,
+      "reviewCount": 5,
+      "stock": 59,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/91"
+      }
+    },
+    {
+      "id": 92,
+      "sku": "AUR-MOB-APP-0092",
+      "title": "Apple AirPower Kablosuz Şarj Cihazı",
+      "slug": "apple-airpower-wireless-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 374990,
+      "price": {
+        "amount": 374990,
+        "currency": "TRY",
+        "formatted": "₺3.749,90",
+        "compareAt": 392577,
+        "compareAtFormatted": "₺3.925,77",
+        "discountPercentage": 4.48,
+        "savings": 17587,
+        "savingsFormatted": "₺175,87"
+      },
+      "currency": "TRY",
+      "rating": 3.68,
+      "reviewCount": 6,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/92"
+      }
+    },
+    {
+      "id": 93,
+      "sku": "AUR-MOB-APP-0093",
+      "title": "Apple HomePod Mini Uzay Grisi",
+      "slug": "apple-homepod-mini-cosmic-grey",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 573858,
+        "compareAtFormatted": "₺5.738,58",
+        "discountPercentage": 18.1,
+        "savings": 103868,
+        "savingsFormatted": "₺1.038,68"
+      },
+      "currency": "TRY",
+      "rating": 4.62,
+      "reviewCount": 4,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/93"
+      }
+    },
+    {
+      "id": 94,
+      "sku": "AUR-MOB-APP-0094",
+      "title": "Apple iPhone Şarj Cihazı",
+      "slug": "apple-iphone-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 115353,
+        "compareAtFormatted": "₺1.153,53",
+        "discountPercentage": 18.52,
+        "savings": 21363,
+        "savingsFormatted": "₺213,63"
+      },
+      "currency": "TRY",
+      "rating": 4.15,
+      "reviewCount": 3,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/94"
+      }
+    },
+    {
+      "id": 95,
+      "sku": "AUR-MOB-APP-0095",
+      "title": "Apple MagSafe Taşınabilir Batarya",
+      "slug": "apple-magsafe-battery-pack",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 469990,
+      "price": {
+        "amount": 469990,
+        "currency": "TRY",
+        "formatted": "₺4.699,90",
+        "compareAt": 567415,
+        "compareAtFormatted": "₺5.674,15",
+        "discountPercentage": 17.17,
+        "savings": 97425,
+        "savingsFormatted": "₺974,25"
+      },
+      "currency": "TRY",
+      "rating": 3.62,
+      "reviewCount": 2,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/95"
+      }
+    },
+    {
+      "id": 96,
+      "sku": "AUR-MOB-APP-0096",
+      "title": "Apple Watch Series 4 Altın",
+      "slug": "apple-watch-series-4-gold",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 1869732,
+        "compareAtFormatted": "₺18.697,32",
+        "discountPercentage": 12.02,
+        "savings": 224742,
+        "savingsFormatted": "₺2.247,42"
+      },
+      "currency": "TRY",
+      "rating": 2.74,
+      "reviewCount": 5,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/96"
+      }
+    },
+    {
+      "id": 97,
+      "sku": "AUR-MOB-BEA-0097",
+      "title": "Beats Flex Kablosuz Kulaklık",
+      "slug": "beats-flex-wireless-earphones",
+      "brand": "Beats",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 234990,
+      "price": {
+        "amount": 234990,
+        "currency": "TRY",
+        "formatted": "₺2.349,90",
+        "compareAt": 249273,
+        "compareAtFormatted": "₺2.492,73",
+        "discountPercentage": 5.73,
+        "savings": 14283,
+        "savingsFormatted": "₺142,83"
+      },
+      "currency": "TRY",
+      "rating": 4.24,
+      "reviewCount": 3,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/97"
+      }
+    },
+    {
+      "id": 98,
+      "sku": "AUR-MOB-APP-0098",
+      "title": "iPhone 12 MagSafe Silikon Kılıf Erik Moru",
+      "slug": "iphone-12-silicone-case-with-magsafe-plum",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 162496,
+        "compareAtFormatted": "₺1.624,96",
+        "discountPercentage": 13.85,
+        "savings": 22506,
+        "savingsFormatted": "₺225,06"
+      },
+      "currency": "TRY",
+      "rating": 3.62,
+      "reviewCount": 5,
+      "stock": 69,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/98"
+      }
+    },
+    {
+      "id": 99,
+      "sku": "AUR-MOB-TEC-0099",
+      "title": "Monopod",
+      "slug": "monopod",
+      "brand": "TechGear",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 102811,
+        "compareAtFormatted": "₺1.028,11",
+        "discountPercentage": 8.58,
+        "savings": 8821,
+        "savingsFormatted": "₺88,21"
+      },
+      "currency": "TRY",
+      "rating": 4.43,
+      "reviewCount": 6,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/99"
+      }
+    },
+    {
+      "id": 100,
+      "sku": "AUR-MOB-GAD-0100",
+      "title": "iPhone'lu Selfie Işığı",
+      "slug": "selfie-lamp-with-iphone",
+      "brand": "GadgetMaster",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 86836,
+        "compareAtFormatted": "₺868,36",
+        "discountPercentage": 19.4,
+        "savings": 16846,
+        "savingsFormatted": "₺168,46"
+      },
+      "currency": "TRY",
+      "rating": 3.55,
+      "reviewCount": 4,
+      "stock": 58,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/100"
+      }
+    },
+    {
+      "id": 101,
+      "sku": "AUR-MOB-SNA-0101",
+      "title": "Selfie Çubuğu Monopod",
+      "slug": "selfie-stick-monopod",
+      "brand": "SnapTech",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 75408,
+        "compareAtFormatted": "₺754,08",
+        "discountPercentage": 19.12,
+        "savings": 14418,
+        "savingsFormatted": "₺144,18"
+      },
+      "currency": "TRY",
+      "rating": 3.88,
+      "reviewCount": 4,
+      "stock": 11,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/101"
+      }
+    },
+    {
+      "id": 102,
+      "sku": "AUR-MOB-PRO-0102",
+      "title": "TV Stüdyo Kamera Ayağı",
+      "slug": "tv-studio-camera-pedestal",
+      "brand": "ProVision",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2562875,
+        "compareAtFormatted": "₺25.628,75",
+        "discountPercentage": 8.31,
+        "savings": 212975,
+        "savingsFormatted": "₺2.129,75"
+      },
+      "currency": "TRY",
+      "rating": 2.78,
+      "reviewCount": 3,
+      "stock": 15,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/102"
+      }
+    },
+    {
+      "id": 279,
+      "sku": "AUR-MOB-AMA-0279",
+      "title": "Amazon Echo Plus — Beyaz",
+      "slug": "amazon-echo-plus",
+      "brand": "Amazon",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 540488,
+      "price": {
+        "amount": 540488,
+        "currency": "TRY",
+        "formatted": "₺5.404,88",
+        "compareAt": 614680,
+        "compareAtFormatted": "₺6.146,80",
+        "discountPercentage": 12.07,
+        "savings": 74192,
+        "savingsFormatted": "₺741,92"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 6,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+      ],
+      "variantOf": 89,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/279"
+      }
+    },
+    {
+      "id": 280,
+      "sku": "AUR-MOB-APP-0280",
+      "title": "Apple AirPods — Beyaz",
+      "slug": "apple-airpods",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 701488,
+      "price": {
+        "amount": 701488,
+        "currency": "TRY",
+        "formatted": "₺7.014,88",
+        "compareAt": 830556,
+        "compareAtFormatted": "₺8.305,56",
+        "discountPercentage": 15.54,
+        "savings": 129068,
+        "savingsFormatted": "₺1.290,68"
+      },
+      "currency": "TRY",
+      "rating": 4.05,
+      "reviewCount": 3,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+      ],
+      "variantOf": 90,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/280"
+      }
+    },
+    {
+      "id": 281,
+      "sku": "AUR-MOB-APP-0281",
+      "title": "Apple AirPods Max Gümüş — Beyaz",
+      "slug": "apple-airpods-max-silver",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 2989885,
+      "price": {
+        "amount": 2989885,
+        "currency": "TRY",
+        "formatted": "₺29.898,85",
+        "compareAt": 3463321,
+        "compareAtFormatted": "₺34.633,21",
+        "discountPercentage": 13.67,
+        "savings": 473436,
+        "savingsFormatted": "₺4.734,36"
+      },
+      "currency": "TRY",
+      "rating": 3.63,
+      "reviewCount": 6,
+      "stock": 54,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+      ],
+      "variantOf": 91,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/281"
+      }
+    },
+    {
+      "id": 282,
+      "sku": "AUR-MOB-APP-0282",
+      "title": "Apple AirPower Kablosuz Şarj Cihazı — Beyaz",
+      "slug": "apple-airpower-wireless-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 431238,
+      "price": {
+        "amount": 431238,
+        "currency": "TRY",
+        "formatted": "₺4.312,38",
+        "compareAt": 451464,
+        "compareAtFormatted": "₺4.514,64",
+        "discountPercentage": 4.48,
+        "savings": 20226,
+        "savingsFormatted": "₺202,26"
+      },
+      "currency": "TRY",
+      "rating": 3.58,
+      "reviewCount": 2,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "tükendi"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+      ],
+      "variantOf": 92,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/282"
+      }
+    },
+    {
+      "id": 283,
+      "sku": "AUR-MOB-APP-0283",
+      "title": "Apple HomePod Mini Uzay Grisi — Beyaz",
+      "slug": "apple-homepod-mini-cosmic-grey",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 540488,
+      "price": {
+        "amount": 540488,
+        "currency": "TRY",
+        "formatted": "₺5.404,88",
+        "compareAt": 659937,
+        "compareAtFormatted": "₺6.599,37",
+        "discountPercentage": 18.1,
+        "savings": 119449,
+        "savingsFormatted": "₺1.194,49"
+      },
+      "currency": "TRY",
+      "rating": 4.74,
+      "reviewCount": 3,
+      "stock": 38,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+      ],
+      "variantOf": 93,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/283"
+      }
+    },
+    {
+      "id": 284,
+      "sku": "AUR-MOB-APP-0284",
+      "title": "Apple iPhone Şarj Cihazı — Beyaz",
+      "slug": "apple-iphone-charger",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 84591,
+      "price": {
+        "amount": 84591,
+        "currency": "TRY",
+        "formatted": "₺845,91",
+        "compareAt": 103818,
+        "compareAtFormatted": "₺1.038,18",
+        "discountPercentage": 18.52,
+        "savings": 19227,
+        "savingsFormatted": "₺192,27"
+      },
+      "currency": "TRY",
+      "rating": 4.29,
+      "reviewCount": 4,
+      "stock": 16,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp"
+      ],
+      "variantOf": 94,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/284"
+      }
+    },
+    {
+      "id": 285,
+      "sku": "AUR-MOB-APP-0285",
+      "title": "Apple MagSafe Taşınabilir Batarya — Beyaz",
+      "slug": "apple-magsafe-battery-pack",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 422991,
+      "price": {
+        "amount": 422991,
+        "currency": "TRY",
+        "formatted": "₺4.229,91",
+        "compareAt": 510674,
+        "compareAtFormatted": "₺5.106,74",
+        "discountPercentage": 17.17,
+        "savings": 87683,
+        "savingsFormatted": "₺876,83"
+      },
+      "currency": "TRY",
+      "rating": 3.43,
+      "reviewCount": 2,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+      ],
+      "variantOf": 95,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/285"
+      }
+    },
+    {
+      "id": 286,
+      "sku": "AUR-MOB-APP-0286",
+      "title": "Apple Watch Series 4 Altın — Beyaz",
+      "slug": "apple-watch-series-4-gold",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 1891738,
+      "price": {
+        "amount": 1891738,
+        "currency": "TRY",
+        "formatted": "₺18.917,38",
+        "compareAt": 2150191,
+        "compareAtFormatted": "₺21.501,91",
+        "discountPercentage": 12.02,
+        "savings": 258453,
+        "savingsFormatted": "₺2.584,53"
+      },
+      "currency": "TRY",
+      "rating": 2.82,
+      "reviewCount": 3,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp"
+      ],
+      "variantOf": 96,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/286"
+      }
+    },
+    {
+      "id": 287,
+      "sku": "AUR-MOB-BEA-0287",
+      "title": "Beats Flex Kablosuz Kulaklık — Beyaz",
+      "slug": "beats-flex-wireless-earphones",
+      "brand": "Beats",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 258489,
+      "price": {
+        "amount": 258489,
+        "currency": "TRY",
+        "formatted": "₺2.584,89",
+        "compareAt": 274201,
+        "compareAtFormatted": "₺2.742,01",
+        "discountPercentage": 5.73,
+        "savings": 15712,
+        "savingsFormatted": "₺157,12"
+      },
+      "currency": "TRY",
+      "rating": 4.35,
+      "reviewCount": 2,
+      "stock": 73,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+      ],
+      "variantOf": 97,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/287"
+      }
+    },
+    {
+      "id": 288,
+      "sku": "AUR-MOB-APP-0288",
+      "title": "iPhone 12 MagSafe Silikon Kılıf Erik Moru — Beyaz",
+      "slug": "iphone-12-silicone-case-with-magsafe-plum",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 160988,
+      "price": {
+        "amount": 160988,
+        "currency": "TRY",
+        "formatted": "₺1.609,88",
+        "compareAt": 186869,
+        "compareAtFormatted": "₺1.868,69",
+        "discountPercentage": 13.85,
+        "savings": 25881,
+        "savingsFormatted": "₺258,81"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 5,
+      "stock": 83,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp"
+      ],
+      "variantOf": 98,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/288"
+      }
+    },
+    {
+      "id": 289,
+      "sku": "AUR-MOB-TEC-0289",
+      "title": "Monopod — Beyaz",
+      "slug": "monopod",
+      "brand": "TechGear",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 84591,
+      "price": {
+        "amount": 84591,
+        "currency": "TRY",
+        "formatted": "₺845,91",
+        "compareAt": 92530,
+        "compareAtFormatted": "₺925,30",
+        "discountPercentage": 8.58,
+        "savings": 7939,
+        "savingsFormatted": "₺79,39"
+      },
+      "currency": "TRY",
+      "rating": 4.71,
+      "reviewCount": 2,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp"
+      ],
+      "variantOf": 99,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/289"
+      }
+    },
+    {
+      "id": 290,
+      "sku": "AUR-MOB-GAD-0290",
+      "title": "iPhone'lu Selfie Işığı — Beyaz",
+      "slug": "selfie-lamp-with-iphone",
+      "brand": "GadgetMaster",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 76989,
+      "price": {
+        "amount": 76989,
+        "currency": "TRY",
+        "formatted": "₺769,89",
+        "compareAt": 95520,
+        "compareAtFormatted": "₺955,20",
+        "discountPercentage": 19.4,
+        "savings": 18531,
+        "savingsFormatted": "₺185,31"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 2,
+      "stock": 82,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+      ],
+      "variantOf": 100,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/290"
+      }
+    },
+    {
+      "id": 291,
+      "sku": "AUR-MOB-SNA-0291",
+      "title": "Selfie Çubuğu Monopod — Beyaz",
+      "slug": "selfie-stick-monopod",
+      "brand": "SnapTech",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 67089,
+      "price": {
+        "amount": 67089,
+        "currency": "TRY",
+        "formatted": "₺670,89",
+        "compareAt": 82949,
+        "compareAtFormatted": "₺829,49",
+        "discountPercentage": 19.12,
+        "savings": 15860,
+        "savingsFormatted": "₺158,60"
+      },
+      "currency": "TRY",
+      "rating": 4.13,
+      "reviewCount": 5,
+      "stock": 36,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+      ],
+      "variantOf": 101,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/291"
+      }
+    },
+    {
+      "id": 292,
+      "sku": "AUR-MOB-PRO-0292",
+      "title": "TV Stüdyo Kamera Ayağı — Beyaz",
+      "slug": "tv-studio-camera-pedestal",
+      "brand": "ProVision",
+      "category": "mobile-accessories",
+      "categoryName": "Telefon Aksesuarları",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2562875,
+        "compareAtFormatted": "₺25.628,75",
+        "discountPercentage": 8.31,
+        "savings": 212975,
+        "savingsFormatted": "₺2.129,75"
+      },
+      "currency": "TRY",
+      "rating": 3.05,
+      "reviewCount": 5,
+      "stock": 17,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+      ],
+      "variantOf": 102,
+      "variantLabel": "Beyaz",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/292"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 28,
+    "total": 28,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

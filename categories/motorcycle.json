@@ -1,0 +1,413 @@
+{
+  "category": {
+    "slug": "motorcycle",
+    "name": "Motosiklet",
+    "productCount": 10
+  },
+  "data": [
+    {
+      "id": 103,
+      "sku": "AUR-MOT-GEN-0103",
+      "title": "Standart Motosiklet",
+      "slug": "generic-motorcycle",
+      "brand": "Generic Motors",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 18799900,
+      "price": {
+        "amount": 18799900,
+        "currency": "TRY",
+        "formatted": "₺187.999,00",
+        "compareAt": 21387827,
+        "compareAtFormatted": "₺213.878,27",
+        "discountPercentage": 12.1,
+        "savings": 2587927,
+        "savingsFormatted": "₺25.879,27"
+      },
+      "currency": "TRY",
+      "rating": 4.91,
+      "reviewCount": 4,
+      "stock": 34,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "yeni",
+        "çok satan"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/103"
+      }
+    },
+    {
+      "id": 104,
+      "sku": "AUR-MOT-KAW-0104",
+      "title": "Kawasaki Z800",
+      "slug": "kawasaki-z800",
+      "brand": "Kawasaki",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 42299900,
+      "price": {
+        "amount": 42299900,
+        "currency": "TRY",
+        "formatted": "₺422.999,00",
+        "compareAt": 46880084,
+        "compareAtFormatted": "₺468.800,84",
+        "discountPercentage": 9.77,
+        "savings": 4580184,
+        "savingsFormatted": "₺45.801,84"
+      },
+      "currency": "TRY",
+      "rating": 3.98,
+      "reviewCount": 6,
+      "stock": 52,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/104"
+      }
+    },
+    {
+      "id": 105,
+      "sku": "AUR-MOT-MOT-0105",
+      "title": "MotoGP CI.H1",
+      "slug": "motogp-ci.h1",
+      "brand": "MotoGP",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 70499900,
+      "price": {
+        "amount": 70499900,
+        "currency": "TRY",
+        "formatted": "₺704.999,00",
+        "compareAt": 75741190,
+        "compareAtFormatted": "₺757.411,90",
+        "discountPercentage": 6.92,
+        "savings": 5241290,
+        "savingsFormatted": "₺52.412,90"
+      },
+      "currency": "TRY",
+      "rating": 2.97,
+      "reviewCount": 3,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/105"
+      }
+    },
+    {
+      "id": 106,
+      "sku": "AUR-MOT-SCO-0106",
+      "title": "Scooter Motosiklet",
+      "slug": "scooter-motorcycle",
+      "brand": "ScootMaster",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 14099900,
+      "price": {
+        "amount": 14099900,
+        "currency": "TRY",
+        "formatted": "₺140.999,00",
+        "compareAt": 15043103,
+        "compareAtFormatted": "₺150.431,03",
+        "discountPercentage": 6.27,
+        "savings": 943203,
+        "savingsFormatted": "₺9.432,03"
+      },
+      "currency": "TRY",
+      "rating": 2.53,
+      "reviewCount": 5,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/106"
+      }
+    },
+    {
+      "id": 107,
+      "sku": "AUR-MOT-SPE-0107",
+      "title": "Sportbike Motosiklet",
+      "slug": "sportbike-motorcycle",
+      "brand": "SpeedMaster",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 35199900,
+      "price": {
+        "amount": 35199900,
+        "currency": "TRY",
+        "formatted": "₺351.999,00",
+        "compareAt": 39809885,
+        "compareAtFormatted": "₺398.098,85",
+        "discountPercentage": 11.58,
+        "savings": 4609985,
+        "savingsFormatted": "₺46.099,85"
+      },
+      "currency": "TRY",
+      "rating": 3.94,
+      "reviewCount": 4,
+      "stock": 0,
+      "inStock": false,
+      "availabilityStatus": "Stokta Yok",
+      "badges": [
+        "yeni",
+        "tükendi"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/107"
+      }
+    },
+    {
+      "id": 293,
+      "sku": "AUR-MOT-GEN-0293",
+      "title": "Standart Motosiklet — Touring Sürüm",
+      "slug": "generic-motorcycle",
+      "brand": "Generic Motors",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 18799900,
+      "price": {
+        "amount": 18799900,
+        "currency": "TRY",
+        "formatted": "₺187.999,00",
+        "compareAt": 21387827,
+        "compareAtFormatted": "₺213.878,27",
+        "discountPercentage": 12.1,
+        "savings": 2587927,
+        "savingsFormatted": "₺25.879,27"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 2,
+      "stock": 39,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": true,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp"
+      ],
+      "variantOf": 103,
+      "variantLabel": "Touring Sürüm",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/293"
+      }
+    },
+    {
+      "id": 294,
+      "sku": "AUR-MOT-KAW-0294",
+      "title": "Kawasaki Z800 — Touring Sürüm",
+      "slug": "kawasaki-z800",
+      "brand": "Kawasaki",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 46529890,
+      "price": {
+        "amount": 46529890,
+        "currency": "TRY",
+        "formatted": "₺465.298,90",
+        "compareAt": 51568093,
+        "compareAtFormatted": "₺515.680,93",
+        "discountPercentage": 9.77,
+        "savings": 5038203,
+        "savingsFormatted": "₺50.382,03"
+      },
+      "currency": "TRY",
+      "rating": 4.02,
+      "reviewCount": 6,
+      "stock": 57,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp"
+      ],
+      "variantOf": 104,
+      "variantLabel": "Touring Sürüm",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/294"
+      }
+    },
+    {
+      "id": 295,
+      "sku": "AUR-MOT-MOT-0295",
+      "title": "MotoGP CI.H1 — Touring Sürüm",
+      "slug": "motogp-ci.h1",
+      "brand": "MotoGP",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 70499900,
+      "price": {
+        "amount": 70499900,
+        "currency": "TRY",
+        "formatted": "₺704.999,00",
+        "compareAt": 75741190,
+        "compareAtFormatted": "₺757.411,90",
+        "discountPercentage": 6.92,
+        "savings": 5241290,
+        "savingsFormatted": "₺52.412,90"
+      },
+      "currency": "TRY",
+      "rating": 2.86,
+      "reviewCount": 5,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp"
+      ],
+      "variantOf": 105,
+      "variantLabel": "Touring Sürüm",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/295"
+      }
+    },
+    {
+      "id": 296,
+      "sku": "AUR-MOT-SCO-0296",
+      "title": "Scooter Motosiklet — Touring Sürüm",
+      "slug": "scooter-motorcycle",
+      "brand": "ScootMaster",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 15509890,
+      "price": {
+        "amount": 15509890,
+        "currency": "TRY",
+        "formatted": "₺155.098,90",
+        "compareAt": 16547413,
+        "compareAtFormatted": "₺165.474,13",
+        "discountPercentage": 6.27,
+        "savings": 1037523,
+        "savingsFormatted": "₺10.375,23"
+      },
+      "currency": "TRY",
+      "rating": 2.25,
+      "reviewCount": 6,
+      "stock": 97,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp"
+      ],
+      "variantOf": 106,
+      "variantLabel": "Touring Sürüm",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/296"
+      }
+    },
+    {
+      "id": 297,
+      "sku": "AUR-MOT-SPE-0297",
+      "title": "Sportbike Motosiklet — Touring Sürüm",
+      "slug": "sportbike-motorcycle",
+      "brand": "SpeedMaster",
+      "category": "motorcycle",
+      "categoryName": "Motosiklet",
+      "unitPrice": 31679910,
+      "price": {
+        "amount": 31679910,
+        "currency": "TRY",
+        "formatted": "₺316.799,10",
+        "compareAt": 35828896,
+        "compareAtFormatted": "₺358.288,96",
+        "discountPercentage": 11.58,
+        "savings": 4148986,
+        "savingsFormatted": "₺41.489,86"
+      },
+      "currency": "TRY",
+      "rating": 3.7,
+      "reviewCount": 2,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp"
+      ],
+      "variantOf": 107,
+      "variantLabel": "Touring Sürüm",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/297"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 10,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

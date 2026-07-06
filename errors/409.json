@@ -1,0 +1,5 @@
+{
+  "error": "out_of_stock",
+  "status": 409,
+  "message": "İstenen miktar mevcut stoğu aşıyor."
+}

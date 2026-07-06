@@ -1,0 +1,5 @@
+{
+  "error": "bad_request",
+  "status": 400,
+  "message": "İstek anlaşılamadı."
+}

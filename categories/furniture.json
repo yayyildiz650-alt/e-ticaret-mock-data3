@@ -1,0 +1,686 @@
+{
+  "category": {
+    "slug": "furniture",
+    "name": "Mobilya",
+    "productCount": 17
+  },
+  "data": [
+    {
+      "id": 1,
+      "sku": "AUR-FUR-ANN-0001",
+      "title": "Annibale Colombo Yatak",
+      "slug": "annibale-colombo-bed",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 8949900,
+      "price": {
+        "amount": 8949900,
+        "currency": "TRY",
+        "formatted": "₺89.499,00",
+        "compareAt": 9788800,
+        "compareAtFormatted": "₺97.888,00",
+        "discountPercentage": 8.57,
+        "savings": 838900,
+        "savingsFormatted": "₺8.389,00"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 2,
+      "stock": 88,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/1"
+      }
+    },
+    {
+      "id": 2,
+      "sku": "AUR-FUR-ANN-0002",
+      "title": "Annibale Colombo Kanepe",
+      "slug": "annibale-colombo-sofa",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 11749900,
+      "price": {
+        "amount": 11749900,
+        "currency": "TRY",
+        "formatted": "₺117.499,00",
+        "compareAt": 13726519,
+        "compareAtFormatted": "₺137.265,19",
+        "discountPercentage": 14.4,
+        "savings": 1976619,
+        "savingsFormatted": "₺19.766,19"
+      },
+      "currency": "TRY",
+      "rating": 3.92,
+      "reviewCount": 2,
+      "stock": 60,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/2"
+      }
+    },
+    {
+      "id": 3,
+      "sku": "AUR-FUR-FUR-0003",
+      "title": "Afrika Kirazı Komodin",
+      "slug": "bedside-table-african-cherry",
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1742665,
+        "compareAtFormatted": "₺17.426,65",
+        "discountPercentage": 19.09,
+        "savings": 332675,
+        "savingsFormatted": "₺3.326,75"
+      },
+      "currency": "TRY",
+      "rating": 2.87,
+      "reviewCount": 6,
+      "stock": 64,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/3"
+      }
+    },
+    {
+      "id": 4,
+      "sku": "AUR-FUR-KNO-0004",
+      "title": "Knoll Saarinen Yönetici Toplantı Koltuğu",
+      "slug": "knoll-saarinen-executive-conference-chair",
+      "brand": "Knoll",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2398102,
+        "compareAtFormatted": "₺23.981,02",
+        "discountPercentage": 2.01,
+        "savings": 48202,
+        "savingsFormatted": "₺482,02"
+      },
+      "currency": "TRY",
+      "rating": 4.88,
+      "reviewCount": 2,
+      "stock": 26,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/4"
+      }
+    },
+    {
+      "id": 5,
+      "sku": "AUR-FUR-BAT-0005",
+      "title": "Aynalı Ahşap Banyo Lavabosu",
+      "slug": "wooden-bathroom-sink-with-mirror",
+      "brand": "Bath Trends",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3749900,
+      "price": {
+        "amount": 3749900,
+        "currency": "TRY",
+        "formatted": "₺37.499,00",
+        "compareAt": 4111732,
+        "compareAtFormatted": "₺41.117,32",
+        "discountPercentage": 8.8,
+        "savings": 361832,
+        "savingsFormatted": "₺3.618,32"
+      },
+      "currency": "TRY",
+      "rating": 3.59,
+      "reviewCount": 5,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/5"
+      }
+    },
+    {
+      "id": 164,
+      "sku": "AUR-FUR-AUR-0164",
+      "title": "Modern Deri Kanepe",
+      "slug": "sleek-modern-leather-sofa",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 4499900,
+      "price": {
+        "amount": 4499900,
+        "currency": "TRY",
+        "formatted": "₺44.999,00",
+        "compareAt": 4611498,
+        "compareAtFormatted": "₺46.114,98",
+        "discountPercentage": 2.42,
+        "savings": 111598,
+        "savingsFormatted": "₺1.115,98"
+      },
+      "currency": "TRY",
+      "rating": 3.73,
+      "reviewCount": 4,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Qphac99.jpeg",
+      "images": [
+        "https://i.imgur.com/Qphac99.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/164"
+      }
+    },
+    {
+      "id": 165,
+      "sku": "AUR-FUR-AUR-0165",
+      "title": "Ahşap Yemek Masası (Mid-Century)",
+      "slug": "mid-century-modern-wooden-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1994990,
+      "price": {
+        "amount": 1994990,
+        "currency": "TRY",
+        "formatted": "₺19.949,90",
+        "compareAt": 2022496,
+        "compareAtFormatted": "₺20.224,96",
+        "discountPercentage": 1.36,
+        "savings": 27506,
+        "savingsFormatted": "₺275,06"
+      },
+      "currency": "TRY",
+      "rating": 4.44,
+      "reviewCount": 6,
+      "stock": 36,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/DMQHGA0.jpeg",
+      "images": [
+        "https://i.imgur.com/DMQHGA0.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/165"
+      }
+    },
+    {
+      "id": 166,
+      "sku": "AUR-FUR-AUR-0166",
+      "title": "Taş Tablalı Altın Ayaklı Yemek Masası",
+      "slug": "elegant-golden-base-stone-top-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3149900,
+      "price": {
+        "amount": 3149900,
+        "currency": "TRY",
+        "formatted": "₺31.499,00",
+        "compareAt": 3469053,
+        "compareAtFormatted": "₺34.690,53",
+        "discountPercentage": 9.2,
+        "savings": 319153,
+        "savingsFormatted": "₺3.191,53"
+      },
+      "currency": "TRY",
+      "rating": 4.3,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/NWIJKUj.jpeg",
+      "images": [
+        "https://i.imgur.com/NWIJKUj.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/166"
+      }
+    },
+    {
+      "id": 167,
+      "sku": "AUR-FUR-AUR-0167",
+      "title": "Petrol Yeşili Modern Berjer",
+      "slug": "modern-elegance-teal-armchair",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1529990,
+      "price": {
+        "amount": 1529990,
+        "currency": "TRY",
+        "formatted": "₺15.299,90",
+        "compareAt": 1615106,
+        "compareAtFormatted": "₺16.151,06",
+        "discountPercentage": 5.27,
+        "savings": 85116,
+        "savingsFormatted": "₺851,16"
+      },
+      "currency": "TRY",
+      "rating": 4.44,
+      "reviewCount": 6,
+      "stock": 54,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/6wkyyIN.jpeg",
+      "images": [
+        "https://i.imgur.com/6wkyyIN.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/167"
+      }
+    },
+    {
+      "id": 168,
+      "sku": "AUR-FUR-AUR-0168",
+      "title": "Masif Ahşap Yemek Masası",
+      "slug": "elegant-solid-wood-dining-table",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3599900,
+      "price": {
+        "amount": 3599900,
+        "currency": "TRY",
+        "formatted": "₺35.999,00",
+        "compareAt": 4056225,
+        "compareAtFormatted": "₺40.562,25",
+        "discountPercentage": 11.25,
+        "savings": 456325,
+        "savingsFormatted": "₺4.563,25"
+      },
+      "currency": "TRY",
+      "rating": 3.64,
+      "reviewCount": 3,
+      "stock": 87,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/4lTaHfF.jpeg",
+      "images": [
+        "https://i.imgur.com/4lTaHfF.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/168"
+      }
+    },
+    {
+      "id": 169,
+      "sku": "AUR-FUR-AUR-0169",
+      "title": "Minimalist Çalışma Masası Seti",
+      "slug": "modern-minimalist-workstation-setup",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2841819,
+        "compareAtFormatted": "₺28.418,19",
+        "discountPercentage": 17.31,
+        "savings": 491919,
+        "savingsFormatted": "₺4.919,19"
+      },
+      "currency": "TRY",
+      "rating": 4.47,
+      "reviewCount": 6,
+      "stock": 91,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/3oXNBst.jpeg",
+      "images": [
+        "https://i.imgur.com/3oXNBst.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/169"
+      }
+    },
+    {
+      "id": 170,
+      "sku": "AUR-FUR-AUR-0170",
+      "title": "Ergonomik Ofis Koltuğu",
+      "slug": "modern-ergonomic-office-chair",
+      "brand": "Aurora Living",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1274990,
+      "price": {
+        "amount": 1274990,
+        "currency": "TRY",
+        "formatted": "₺12.749,90",
+        "compareAt": 1315372,
+        "compareAtFormatted": "₺13.153,72",
+        "discountPercentage": 3.07,
+        "savings": 40382,
+        "savingsFormatted": "₺403,82"
+      },
+      "currency": "TRY",
+      "rating": 3.8,
+      "reviewCount": 3,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/3dU0m72.jpeg",
+      "images": [
+        "https://i.imgur.com/3dU0m72.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/170"
+      }
+    },
+    {
+      "id": 191,
+      "sku": "AUR-FUR-ANN-0191",
+      "title": "Annibale Colombo Yatak — Ceviz Kaplama",
+      "slug": "annibale-colombo-bed",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 8054910,
+      "price": {
+        "amount": 8054910,
+        "currency": "TRY",
+        "formatted": "₺80.549,10",
+        "compareAt": 8809920,
+        "compareAtFormatted": "₺88.099,20",
+        "discountPercentage": 8.57,
+        "savings": 755010,
+        "savingsFormatted": "₺7.550,10"
+      },
+      "currency": "TRY",
+      "rating": 4.78,
+      "reviewCount": 4,
+      "stock": 110,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+      ],
+      "variantOf": 1,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/191"
+      }
+    },
+    {
+      "id": 192,
+      "sku": "AUR-FUR-ANN-0192",
+      "title": "Annibale Colombo Kanepe — Ceviz Kaplama",
+      "slug": "annibale-colombo-sofa",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 10574910,
+      "price": {
+        "amount": 10574910,
+        "currency": "TRY",
+        "formatted": "₺105.749,10",
+        "compareAt": 12353867,
+        "compareAtFormatted": "₺123.538,67",
+        "discountPercentage": 14.4,
+        "savings": 1778957,
+        "savingsFormatted": "₺17.789,57"
+      },
+      "currency": "TRY",
+      "rating": 3.77,
+      "reviewCount": 4,
+      "stock": 48,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+      ],
+      "variantOf": 2,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/192"
+      }
+    },
+    {
+      "id": 193,
+      "sku": "AUR-FUR-FUR-0193",
+      "title": "Afrika Kirazı Komodin — Ceviz Kaplama",
+      "slug": "bedside-table-african-cherry",
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1621488,
+      "price": {
+        "amount": 1621488,
+        "currency": "TRY",
+        "formatted": "₺16.214,88",
+        "compareAt": 2004064,
+        "compareAtFormatted": "₺20.040,64",
+        "discountPercentage": 19.09,
+        "savings": 382576,
+        "savingsFormatted": "₺3.825,76"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 4,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+      ],
+      "variantOf": 3,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/193"
+      }
+    },
+    {
+      "id": 194,
+      "sku": "AUR-FUR-KNO-0194",
+      "title": "Knoll Saarinen Yönetici Toplantı Koltuğu — Ceviz Kaplama",
+      "slug": "knoll-saarinen-executive-conference-chair",
+      "brand": "Knoll",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2584890,
+      "price": {
+        "amount": 2584890,
+        "currency": "TRY",
+        "formatted": "₺25.848,90",
+        "compareAt": 2637912,
+        "compareAtFormatted": "₺26.379,12",
+        "discountPercentage": 2.01,
+        "savings": 53022,
+        "savingsFormatted": "₺530,22"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 5,
+      "stock": 14,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+      ],
+      "variantOf": 4,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/194"
+      }
+    },
+    {
+      "id": 195,
+      "sku": "AUR-FUR-BAT-0195",
+      "title": "Aynalı Ahşap Banyo Lavabosu — Ceviz Kaplama",
+      "slug": "wooden-bathroom-sink-with-mirror",
+      "brand": "Bath Trends",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3374910,
+      "price": {
+        "amount": 3374910,
+        "currency": "TRY",
+        "formatted": "₺33.749,10",
+        "compareAt": 3700559,
+        "compareAtFormatted": "₺37.005,59",
+        "discountPercentage": 8.8,
+        "savings": 325649,
+        "savingsFormatted": "₺3.256,49"
+      },
+      "currency": "TRY",
+      "rating": 3.3,
+      "reviewCount": 6,
+      "stock": 22,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+      ],
+      "variantOf": 5,
+      "variantLabel": "Ceviz Kaplama",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/195"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 17,
+    "total": 17,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

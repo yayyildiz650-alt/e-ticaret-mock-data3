@@ -1,0 +1,613 @@
+{
+  "category": {
+    "slug": "mens-shoes",
+    "name": "Erkek Ayakkabı",
+    "productCount": 15
+  },
+  "data": [
+    {
+      "id": 78,
+      "sku": "AUR-MEN-NIK-0078",
+      "title": "Nike Air Jordan 1 Kırmızı ve Siyah",
+      "slug": "nike-air-jordan-1-red-and-black",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 704990,
+      "price": {
+        "amount": 704990,
+        "currency": "TRY",
+        "formatted": "₺7.049,90",
+        "compareAt": 735284,
+        "compareAtFormatted": "₺7.352,84",
+        "discountPercentage": 4.12,
+        "savings": 30294,
+        "savingsFormatted": "₺302,94"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 4,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/78"
+      }
+    },
+    {
+      "id": 79,
+      "sku": "AUR-MEN-NIK-0079",
+      "title": "Nike Beyzbol Krampon",
+      "slug": "nike-baseball-cleats",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 374990,
+      "price": {
+        "amount": 374990,
+        "currency": "TRY",
+        "formatted": "₺3.749,90",
+        "compareAt": 457528,
+        "compareAtFormatted": "₺4.575,28",
+        "discountPercentage": 18.04,
+        "savings": 82538,
+        "savingsFormatted": "₺825,38"
+      },
+      "currency": "TRY",
+      "rating": 3.88,
+      "reviewCount": 3,
+      "stock": 12,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/79"
+      }
+    },
+    {
+      "id": 80,
+      "sku": "AUR-MEN-PUM-0080",
+      "title": "Puma Future Rider Spor Ayakkabı",
+      "slug": "puma-future-rider-trainers",
+      "brand": "Puma",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 443622,
+        "compareAtFormatted": "₺4.436,22",
+        "discountPercentage": 4.2,
+        "savings": 18632,
+        "savingsFormatted": "₺186,32"
+      },
+      "currency": "TRY",
+      "rating": 4.9,
+      "reviewCount": 4,
+      "stock": 90,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/80"
+      }
+    },
+    {
+      "id": 81,
+      "sku": "AUR-MEN-OFF-0081",
+      "title": "Off White & Kırmızı Spor Ayakkabı",
+      "slug": "sports-sneakers-off-white-&-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 564990,
+      "price": {
+        "amount": 564990,
+        "currency": "TRY",
+        "formatted": "₺5.649,90",
+        "compareAt": 594539,
+        "compareAtFormatted": "₺5.945,39",
+        "discountPercentage": 4.97,
+        "savings": 29549,
+        "savingsFormatted": "₺295,49"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 4,
+      "stock": 17,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/81"
+      }
+    },
+    {
+      "id": 82,
+      "sku": "AUR-MEN-OFF-0082",
+      "title": "Off White Kırmızı Spor Ayakkabı",
+      "slug": "sports-sneakers-off-white-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 514990,
+      "price": {
+        "amount": 514990,
+        "currency": "TRY",
+        "formatted": "₺5.149,90",
+        "compareAt": 515196,
+        "compareAtFormatted": "₺5.151,96",
+        "discountPercentage": 0.04,
+        "savings": 206,
+        "savingsFormatted": "₺2,06"
+      },
+      "currency": "TRY",
+      "rating": 4.69,
+      "reviewCount": 4,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/82"
+      }
+    },
+    {
+      "id": 171,
+      "sku": "AUR-MEN-AUR-0171",
+      "title": "Holografik Krampon",
+      "slug": "futuristic-holographic-soccer-cleats",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 419990,
+      "price": {
+        "amount": 419990,
+        "currency": "TRY",
+        "formatted": "₺4.199,90",
+        "compareAt": 502501,
+        "compareAtFormatted": "₺5.025,01",
+        "discountPercentage": 16.42,
+        "savings": 82511,
+        "savingsFormatted": "₺825,11"
+      },
+      "currency": "TRY",
+      "rating": 4.89,
+      "reviewCount": 3,
+      "stock": 31,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/qNOjJje.jpeg",
+      "images": [
+        "https://i.imgur.com/qNOjJje.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/171"
+      }
+    },
+    {
+      "id": 172,
+      "sku": "AUR-MEN-AUR-0172",
+      "title": "Turuncu & Mavi Spor Ayakkabı",
+      "slug": "vibrant-orange-&-blue-sneakers",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 369990,
+      "price": {
+        "amount": 369990,
+        "currency": "TRY",
+        "formatted": "₺3.699,90",
+        "compareAt": 447172,
+        "compareAtFormatted": "₺4.471,72",
+        "discountPercentage": 17.26,
+        "savings": 77182,
+        "savingsFormatted": "₺771,82"
+      },
+      "currency": "TRY",
+      "rating": 3.37,
+      "reviewCount": 4,
+      "stock": 23,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/hKcMNJs.jpeg",
+      "images": [
+        "https://i.imgur.com/hKcMNJs.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/172"
+      }
+    },
+    {
+      "id": 173,
+      "sku": "AUR-MEN-AUR-0173",
+      "title": "Gümüş & Altın Bilekli Spor Ayakkabı",
+      "slug": "futuristic-silver-and-gold-high-top-sneaker",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 319990,
+      "price": {
+        "amount": 319990,
+        "currency": "TRY",
+        "formatted": "₺3.199,90",
+        "compareAt": 323745,
+        "compareAtFormatted": "₺3.237,45",
+        "discountPercentage": 1.16,
+        "savings": 3755,
+        "savingsFormatted": "₺37,55"
+      },
+      "currency": "TRY",
+      "rating": 4.85,
+      "reviewCount": 5,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://i.imgur.com/npLfCGq.jpeg",
+      "images": [
+        "https://i.imgur.com/npLfCGq.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/173"
+      }
+    },
+    {
+      "id": 174,
+      "sku": "AUR-MEN-AUR-0174",
+      "title": "Mor Deri Loafer Ayakkabı",
+      "slug": "elegant-purple-leather-loafers",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 549990,
+      "price": {
+        "amount": 549990,
+        "currency": "TRY",
+        "formatted": "₺5.499,90",
+        "compareAt": 572429,
+        "compareAtFormatted": "₺5.724,29",
+        "discountPercentage": 3.92,
+        "savings": 22439,
+        "savingsFormatted": "₺224,39"
+      },
+      "currency": "TRY",
+      "rating": 3.95,
+      "reviewCount": 6,
+      "stock": 41,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/Au8J9sX.jpeg",
+      "images": [
+        "https://i.imgur.com/Au8J9sX.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/174"
+      }
+    },
+    {
+      "id": 175,
+      "sku": "AUR-MEN-AUR-0175",
+      "title": "Mavi Süet Günlük Ayakkabı",
+      "slug": "classic-blue-suede-casual-shoes",
+      "brand": "Aurora Step",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 464990,
+      "price": {
+        "amount": 464990,
+        "currency": "TRY",
+        "formatted": "₺4.649,90",
+        "compareAt": 492783,
+        "compareAtFormatted": "₺4.927,83",
+        "discountPercentage": 5.64,
+        "savings": 27793,
+        "savingsFormatted": "₺277,93"
+      },
+      "currency": "TRY",
+      "rating": 4.07,
+      "reviewCount": 2,
+      "stock": 107,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/sC0ztOB.jpeg",
+      "images": [
+        "https://i.imgur.com/sC0ztOB.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/175"
+      }
+    },
+    {
+      "id": 268,
+      "sku": "AUR-MEN-NIK-0268",
+      "title": "Nike Air Jordan 1 Kırmızı ve Siyah — 41 Numara",
+      "slug": "nike-air-jordan-1-red-and-black",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 704990,
+      "price": {
+        "amount": 704990,
+        "currency": "TRY",
+        "formatted": "₺7.049,90",
+        "compareAt": 735284,
+        "compareAtFormatted": "₺7.352,84",
+        "discountPercentage": 4.12,
+        "savings": 30294,
+        "savingsFormatted": "₺302,94"
+      },
+      "currency": "TRY",
+      "rating": 4.6,
+      "reviewCount": 5,
+      "stock": 17,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp"
+      ],
+      "variantOf": 78,
+      "variantLabel": "41 Numara",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/268"
+      }
+    },
+    {
+      "id": 269,
+      "sku": "AUR-MEN-NIK-0269",
+      "title": "Nike Beyzbol Krampon — 41 Numara",
+      "slug": "nike-baseball-cleats",
+      "brand": "Nike",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 412489,
+      "price": {
+        "amount": 412489,
+        "currency": "TRY",
+        "formatted": "₺4.124,89",
+        "compareAt": 503281,
+        "compareAtFormatted": "₺5.032,81",
+        "discountPercentage": 18.04,
+        "savings": 90792,
+        "savingsFormatted": "₺907,92"
+      },
+      "currency": "TRY",
+      "rating": 4.0,
+      "reviewCount": 4,
+      "stock": 8,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp"
+      ],
+      "variantOf": 79,
+      "variantLabel": "41 Numara",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/269"
+      }
+    },
+    {
+      "id": 270,
+      "sku": "AUR-MEN-PUM-0270",
+      "title": "Puma Future Rider Spor Ayakkabı — 41 Numara",
+      "slug": "puma-future-rider-trainers",
+      "brand": "Puma",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 488738,
+      "price": {
+        "amount": 488738,
+        "currency": "TRY",
+        "formatted": "₺4.887,38",
+        "compareAt": 510165,
+        "compareAtFormatted": "₺5.101,65",
+        "discountPercentage": 4.2,
+        "savings": 21427,
+        "savingsFormatted": "₺214,27"
+      },
+      "currency": "TRY",
+      "rating": 4.92,
+      "reviewCount": 4,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp"
+      ],
+      "variantOf": 80,
+      "variantLabel": "41 Numara",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/270"
+      }
+    },
+    {
+      "id": 271,
+      "sku": "AUR-MEN-OFF-0271",
+      "title": "Off White & Kırmızı Spor Ayakkabı — 41 Numara",
+      "slug": "sports-sneakers-off-white-&-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 649738,
+      "price": {
+        "amount": 649738,
+        "currency": "TRY",
+        "formatted": "₺6.497,38",
+        "compareAt": 683719,
+        "compareAtFormatted": "₺6.837,19",
+        "discountPercentage": 4.97,
+        "savings": 33981,
+        "savingsFormatted": "₺339,81"
+      },
+      "currency": "TRY",
+      "rating": 5.0,
+      "reviewCount": 6,
+      "stock": 30,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp"
+      ],
+      "variantOf": 81,
+      "variantLabel": "41 Numara",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/271"
+      }
+    },
+    {
+      "id": 272,
+      "sku": "AUR-MEN-OFF-0272",
+      "title": "Off White Kırmızı Spor Ayakkabı — 41 Numara",
+      "slug": "sports-sneakers-off-white-red",
+      "brand": "Off White",
+      "category": "mens-shoes",
+      "categoryName": "Erkek Ayakkabı",
+      "unitPrice": 463491,
+      "price": {
+        "amount": 463491,
+        "currency": "TRY",
+        "formatted": "₺4.634,91",
+        "compareAt": 463676,
+        "compareAtFormatted": "₺4.636,76",
+        "discountPercentage": 0.04,
+        "savings": 185,
+        "savingsFormatted": "₺1,85"
+      },
+      "currency": "TRY",
+      "rating": 4.97,
+      "reviewCount": 5,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp"
+      ],
+      "variantOf": 82,
+      "variantLabel": "41 Numara",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/272"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 15,
+    "total": 15,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "category": {
+    "slug": "tablets",
+    "name": "Tabletler",
+    "productCount": 3
+  },
+  "data": [
+    {
+      "id": 146,
+      "sku": "AUR-TAB-APP-0146",
+      "title": "iPad Mini 2021 Yıldız Işığı",
+      "slug": "ipad-mini-2021-starlight",
+      "brand": "Apple",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2438667,
+        "compareAtFormatted": "₺24.386,67",
+        "discountPercentage": 3.64,
+        "savings": 88767,
+        "savingsFormatted": "₺887,67"
+      },
+      "currency": "TRY",
+      "rating": 3.18,
+      "reviewCount": 2,
+      "stock": 47,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/146"
+      }
+    },
+    {
+      "id": 147,
+      "sku": "AUR-TAB-SAM-0147",
+      "title": "Samsung Galaxy Tab S8 Plus Gri",
+      "slug": "samsung-galaxy-tab-s8-plus-grey",
+      "brand": "Samsung",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 2799900,
+      "price": {
+        "amount": 2799900,
+        "currency": "TRY",
+        "formatted": "₺27.999,00",
+        "compareAt": 3229784,
+        "compareAtFormatted": "₺32.297,84",
+        "discountPercentage": 13.31,
+        "savings": 429884,
+        "savingsFormatted": "₺4.298,84"
+      },
+      "currency": "TRY",
+      "rating": 4.68,
+      "reviewCount": 3,
+      "stock": 62,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/147"
+      }
+    },
+    {
+      "id": 148,
+      "sku": "AUR-TAB-SAM-0148",
+      "title": "Samsung Galaxy Tab Beyaz",
+      "slug": "samsung-galaxy-tab-white",
+      "brand": "Samsung",
+      "category": "tablets",
+      "categoryName": "Tabletler",
+      "unitPrice": 1644990,
+      "price": {
+        "amount": 1644990,
+        "currency": "TRY",
+        "formatted": "₺16.449,90",
+        "compareAt": 2010990,
+        "compareAtFormatted": "₺20.109,90",
+        "discountPercentage": 18.2,
+        "savings": 366000,
+        "savingsFormatted": "₺3.660,00"
+      },
+      "currency": "TRY",
+      "rating": 3.72,
+      "reviewCount": 2,
+      "stock": 92,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/148"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 3,
+    "total": 3,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

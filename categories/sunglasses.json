@@ -1,0 +1,256 @@
+{
+  "category": {
+    "slug": "sunglasses",
+    "name": "Güneş Gözlüğü",
+    "productCount": 6
+  },
+  "data": [
+    {
+      "id": 141,
+      "sku": "AUR-SUN-FAS-0141",
+      "title": "Siyah Güneş Gözlüğü",
+      "slug": "black-sun-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 139990,
+      "price": {
+        "amount": 139990,
+        "currency": "TRY",
+        "formatted": "₺1.399,90",
+        "compareAt": 147265,
+        "compareAtFormatted": "₺1.472,65",
+        "discountPercentage": 4.94,
+        "savings": 7275,
+        "savingsFormatted": "₺72,75"
+      },
+      "currency": "TRY",
+      "rating": 4.41,
+      "reviewCount": 5,
+      "stock": 60,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/141"
+      }
+    },
+    {
+      "id": 142,
+      "sku": "AUR-SUN-FAS-0142",
+      "title": "Klasik Güneş Gözlüğü",
+      "slug": "classic-sun-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 114990,
+      "price": {
+        "amount": 114990,
+        "currency": "TRY",
+        "formatted": "₺1.149,90",
+        "compareAt": 120966,
+        "compareAtFormatted": "₺1.209,66",
+        "discountPercentage": 4.94,
+        "savings": 5976,
+        "savingsFormatted": "₺59,76"
+      },
+      "currency": "TRY",
+      "rating": 3.86,
+      "reviewCount": 2,
+      "stock": 1,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/142"
+      }
+    },
+    {
+      "id": 143,
+      "sku": "AUR-SUN-FAS-0143",
+      "title": "Yeşil ve Siyah Gözlük",
+      "slug": "green-and-black-glasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 164990,
+      "price": {
+        "amount": 164990,
+        "currency": "TRY",
+        "formatted": "₺1.649,90",
+        "compareAt": 166673,
+        "compareAtFormatted": "₺1.666,73",
+        "discountPercentage": 1.01,
+        "savings": 1683,
+        "savingsFormatted": "₺16,83"
+      },
+      "currency": "TRY",
+      "rating": 4.55,
+      "reviewCount": 5,
+      "stock": 24,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/143"
+      }
+    },
+    {
+      "id": 144,
+      "sku": "AUR-SUN-FAS-0144",
+      "title": "Parti Gözlüğü",
+      "slug": "party-glasses",
+      "brand": "Fashion Fun",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 93990,
+      "price": {
+        "amount": 93990,
+        "currency": "TRY",
+        "formatted": "₺939,90",
+        "compareAt": 105868,
+        "compareAtFormatted": "₺1.058,68",
+        "discountPercentage": 11.22,
+        "savings": 11878,
+        "savingsFormatted": "₺118,78"
+      },
+      "currency": "TRY",
+      "rating": 2.79,
+      "reviewCount": 2,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "yeni"
+      ],
+      "isNew": true,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/144"
+      }
+    },
+    {
+      "id": 145,
+      "sku": "AUR-SUN-FAS-0145",
+      "title": "Güneş Gözlüğü",
+      "slug": "sunglasses",
+      "brand": "Fashion Shades",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 109990,
+      "price": {
+        "amount": 109990,
+        "currency": "TRY",
+        "formatted": "₺1.099,90",
+        "compareAt": 111676,
+        "compareAtFormatted": "₺1.116,76",
+        "discountPercentage": 1.51,
+        "savings": 1686,
+        "savingsFormatted": "₺16,86"
+      },
+      "currency": "TRY",
+      "rating": 3.02,
+      "reviewCount": 3,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/145"
+      }
+    },
+    {
+      "id": 178,
+      "sku": "AUR-SUN-AUR-0178",
+      "title": "Renkli Camlı Güneş Gözlüğü",
+      "slug": "trendy-tinted-sunglasses",
+      "brand": "Aurora Optics",
+      "category": "sunglasses",
+      "categoryName": "Güneş Gözlüğü",
+      "unitPrice": 179990,
+      "price": {
+        "amount": 179990,
+        "currency": "TRY",
+        "formatted": "₺1.799,90",
+        "compareAt": 194647,
+        "compareAtFormatted": "₺1.946,47",
+        "discountPercentage": 7.53,
+        "savings": 14657,
+        "savingsFormatted": "₺146,57"
+      },
+      "currency": "TRY",
+      "rating": 3.92,
+      "reviewCount": 6,
+      "stock": 112,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/0qQBkxX.jpg",
+      "images": [
+        "https://i.imgur.com/0qQBkxX.jpg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/178"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 6,
+    "total": 6,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "orderId": 1002,
+  "status": "kargolandı",
+  "currency": "TRY",
+  "customerId": 1,
+  "customerEmail": "demo@aurora.test",
+  "items": [
+    {
+      "productId": 68,
+      "sku": "AUR-LAP-APP-0068",
+      "name": "Apple MacBook Pro 14 inç Uzay Grisi",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "quantity": 1,
+      "unitPrice": 9399900,
+      "unitPriceFormatted": "₺93.999,00",
+      "lineTotal": 9399900,
+      "lineTotalFormatted": "₺93.999,00"
+    },
+    {
+      "productId": 78,
+      "sku": "AUR-MEN-NIK-0078",
+      "name": "Nike Air Jordan 1 Kırmızı ve Siyah",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "quantity": 2,
+      "unitPrice": 704990,
+      "unitPriceFormatted": "₺7.049,90",
+      "lineTotal": 1409980,
+      "lineTotalFormatted": "₺14.099,80"
+    }
+  ],
+  "subtotal": 10809880,
+  "subtotalFormatted": "₺108.098,80",
+  "shipping": 0,
+  "shippingFormatted": "₺0,00",
+  "tax": 2161976,
+  "taxFormatted": "₺21.619,76",
+  "total": 12971856,
+  "totalFormatted": "₺129.718,56",
+  "itemCount": 3,
+  "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+  "shippingAddress": {
+    "name": "Demo Müşteri",
+    "line1": "Aurora Caddesi No:123",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "country": "Türkiye",
+    "postalCode": "34000"
+  },
+  "timeline": [
+    {
+      "status": "beklemede",
+      "at": "2026-07-01T14:03:10.000Z"
+    },
+    {
+      "status": "kargolandı",
+      "at": "2026-07-01T14:03:10.000Z"
+    }
+  ],
+  "createdAt": "2026-07-01T14:03:10.000Z",
+  "updatedAt": "2026-07-01T14:03:10.000Z",
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/orders/1002",
+    "receipt": "https://api.aurora-commerce.dev/v1/orders/1002/receipt"
+  }
+}

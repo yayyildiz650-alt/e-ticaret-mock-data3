@@ -1,0 +1,17 @@
+{
+  "error": "out_of_stock",
+  "status": 409,
+  "message": "Bir veya daha fazla ürün mevcut stoğu aşıyor. Sipariş oluşturulmadı ve stok düşülmedi.",
+  "details": [
+    {
+      "productId": 107,
+      "name": "Sportbike Motosiklet",
+      "requested": 5,
+      "available": 0
+    }
+  ],
+  "meta": {
+    "transactional": true,
+    "note": "Ödeme tek bir ACID işlemidir — hata durumunda tamamen geri alınır."
+  }
+}

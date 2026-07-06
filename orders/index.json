@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "orderId": 1001,
+      "status": "onaylandı",
+      "currency": "TRY",
+      "customerId": 1,
+      "customerEmail": "demo@aurora.test",
+      "items": [
+        {
+          "productId": 108,
+          "sku": "AUR-SMA-APP-0108",
+          "name": "iPhone 5s",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+          "quantity": 2,
+          "unitPrice": 939990,
+          "unitPriceFormatted": "₺9.399,90",
+          "lineTotal": 1879980,
+          "lineTotalFormatted": "₺18.799,80"
+        },
+        {
+          "productId": 154,
+          "sku": "AUR-ELE-AUR-0154",
+          "name": "Beyaz & Turuncu Kablosuz Oyun Kolu",
+          "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+          "quantity": 1,
+          "unitPrice": 324990,
+          "unitPriceFormatted": "₺3.249,90",
+          "lineTotal": 324990,
+          "lineTotalFormatted": "₺3.249,90"
+        }
+      ],
+      "subtotal": 2204970,
+      "subtotalFormatted": "₺22.049,70",
+      "shipping": 0,
+      "shippingFormatted": "₺0,00",
+      "tax": 440994,
+      "taxFormatted": "₺4.409,94",
+      "total": 2645964,
+      "totalFormatted": "₺26.459,64",
+      "itemCount": 3,
+      "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+      "shippingAddress": {
+        "name": "Demo Müşteri",
+        "line1": "Aurora Caddesi No:123",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "country": "Türkiye",
+        "postalCode": "34000"
+      },
+      "timeline": [
+        {
+          "status": "beklemede",
+          "at": "2026-07-06T09:15:22.000Z"
+        },
+        {
+          "status": "onaylandı",
+          "at": "2026-07-06T09:15:22.000Z"
+        }
+      ],
+      "createdAt": "2026-07-06T09:15:22.000Z",
+      "updatedAt": "2026-07-06T09:15:22.000Z",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/orders/1001",
+        "receipt": "https://api.aurora-commerce.dev/v1/orders/1001/receipt"
+      }
+    },
+    {
+      "orderId": 1002,
+      "status": "kargolandı",
+      "currency": "TRY",
+      "customerId": 1,
+      "customerEmail": "demo@aurora.test",
+      "items": [
+        {
+          "productId": 68,
+          "sku": "AUR-LAP-APP-0068",
+          "name": "Apple MacBook Pro 14 inç Uzay Grisi",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+          "quantity": 1,
+          "unitPrice": 9399900,
+          "unitPriceFormatted": "₺93.999,00",
+          "lineTotal": 9399900,
+          "lineTotalFormatted": "₺93.999,00"
+        },
+        {
+          "productId": 78,
+          "sku": "AUR-MEN-NIK-0078",
+          "name": "Nike Air Jordan 1 Kırmızı ve Siyah",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+          "quantity": 2,
+          "unitPrice": 704990,
+          "unitPriceFormatted": "₺7.049,90",
+          "lineTotal": 1409980,
+          "lineTotalFormatted": "₺14.099,80"
+        }
+      ],
+      "subtotal": 10809880,
+      "subtotalFormatted": "₺108.098,80",
+      "shipping": 0,
+      "shippingFormatted": "₺0,00",
+      "tax": 2161976,
+      "taxFormatted": "₺21.619,76",
+      "total": 12971856,
+      "totalFormatted": "₺129.718,56",
+      "itemCount": 3,
+      "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+      "shippingAddress": {
+        "name": "Demo Müşteri",
+        "line1": "Aurora Caddesi No:123",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "country": "Türkiye",
+        "postalCode": "34000"
+      },
+      "timeline": [
+        {
+          "status": "beklemede",
+          "at": "2026-07-01T14:03:10.000Z"
+        },
+        {
+          "status": "kargolandı",
+          "at": "2026-07-01T14:03:10.000Z"
+        }
+      ],
+      "createdAt": "2026-07-01T14:03:10.000Z",
+      "updatedAt": "2026-07-01T14:03:10.000Z",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/orders/1002",
+        "receipt": "https://api.aurora-commerce.dev/v1/orders/1002/receipt"
+      }
+    },
+    {
+      "orderId": 1003,
+      "status": "teslim edildi",
+      "currency": "TRY",
+      "customerId": 1,
+      "customerEmail": "demo@aurora.test",
+      "items": [
+        {
+          "productId": 38,
+          "sku": "AUR-KIT-AUR-0038",
+          "name": "Bambu Spatula",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+          "quantity": 1,
+          "unitPrice": 37990,
+          "unitPriceFormatted": "₺379,90",
+          "lineTotal": 37990,
+          "lineTotalFormatted": "₺379,90"
+        }
+      ],
+      "subtotal": 37990,
+      "subtotalFormatted": "₺379,90",
+      "shipping": 4990,
+      "shippingFormatted": "₺49,90",
+      "tax": 7598,
+      "taxFormatted": "₺75,98",
+      "total": 50578,
+      "totalFormatted": "₺505,78",
+      "itemCount": 1,
+      "idempotencyKey": "b1c2d3e4-f5a6-7890-abcd-ef1234567890",
+      "shippingAddress": {
+        "name": "Demo Müşteri",
+        "line1": "Aurora Caddesi No:123",
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "country": "Türkiye",
+        "postalCode": "34000"
+      },
+      "timeline": [
+        {
+          "status": "beklemede",
+          "at": "2026-06-20T11:47:55.000Z"
+        },
+        {
+          "status": "teslim edildi",
+          "at": "2026-06-20T11:47:55.000Z"
+        }
+      ],
+      "createdAt": "2026-06-20T11:47:55.000Z",
+      "updatedAt": "2026-06-20T11:47:55.000Z",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/orders/1003",
+        "receipt": "https://api.aurora-commerce.dev/v1/orders/1003/receipt"
+      }
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "total": 3,
+    "apiVersion": "v1"
+  }
+}
