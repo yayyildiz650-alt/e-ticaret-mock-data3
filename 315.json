@@ -1,0 +1,129 @@
+{
+  "id": 315,
+  "sku": "AUR-SPO-AUR-0315",
+  "title": "Beyzbol Topu — 3'lü Paket",
+  "englishTitle": "Baseball Ball",
+  "slug": "baseball-ball",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Beyzbol Topu, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 48288,
+    "currency": "TRY",
+    "formatted": "₺482,88",
+    "compareAt": 49128,
+    "compareAtFormatted": "₺491,28",
+    "discountPercentage": 1.71,
+    "savings": 840,
+    "savingsFormatted": "₺8,40"
+  },
+  "unitPrice": 48288,
+  "currency": "TRY",
+  "stock": 86,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 11,
+  "maxOrderQuantity": 31,
+  "rating": 2.5,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 3,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": 125,
+  "variantLabel": "3'lü Paket",
+  "weight": {
+    "value": 35,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 5.62,
+    "height": 31.74,
+    "depth": 39.67,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 35,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/2.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/3.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+  "barcode": "7624671978897",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Onur Ateş",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-03-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 2,
+      "author": "Defne Erdoğan",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-05-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 3,
+      "author": "Damla Sarı",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-02-17T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 23
+    },
+    {
+      "id": 4,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/315",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-30T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

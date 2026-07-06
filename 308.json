@@ -1,0 +1,133 @@
+{
+  "id": 308,
+  "sku": "AUR-SMA-SAM-0308",
+  "title": "Samsung Galaxy S7 — 128GB",
+  "englishTitle": "Samsung Galaxy S7",
+  "slug": "samsung-galaxy-s7",
+  "brand": "Samsung",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Samsung Galaxy S7, Samsung kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 1268991,
+    "currency": "TRY",
+    "formatted": "₺12.689,91",
+    "compareAt": 1577366,
+    "compareAtFormatted": "₺15.773,66",
+    "discountPercentage": 19.55,
+    "savings": 308375,
+    "savingsFormatted": "₺3.083,75"
+  },
+  "unitPrice": 1268991,
+  "currency": "TRY",
+  "stock": 79,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.03,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 3,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": 118,
+  "variantLabel": "128GB",
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 39.23,
+    "height": 10.18,
+    "depth": 20.7,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 21,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
+  "barcode": "5474929751702",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "İrem Bulut",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-01-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 2,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2025-12-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 32
+    },
+    {
+      "id": 3,
+      "author": "Selin Kılıç",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-12-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 4,
+      "author": "Mehmet Demir",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-03-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/308",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-07T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

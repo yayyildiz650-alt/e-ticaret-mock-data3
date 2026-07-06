@@ -1,0 +1,110 @@
+{
+  "id": 285,
+  "sku": "AUR-MOB-APP-0285",
+  "title": "Apple MagSafe Taşınabilir Batarya — Beyaz",
+  "englishTitle": "Apple MagSafe Battery Pack",
+  "slug": "apple-magsafe-battery-pack",
+  "brand": "Apple",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Apple MagSafe Taşınabilir Batarya, Apple tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 422991,
+    "currency": "TRY",
+    "formatted": "₺4.229,91",
+    "compareAt": 510674,
+    "compareAtFormatted": "₺5.106,74",
+    "discountPercentage": 17.17,
+    "savings": 87683,
+    "savingsFormatted": "₺876,83"
+  },
+  "unitPrice": 422991,
+  "currency": "TRY",
+  "stock": 14,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 4,
+  "maxOrderQuantity": 4,
+  "rating": 3.43,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": 95,
+  "variantLabel": "Beyaz",
+  "weight": {
+    "value": 10,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 29.33,
+    "height": 28.39,
+    "depth": 18.18,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 13,
+    "weightGrams": 10,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/2.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+  "barcode": "7016451046368",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Burak Doğan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 2,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-05-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/285",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-20T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": 284,
+  "sku": "AUR-MOB-APP-0284",
+  "title": "Apple iPhone Şarj Cihazı — Beyaz",
+  "englishTitle": "Apple iPhone Charger",
+  "slug": "apple-iphone-charger",
+  "brand": "Apple",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Apple iPhone Şarj Cihazı, Apple tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 84591,
+    "currency": "TRY",
+    "formatted": "₺845,91",
+    "compareAt": 103818,
+    "compareAtFormatted": "₺1.038,18",
+    "discountPercentage": 18.52,
+    "savings": 19227,
+    "savingsFormatted": "₺192,27"
+  },
+  "unitPrice": 84591,
+  "currency": "TRY",
+  "stock": 16,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 14,
+  "maxOrderQuantity": 31,
+  "rating": 4.29,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": 94,
+  "variantLabel": "Beyaz",
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 28.97,
+    "height": 25.16,
+    "depth": 8.94,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 13,
+    "weightGrams": 21,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+  "barcode": "7927033521103",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Gizem Yavuz",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 2,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2025-12-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 4,
+      "author": "Deniz Koç",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/284",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-15T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

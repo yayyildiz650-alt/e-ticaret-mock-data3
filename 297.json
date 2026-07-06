@@ -1,0 +1,108 @@
+{
+  "id": 297,
+  "sku": "AUR-MOT-SPE-0297",
+  "title": "Sportbike Motosiklet — Touring Sürüm",
+  "englishTitle": "Sportbike Motorcycle",
+  "slug": "sportbike-motorcycle",
+  "brand": "SpeedMaster",
+  "category": "motorcycle",
+  "categoryName": "Motosiklet",
+  "description": "Sportbike Motosiklet, SpeedMaster güvencesiyle güvenli sürüş ve güçlü, dengeli motor performansı sunar. Hem günlük kullanım hem uzun yollar için tasarlandı.",
+  "price": {
+    "amount": 31679910,
+    "currency": "TRY",
+    "formatted": "₺316.799,10",
+    "compareAt": 35828896,
+    "compareAtFormatted": "₺358.288,96",
+    "discountPercentage": 11.58,
+    "savings": 4148986,
+    "savingsFormatted": "₺41.489,86"
+  },
+  "unitPrice": 31679910,
+  "currency": "TRY",
+  "stock": 24,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 1,
+  "rating": 3.7,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "araç",
+    "motor",
+    "sürüş"
+  ],
+  "attributes": {},
+  "variantOf": 107,
+  "variantLabel": "Touring Sürüm",
+  "weight": {
+    "value": 6273,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 8.9,
+    "height": 11.11,
+    "depth": 25.71,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 6273,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/2.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+  "barcode": "9276637239504",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": 2,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2025-12-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/297",
+    "category": "https://api.aurora-commerce.dev/v1/categories/motorcycle"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-29T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

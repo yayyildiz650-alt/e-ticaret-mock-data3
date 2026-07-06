@@ -1,0 +1,139 @@
+{
+  "id": 300,
+  "sku": "AUR-SMA-APP-0300",
+  "title": "iPhone 13 Pro — 128GB",
+  "englishTitle": "iPhone 13 Pro",
+  "slug": "iphone-13-pro",
+  "brand": "Apple",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "iPhone 13 Pro, Apple kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 5664890,
+    "currency": "TRY",
+    "formatted": "₺56.648,90",
+    "compareAt": 6250568,
+    "compareAtFormatted": "₺62.505,68",
+    "discountPercentage": 9.37,
+    "savings": 585678,
+    "savingsFormatted": "₺5.856,78"
+  },
+  "unitPrice": 5664890,
+  "currency": "TRY",
+  "stock": 67,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.92,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": 110,
+  "variantLabel": "128GB",
+  "weight": {
+    "value": 7610,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 18.7,
+    "height": 5.13,
+    "depth": 29.77,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 9,
+    "weightGrams": 7610,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+  "barcode": "1985546015851",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ozan Aksoy",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-12-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-29T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 21
+    },
+    {
+      "id": 3,
+      "author": "Selin Kılıç",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-03-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 4,
+      "author": "Nur Güneş",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-05-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 5,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-12-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/300",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-22T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

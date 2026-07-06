@@ -1,0 +1,149 @@
+{
+  "id": 318,
+  "sku": "AUR-SPO-AUR-0318",
+  "title": "Basketbol Potası Çemberi — 3'lü Paket",
+  "englishTitle": "Basketball Rim",
+  "slug": "basketball-rim",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Basketbol Potası Çemberi, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 218488,
+    "currency": "TRY",
+    "formatted": "₺2.184,88",
+    "compareAt": 236818,
+    "compareAtFormatted": "₺2.368,18",
+    "discountPercentage": 7.74,
+    "savings": 18330,
+    "savingsFormatted": "₺183,30"
+  },
+  "unitPrice": 218488,
+  "currency": "TRY",
+  "stock": 61,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 9,
+  "maxOrderQuantity": 29,
+  "rating": 4.58,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": 128,
+  "variantLabel": "3'lü Paket",
+  "weight": {
+    "value": 17,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 32.64,
+    "height": 14.72,
+    "depth": 24.27,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 10,
+    "weightGrams": 17,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/2.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/3.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+  "barcode": "5162319818984",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Melis Acar",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-12-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 3,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-11-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 4,
+      "author": "Ceren Er",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 5,
+      "author": "Merve Arslan",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 6,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/318",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-10T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

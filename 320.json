@@ -1,0 +1,128 @@
+{
+  "id": 320,
+  "sku": "AUR-SPO-AUR-0320",
+  "title": "Kriket Sopası — 3'lü Paket",
+  "englishTitle": "Cricket Bat",
+  "slug": "cricket-bat",
+  "brand": "Aurora Sport",
+  "category": "sports-accessories",
+  "categoryName": "Spor Aksesuarları",
+  "description": "Kriket Sopası, gerçek performans için üretildi. Turnuva kalitesinde malzemesi ve dayanıklı yapısıyla günlük antrenman ve maç gününe hazır.",
+  "price": {
+    "amount": 160988,
+    "currency": "TRY",
+    "formatted": "₺1.609,88",
+    "compareAt": 166465,
+    "compareAtFormatted": "₺1.664,65",
+    "discountPercentage": 3.29,
+    "savings": 5477,
+    "savingsFormatted": "₺54,77"
+  },
+  "unitPrice": 160988,
+  "currency": "TRY",
+  "stock": 105,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 16,
+  "maxOrderQuantity": 36,
+  "rating": 3.24,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "fitness",
+    "outdoor",
+    "spor"
+  ],
+  "attributes": {},
+  "variantOf": 130,
+  "variantLabel": "3'lü Paket",
+  "weight": {
+    "value": 31,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 30.79,
+    "height": 37.43,
+    "depth": 16.65,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 31,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/2.webp",
+    "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+  "barcode": "8570027206345",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emre Öztürk",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-01-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    },
+    {
+      "id": 2,
+      "author": "Furkan Ünal",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-06-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 24
+    },
+    {
+      "id": 3,
+      "author": "Defne Erdoğan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 4,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-06-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/320",
+    "category": "https://api.aurora-commerce.dev/v1/categories/sports-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-19T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

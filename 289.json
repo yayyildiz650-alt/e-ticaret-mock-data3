@@ -1,0 +1,109 @@
+{
+  "id": 289,
+  "sku": "AUR-MOB-TEC-0289",
+  "title": "Monopod — Beyaz",
+  "englishTitle": "Monopod",
+  "slug": "monopod",
+  "brand": "TechGear",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "Monopod, TechGear tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 84591,
+    "currency": "TRY",
+    "formatted": "₺845,91",
+    "compareAt": 92530,
+    "compareAtFormatted": "₺925,30",
+    "discountPercentage": 8.58,
+    "savings": 7939,
+    "savingsFormatted": "₺79,39"
+  },
+  "unitPrice": 84591,
+  "currency": "TRY",
+  "stock": 55,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 30,
+  "maxOrderQuantity": 48,
+  "rating": 4.71,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": 99,
+  "variantLabel": "Beyaz",
+  "weight": {
+    "value": 16,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 35.88,
+    "height": 14.73,
+    "depth": 27.0,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 16,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/3.webp",
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+  "barcode": "1622499982795",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ozan Aksoy",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-01-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 2,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 19
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/289",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-19T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 311,
+  "sku": "AUR-SMA-VIV-0311",
+  "title": "Vivo S1 — 128GB",
+  "englishTitle": "Vivo S1",
+  "slug": "vivo-s1",
+  "brand": "Vivo",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Vivo S1, Vivo kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 1351238,
+    "currency": "TRY",
+    "formatted": "₺13.512,38",
+    "compareAt": 1504217,
+    "compareAtFormatted": "₺15.042,17",
+    "discountPercentage": 10.17,
+    "savings": 152979,
+    "savingsFormatted": "₺1.529,79"
+  },
+  "unitPrice": 1351238,
+  "currency": "TRY",
+  "stock": 70,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.79,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 2,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": 121,
+  "variantLabel": "128GB",
+  "weight": {
+    "value": 5,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.99,
+    "height": 31.83,
+    "depth": 11.41,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 5,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/3.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp",
+  "barcode": "8952028457652",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 2,
+      "author": "Defne Erdoğan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-05-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/311",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-22T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

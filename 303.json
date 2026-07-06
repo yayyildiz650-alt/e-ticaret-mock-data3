@@ -1,0 +1,141 @@
+{
+  "id": 303,
+  "sku": "AUR-SMA-OPP-0303",
+  "title": "Oppo F19 Pro Plus — 128GB",
+  "englishTitle": "Oppo F19 Pro Plus",
+  "slug": "oppo-f19-pro-plus",
+  "brand": "Oppo",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Oppo F19 Pro Plus, Oppo kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 2067989,
+    "currency": "TRY",
+    "formatted": "₺20.679,89",
+    "compareAt": 2541776,
+    "compareAtFormatted": "₺25.417,76",
+    "discountPercentage": 18.64,
+    "savings": 473787,
+    "savingsFormatted": "₺4.737,87"
+  },
+  "unitPrice": 2067989,
+  "currency": "TRY",
+  "stock": 90,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.58,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 3,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": 113,
+  "variantLabel": "128GB",
+  "weight": {
+    "value": 36,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 13.25,
+    "height": 9.11,
+    "depth": 23.56,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 8,
+    "weightGrams": 36,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+  "barcode": "0312772200543",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ceren Er",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-01-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 2,
+      "author": "Berk Şimşek",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 3,
+      "author": "Ceren Er",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-04-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 4,
+      "author": "Ahmet Yıldız",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Tekrar almam.",
+      "date": "2025-12-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 5,
+      "author": "Fatma Aydın",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/303",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-09T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

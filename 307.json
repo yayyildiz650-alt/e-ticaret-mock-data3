@@ -1,0 +1,142 @@
+{
+  "id": 307,
+  "sku": "AUR-SMA-REA-0307",
+  "title": "Realme XT — 128GB",
+  "englishTitle": "Realme XT",
+  "slug": "realme-xt",
+  "brand": "Realme",
+  "category": "smartphones",
+  "categoryName": "Akıllı Telefonlar",
+  "description": "Realme XT, Realme kalitesiyle canlı ekranı, yetenekli kamera sistemi ve gün boyu süren bataryayla akıcı bir performans sunar.",
+  "price": {
+    "amount": 1644990,
+    "currency": "TRY",
+    "formatted": "₺16.449,90",
+    "compareAt": 1858956,
+    "compareAtFormatted": "₺18.589,56",
+    "discountPercentage": 11.51,
+    "savings": 213966,
+    "savingsFormatted": "₺2.139,66"
+  },
+  "unitPrice": 1644990,
+  "currency": "TRY",
+  "stock": 84,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 23,
+  "rating": 4.36,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "5g",
+    "elektronik",
+    "telefon"
+  ],
+  "attributes": {
+    "işletimSistemi": "Android/iOS",
+    "sim": "Çift SIM"
+  },
+  "variantOf": 117,
+  "variantLabel": "128GB",
+  "weight": {
+    "value": 9,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 21.59,
+    "height": 19.7,
+    "depth": 30.82,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 11,
+    "weightGrams": 9,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/3.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+  "barcode": "7988774924243",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-12-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Merve Arslan",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-13T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 13
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-02-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 4,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-01-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    },
+    {
+      "id": 5,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-02-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/307",
+    "category": "https://api.aurora-commerce.dev/v1/categories/smartphones"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-03T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

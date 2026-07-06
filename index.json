@@ -1,26 +1,887 @@
 {
-  "name": "Aurora Commerce Mock API",
-  "version": "v1",
-  "description": "Aurora Commerce API'sinin statik, GitHub'dan servis edilebilen mock'u. Gerçek ürün verisi ve gerçek CDN görselleri. Tüm metinler Türkçe, para birimi TL.",
-  "currency": "TRY",
-  "locale": "tr-TR",
-  "counts": {
-    "products": 320,
-    "categories": 17,
-    "pages": 16,
-    "pageSize": 20
+  "data": [
+    {
+      "id": 1,
+      "sku": "AUR-FUR-ANN-0001",
+      "title": "Annibale Colombo Yatak",
+      "slug": "annibale-colombo-bed",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 8949900,
+      "price": {
+        "amount": 8949900,
+        "currency": "TRY",
+        "formatted": "₺89.499,00",
+        "compareAt": 9788800,
+        "compareAtFormatted": "₺97.888,00",
+        "discountPercentage": 8.57,
+        "savings": 838900,
+        "savingsFormatted": "₺8.389,00"
+      },
+      "currency": "TRY",
+      "rating": 4.77,
+      "reviewCount": 2,
+      "stock": 88,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/1"
+      }
+    },
+    {
+      "id": 2,
+      "sku": "AUR-FUR-ANN-0002",
+      "title": "Annibale Colombo Kanepe",
+      "slug": "annibale-colombo-sofa",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 11749900,
+      "price": {
+        "amount": 11749900,
+        "currency": "TRY",
+        "formatted": "₺117.499,00",
+        "compareAt": 13726519,
+        "compareAtFormatted": "₺137.265,19",
+        "discountPercentage": 14.4,
+        "savings": 1976619,
+        "savingsFormatted": "₺19.766,19"
+      },
+      "currency": "TRY",
+      "rating": 3.92,
+      "reviewCount": 2,
+      "stock": 60,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/2"
+      }
+    },
+    {
+      "id": 3,
+      "sku": "AUR-FUR-FUR-0003",
+      "title": "Afrika Kirazı Komodin",
+      "slug": "bedside-table-african-cherry",
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 1409990,
+      "price": {
+        "amount": 1409990,
+        "currency": "TRY",
+        "formatted": "₺14.099,90",
+        "compareAt": 1742665,
+        "compareAtFormatted": "₺17.426,65",
+        "discountPercentage": 19.09,
+        "savings": 332675,
+        "savingsFormatted": "₺3.326,75"
+      },
+      "currency": "TRY",
+      "rating": 2.87,
+      "reviewCount": 6,
+      "stock": 64,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/3"
+      }
+    },
+    {
+      "id": 4,
+      "sku": "AUR-FUR-KNO-0004",
+      "title": "Knoll Saarinen Yönetici Toplantı Koltuğu",
+      "slug": "knoll-saarinen-executive-conference-chair",
+      "brand": "Knoll",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 2349900,
+      "price": {
+        "amount": 2349900,
+        "currency": "TRY",
+        "formatted": "₺23.499,00",
+        "compareAt": 2398102,
+        "compareAtFormatted": "₺23.981,02",
+        "discountPercentage": 2.01,
+        "savings": 48202,
+        "savingsFormatted": "₺482,02"
+      },
+      "currency": "TRY",
+      "rating": 4.88,
+      "reviewCount": 2,
+      "stock": 26,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/4"
+      }
+    },
+    {
+      "id": 5,
+      "sku": "AUR-FUR-BAT-0005",
+      "title": "Aynalı Ahşap Banyo Lavabosu",
+      "slug": "wooden-bathroom-sink-with-mirror",
+      "brand": "Bath Trends",
+      "category": "furniture",
+      "categoryName": "Mobilya",
+      "unitPrice": 3749900,
+      "price": {
+        "amount": 3749900,
+        "currency": "TRY",
+        "formatted": "₺37.499,00",
+        "compareAt": 4111732,
+        "compareAtFormatted": "₺41.117,32",
+        "discountPercentage": 8.8,
+        "savings": 361832,
+        "savingsFormatted": "₺3.618,32"
+      },
+      "currency": "TRY",
+      "rating": 3.59,
+      "reviewCount": 5,
+      "stock": 7,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/5"
+      }
+    },
+    {
+      "id": 6,
+      "sku": "AUR-GRO-AUR-0006",
+      "title": "Elma",
+      "slug": "apple",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 8990,
+      "price": {
+        "amount": 8990,
+        "currency": "TRY",
+        "formatted": "₺89,90",
+        "compareAt": 10288,
+        "compareAtFormatted": "₺102,88",
+        "discountPercentage": 12.62,
+        "savings": 1298,
+        "savingsFormatted": "₺12,98"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 6,
+      "stock": 8,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "indirim",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/6"
+      }
+    },
+    {
+      "id": 7,
+      "sku": "AUR-GRO-AUR-0007",
+      "title": "Dana Biftek",
+      "slug": "beef-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 60990,
+      "price": {
+        "amount": 60990,
+        "currency": "TRY",
+        "formatted": "₺609,90",
+        "compareAt": 67474,
+        "compareAtFormatted": "₺674,74",
+        "discountPercentage": 9.61,
+        "savings": 6484,
+        "savingsFormatted": "₺64,84"
+      },
+      "currency": "TRY",
+      "rating": 4.47,
+      "reviewCount": 4,
+      "stock": 86,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/7"
+      }
+    },
+    {
+      "id": 8,
+      "sku": "AUR-GRO-AUR-0008",
+      "title": "Kedi Maması",
+      "slug": "cat-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 41990,
+      "price": {
+        "amount": 41990,
+        "currency": "TRY",
+        "formatted": "₺419,90",
+        "compareAt": 46439,
+        "compareAtFormatted": "₺464,39",
+        "discountPercentage": 9.58,
+        "savings": 4449,
+        "savingsFormatted": "₺44,49"
+      },
+      "currency": "TRY",
+      "rating": 3.13,
+      "reviewCount": 4,
+      "stock": 46,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/8"
+      }
+    },
+    {
+      "id": 9,
+      "sku": "AUR-GRO-AUR-0009",
+      "title": "Tavuk Eti",
+      "slug": "chicken-meat",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 46990,
+      "price": {
+        "amount": 46990,
+        "currency": "TRY",
+        "formatted": "₺469,90",
+        "compareAt": 54450,
+        "compareAtFormatted": "₺544,50",
+        "discountPercentage": 13.7,
+        "savings": 7460,
+        "savingsFormatted": "₺74,60"
+      },
+      "currency": "TRY",
+      "rating": 3.19,
+      "reviewCount": 6,
+      "stock": 97,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/9"
+      }
+    },
+    {
+      "id": 10,
+      "sku": "AUR-GRO-AUR-0010",
+      "title": "Sıvı Yağ",
+      "slug": "cooking-oil",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 22990,
+      "price": {
+        "amount": 22990,
+        "currency": "TRY",
+        "formatted": "₺229,90",
+        "compareAt": 25356,
+        "compareAtFormatted": "₺253,56",
+        "discountPercentage": 9.33,
+        "savings": 2366,
+        "savingsFormatted": "₺23,66"
+      },
+      "currency": "TRY",
+      "rating": 4.8,
+      "reviewCount": 4,
+      "stock": 10,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "çok satan",
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/10"
+      }
+    },
+    {
+      "id": 11,
+      "sku": "AUR-GRO-AUR-0011",
+      "title": "Salatalık",
+      "slug": "cucumber",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 6990,
+      "price": {
+        "amount": 6990,
+        "currency": "TRY",
+        "formatted": "₺69,90",
+        "compareAt": 7001,
+        "compareAtFormatted": "₺70,01",
+        "discountPercentage": 0.16,
+        "savings": 11,
+        "savingsFormatted": "₺0,11"
+      },
+      "currency": "TRY",
+      "rating": 4.07,
+      "reviewCount": 4,
+      "stock": 84,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/11"
+      }
+    },
+    {
+      "id": 12,
+      "sku": "AUR-GRO-AUR-0012",
+      "title": "Köpek Maması",
+      "slug": "dog-food",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 51990,
+      "price": {
+        "amount": 51990,
+        "currency": "TRY",
+        "formatted": "₺519,90",
+        "compareAt": 57940,
+        "compareAtFormatted": "₺579,40",
+        "discountPercentage": 10.27,
+        "savings": 5950,
+        "savingsFormatted": "₺59,50"
+      },
+      "currency": "TRY",
+      "rating": 4.55,
+      "reviewCount": 4,
+      "stock": 71,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/12"
+      }
+    },
+    {
+      "id": 13,
+      "sku": "AUR-GRO-AUR-0013",
+      "title": "Yumurta",
+      "slug": "eggs",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 13990,
+      "price": {
+        "amount": 13990,
+        "currency": "TRY",
+        "formatted": "₺139,90",
+        "compareAt": 15728,
+        "compareAtFormatted": "₺157,28",
+        "discountPercentage": 11.05,
+        "savings": 1738,
+        "savingsFormatted": "₺17,38"
+      },
+      "currency": "TRY",
+      "rating": 2.53,
+      "reviewCount": 5,
+      "stock": 9,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/13"
+      }
+    },
+    {
+      "id": 14,
+      "sku": "AUR-GRO-AUR-0014",
+      "title": "Balık Fileto",
+      "slug": "fish-steak",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 69990,
+      "price": {
+        "amount": 69990,
+        "currency": "TRY",
+        "formatted": "₺699,90",
+        "compareAt": 73081,
+        "compareAtFormatted": "₺730,81",
+        "discountPercentage": 4.23,
+        "savings": 3091,
+        "savingsFormatted": "₺30,91"
+      },
+      "currency": "TRY",
+      "rating": 3.78,
+      "reviewCount": 4,
+      "stock": 74,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/14"
+      }
+    },
+    {
+      "id": 15,
+      "sku": "AUR-GRO-AUR-0015",
+      "title": "Yeşil Dolmalık Biber",
+      "slug": "green-bell-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 5990,
+      "price": {
+        "amount": 5990,
+        "currency": "TRY",
+        "formatted": "₺59,90",
+        "compareAt": 6000,
+        "compareAtFormatted": "₺60,00",
+        "discountPercentage": 0.16,
+        "savings": 10,
+        "savingsFormatted": "₺0,10"
+      },
+      "currency": "TRY",
+      "rating": 3.25,
+      "reviewCount": 2,
+      "stock": 33,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/15"
+      }
+    },
+    {
+      "id": 16,
+      "sku": "AUR-GRO-AUR-0016",
+      "title": "Yeşil Acı Biber",
+      "slug": "green-chili-pepper",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 4990,
+      "price": {
+        "amount": 4990,
+        "currency": "TRY",
+        "formatted": "₺49,90",
+        "compareAt": 5040,
+        "compareAtFormatted": "₺50,40",
+        "discountPercentage": 1.0,
+        "savings": 50,
+        "savingsFormatted": "₺0,50"
+      },
+      "currency": "TRY",
+      "rating": 3.66,
+      "reviewCount": 3,
+      "stock": 3,
+      "inStock": true,
+      "availabilityStatus": "Son Birkaç Ürün",
+      "badges": [
+        "son ürünler"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/16"
+      }
+    },
+    {
+      "id": 17,
+      "sku": "AUR-GRO-AUR-0017",
+      "title": "Bal Kavanozu",
+      "slug": "honey-jar",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 32990,
+      "price": {
+        "amount": 32990,
+        "currency": "TRY",
+        "formatted": "₺329,90",
+        "compareAt": 38540,
+        "compareAtFormatted": "₺385,40",
+        "discountPercentage": 14.4,
+        "savings": 5550,
+        "savingsFormatted": "₺55,50"
+      },
+      "currency": "TRY",
+      "rating": 3.97,
+      "reviewCount": 3,
+      "stock": 34,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/17"
+      }
+    },
+    {
+      "id": 18,
+      "sku": "AUR-GRO-AUR-0018",
+      "title": "Dondurma",
+      "slug": "ice-cream",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 25990,
+      "price": {
+        "amount": 25990,
+        "currency": "TRY",
+        "formatted": "₺259,90",
+        "compareAt": 28463,
+        "compareAtFormatted": "₺284,63",
+        "discountPercentage": 8.69,
+        "savings": 2473,
+        "savingsFormatted": "₺24,73"
+      },
+      "currency": "TRY",
+      "rating": 3.39,
+      "reviewCount": 2,
+      "stock": 27,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/18"
+      }
+    },
+    {
+      "id": 19,
+      "sku": "AUR-GRO-AUR-0019",
+      "title": "Meyve Suyu",
+      "slug": "juice",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 18990,
+      "price": {
+        "amount": 18990,
+        "currency": "TRY",
+        "formatted": "₺189,90",
+        "compareAt": 21594,
+        "compareAtFormatted": "₺215,94",
+        "discountPercentage": 12.06,
+        "savings": 2604,
+        "savingsFormatted": "₺26,04"
+      },
+      "currency": "TRY",
+      "rating": 3.94,
+      "reviewCount": 4,
+      "stock": 50,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim"
+      ],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/19"
+      }
+    },
+    {
+      "id": 20,
+      "sku": "AUR-GRO-AUR-0020",
+      "title": "Kivi",
+      "slug": "kiwi",
+      "brand": "Aurora Fresh",
+      "category": "groceries",
+      "categoryName": "Market",
+      "unitPrice": 11990,
+      "price": {
+        "amount": 11990,
+        "currency": "TRY",
+        "formatted": "₺119,90",
+        "compareAt": 14142,
+        "compareAtFormatted": "₺141,42",
+        "discountPercentage": 15.22,
+        "savings": 2152,
+        "savingsFormatted": "₺21,52"
+      },
+      "currency": "TRY",
+      "rating": 4.93,
+      "reviewCount": 4,
+      "stock": 99,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [
+        "indirim",
+        "çok satan"
+      ],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/20"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 20,
+    "total": 320,
+    "totalPages": 16,
+    "hasNext": true,
+    "hasPrev": false
   },
-  "endpoints": {
-    "listProducts": "GET /v1/products.json  (1. sayfa; ayrıca /v1/products/pages/page-NN.json)",
-    "allProducts": "GET /v1/products/all.json",
-    "productDetail": "GET /v1/products/{id}.json",
-    "categories": "GET /v1/categories.json",
-    "productsByCategory": "GET /v1/categories/{slug}.json",
-    "search": "GET /v1/search/{query}.json (örnek: saat)",
-    "cartPreview": "POST /cart/preview -> /v1/cart/preview.example.json",
-    "checkout": "POST /checkout -> /v1/checkout/success.example.json",
-    "orderDetail": "GET /v1/orders/{id}.json",
-    "errors": "GET /v1/errors/{code}.json"
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=20",
+    "last": "https://api.aurora-commerce.dev/v1/products?page=16&pageSize=20",
+    "next": "https://api.aurora-commerce.dev/v1/products?page=2&pageSize=20",
+    "prev": null
   },
-  "generatedAt": "2026-07-06T09:00:00.000Z"
+  "filters": {
+    "categories": [
+      {
+        "slug": "smartphones",
+        "name": "Akıllı Telefonlar"
+      },
+      {
+        "slug": "laptops",
+        "name": "Dizüstü Bilgisayarlar"
+      },
+      {
+        "slug": "tablets",
+        "name": "Tabletler"
+      },
+      {
+        "slug": "electronics",
+        "name": "Elektronik"
+      },
+      {
+        "slug": "mobile-accessories",
+        "name": "Telefon Aksesuarları"
+      },
+      {
+        "slug": "kitchen-accessories",
+        "name": "Mutfak Gereçleri"
+      },
+      {
+        "slug": "home-decoration",
+        "name": "Ev Dekorasyonu"
+      },
+      {
+        "slug": "furniture",
+        "name": "Mobilya"
+      },
+      {
+        "slug": "mens-watches",
+        "name": "Erkek Saat"
+      },
+      {
+        "slug": "sports-accessories",
+        "name": "Spor Aksesuarları"
+      },
+      {
+        "slug": "sunglasses",
+        "name": "Güneş Gözlüğü"
+      },
+      {
+        "slug": "mens-shoes",
+        "name": "Erkek Ayakkabı"
+      },
+      {
+        "slug": "apparel",
+        "name": "Giyim"
+      },
+      {
+        "slug": "mens-shirts",
+        "name": "Erkek Gömlek"
+      },
+      {
+        "slug": "motorcycle",
+        "name": "Motosiklet"
+      },
+      {
+        "slug": "vehicle",
+        "name": "Araçlar"
+      },
+      {
+        "slug": "groceries",
+        "name": "Market"
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "currency": "TRY",
+    "apiVersion": "v1"
+  }
 }

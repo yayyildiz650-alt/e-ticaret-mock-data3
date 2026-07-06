@@ -1,0 +1,108 @@
+{
+  "id": 290,
+  "sku": "AUR-MOB-GAD-0290",
+  "title": "iPhone'lu Selfie Işığı — Beyaz",
+  "englishTitle": "Selfie Lamp with iPhone",
+  "slug": "selfie-lamp-with-iphone",
+  "brand": "GadgetMaster",
+  "category": "mobile-accessories",
+  "categoryName": "Telefon Aksesuarları",
+  "description": "iPhone'lu Selfie Işığı, GadgetMaster tarafından kusursuz bir günlük deneyim için tasarlandı. Güvenilir bağlantı, düşünülmüş tasarım ve dayanıklı yapı kalitesi bir arada.",
+  "price": {
+    "amount": 76989,
+    "currency": "TRY",
+    "formatted": "₺769,89",
+    "compareAt": 95520,
+    "compareAtFormatted": "₺955,20",
+    "discountPercentage": 19.4,
+    "savings": 18531,
+    "savingsFormatted": "₺185,31"
+  },
+  "unitPrice": 76989,
+  "currency": "TRY",
+  "stock": 82,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 22,
+  "maxOrderQuantity": 42,
+  "rating": 3.51,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "elektronik",
+    "ses"
+  ],
+  "attributes": {},
+  "variantOf": 100,
+  "variantLabel": "Beyaz",
+  "weight": {
+    "value": 40,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 17.38,
+    "height": 9.54,
+    "depth": 24.69,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 1,
+    "weightGrams": 40,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
+  "barcode": "3966055830344",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "İrem Bulut",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-04-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 30
+    },
+    {
+      "id": 2,
+      "author": "Mehmet Demir",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-06-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/290",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-04T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}
