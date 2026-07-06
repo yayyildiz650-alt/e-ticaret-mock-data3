@@ -1,0 +1,128 @@
+{
+  "id": 47,
+  "sku": "AUR-KIT-AUR-0047",
+  "title": "İnce Telli Süzgeç",
+  "englishTitle": "Fine Mesh Strainer",
+  "slug": "fine-mesh-strainer",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "İnce Telli Süzgeç, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 46990,
+    "currency": "TRY",
+    "formatted": "₺469,90",
+    "compareAt": 48694,
+    "compareAtFormatted": "₺486,94",
+    "discountPercentage": 3.5,
+    "savings": 1704,
+    "savingsFormatted": "₺17,04"
+  },
+  "unitPrice": 46990,
+  "currency": "TRY",
+  "stock": 85,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 43,
+  "maxOrderQuantity": 63,
+  "rating": 3.04,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 3,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 29,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 30.27,
+    "height": 20.84,
+    "depth": 7.35,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 29,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+  "barcode": "8673622660937",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 2,
+      "author": "Furkan Ünal",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-04T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 30
+    },
+    {
+      "id": 3,
+      "author": "Emre Öztürk",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-06-08T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 4,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/47",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-06T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

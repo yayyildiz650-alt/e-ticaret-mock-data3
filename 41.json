@@ -1,0 +1,112 @@
+{
+  "id": 41,
+  "sku": "AUR-KIT-AUR-0041",
+  "title": "Kutulu Blender",
+  "englishTitle": "Boxed Blender",
+  "slug": "boxed-blender",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Kutulu Blender, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 189990,
+    "currency": "TRY",
+    "formatted": "₺1.899,90",
+    "compareAt": 204863,
+    "compareAtFormatted": "₺2.048,63",
+    "discountPercentage": 7.26,
+    "savings": 14873,
+    "savingsFormatted": "₺148,73"
+  },
+  "unitPrice": 189990,
+  "currency": "TRY",
+  "stock": 9,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 4,
+  "maxOrderQuantity": 9,
+  "rating": 4.56,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 4,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 14.4,
+    "height": 28.58,
+    "depth": 26.1,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 4,
+    "weightGrams": 4,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "çok satan",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+  "barcode": "0331739363854",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Damla Sarı",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-02-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 2,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/41",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-11T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

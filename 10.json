@@ -1,0 +1,131 @@
+{
+  "id": 10,
+  "sku": "AUR-GRO-AUR-0010",
+  "title": "Sıvı Yağ",
+  "englishTitle": "Cooking Oil",
+  "slug": "cooking-oil",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Sıvı Yağ — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 22990,
+    "currency": "TRY",
+    "formatted": "₺229,90",
+    "compareAt": 25356,
+    "compareAtFormatted": "₺253,56",
+    "discountPercentage": 9.33,
+    "savings": 2366,
+    "savingsFormatted": "₺23,66"
+  },
+  "unitPrice": 22990,
+  "currency": "TRY",
+  "stock": 10,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 46,
+  "maxOrderQuantity": 46,
+  "rating": 4.8,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 28,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.0,
+    "height": 18.61,
+    "depth": 28.41,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 10,
+    "weightGrams": 28,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "İade edilemez",
+  "badges": [
+    "çok satan",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+  "barcode": "6272046537556",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Burak Doğan",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 2,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-06-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 26
+    },
+    {
+      "id": 3,
+      "author": "Mehmet Demir",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-03-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 4,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-04-14T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/10",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-20T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

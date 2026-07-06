@@ -1,0 +1,149 @@
+{
+  "id": 6,
+  "sku": "AUR-GRO-AUR-0006",
+  "title": "Elma",
+  "englishTitle": "Apple",
+  "slug": "apple",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Elma — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 8990,
+    "currency": "TRY",
+    "formatted": "₺89,90",
+    "compareAt": 10288,
+    "compareAtFormatted": "₺102,88",
+    "discountPercentage": 12.62,
+    "savings": 1298,
+    "savingsFormatted": "₺12,98"
+  },
+  "unitPrice": 8990,
+  "currency": "TRY",
+  "stock": 8,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 7,
+  "maxOrderQuantity": 8,
+  "rating": 4.19,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 29,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 34.18,
+    "height": 29.62,
+    "depth": 26.41,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 2,
+    "weightGrams": 29,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "indirim",
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+  "barcode": "4935348740164",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Zeynep Çelik",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-04-24T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 4,
+      "author": "Buse Taş",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-01-09T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    },
+    {
+      "id": 5,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 6,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-11-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/6",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-23T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

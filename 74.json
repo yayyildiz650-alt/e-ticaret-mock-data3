@@ -1,0 +1,142 @@
+{
+  "id": 74,
+  "sku": "AUR-MEN-GIG-0074",
+  "title": "Gigabyte Aorus Erkek Tişört",
+  "englishTitle": "Gigabyte Aorus Men Tshirt",
+  "slug": "gigabyte-aorus-men-tshirt",
+  "brand": "Gigabyte",
+  "category": "mens-shirts",
+  "categoryName": "Erkek Gömlek",
+  "description": "Gigabyte Aorus Erkek Tişört, Gigabyte tarafından nefes alabilen, kolay bakımlı kumaştan modern regular kesimle üretildi. Kolayca kombinlenen bir gardırop klasiği.",
+  "price": {
+    "amount": 114990,
+    "currency": "TRY",
+    "formatted": "₺1.149,90",
+    "compareAt": 116081,
+    "compareAtFormatted": "₺1.160,81",
+    "discountPercentage": 0.94,
+    "savings": 1091,
+    "savingsFormatted": "₺10,91"
+  },
+  "unitPrice": 114990,
+  "currency": "TRY",
+  "stock": 90,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 16,
+  "maxOrderQuantity": 36,
+  "rating": 3.18,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 2,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "erkek",
+    "giyim",
+    "günlük"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk karışımı",
+    "kesim": "Regular"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 3,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 10.38,
+    "height": 16.29,
+    "depth": 6.78,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 3,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+  "barcode": "1826886153355",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 28
+    },
+    {
+      "id": 2,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2025-11-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 3,
+      "author": "Ozan Aksoy",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-05-11T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    },
+    {
+      "id": 4,
+      "author": "Can Aslan",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 27
+    },
+    {
+      "id": 5,
+      "author": "Yusuf Polat",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-05-19T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/74",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shirts"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-01T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

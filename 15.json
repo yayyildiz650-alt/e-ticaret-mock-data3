@@ -1,0 +1,108 @@
+{
+  "id": 15,
+  "sku": "AUR-GRO-AUR-0015",
+  "title": "Yeşil Dolmalık Biber",
+  "englishTitle": "Green Bell Pepper",
+  "slug": "green-bell-pepper",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Yeşil Dolmalık Biber — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 5990,
+    "currency": "TRY",
+    "formatted": "₺59,90",
+    "compareAt": 6000,
+    "compareAtFormatted": "₺60,00",
+    "discountPercentage": 0.16,
+    "savings": 10,
+    "savingsFormatted": "₺0,10"
+  },
+  "unitPrice": 5990,
+  "currency": "TRY",
+  "stock": 33,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 12,
+  "maxOrderQuantity": 32,
+  "rating": 3.25,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 0,
+    "2": 2,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 28,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 27.22,
+    "height": 22.21,
+    "depth": 8.19,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 28,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+  "barcode": "8071545168087",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mehmet Demir",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2025-11-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 2,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-01T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 37
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/15",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-28T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

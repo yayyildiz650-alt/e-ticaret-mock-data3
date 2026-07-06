@@ -1,0 +1,110 @@
+{
+  "id": 62,
+  "sku": "AUR-KIT-AUR-0062",
+  "title": "Delikli Spatula",
+  "englishTitle": "Slotted Turner",
+  "slug": "slotted-turner",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Delikli Spatula, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 41990,
+    "currency": "TRY",
+    "formatted": "₺419,90",
+    "compareAt": 48459,
+    "compareAtFormatted": "₺484,59",
+    "discountPercentage": 13.35,
+    "savings": 6469,
+    "savingsFormatted": "₺64,69"
+  },
+  "unitPrice": 41990,
+  "currency": "TRY",
+  "stock": 88,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 34,
+  "maxOrderQuantity": 54,
+  "rating": 3.4,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 31,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 15.46,
+    "height": 18.82,
+    "depth": 34.89,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 3,
+    "weightGrams": 31,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim",
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp",
+  "barcode": "2332061632945",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": 2,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-12-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/62",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-04T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

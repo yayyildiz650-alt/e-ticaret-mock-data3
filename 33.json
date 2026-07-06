@@ -1,0 +1,140 @@
+{
+  "id": 33,
+  "sku": "AUR-HOM-AUR-0033",
+  "title": "Dekoratif Salıncak",
+  "englishTitle": "Decoration Swing",
+  "slug": "decoration-swing",
+  "brand": "Aurora Home",
+  "category": "home-decoration",
+  "categoryName": "Ev Dekorasyonu",
+  "description": "Dekoratif Salıncak, her odaya sıcaklık ve karakter katar. Tek başına şık bir detay ya da özenle düzenlenmiş bir rafın parçası olarak kullanılabilen çok yönlü bir dekor parçası.",
+  "price": {
+    "amount": 279990,
+    "currency": "TRY",
+    "formatted": "₺2.799,90",
+    "compareAt": 312524,
+    "compareAtFormatted": "₺3.125,24",
+    "discountPercentage": 10.41,
+    "savings": 32534,
+    "savingsFormatted": "₺325,34"
+  },
+  "unitPrice": 279990,
+  "currency": "TRY",
+  "stock": 47,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 3.16,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 1,
+    "3": 3,
+    "2": 0,
+    "1": 1
+  },
+  "tags": [
+    "dekor",
+    "ev",
+    "hediye"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 21,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 37.68,
+    "height": 30.24,
+    "depth": 11.64,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 21,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+  "barcode": "9500479748016",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Buse Taş",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-03-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 2,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 38
+    },
+    {
+      "id": 3,
+      "author": "Barış Yalçın",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-04-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    },
+    {
+      "id": 4,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-02-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 17
+    },
+    {
+      "id": 5,
+      "author": "Ozan Aksoy",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/33",
+    "category": "https://api.aurora-commerce.dev/v1/categories/home-decoration"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-08T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

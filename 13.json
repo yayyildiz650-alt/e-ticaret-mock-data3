@@ -1,0 +1,140 @@
+{
+  "id": 13,
+  "sku": "AUR-GRO-AUR-0013",
+  "title": "Yumurta",
+  "englishTitle": "Eggs",
+  "slug": "eggs",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Yumurta — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 13990,
+    "currency": "TRY",
+    "formatted": "₺139,90",
+    "compareAt": 15728,
+    "compareAtFormatted": "₺157,28",
+    "discountPercentage": 11.05,
+    "savings": 1738,
+    "savingsFormatted": "₺17,38"
+  },
+  "unitPrice": 13990,
+  "currency": "TRY",
+  "stock": 9,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 32,
+  "maxOrderQuantity": 32,
+  "rating": 2.53,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 4,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 37,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 14.95,
+    "height": 21.75,
+    "depth": 16.92,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 11,
+    "weightGrams": 37,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/eggs/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/eggs/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+  "barcode": "9413186999386",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Gizem Yavuz",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 2,
+      "author": "Deniz Koç",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2025-12-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 3,
+      "author": "Damla Sarı",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 18
+    },
+    {
+      "id": 4,
+      "author": "İrem Bulut",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-05-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 5,
+      "author": "Ozan Aksoy",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-06-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/13",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-12-17T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

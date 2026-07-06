@@ -1,0 +1,126 @@
+{
+  "id": 21,
+  "sku": "AUR-GRO-AUR-0021",
+  "title": "Limon",
+  "englishTitle": "Lemon",
+  "slug": "lemon",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Limon — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 3990,
+    "currency": "TRY",
+    "formatted": "₺39,90",
+    "compareAt": 4419,
+    "compareAtFormatted": "₺44,19",
+    "discountPercentage": 9.7,
+    "savings": 429,
+    "savingsFormatted": "₺4,29"
+  },
+  "unitPrice": 3990,
+  "currency": "TRY",
+  "stock": 31,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 29,
+  "maxOrderQuantity": 31,
+  "rating": 3.53,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 3,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 14,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 25.52,
+    "height": 33.46,
+    "depth": 13.15,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 14,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+  "barcode": "2053950240268",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "İrem Bulut",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-04-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 2,
+      "author": "Mustafa Şahin",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-06-06T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 21
+    },
+    {
+      "id": 4,
+      "author": "Merve Arslan",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-28T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 35
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/21",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-28T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

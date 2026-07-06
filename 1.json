@@ -1,0 +1,108 @@
+{
+  "id": 1,
+  "sku": "AUR-FUR-ANN-0001",
+  "title": "Annibale Colombo Yatak",
+  "englishTitle": "Annibale Colombo Bed",
+  "slug": "annibale-colombo-bed",
+  "brand": "Annibale Colombo",
+  "category": "furniture",
+  "categoryName": "Mobilya",
+  "description": "Annibale Colombo Yatak, Annibale Colombo kalitesiyle sağlam ve sorumlu kaynaklı malzemeleri zamansız bir tasarımla buluşturur. Uzun ömürlü yapısıyla hem modern hem klasik mekânlara kolayca uyum sağlar.",
+  "price": {
+    "amount": 8949900,
+    "currency": "TRY",
+    "formatted": "₺89.499,00",
+    "compareAt": 9788800,
+    "compareAtFormatted": "₺97.888,00",
+    "discountPercentage": 8.57,
+    "savings": 838900,
+    "savingsFormatted": "₺8.389,00"
+  },
+  "unitPrice": 8949900,
+  "currency": "TRY",
+  "stock": 88,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.77,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "ahşap",
+    "ev",
+    "iç-mekan"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 4797,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 11.96,
+    "height": 27.75,
+    "depth": 24.07,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 4797,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+  "barcode": "3511615594078",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Fatma Aydın",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 2,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2026-06-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/1",
+    "category": "https://api.aurora-commerce.dev/v1/categories/furniture"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-03T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

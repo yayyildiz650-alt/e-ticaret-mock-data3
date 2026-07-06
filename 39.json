@@ -1,0 +1,150 @@
+{
+  "id": 39,
+  "sku": "AUR-KIT-AUR-0039",
+  "title": "Siyah Alüminyum Bardak",
+  "englishTitle": "Black Aluminium Cup",
+  "slug": "black-aluminium-cup",
+  "brand": "Aurora Kitchen",
+  "category": "kitchen-accessories",
+  "categoryName": "Mutfak Gereçleri",
+  "description": "Siyah Alüminyum Bardak, mutfakta çok iş gören bir yardımcı. Dayanıklı malzemesi, rahat tutuşu ve pratik tasarımıyla günlük yemek hazırlığını hızlandırır.",
+  "price": {
+    "amount": 27990,
+    "currency": "TRY",
+    "formatted": "₺279,90",
+    "compareAt": 33183,
+    "compareAtFormatted": "₺331,83",
+    "discountPercentage": 15.65,
+    "savings": 5193,
+    "savingsFormatted": "₺51,93"
+  },
+  "unitPrice": 27990,
+  "currency": "TRY",
+  "stock": 75,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 48,
+  "maxOrderQuantity": 68,
+  "rating": 4.46,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "gereç",
+    "mutfak",
+    "pişirme"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 25,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 7.81,
+    "height": 38.75,
+    "depth": 35.61,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 5,
+    "weightGrams": 25,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "indirim",
+    "yeni"
+  ],
+  "isNew": true,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+  "barcode": "8633752431069",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Mustafa Şahin",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-03-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 2,
+      "author": "Mustafa Şahin",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-02-05T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 19
+    },
+    {
+      "id": 3,
+      "author": "Ayşe Yılmaz",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 4,
+      "author": "Zeynep Çelik",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-01T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    },
+    {
+      "id": 5,
+      "author": "Tolga Bilgin",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-04-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 6,
+      "author": "İrem Bulut",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-14T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 24
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/39",
+    "category": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-05-09T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

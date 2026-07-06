@@ -1,0 +1,123 @@
+{
+  "id": 85,
+  "sku": "AUR-MEN-ROL-0085",
+  "title": "Rolex Cellini Date Siyah Kadran",
+  "englishTitle": "Rolex Cellini Date Black Dial",
+  "slug": "rolex-cellini-date-black-dial",
+  "brand": "Rolex",
+  "category": "mens-watches",
+  "categoryName": "Erkek Saat",
+  "description": "Rolex Cellini Date Siyah Kadran, Rolex işçiliğiyle zarif kasası ve çizilmeye dayanıklı camıyla hassas bir saat. Sade ama iddialı bir zarafet ifadesi.",
+  "price": {
+    "amount": 42299900,
+    "currency": "TRY",
+    "formatted": "₺422.999,00",
+    "compareAt": 46422191,
+    "compareAtFormatted": "₺464.221,91",
+    "discountPercentage": 8.88,
+    "savings": 4122291,
+    "savingsFormatted": "₺41.222,91"
+  },
+  "unitPrice": 42299900,
+  "currency": "TRY",
+  "stock": 40,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 4.97,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "erkek",
+    "saat"
+  ],
+  "attributes": {
+    "mekanizma": "Otomatik",
+    "suyaDayanıklılık": "50m"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 2495,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 18.93,
+    "height": 31.26,
+    "depth": 9.49,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "3-5 iş günü içinde kargo",
+    "estimatedDays": 7,
+    "weightGrams": 2495,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 ay garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
+    "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+  "barcode": "1875003691559",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Barış Yalçın",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-11-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 2,
+      "author": "Ceren Er",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    },
+    {
+      "id": 3,
+      "author": "Emir Çetin",
+      "rating": 5,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2026-03-26T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 32
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/85",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-watches"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-10T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": 12,
+  "sku": "AUR-GRO-AUR-0012",
+  "title": "Köpek Maması",
+  "englishTitle": "Dog Food",
+  "slug": "dog-food",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Köpek Maması — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 51990,
+    "currency": "TRY",
+    "formatted": "₺519,90",
+    "compareAt": 57940,
+    "compareAtFormatted": "₺579,40",
+    "discountPercentage": 10.27,
+    "savings": 5950,
+    "savingsFormatted": "₺59,50"
+  },
+  "unitPrice": 51990,
+  "currency": "TRY",
+  "stock": 71,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 43,
+  "maxOrderQuantity": 63,
+  "rating": 4.55,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 3,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 12,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 22.06,
+    "height": 17.42,
+    "depth": 14.04,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 12,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/3.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+  "barcode": "7770143634957",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Burak Doğan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2025-12-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 2,
+      "author": "Berk Şimşek",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-04-21T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 37
+    },
+    {
+      "id": 3,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-11-29T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 29
+    },
+    {
+      "id": 4,
+      "author": "Kaan Turan",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-02-04T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 20
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/12",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-02-08T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": 37,
+  "sku": "AUR-HOM-AUR-0037",
+  "title": "Masa Lambası",
+  "englishTitle": "Table Lamp",
+  "slug": "table-lamp",
+  "brand": "Aurora Home",
+  "category": "home-decoration",
+  "categoryName": "Ev Dekorasyonu",
+  "description": "Masa Lambası, her odaya sıcaklık ve karakter katar. Tek başına şık bir detay ya da özenle düzenlenmiş bir rafın parçası olarak kullanılabilen çok yönlü bir dekor parçası.",
+  "price": {
+    "amount": 234990,
+    "currency": "TRY",
+    "formatted": "₺2.349,90",
+    "compareAt": 252922,
+    "compareAtFormatted": "₺2.529,22",
+    "discountPercentage": 7.09,
+    "savings": 17932,
+    "savingsFormatted": "₺179,32"
+  },
+  "unitPrice": 234990,
+  "currency": "TRY",
+  "stock": 9,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 2,
+  "maxOrderQuantity": 9,
+  "rating": 3.55,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "dekor",
+    "ev",
+    "hediye"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 18,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 11.75,
+    "height": 8.94,
+    "depth": 10.69,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 3,
+    "weightGrams": 18,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/2.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/3.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+  "barcode": "8516122753046",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emir Çetin",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-04-17T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 2,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-01-14T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 11
+    },
+    {
+      "id": 3,
+      "author": "Elif Kaya",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2025-11-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 18
+    },
+    {
+      "id": 4,
+      "author": "Elif Kaya",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-17T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 5,
+      "author": "Damla Sarı",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-03-05T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 29
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/37",
+    "category": "https://api.aurora-commerce.dev/v1/categories/home-decoration"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-29T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

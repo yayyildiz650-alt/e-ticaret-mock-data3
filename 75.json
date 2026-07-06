@@ -1,0 +1,123 @@
+{
+  "id": 75,
+  "sku": "AUR-MEN-CLA-0075",
+  "title": "Erkek Ekose Gömlek",
+  "englishTitle": "Man Plaid Shirt",
+  "slug": "man-plaid-shirt",
+  "brand": "Classic Wear",
+  "category": "mens-shirts",
+  "categoryName": "Erkek Gömlek",
+  "description": "Erkek Ekose Gömlek, Classic Wear tarafından nefes alabilen, kolay bakımlı kumaştan modern regular kesimle üretildi. Kolayca kombinlenen bir gardırop klasiği.",
+  "price": {
+    "amount": 164990,
+    "currency": "TRY",
+    "formatted": "₺1.649,90",
+    "compareAt": 204957,
+    "compareAtFormatted": "₺2.049,57",
+    "discountPercentage": 19.5,
+    "savings": 39967,
+    "savingsFormatted": "₺399,67"
+  },
+  "unitPrice": 164990,
+  "currency": "TRY",
+  "stock": 82,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 13,
+  "maxOrderQuantity": 33,
+  "rating": 3.46,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 1,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "erkek",
+    "giyim",
+    "günlük"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk karışımı",
+    "kesim": "Regular"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 32,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 6.53,
+    "height": 36.44,
+    "depth": 11.74,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 9,
+    "weightGrams": 32,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 hafta garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+  "barcode": "3613861207501",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-02-28T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 2,
+      "author": "Aylin Şen",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-01-23T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 3,
+      "author": "Mehmet Demir",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Ufak eksikleri olsa da sağlam bir ürün.",
+      "date": "2026-04-18T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 28
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/75",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shirts"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-07T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

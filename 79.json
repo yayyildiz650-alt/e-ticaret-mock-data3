@@ -1,0 +1,124 @@
+{
+  "id": 79,
+  "sku": "AUR-MEN-NIK-0079",
+  "title": "Nike Beyzbol Krampon",
+  "englishTitle": "Nike Baseball Cleats",
+  "slug": "nike-baseball-cleats",
+  "brand": "Nike",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Nike Beyzbol Krampon, Nike imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 374990,
+    "currency": "TRY",
+    "formatted": "₺3.749,90",
+    "compareAt": 457528,
+    "compareAtFormatted": "₺4.575,28",
+    "discountPercentage": 18.04,
+    "savings": 82538,
+    "savingsFormatted": "₺825,38"
+  },
+  "unitPrice": 374990,
+  "currency": "TRY",
+  "stock": 12,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 12,
+  "rating": 3.88,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 1,
+    "3": 0,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 10,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 30.76,
+    "height": 21.92,
+    "depth": 17.56,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 11,
+    "weightGrams": 10,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "30 gün içinde iade",
+  "badges": [
+    "indirim"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/3.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+  "barcode": "7700518449892",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ozan Aksoy",
+      "rating": 5,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2025-11-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 2,
+      "author": "İrem Bulut",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-03-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 39
+    },
+    {
+      "id": 3,
+      "author": "Onur Ateş",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 36
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/79",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-09T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

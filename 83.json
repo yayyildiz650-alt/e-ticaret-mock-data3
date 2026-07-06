@@ -1,0 +1,109 @@
+{
+  "id": 83,
+  "sku": "AUR-MEN-FAS-0083",
+  "title": "Kahverengi Deri Kayışlı Saat",
+  "englishTitle": "Brown Leather Belt Watch",
+  "slug": "brown-leather-belt-watch",
+  "brand": "Fashion Timepieces",
+  "category": "mens-watches",
+  "categoryName": "Erkek Saat",
+  "description": "Kahverengi Deri Kayışlı Saat, Fashion Timepieces işçiliğiyle zarif kasası ve çizilmeye dayanıklı camıyla hassas bir saat. Sade ama iddialı bir zarafet ifadesi.",
+  "price": {
+    "amount": 424990,
+    "currency": "TRY",
+    "formatted": "₺4.249,90",
+    "compareAt": 452069,
+    "compareAtFormatted": "₺4.520,69",
+    "discountPercentage": 5.99,
+    "savings": 27079,
+    "savingsFormatted": "₺270,79"
+  },
+  "unitPrice": 424990,
+  "currency": "TRY",
+  "stock": 32,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 7,
+  "maxOrderQuantity": 27,
+  "rating": 4.19,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "aksesuar",
+    "erkek",
+    "saat"
+  ],
+  "attributes": {
+    "mekanizma": "Otomatik",
+    "suyaDayanıklılık": "50m"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 19,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 29.91,
+    "height": 25.91,
+    "depth": 38.1,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 19,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Ömür boyu garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+  "barcode": "3920530214656",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Sena Korkmaz",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-01-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 23
+    },
+    {
+      "id": 2,
+      "author": "Elif Kaya",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-06-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 33
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/83",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-watches"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-24T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

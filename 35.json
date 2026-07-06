@@ -1,0 +1,110 @@
+{
+  "id": 35,
+  "sku": "AUR-HOM-AUR-0035",
+  "title": "Dekoratif Ev Bitkisi",
+  "englishTitle": "House Showpiece Plant",
+  "slug": "house-showpiece-plant",
+  "brand": "Aurora Home",
+  "category": "home-decoration",
+  "categoryName": "Ev Dekorasyonu",
+  "description": "Dekoratif Ev Bitkisi, her odaya sıcaklık ve karakter katar. Tek başına şık bir detay ya da özenle düzenlenmiş bir rafın parçası olarak kullanılabilen çok yönlü bir dekor parçası.",
+  "price": {
+    "amount": 189990,
+    "currency": "TRY",
+    "formatted": "₺1.899,90",
+    "compareAt": 205306,
+    "compareAtFormatted": "₺2.053,06",
+    "discountPercentage": 7.46,
+    "savings": 15316,
+    "savingsFormatted": "₺153,16"
+  },
+  "unitPrice": 189990,
+  "currency": "TRY",
+  "stock": 28,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 23,
+  "rating": 4.67,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 1,
+    "4": 0,
+    "3": 1,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "dekor",
+    "ev",
+    "hediye"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 13,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 5.66,
+    "height": 15.98,
+    "depth": 10.3,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "Ertesi gün kargo",
+    "estimatedDays": 12,
+    "weightGrams": 13,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+    "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+  "barcode": "5786527858549",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-01-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 2,
+      "author": "Kaan Turan",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Hızlı geldi ve özenli paketlenmişti.",
+      "date": "2025-12-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/35",
+    "category": "https://api.aurora-commerce.dev/v1/categories/home-decoration"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2026-01-03T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

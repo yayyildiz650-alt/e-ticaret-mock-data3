@@ -1,0 +1,126 @@
+{
+  "id": 8,
+  "sku": "AUR-GRO-AUR-0008",
+  "title": "Kedi Maması",
+  "englishTitle": "Cat Food",
+  "slug": "cat-food",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Kedi Maması — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 41990,
+    "currency": "TRY",
+    "formatted": "₺419,90",
+    "compareAt": 46439,
+    "compareAtFormatted": "₺464,39",
+    "discountPercentage": 9.58,
+    "savings": 4449,
+    "savingsFormatted": "₺44,49"
+  },
+  "unitPrice": 41990,
+  "currency": "TRY",
+  "stock": 46,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 18,
+  "maxOrderQuantity": 38,
+  "rating": 3.13,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 2,
+    "3": 1,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 13,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 17.75,
+    "height": 7.45,
+    "depth": 28.25,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 13,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "6 ay garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+  "barcode": "2366299468044",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Nur Güneş",
+      "rating": 2,
+      "title": "Hayal kırıklığı",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-01-07T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 16
+    },
+    {
+      "id": 2,
+      "author": "Yusuf Polat",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-05-15T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 22
+    },
+    {
+      "id": 3,
+      "author": "Furkan Ünal",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-01-25T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 12
+    },
+    {
+      "id": 4,
+      "author": "Elif Kaya",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-04-25T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 34
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/8",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-08-16T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

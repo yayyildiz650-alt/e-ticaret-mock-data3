@@ -1,0 +1,142 @@
+{
+  "id": 71,
+  "sku": "AUR-LAP-LEN-0071",
+  "title": "Lenovo Yoga 920",
+  "englishTitle": "Lenovo Yoga 920",
+  "slug": "lenovo-yoga-920",
+  "brand": "Lenovo",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Lenovo Yoga 920, Lenovo güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 5149900,
+    "currency": "TRY",
+    "formatted": "₺51.499,00",
+    "compareAt": 5510861,
+    "compareAtFormatted": "₺55.108,61",
+    "discountPercentage": 6.55,
+    "savings": 360961,
+    "savingsFormatted": "₺3.609,61"
+  },
+  "unitPrice": 5149900,
+  "currency": "TRY",
+  "stock": 40,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 2.86,
+  "reviewCount": 5,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 1,
+    "2": 4,
+    "1": 0
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 3937,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 38.26,
+    "height": 17.72,
+    "depth": 6.9,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 2,
+    "weightGrams": 3937,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 ay garanti",
+  "returnPolicy": "İade edilemez",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/3.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/4.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+  "barcode": "5548851027261",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emir Çetin",
+      "rating": 3,
+      "title": "İşini görüyor",
+      "comment": "Fiyatına göre normal, özel bir şey değil.",
+      "date": "2026-02-24T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 3
+    },
+    {
+      "id": 2,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "Ortalama",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-02-20T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 3,
+      "author": "Ahmet Yıldız",
+      "rating": 1,
+      "title": "Daha iyisini bekledim",
+      "comment": "Biraz geç geldi.",
+      "date": "2026-03-07T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 4,
+      "author": "Mehmet Demir",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2025-12-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    },
+    {
+      "id": 5,
+      "author": "Buse Taş",
+      "rating": 1,
+      "title": "Bana göre değil",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2025-12-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/71",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-08T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

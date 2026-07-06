@@ -1,0 +1,129 @@
+{
+  "id": 68,
+  "sku": "AUR-LAP-APP-0068",
+  "title": "Apple MacBook Pro 14 inç Uzay Grisi",
+  "englishTitle": "Apple MacBook Pro 14 Inch Space Grey",
+  "slug": "apple-macbook-pro-14-inch-space-grey",
+  "brand": "Apple",
+  "category": "laptops",
+  "categoryName": "Dizüstü Bilgisayarlar",
+  "description": "Apple MacBook Pro 14 inç Uzay Grisi, Apple güvencesiyle parlak ve renk doğruluğu yüksek ekranı, gün boyu süren batarya ömrü ve hızlı performansıyla iş ve üretim için idealdir.",
+  "price": {
+    "amount": 9399900,
+    "currency": "TRY",
+    "formatted": "₺93.999,00",
+    "compareAt": 9862449,
+    "compareAtFormatted": "₺98.624,49",
+    "discountPercentage": 4.69,
+    "savings": 462549,
+    "savingsFormatted": "₺4.625,49"
+  },
+  "unitPrice": 9399900,
+  "currency": "TRY",
+  "stock": 24,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 1,
+  "maxOrderQuantity": 21,
+  "rating": 3.65,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 4,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "bilgisayar",
+    "elektronik",
+    "taşınabilir"
+  ],
+  "attributes": {
+    "işletimSistemi": "Kurulu gelir",
+    "ekran": "Retina/IPS"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 598,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 25.79,
+    "height": 6.68,
+    "depth": 8.78,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "1-2 iş günü içinde kargo",
+    "estimatedDays": 4,
+    "weightGrams": 598,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+  "barcode": "6184992618914",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Damla Sarı",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-02-16T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 8
+    },
+    {
+      "id": 2,
+      "author": "Ceren Er",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Güzel ama kargo biraz gecikti.",
+      "date": "2026-04-03T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 25
+    },
+    {
+      "id": 3,
+      "author": "Ece Kurt",
+      "rating": 4,
+      "title": "Bayıldım",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2026-05-27T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 4,
+      "author": "Elif Kaya",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-12-09T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 39
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/68",
+    "category": "https://api.aurora-commerce.dev/v1/categories/laptops"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-06-28T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

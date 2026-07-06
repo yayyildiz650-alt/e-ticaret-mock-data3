@@ -1,0 +1,150 @@
+{
+  "id": 24,
+  "sku": "AUR-GRO-AUR-0024",
+  "title": "Nescafe Kahve",
+  "englishTitle": "Nescafe Coffee",
+  "slug": "nescafe-coffee",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Nescafe Kahve — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 37990,
+    "currency": "TRY",
+    "formatted": "₺379,90",
+    "compareAt": 38604,
+    "compareAtFormatted": "₺386,04",
+    "discountPercentage": 1.59,
+    "savings": 614,
+    "savingsFormatted": "₺6,14"
+  },
+  "unitPrice": 37990,
+  "currency": "TRY",
+  "stock": 57,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 8,
+  "maxOrderQuantity": 28,
+  "rating": 4.82,
+  "reviewCount": 6,
+  "ratingBreakdown": {
+    "5": 4,
+    "4": 2,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 33,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 24.56,
+    "height": 28.38,
+    "depth": 17.4,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 5,
+    "weightGrams": 33,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "Garantisiz",
+  "returnPolicy": "14 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+  "barcode": "2975161369681",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Selin Kılıç",
+      "rating": 3,
+      "title": "İdare eder",
+      "comment": "İdare eder, işini görüyor.",
+      "date": "2026-05-21T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 42
+    },
+    {
+      "id": 2,
+      "author": "Ceren Er",
+      "rating": 4,
+      "title": "Mükemmel",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-13T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 3,
+      "author": "Emre Öztürk",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Bu ayki en beğendiğim alışverişim.",
+      "date": "2026-03-11T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 19
+    },
+    {
+      "id": 4,
+      "author": "Kerem Özkan",
+      "rating": 4,
+      "title": "Çok memnunum",
+      "comment": "Tam açıklandığı gibi, çok memnunum.",
+      "date": "2026-06-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 19
+    },
+    {
+      "id": 5,
+      "author": "Yusuf Polat",
+      "rating": 5,
+      "title": "İyi alışveriş",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2025-12-16T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 31
+    },
+    {
+      "id": 6,
+      "author": "Sena Korkmaz",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Tekrar alırım, gözüm kapalı.",
+      "date": "2025-12-20T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/24",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-19T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

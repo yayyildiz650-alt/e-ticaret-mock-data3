@@ -1,0 +1,121 @@
+{
+  "id": 76,
+  "sku": "AUR-MEN-CAS-0076",
+  "title": "Erkek Kısa Kollu Gömlek",
+  "englishTitle": "Man Short Sleeve Shirt",
+  "slug": "man-short-sleeve-shirt",
+  "brand": "Casual Comfort",
+  "category": "mens-shirts",
+  "categoryName": "Erkek Gömlek",
+  "description": "Erkek Kısa Kollu Gömlek, Casual Comfort tarafından nefes alabilen, kolay bakımlı kumaştan modern regular kesimle üretildi. Kolayca kombinlenen bir gardırop klasiği.",
+  "price": {
+    "amount": 93990,
+    "currency": "TRY",
+    "formatted": "₺939,90",
+    "compareAt": 100880,
+    "compareAtFormatted": "₺1.008,80",
+    "discountPercentage": 6.83,
+    "savings": 6890,
+    "savingsFormatted": "₺68,90"
+  },
+  "unitPrice": 93990,
+  "currency": "TRY",
+  "stock": 2,
+  "inStock": true,
+  "availabilityStatus": "Son Birkaç Ürün",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 4,
+  "maxOrderQuantity": 4,
+  "rating": 2.9,
+  "reviewCount": 3,
+  "ratingBreakdown": {
+    "5": 0,
+    "4": 0,
+    "3": 2,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "erkek",
+    "giyim",
+    "günlük"
+  ],
+  "attributes": {
+    "malzeme": "Pamuk karışımı",
+    "kesim": "Regular"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 23,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 37.48,
+    "height": 8.71,
+    "depth": 32.54,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "1 hafta içinde kargo",
+    "estimatedDays": 14,
+    "weightGrams": 23,
+    "shipsInternationally": true
+  },
+  "warrantyInformation": "3 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "son ürünler"
+  ],
+  "isNew": false,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+  "barcode": "8326842450882",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kerem Özkan",
+      "rating": 3,
+      "title": "Normal",
+      "comment": "Beklendiği gibi çalışıyor, paketleme fena değildi.",
+      "date": "2026-02-02T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 40
+    },
+    {
+      "id": 2,
+      "author": "Sena Korkmaz",
+      "rating": 2,
+      "title": "Daha iyisini bekledim",
+      "comment": "Umduğum gibi çıkmadı.",
+      "date": "2026-03-18T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 3,
+      "author": "Zeynep Çelik",
+      "rating": 2,
+      "title": "Bana göre değil",
+      "comment": "Fena değil ama biraz pahalı.",
+      "date": "2026-01-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/76",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shirts"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-07-03T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 32,
+  "sku": "AUR-GRO-AUR-0032",
+  "title": "Su",
+  "englishTitle": "Water",
+  "slug": "water",
+  "brand": "Aurora Fresh",
+  "category": "groceries",
+  "categoryName": "Market",
+  "description": "Su — güvenle tüketebileceğiniz günlük kalite. Özenle tedarik edilir, tazelik kontrolünden geçer ve gerektiğinde soğuk zincirle en iyi haliyle ulaştırılır.",
+  "price": {
+    "amount": 4990,
+    "currency": "TRY",
+    "formatted": "₺49,90",
+    "compareAt": 5865,
+    "compareAtFormatted": "₺58,65",
+    "discountPercentage": 14.92,
+    "savings": 875,
+    "savingsFormatted": "₺8,75"
+  },
+  "unitPrice": 4990,
+  "currency": "TRY",
+  "stock": 53,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 28,
+  "maxOrderQuantity": 48,
+  "rating": 4.96,
+  "reviewCount": 2,
+  "ratingBreakdown": {
+    "5": 2,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 0
+  },
+  "tags": [
+    "günlük",
+    "gıda",
+    "taze"
+  ],
+  "attributes": {},
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 18,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 9.38,
+    "height": 15.6,
+    "depth": 23.67,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": false,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 12,
+    "weightGrams": 18,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "1 yıl garanti",
+  "returnPolicy": "60 gün içinde iade",
+  "badges": [
+    "indirim",
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+  "barcode": "0010943969078",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Emir Çetin",
+      "rating": 4,
+      "title": "Kesinlikle tavsiye",
+      "comment": "Fiyat/performansı süper, tavsiye ederim.",
+      "date": "2026-05-19T00:00:00.000Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 33
+    },
+    {
+      "id": 2,
+      "author": "Ozan Aksoy",
+      "rating": 5,
+      "title": "Bayıldım",
+      "comment": "Beklediğimden bile iyi çıktı.",
+      "date": "2025-11-12T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 35
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/32",
+    "category": "https://api.aurora-commerce.dev/v1/categories/groceries"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-09-26T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": 82,
+  "sku": "AUR-MEN-OFF-0082",
+  "title": "Off White Kırmızı Spor Ayakkabı",
+  "englishTitle": "Sports Sneakers Off White Red",
+  "slug": "sports-sneakers-off-white-red",
+  "brand": "Off White",
+  "category": "mens-shoes",
+  "categoryName": "Erkek Ayakkabı",
+  "description": "Off White Kırmızı Spor Ayakkabı, Off White imzasıyla yastıklı konforu sade ve çok yönlü bir görünümle birleştirir. Destekleyici taban ve tutuşu yüksek dış tabanla gün boyu rahatlık sağlar.",
+  "price": {
+    "amount": 514990,
+    "currency": "TRY",
+    "formatted": "₺5.149,90",
+    "compareAt": 515196,
+    "compareAtFormatted": "₺5.151,96",
+    "discountPercentage": 0.04,
+    "savings": 206,
+    "savingsFormatted": "₺2,06"
+  },
+  "unitPrice": 514990,
+  "currency": "TRY",
+  "stock": 62,
+  "inStock": true,
+  "availabilityStatus": "Stokta",
+  "lowStockThreshold": 10,
+  "minimumOrderQuantity": 3,
+  "maxOrderQuantity": 23,
+  "rating": 4.69,
+  "reviewCount": 4,
+  "ratingBreakdown": {
+    "5": 3,
+    "4": 0,
+    "3": 0,
+    "2": 1,
+    "1": 0
+  },
+  "tags": [
+    "ayakkabı",
+    "erkek",
+    "spor"
+  ],
+  "attributes": {
+    "malzeme": "File & sentetik",
+    "bağlama": "Bağcıklı"
+  },
+  "variantOf": null,
+  "variantLabel": null,
+  "weight": {
+    "value": 18,
+    "unit": "g"
+  },
+  "dimensions": {
+    "width": 39.71,
+    "height": 18.91,
+    "depth": 12.13,
+    "unit": "cm"
+  },
+  "shipping": {
+    "free": true,
+    "info": "2 hafta içinde kargo",
+    "estimatedDays": 6,
+    "weightGrams": 18,
+    "shipsInternationally": false
+  },
+  "warrantyInformation": "2 yıl garanti",
+  "returnPolicy": "7 gün içinde iade",
+  "badges": [
+    "çok satan"
+  ],
+  "isNew": false,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+    "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+  "barcode": "1372138658902",
+  "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Ahmet Yıldız",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2025-11-22T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 2,
+      "author": "Ayşe Yılmaz",
+      "rating": 5,
+      "title": "Mükemmel",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2025-12-30T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 24
+    },
+    {
+      "id": 3,
+      "author": "Tolga Bilgin",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Fiyatına göre kalitesi harika.",
+      "date": "2026-04-10T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 41
+    },
+    {
+      "id": 4,
+      "author": "Yusuf Polat",
+      "rating": 4,
+      "title": "İyi alışveriş",
+      "comment": "Her gün kullanıyorum, gayet sağlam.",
+      "date": "2026-01-31T00:00:00.000Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 39
+    }
+  ],
+  "links": {
+    "self": "https://api.aurora-commerce.dev/v1/products/82",
+    "category": "https://api.aurora-commerce.dev/v1/categories/mens-shoes"
+  },
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.000Z",
+    "updatedAt": "2025-11-16T09:41:02.000Z",
+    "imageSource": "cdn.dummyjson.com"
+  }
+}
