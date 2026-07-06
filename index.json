@@ -1,0 +1,26 @@
+{
+  "name": "Aurora Commerce Mock API",
+  "version": "v1",
+  "description": "Aurora Commerce API'sinin statik, GitHub'dan servis edilebilen mock'u. Gerçek ürün verisi ve gerçek CDN görselleri. Tüm metinler Türkçe, para birimi TL.",
+  "currency": "TRY",
+  "locale": "tr-TR",
+  "counts": {
+    "products": 320,
+    "categories": 17,
+    "pages": 16,
+    "pageSize": 20
+  },
+  "endpoints": {
+    "listProducts": "GET /v1/products.json  (1. sayfa; ayrıca /v1/products/pages/page-NN.json)",
+    "allProducts": "GET /v1/products/all.json",
+    "productDetail": "GET /v1/products/{id}.json",
+    "categories": "GET /v1/categories.json",
+    "productsByCategory": "GET /v1/categories/{slug}.json",
+    "search": "GET /v1/search/{query}.json (örnek: saat)",
+    "cartPreview": "POST /cart/preview -> /v1/cart/preview.example.json",
+    "checkout": "POST /checkout -> /v1/checkout/success.example.json",
+    "orderDetail": "GET /v1/orders/{id}.json",
+    "errors": "GET /v1/errors/{code}.json"
+  },
+  "generatedAt": "2026-07-06T09:00:00.000Z"
+}

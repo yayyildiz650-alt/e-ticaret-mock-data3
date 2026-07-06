@@ -1,0 +1,207 @@
+{
+  "query": "saat",
+  "data": [
+    {
+      "id": 83,
+      "sku": "AUR-MEN-FAS-0083",
+      "title": "Kahverengi Deri Kayışlı Saat",
+      "slug": "brown-leather-belt-watch",
+      "brand": "Fashion Timepieces",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 424990,
+      "price": {
+        "amount": 424990,
+        "currency": "TRY",
+        "formatted": "₺4.249,90",
+        "compareAt": 452069,
+        "compareAtFormatted": "₺4.520,69",
+        "discountPercentage": 5.99,
+        "savings": 27079,
+        "savingsFormatted": "₺270,79"
+      },
+      "currency": "TRY",
+      "rating": 4.19,
+      "reviewCount": 2,
+      "stock": 32,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/83"
+      }
+    },
+    {
+      "id": 88,
+      "sku": "AUR-MEN-ROL-0088",
+      "title": "Rolex Submariner Saat",
+      "slug": "rolex-submariner-watch",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 65799900,
+      "price": {
+        "amount": 65799900,
+        "currency": "TRY",
+        "formatted": "₺657.999,00",
+        "compareAt": 69299526,
+        "compareAtFormatted": "₺692.995,26",
+        "discountPercentage": 5.05,
+        "savings": 3499626,
+        "savingsFormatted": "₺34.996,26"
+      },
+      "currency": "TRY",
+      "rating": 2.69,
+      "reviewCount": 6,
+      "stock": 55,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/88"
+      }
+    },
+    {
+      "id": 159,
+      "sku": "AUR-ELE-AUR-0159",
+      "title": "Canlı Ekranlı Akıllı Saat",
+      "slug": "sleek-smartwatch-with-vibrant-display",
+      "brand": "Aurora Tech",
+      "category": "electronics",
+      "categoryName": "Elektronik",
+      "unitPrice": 604990,
+      "price": {
+        "amount": 604990,
+        "currency": "TRY",
+        "formatted": "₺6.049,90",
+        "compareAt": 671540,
+        "compareAtFormatted": "₺6.715,40",
+        "discountPercentage": 9.91,
+        "savings": 66550,
+        "savingsFormatted": "₺665,50"
+      },
+      "currency": "TRY",
+      "rating": 3.51,
+      "reviewCount": 5,
+      "stock": 80,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://i.imgur.com/LGk9Jn2.jpeg",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg"
+      ],
+      "variantOf": null,
+      "variantLabel": null,
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/159"
+      }
+    },
+    {
+      "id": 273,
+      "sku": "AUR-MEN-FAS-0273",
+      "title": "Kahverengi Deri Kayışlı Saat — Çelik Kordon",
+      "slug": "brown-leather-belt-watch",
+      "brand": "Fashion Timepieces",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 488738,
+      "price": {
+        "amount": 488738,
+        "currency": "TRY",
+        "formatted": "₺4.887,38",
+        "compareAt": 519879,
+        "compareAtFormatted": "₺5.198,79",
+        "discountPercentage": 5.99,
+        "savings": 31141,
+        "savingsFormatted": "₺311,41"
+      },
+      "currency": "TRY",
+      "rating": 4.32,
+      "reviewCount": 4,
+      "stock": 53,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+      ],
+      "variantOf": 83,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/273"
+      }
+    },
+    {
+      "id": 278,
+      "sku": "AUR-MEN-ROL-0278",
+      "title": "Rolex Submariner Saat — Çelik Kordon",
+      "slug": "rolex-submariner-watch",
+      "brand": "Rolex",
+      "category": "mens-watches",
+      "categoryName": "Erkek Saat",
+      "unitPrice": 65799900,
+      "price": {
+        "amount": 65799900,
+        "currency": "TRY",
+        "formatted": "₺657.999,00",
+        "compareAt": 69299526,
+        "compareAtFormatted": "₺692.995,26",
+        "discountPercentage": 5.05,
+        "savings": 3499626,
+        "savingsFormatted": "₺34.996,26"
+      },
+      "currency": "TRY",
+      "rating": 2.47,
+      "reviewCount": 4,
+      "stock": 65,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": [],
+      "isNew": false,
+      "isBestSeller": false,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+      ],
+      "variantOf": 88,
+      "variantLabel": "Çelik Kordon",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/products/278"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 20,
+    "total": 5,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  },
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "apiVersion": "v1"
+  }
+}

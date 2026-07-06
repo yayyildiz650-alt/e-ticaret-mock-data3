@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "slug": "smartphones",
+      "name": "Akıllı Telefonlar",
+      "productCount": 32,
+      "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/smartphones",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=smartphones"
+      }
+    },
+    {
+      "slug": "laptops",
+      "name": "Dizüstü Bilgisayarlar",
+      "productCount": 12,
+      "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/laptops",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=laptops"
+      }
+    },
+    {
+      "slug": "tablets",
+      "name": "Tabletler",
+      "productCount": 3,
+      "image": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/tablets",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=tablets"
+      }
+    },
+    {
+      "slug": "electronics",
+      "name": "Elektronik",
+      "productCount": 6,
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/electronics",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=electronics"
+      }
+    },
+    {
+      "slug": "mobile-accessories",
+      "name": "Telefon Aksesuarları",
+      "productCount": 28,
+      "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/mobile-accessories",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=mobile-accessories"
+      }
+    },
+    {
+      "slug": "kitchen-accessories",
+      "name": "Mutfak Gereçleri",
+      "productCount": 62,
+      "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/kitchen-accessories",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=kitchen-accessories"
+      }
+    },
+    {
+      "slug": "home-decoration",
+      "name": "Ev Dekorasyonu",
+      "productCount": 10,
+      "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/home-decoration",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=home-decoration"
+      }
+    },
+    {
+      "slug": "furniture",
+      "name": "Mobilya",
+      "productCount": 17,
+      "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/furniture",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=furniture"
+      }
+    },
+    {
+      "slug": "mens-watches",
+      "name": "Erkek Saat",
+      "productCount": 12,
+      "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/mens-watches",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=mens-watches"
+      }
+    },
+    {
+      "slug": "sports-accessories",
+      "name": "Spor Aksesuarları",
+      "productCount": 26,
+      "image": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/sports-accessories",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=sports-accessories"
+      }
+    },
+    {
+      "slug": "sunglasses",
+      "name": "Güneş Gözlüğü",
+      "productCount": 6,
+      "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/sunglasses",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=sunglasses"
+      }
+    },
+    {
+      "slug": "mens-shoes",
+      "name": "Erkek Ayakkabı",
+      "productCount": 15,
+      "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/mens-shoes",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=mens-shoes"
+      }
+    },
+    {
+      "slug": "apparel",
+      "name": "Giyim",
+      "productCount": 12,
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/apparel",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=apparel"
+      }
+    },
+    {
+      "slug": "mens-shirts",
+      "name": "Erkek Gömlek",
+      "productCount": 10,
+      "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/mens-shirts",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=mens-shirts"
+      }
+    },
+    {
+      "slug": "motorcycle",
+      "name": "Motosiklet",
+      "productCount": 10,
+      "image": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/motorcycle",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=motorcycle"
+      }
+    },
+    {
+      "slug": "vehicle",
+      "name": "Araçlar",
+      "productCount": 5,
+      "image": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/vehicle",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=vehicle"
+      }
+    },
+    {
+      "slug": "groceries",
+      "name": "Market",
+      "productCount": 54,
+      "image": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "links": {
+        "self": "https://api.aurora-commerce.dev/v1/categories/groceries",
+        "products": "https://api.aurora-commerce.dev/v1/products?category=groceries"
+      }
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-07-06T09:00:00.000Z",
+    "total": 17,
+    "apiVersion": "v1"
+  }
+}
