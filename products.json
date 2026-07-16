@@ -1505,4 +1505,8 @@
       "category": "motorcycle",
       "categoryName": "Motosiklet",
       "unitPrice": 245000,
-      "price": {"amount": 245000, "currency": "TRY", "formatted": "₺2.450,00", "compareAt": 245000, "compareAtFormatted": "₺2.450,00", "discountPercentage": 0.0, "savings": 0, "savingsFormatted": "
+       "price": {"amount": 245000, "currency": "TRY", "formatted": "₺2.450,00",  "compareAt": 245000, "compareAtFormatted": "₺2.450,00", 
+    "discountPercentage": 0.0, 
+    "savings": 0, 
+    "savingsFormatted": "₺0,00"
+  },
