@@ -6065,7 +6065,7 @@
     ]
   },
     {
-    "currency": "TRY",
+     "currency": "TRY",
     "rating": 5.00,
     "reviewCount": 42,
     "stock": 100,
@@ -6074,24 +6074,24 @@
     "badges": ["premium"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/gemini-mug/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/gemini-mug/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/mug?lock=200",
+    "images": ["https://loremflickr.com/500/500/mug?lock=200"]
   }
-  ],
-  "pagination": {
-    "page": 1,
-    "pageSize": 70,
-    "total": 320,
-    "totalPages": 5,
-    "hasNext": true,
-    "hasPrev": false
-  },
-  "links": {
-    "self": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=70",
-    "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=70",
-    "last": "https://api.aurora-commerce.dev/v1/products?page=5&pageSize=70",
-    "next": "https://api.aurora-commerce.dev/v1/products?page=2&pageSize=70",
-    "prev": null
+],
+"pagination": {
+  "page": 1,
+  "pageSize": 70,
+  "total": 320,
+  "totalPages": 5,
+  "hasNext": true,
+  "hasPrev": false
+},
+"links": {
+  "self": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=70",
+  "first": "https://api.aurora-commerce.dev/v1/products?page=1&pageSize=70",
+  "last": "https://api.aurora-commerce.dev/v1/products?page=5&pageSize=70",
+  "next": "https://api.aurora-commerce.dev/v1/products?page=2&pageSize=70",
+  "prev": null
   },
   "filters": {
     "categories": [
