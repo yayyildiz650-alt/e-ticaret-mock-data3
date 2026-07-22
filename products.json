@@ -1610,177 +1610,195 @@
       "thumbnail": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400",
       "images": ["https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=800"]
     },
-    {
-      "id": 71,
-      "sku": "AUR-KIT-BOD-0071",
-      "title": "Bodum Chambord French Press 1 Litre",
-      "description": "Taze çekilmiş filtre kahvenizi veya dökme yaprak çaylarınızı en saf haliyle demlemeniz için tasarlandı. Isıya dayanıklı borosilikat camı ve paslanmaz çelik tasarımıyla mutfağınıza şıklık katar.",
-      "slug": "bodum-chambord-french-press-1l",
-      "brand": "Bodum",
-      "category": "kitchen",
-      "categoryName": "Mutfak",
-      "unitPrice": 85000,
-      "price": {
-        "amount": 85000,
-        "currency": "TRY",
-        "formatted": "₺850,00",
-        "compareAt": 95000,
-        "compareAtFormatted": "₺950,00",
-        "discountPercentage": 10.52,
-        "savings": 10000,
-        "savingsFormatted": "₺100,00"
-      },
-      "currency": "TRY",
-      "rating": 4.85,
-      "reviewCount": 124,
-      "stock": 45,
-      "inStock": true,
-      "availabilityStatus": "Stokta",
-      "badges": ["çok satan"],
-      "isNew": false,
-      "isBestSeller": true,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/bodum-chambord/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen/bodum-chambord/1.webp"
-      ]
+    
+      "compareAt": 95000,
+      "compareAtFormatted": "₺950,00",
+      "discountPercentage": 10.52,
+      "savings": 10000,
+      "savingsFormatted": "₺100,00"
     },
-    {
-      "id": 72,
-      "sku": "AUR-GRO-TCH-0072",
-      "title": "Colombia Single Origin Filtre Kahve 1 Kg",
-      "description": "Özenle seçilmiş %100 Arabica çekirdeklerinden kavrulmuş, yumuşak içimli ve karamel notaları barındıran premium filtre kahve. French press veya filtre kahve makinesi ile demlemeye uygundur.",
-      "slug": "colombia-single-origin-filtre-kahve-1kg",
-      "brand": "Premium Roast",
-      "category": "groceries",
-      "categoryName": "Gıda & İçecek",
-      "unitPrice": 65000,
-      "price": {
-        "amount": 65000,
-        "currency": "TRY",
-        "formatted": "₺650,00",
-        "compareAt": 70000,
-        "compareAtFormatted": "₺700,00",
-        "discountPercentage": 7.14,
-        "savings": 5000,
-        "savingsFormatted": "₺50,00"
-      },
+    "currency": "TRY",
+    "rating": 4.90,
+    "reviewCount": 310,
+    "stock": 75,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": ["çok satan"],
+    "isNew": false,
+    "isBestSeller": true,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/thumbnail.webp",
+    "images": ["https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/1.webp"]
+  },{
+    "id": 71,
+    "sku": "AUR-KIT-BOD-0071",
+    "title": "Bodum Chambord French Press 1 Litre",
+    "description": "Taze çekilmiş filtre kahvenizi veya dökme yaprak çaylarınızı en saf haliyle demlemeniz için tasarlandı. Isıya dayanıklı borosilikat camı ve paslanmaz çelik tasarımıyla mutfağınıza şıklık katar.",
+    "slug": "bodum-chambord-french-press-1l",
+    "brand": "Bodum",
+    "category": "kitchen",
+    "categoryName": "Mutfak",
+    "unitPrice": 85000,
+    "price": {
+      "amount": 85000,
       "currency": "TRY",
-      "rating": 4.60,
-      "reviewCount": 89,
-      "stock": 120,
-      "inStock": true,
-      "availabilityStatus": "Stokta",
-      "badges": [],
-      "isNew": false,
-      "isBestSeller": false,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/colombia-coffee/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/colombia-coffee/1.webp"
-      ]
+      "formatted": "₺850,00",
+      "compareAt": 95000,
+      "compareAtFormatted": "₺950,00",
+      "discountPercentage": 10.52,
+      "savings": 10000,
+      "savingsFormatted": "₺100,00"
     },
-    {
-      "id": 73,
-      "sku": "AUR-AUT-CAS-0073",
-      "title": "Castrol Edge 5W-30 Tam Sentetik Motor Yağı 4 Litre",
-      "description": "Özellikle 1.6 Multijet ve benzeri yüksek performanslı dizel/benzinli motorlar için geliştirilmiş, sürtünmeyi azaltarak yakıt tasarrufu sağlayan ve motor ömrünü uzatan üstün kaliteli tam sentetik motor yağı.",
-      "slug": "castrol-edge-5w-30-motor-yagi",
-      "brand": "Castrol",
-      "category": "automotive",
-      "categoryName": "Oto Aksesuar",
-      "unitPrice": 125000,
-      "price": {
-        "amount": 125000,
-        "currency": "TRY",
-        "formatted": "₺1.250,00",
-        "compareAt": 140000,
-        "compareAtFormatted": "₺1.400,00",
-        "discountPercentage": 10.71,
-        "savings": 15000,
-        "savingsFormatted": "₺150,00"
-      },
+    "currency": "TRY",
+    "rating": 4.85,
+    "reviewCount": 124,
+    "stock": 45,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": ["çok satan"],
+    "isNew": false,
+    "isBestSeller": true,
+    "thumbnail": "https://loremflickr.com/500/500/frenchpress?lock=71",
+    "images": [
+      "https://loremflickr.com/500/500/frenchpress?lock=71"
+    ]
+  },
+  {
+    "id": 72,
+    "sku": "AUR-GRO-TCH-0072",
+    "title": "Colombia Single Origin Filtre Kahve 1 Kg",
+    "description": "Özenle seçilmiş %100 Arabica çekirdeklerinden kavrulmuş, yumuşak içimli ve karamel notaları barındıran premium filtre kahve. French press veya filtre kahve makinesi ile demlemeye uygundur.",
+    "slug": "colombia-single-origin-filtre-kahve-1kg",
+    "brand": "Premium Roast",
+    "category": "groceries",
+    "categoryName": "Gıda & İçecek",
+    "unitPrice": 65000,
+    "price": {
+      "amount": 65000,
       "currency": "TRY",
-      "rating": 4.90,
-      "reviewCount": 312,
-      "stock": 85,
-      "inStock": true,
-      "availabilityStatus": "Stokta",
-      "badges": ["fırsat"],
-      "isNew": false,
-      "isBestSeller": true,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/castrol-edge/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/automotive/castrol-edge/1.webp"
-      ]
+      "formatted": "₺650,00",
+      "compareAt": 70000,
+      "compareAtFormatted": "₺700,00",
+      "discountPercentage": 7.14,
+      "savings": 5000,
+      "savingsFormatted": "₺50,00"
     },
-    {
-      "id": 74,
-      "sku": "AUR-ELC-LOG-0074",
-      "title": "Logitech MX Keys Kablosuz Aydınlatmalı Klavye",
-      "description": "Uzun saatler boyunca kod yazanlar ve bilgisayar başında vakit geçirenler için özel olarak tasarlanmış, sessiz tuş yapısı ve akıllı arka aydınlatması ile üst düzey ergonomik klavye.",
-      "slug": "logitech-mx-keys-klavye",
-      "brand": "Logitech",
-      "category": "electronics",
-      "categoryName": "Elektronik",
-      "unitPrice": 349900,
-      "price": {
-        "amount": 349900,
-        "currency": "TRY",
-        "formatted": "₺3.499,00",
-        "compareAt": 389900,
-        "compareAtFormatted": "₺3.899,00",
-        "discountPercentage": 10.25,
-        "savings": 40000,
-        "savingsFormatted": "₺400,00"
-      },
+    "currency": "TRY",
+    "rating": 4.60,
+    "reviewCount": 89,
+    "stock": 120,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": [],
+    "isNew": false,
+    "isBestSeller": false,
+    "thumbnail": "https://loremflickr.com/500/500/coffeebeans?lock=72",
+    "images": [
+      "https://loremflickr.com/500/500/coffeebeans?lock=72"
+    ]
+  },
+  {
+    "id": 73,
+    "sku": "AUR-AUT-CAS-0073",
+    "title": "Castrol Edge 5W-30 Tam Sentetik Motor Yağı 4 Litre",
+    "description": "Özellikle 1.6 Multijet ve benzeri yüksek performanslı dizel/benzinli motorlar için geliştirilmiş, sürtünmeyi azaltarak yakıt tasarrufu sağlayan ve motor ömrünü uzatan üstün kaliteli tam sentetik motor yağı.",
+    "slug": "castrol-edge-5w-30-motor-yagi",
+    "brand": "Castrol",
+    "category": "automotive",
+    "categoryName": "Oto Aksesuar",
+    "unitPrice": 125000,
+    "price": {
+      "amount": 125000,
       "currency": "TRY",
-      "rating": 4.95,
-      "reviewCount": 420,
-      "stock": 18,
-      "inStock": true,
-      "availabilityStatus": "Az Kaldı",
-      "badges": ["yeni"],
-      "isNew": true,
-      "isBestSeller": false,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/logitech-mx-keys/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/electronics/logitech-mx-keys/1.webp"
-      ]
+      "formatted": "₺1.250,00",
+      "compareAt": 140000,
+      "compareAtFormatted": "₺1.400,00",
+      "discountPercentage": 10.71,
+      "savings": 15000,
+      "savingsFormatted": "₺150,00"
     },
-    {
-      "id": 75,
-      "sku": "AUR-SPO-TNF-0075",
-      "title": "The North Face Stormbreak 2 Kişilik Kamp Çadırı",
-      "description": "Zorlu hava koşullarına dayanıklı, hafif ve kolay kurulan 2 kişilik profesyonel kamp çadırı. Doğa maceralarınızda rüzgar ve suya karşı tam koruma sağlar.",
-      "slug": "the-north-face-stormbreak-2-cadir",
-      "brand": "The North Face",
-      "category": "sports",
-      "categoryName": "Spor & Outdoor",
-      "unitPrice": 520000,
-      "price": {
-        "amount": 520000,
-        "currency": "TRY",
-        "formatted": "₺5.200,00",
-        "compareAt": 520000,
-        "compareAtFormatted": "₺5.200,00",
-        "discountPercentage": 0.0,
-        "savings": 0,
-        "savingsFormatted": "₺0,00"
-      },
+    "currency": "TRY",
+    "rating": 4.90,
+    "reviewCount": 312,
+    "stock": 85,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": ["fırsat"],
+    "isNew": false,
+    "isBestSeller": true,
+    "thumbnail": "https://loremflickr.com/500/500/motoroil?lock=73",
+    "images": [
+      "https://loremflickr.com/500/500/motoroil?lock=73"
+    ]
+  },
+  {
+    "id": 74,
+    "sku": "AUR-ELC-LOG-0074",
+    "title": "Logitech MX Keys Kablosuz Aydınlatmalı Klavye",
+    "description": "Uzun saatler boyunca kod yazanlar ve bilgisayar başında vakit geçirenler için özel olarak tasarlanmış, sessiz tuş yapısı ve akıllı arka aydınlatması ile üst düzey ergonomik klavye.",
+    "slug": "logitech-mx-keys-klavye",
+    "brand": "Logitech",
+    "category": "electronics",
+    "categoryName": "Elektronik",
+    "unitPrice": 349900,
+    "price": {
+      "amount": 349900,
       "currency": "TRY",
-      "rating": 4.70,
-      "reviewCount": 45,
-      "stock": 8,
-      "inStock": true,
-      "availabilityStatus": "Stokta",
-      "badges": [],
-      "isNew": false,
-      "isBestSeller": false,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/sports/tnf-stormbreak/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/sports/tnf-stormbreak/1.webp"
-      ]
+      "formatted": "₺3.499,00",
+      "compareAt": 389900,
+      "compareAtFormatted": "₺3.899,00",
+      "discountPercentage": 10.25,
+      "savings": 40000,
+      "savingsFormatted": "₺400,00"
     },
-    {
+    "currency": "TRY",
+    "rating": 4.95,
+    "reviewCount": 420,
+    "stock": 18,
+    "inStock": true,
+    "availabilityStatus": "Az Kaldı",
+    "badges": ["yeni"],
+    "isNew": true,
+    "isBestSeller": false,
+    "thumbnail": "https://loremflickr.com/500/500/keyboard?lock=74",
+    "images": [
+      "https://loremflickr.com/500/500/keyboard?lock=74"
+    ]
+  },
+  {
+    "id": 75,
+    "sku": "AUR-SPO-TNF-0075",
+    "title": "The North Face Stormbreak 2 Kişilik Kamp Çadırı",
+    "description": "Zorlu hava koşullarına dayanıklı, hafif ve kolay kurulan 2 kişilik profesyonel kamp çadırı. Doğa maceralarınızda rüzgar ve suya karşı tam koruma sağlar.",
+    "slug": "the-north-face-stormbreak-2-cadir",
+    "brand": "The North Face",
+    "category": "sports",
+    "categoryName": "Spor & Outdoor",
+    "unitPrice": 520000,
+    "price": {
+      "amount": 520000,
+      "currency": "TRY",
+      "formatted": "₺5.200,00",
+      "compareAt": 520000,
+      "compareAtFormatted": "₺5.200,00",
+      "discountPercentage": 0.0,
+      "savings": 0,
+      "savingsFormatted": "₺0,00"
+    },
+    "currency": "TRY",
+    "rating": 4.70,
+    "reviewCount": 45,
+    "stock": 8,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": [],
+    "isNew": false,
+    "isBestSeller": false,
+    "thumbnail": "https://loremflickr.com/500/500/tent?lock=75",
+    "images": [
+      "https://loremflickr.com/500/500/tent?lock=75"
+    ]
+  },
+  {
     "id": 76,
     "sku": "AUR-BOK-JPC-0076",
     "title": "Modern Android UI: Jetpack Compose Rehberi",
@@ -1809,8 +1827,10 @@
     "badges": ["yeni"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/jetpack-compose/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/jetpack-compose/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/programming?lock=76",
+    "images": [
+      "https://loremflickr.com/500/500/programming?lock=76"
+    ]
   },
   {
     "id": 77,
@@ -1841,8 +1861,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/hario-v60-paper/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/hario-v60-paper/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeefilter?lock=77",
+    "images": [
+      "https://loremflickr.com/500/500/coffeefilter?lock=77"
+    ]
   },
   {
     "id": 78,
@@ -1873,8 +1895,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/opar-16-multijet/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/opar-16-multijet/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carparts?lock=78",
+    "images": [
+      "https://loremflickr.com/500/500/carparts?lock=78"
+    ]
   },
   {
     "id": 79,
@@ -1905,8 +1929,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/teknik-analiz/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/teknik-analiz/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/stockchart?lock=79",
+    "images": [
+      "https://loremflickr.com/500/500/stockchart?lock=79"
+    ]
   },
   {
     "id": 80,
@@ -1937,8 +1963,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/kotlin-mug/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/kotlin-mug/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/blackmug?lock=80",
+    "images": [
+      "https://loremflickr.com/500/500/blackmug?lock=80"
+    ]
   },
   {
     "id": 81,
@@ -1969,8 +1997,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/mx-master-3s/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/mx-master-3s/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/computermouse?lock=81",
+    "images": [
+      "https://loremflickr.com/500/500/computermouse?lock=81"
+    ]
   },
   {
     "id": 82,
@@ -2001,8 +2031,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/laptop-stand/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/laptop-stand/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/laptopstand?lock=82",
+    "images": [
+      "https://loremflickr.com/500/500/laptopstand?lock=82"
+    ]
   },
   {
     "id": 83,
@@ -2033,8 +2065,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/stanley-thermos/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/stanley-thermos/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/thermos?lock=83",
+    "images": [
+      "https://loremflickr.com/500/500/thermos?lock=83"
+    ]
   },
   {
     "id": 84,
@@ -2065,8 +2099,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/room-db/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/room-db/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/database?lock=84",
+    "images": [
+      "https://loremflickr.com/500/500/database?lock=84"
+    ]
   },
   {
     "id": 85,
@@ -2097,8 +2133,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/magnetic-holder/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/magnetic-holder/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/phoneholder?lock=85",
+    "images": [
+      "https://loremflickr.com/500/500/phoneholder?lock=85"
+    ]
   },
   {
     "id": 86,
@@ -2129,8 +2167,10 @@
     "badges": ["premium"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/sony-xm5/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/sony-xm5/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/headphones?lock=86",
+    "images": [
+      "https://loremflickr.com/500/500/headphones?lock=86"
+    ]
   },
   {
     "id": 87,
@@ -2161,8 +2201,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/french-press-spare/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/french-press-spare/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/glassfilter?lock=87",
+    "images": [
+      "https://loremflickr.com/500/500/glassfilter?lock=87"
+    ]
   },
   {
     "id": 88,
@@ -2193,8 +2235,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/office-chair/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/office-chair/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/officechair?lock=88",
+    "images": [
+      "https://loremflickr.com/500/500/officechair?lock=88"
+    ]
   },
   {
     "id": 89,
@@ -2225,8 +2269,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/dell-monitor/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/dell-monitor/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/monitor?lock=89",
+    "images": [
+      "https://loremflickr.com/500/500/monitor?lock=89"
+    ]
   },
   {
     "id": 90,
@@ -2257,8 +2303,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/retrofit/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/retrofit/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/android?lock=90",
+    "images": [
+      "https://loremflickr.com/500/500/android?lock=90"
+    ]
   },
   {
     "id": 91,
@@ -2289,8 +2337,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/usbhub?lock=91",
+    "images": [
+      "https://loremflickr.com/500/500/usbhub?lock=91"
+    ]
   },
   {
     "id": 92,
@@ -2321,8 +2371,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/baseus-trash/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/baseus-trash/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/cartrash?lock=92",
+    "images": [
+      "https://loremflickr.com/500/500/cartrash?lock=92"
+    ]
   },
   {
     "id": 93,
@@ -2353,8 +2405,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/samsung-ssd/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/samsung-ssd/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/ssd?lock=93",
+    "images": [
+      "https://loremflickr.com/500/500/ssd?lock=93"
+    ]
   },
   {
     "id": 94,
@@ -2385,8 +2439,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/laptop-backpack/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/laptop-backpack/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/backpack?lock=94",
+    "images": [
+      "https://loremflickr.com/500/500/backpack?lock=94"
+    ]
   },
   {
     "id": 95,
@@ -2417,10 +2473,12 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/desk-lamp/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/desk-lamp/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/desklamp?lock=95",
+    "images": [
+      "https://loremflickr.com/500/500/desklamp?lock=95"
+    ]
   },
-    {
+  {
     "id": 96,
     "sku": "AUR-ELC-APW-0096",
     "title": "Apple Watch Series 8 Akıllı Saat",
@@ -2449,8 +2507,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/apple-watch/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/apple-watch/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/applewatch?lock=96",
+    "images": [
+      "https://loremflickr.com/500/500/applewatch?lock=96"
+    ]
   },
   {
     "id": 97,
@@ -2481,8 +2541,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/adjustable-dumbbell/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/adjustable-dumbbell/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/dumbbell?lock=97",
+    "images": [
+      "https://loremflickr.com/500/500/dumbbell?lock=97"
+    ]
   },
   {
     "id": 98,
@@ -2513,8 +2575,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/delonghi-espresso/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/delonghi-espresso/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/espressomachine?lock=98",
+    "images": [
+      "https://loremflickr.com/500/500/espressomachine?lock=98"
+    ]
   },
   {
     "id": 99,
@@ -2545,8 +2609,10 @@
     "badges": ["çok satan", "klasik"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/clean-code/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/clean-code/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=99",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=99"
+    ]
   },
   {
     "id": 100,
@@ -2577,8 +2643,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/meguiars-shampoo/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/meguiars-shampoo/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carwash?lock=100",
+    "images": [
+      "https://loremflickr.com/500/500/carwash?lock=100"
+    ]
   },
   {
     "id": 101,
@@ -2609,8 +2677,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/basic-tshirt/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/basic-tshirt/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/tshirt?lock=101",
+    "images": [
+      "https://loremflickr.com/500/500/tshirt?lock=101"
+    ]
   },
   {
     "id": 102,
@@ -2641,8 +2711,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/anker-powerbank/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/anker-powerbank/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/powerbank?lock=102",
+    "images": [
+      "https://loremflickr.com/500/500/powerbank?lock=102"
+    ]
   },
   {
     "id": 103,
@@ -2673,8 +2745,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/yoga-mat/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/yoga-mat/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/yogamat?lock=103",
+    "images": [
+      "https://loremflickr.com/500/500/yogamat?lock=103"
+    ]
   },
   {
     "id": 104,
@@ -2705,8 +2779,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bookshelf/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/bookshelf/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/bookshelf?lock=104",
+    "images": [
+      "https://loremflickr.com/500/500/bookshelf?lock=104"
+    ]
   },
   {
     "id": 105,
@@ -2737,8 +2813,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/matcha/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/matcha/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/matcha?lock=105",
+    "images": [
+      "https://loremflickr.com/500/500/matcha?lock=105"
+    ]
   },
   {
     "id": 106,
@@ -2769,8 +2847,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/airfryer/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/airfryer/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/airfryer?lock=106",
+    "images": [
+      "https://loremflickr.com/500/500/airfryer?lock=106"
+    ]
   },
   {
     "id": 107,
@@ -2801,8 +2881,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/air-compressor/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/air-compressor/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/compressor?lock=107",
+    "images": [
+      "https://loremflickr.com/500/500/compressor?lock=107"
+    ]
   },
   {
     "id": 108,
@@ -2833,8 +2915,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/design-patterns/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/design-patterns/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=108",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=108"
+    ]
   },
   {
     "id": 109,
@@ -2865,8 +2949,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/webcam/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/webcam/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/webcam?lock=109",
+    "images": [
+      "https://loremflickr.com/500/500/webcam?lock=109"
+    ]
   },
   {
     "id": 110,
@@ -2897,8 +2983,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/whey-protein/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/whey-protein/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/protein?lock=110",
+    "images": [
+      "https://loremflickr.com/500/500/protein?lock=110"
+    ]
   },
   {
     "id": 111,
@@ -2929,8 +3017,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/running-shoes/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/running-shoes/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/runningshoes?lock=111",
+    "images": [
+      "https://loremflickr.com/500/500/runningshoes?lock=111"
+    ]
   },
   {
     "id": 112,
@@ -2961,8 +3051,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bean-bag/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/bean-bag/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/beanbag?lock=112",
+    "images": [
+      "https://loremflickr.com/500/500/beanbag?lock=112"
+    ]
   },
   {
     "id": 113,
@@ -2993,8 +3085,10 @@
     "badges": ["premium"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/chef-knife/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/chef-knife/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/chefknife?lock=113",
+    "images": [
+      "https://loremflickr.com/500/500/chefknife?lock=113"
+    ]
   },
   {
     "id": 114,
@@ -3025,8 +3119,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/car-charger/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/car-charger/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carcharger?lock=114",
+    "images": [
+      "https://loremflickr.com/500/500/carcharger?lock=114"
+    ]
   },
   {
     "id": 115,
@@ -3057,10 +3153,12 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/airpods-pro/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/airpods-pro/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/earbuds?lock=115",
+    "images": [
+      "https://loremflickr.com/500/500/earbuds?lock=115"
+    ]
   },
-    {
+  {
     "id": 116,
     "sku": "AUR-BOK-ARC-0116",
     "title": "Android Architecture Components ve MVVM",
@@ -3089,8 +3187,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/android-architecture/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/android-architecture/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/android?lock=116",
+    "images": [
+      "https://loremflickr.com/500/500/android?lock=116"
+    ]
   },
   {
     "id": 117,
@@ -3121,8 +3221,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/timemore-c2/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/timemore-c2/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeegrinder?lock=117",
+    "images": [
+      "https://loremflickr.com/500/500/coffeegrinder?lock=117"
+    ]
   },
   {
     "id": 118,
@@ -3153,8 +3255,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/70mai-dashcam/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/70mai-dashcam/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/dashcam?lock=118",
+    "images": [
+      "https://loremflickr.com/500/500/dashcam?lock=118"
+    ]
   },
   {
     "id": 119,
@@ -3185,8 +3289,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/keychron-k2/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/keychron-k2/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/mechanicalkeyboard?lock=119",
+    "images": [
+      "https://loremflickr.com/500/500/mechanicalkeyboard?lock=119"
+    ]
   },
   {
     "id": 120,
@@ -3217,8 +3323,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/camping-chair/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/camping-chair/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/campingchair?lock=120",
+    "images": [
+      "https://loremflickr.com/500/500/campingchair?lock=120"
+    ]
   },
   {
     "id": 121,
@@ -3249,8 +3357,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/trading-strategies/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/trading-strategies/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/trading?lock=121",
+    "images": [
+      "https://loremflickr.com/500/500/trading?lock=121"
+    ]
   },
   {
     "id": 122,
@@ -3281,8 +3391,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/granola/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/granola/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/granola?lock=122",
+    "images": [
+      "https://loremflickr.com/500/500/granola?lock=122"
+    ]
   },
   {
     "id": 123,
@@ -3313,8 +3425,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/monitor-arm/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/monitor-arm/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/monitorarm?lock=123",
+    "images": [
+      "https://loremflickr.com/500/500/monitorarm?lock=123"
+    ]
   },
   {
     "id": 124,
@@ -3345,8 +3459,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/cast-iron-pan/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/cast-iron-pan/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/castironpan?lock=124",
+    "images": [
+      "https://loremflickr.com/500/500/castironpan?lock=124"
+    ]
   },
   {
     "id": 125,
@@ -3377,8 +3493,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/car-mats/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/car-mats/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carmats?lock=125",
+    "images": [
+      "https://loremflickr.com/500/500/carmats?lock=125"
+    ]
   },
   {
     "id": 126,
@@ -3409,8 +3527,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/jabra-elite/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/jabra-elite/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/earbuds?lock=126",
+    "images": [
+      "https://loremflickr.com/500/500/earbuds?lock=126"
+    ]
   },
   {
     "id": 127,
@@ -3441,8 +3561,10 @@
     "badges": ["klasik"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/clean-architecture/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/clean-architecture/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=127",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=127"
+    ]
   },
   {
     "id": 128,
@@ -3473,8 +3595,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/resistance-bands/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/resistance-bands/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/resistanceband?lock=128",
+    "images": [
+      "https://loremflickr.com/500/500/resistanceband?lock=128"
+    ]
   },
   {
     "id": 129,
@@ -3505,8 +3629,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/ua-tshirt/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/ua-tshirt/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/sportshirt?lock=129",
+    "images": [
+      "https://loremflickr.com/500/500/sportshirt?lock=129"
+    ]
   },
   {
     "id": 130,
@@ -3537,8 +3663,10 @@
     "badges": ["premium"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/standing-desk/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/standing-desk/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/standingdesk?lock=130",
+    "images": [
+      "https://loremflickr.com/500/500/standingdesk?lock=130"
+    ]
   },
   {
     "id": 131,
@@ -3569,8 +3697,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/contigo-mug/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/contigo-mug/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/thermos?lock=131",
+    "images": [
+      "https://loremflickr.com/500/500/thermos?lock=131"
+    ]
   },
   {
     "id": 132,
@@ -3601,8 +3731,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/wurth-cleaner/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/wurth-cleaner/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/spray?lock=132",
+    "images": [
+      "https://loremflickr.com/500/500/spray?lock=132"
+    ]
   },
   {
     "id": 133,
@@ -3633,8 +3765,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/sandisk-extreme/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/sandisk-extreme/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/ssd?lock=133",
+    "images": [
+      "https://loremflickr.com/500/500/ssd?lock=133"
+    ]
   },
   {
     "id": 134,
@@ -3665,8 +3799,10 @@
     "badges": ["klasik"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/pragmatic-programmer/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/pragmatic-programmer/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=134",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=134"
+    ]
   },
   {
     "id": 135,
@@ -3697,10 +3833,12 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tchibo-gold/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/tchibo-gold/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffee?lock=135",
+    "images": [
+      "https://loremflickr.com/500/500/coffee?lock=135"
+    ]
   },
-    {
+  {
     "id": 136,
     "sku": "AUR-BOK-DGS-0136",
     "title": "DGS Matematik Tamamı Çözümlü Soru Bankası",
@@ -3729,8 +3867,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/dgs-math/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/dgs-math/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=136",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=136"
+    ]
   },
   {
     "id": 137,
@@ -3761,8 +3901,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/kotlin-android/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/kotlin-android/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=137",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=137"
+    ]
   },
   {
     "id": 138,
@@ -3793,8 +3935,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/ikea-upphetta/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/ikea-upphetta/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/frenchpress?lock=138",
+    "images": [
+      "https://loremflickr.com/500/500/frenchpress?lock=138"
+    ]
   },
   {
     "id": 139,
@@ -3825,8 +3969,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/commodities-analysis/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/commodities-analysis/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/trading?lock=139",
+    "images": [
+      "https://loremflickr.com/500/500/trading?lock=139"
+    ]
   },
   {
     "id": 140,
@@ -3857,8 +4003,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/coroutines/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/coroutines/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=140",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=140"
+    ]
   },
   {
     "id": 141,
@@ -3889,8 +4037,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/agile-scrum/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/agile-scrum/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=141",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=141"
+    ]
   },
   {
     "id": 142,
@@ -3921,8 +4071,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/bosch-wipers/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/bosch-wipers/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carparts?lock=142",
+    "images": [
+      "https://loremflickr.com/500/500/carparts?lock=142"
+    ]
   },
   {
     "id": 143,
@@ -3953,8 +4105,10 @@
     "badges": ["premium"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/macbook-air-m2/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/macbook-air-m2/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/macbook?lock=143",
+    "images": [
+      "https://loremflickr.com/500/500/macbook?lock=143"
+    ]
   },
   {
     "id": 144,
@@ -3985,8 +4139,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/starbucks-house/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/starbucks-house/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeebeans?lock=144",
+    "images": [
+      "https://loremflickr.com/500/500/coffeebeans?lock=144"
+    ]
   },
   {
     "id": 145,
@@ -4017,8 +4173,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/dev-hoodie/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/dev-hoodie/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/hoodie?lock=145",
+    "images": [
+      "https://loremflickr.com/500/500/hoodie?lock=145"
+    ]
   },
   {
     "id": 146,
@@ -4049,8 +4207,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/quechua-backpack/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/quechua-backpack/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/backpack?lock=146",
+    "images": [
+      "https://loremflickr.com/500/500/backpack?lock=146"
+    ]
   },
   {
     "id": 147,
@@ -4081,8 +4241,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/hario-skerton/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/hario-skerton/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeegrinder?lock=147",
+    "images": [
+      "https://loremflickr.com/500/500/coffeegrinder?lock=147"
+    ]
   },
   {
     "id": 148,
@@ -4113,8 +4275,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/samsung-g5/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/samsung-g5/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/monitor?lock=148",
+    "images": [
+      "https://loremflickr.com/500/500/monitor?lock=148"
+    ]
   },
   {
     "id": 149,
@@ -4145,8 +4309,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/ikea-markus/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/ikea-markus/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/officechair?lock=149",
+    "images": [
+      "https://loremflickr.com/500/500/officechair?lock=149"
+    ]
   },
   {
     "id": 150,
@@ -4177,8 +4343,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/dgs-turkish/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/dgs-turkish/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=150",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=150"
+    ]
   },
   {
     "id": 151,
@@ -4209,8 +4377,10 @@
     "badges": ["yeni"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/prompt-engineering/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/prompt-engineering/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=151",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=151"
+    ]
   },
   {
     "id": 152,
@@ -4241,8 +4411,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/trunk-organizer/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/trunk-organizer/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/trunk?lock=152",
+    "images": [
+      "https://loremflickr.com/500/500/trunk?lock=152"
+    ]
   },
   {
     "id": 153,
@@ -4273,8 +4445,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/baseus-gan/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/baseus-gan/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/charger?lock=153",
+    "images": [
+      "https://loremflickr.com/500/500/charger?lock=153"
+    ]
   },
   {
     "id": 154,
@@ -4305,8 +4479,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/sony-speaker/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/sony-speaker/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/speaker?lock=154",
+    "images": [
+      "https://loremflickr.com/500/500/speaker?lock=154"
+    ]
   },
   {
     "id": 155,
@@ -4337,10 +4513,12 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/sleeping-pad/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/sleeping-pad/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/sleepingpad?lock=155",
+    "images": [
+      "https://loremflickr.com/500/500/sleepingpad?lock=155"
+    ]
   },
-    {
+  {
     "id": 156,
     "sku": "AUR-AUT-EGR-0156",
     "title": "Würth EGR ve Karbüratör Temizleyici Sprey",
@@ -4369,8 +4547,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/wurth-egr/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/wurth-egr/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/spray?lock=156",
+    "images": [
+      "https://loremflickr.com/500/500/spray?lock=156"
+    ]
   },
   {
     "id": 157,
@@ -4401,8 +4581,10 @@
     "badges": ["yeni"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/compose-advanced/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/compose-advanced/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=157",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=157"
+    ]
   },
   {
     "id": 158,
@@ -4433,8 +4615,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/loose-tea/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/loose-tea/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/tea?lock=158",
+    "images": [
+      "https://loremflickr.com/500/500/tea?lock=158"
+    ]
   },
   {
     "id": 159,
@@ -4465,8 +4649,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/pixel-7a/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/pixel-7a/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/smartphone?lock=159",
+    "images": [
+      "https://loremflickr.com/500/500/smartphone?lock=159"
+    ]
   },
   {
     "id": 160,
@@ -4497,8 +4683,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/software/tradingview/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/software/tradingview/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/software?lock=160",
+    "images": [
+      "https://loremflickr.com/500/500/software?lock=160"
+    ]
   },
   {
     "id": 161,
@@ -4529,8 +4717,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/coffee-scale/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/coffee-scale/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/scale?lock=161",
+    "images": [
+      "https://loremflickr.com/500/500/scale?lock=161"
+    ]
   },
   {
     "id": 162,
@@ -4561,8 +4751,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/kettlebell/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/kettlebell/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/kettlebell?lock=162",
+    "images": [
+      "https://loremflickr.com/500/500/kettlebell?lock=162"
+    ]
   },
   {
     "id": 163,
@@ -4593,8 +4785,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/java-tshirt/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/java-tshirt/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/tshirt?lock=163",
+    "images": [
+      "https://loremflickr.com/500/500/tshirt?lock=163"
+    ]
   },
   {
     "id": 164,
@@ -4625,8 +4819,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/footrest/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/footrest/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/footrest?lock=164",
+    "images": [
+      "https://loremflickr.com/500/500/footrest?lock=164"
+    ]
   },
   {
     "id": 165,
@@ -4657,10 +4853,12 @@
     "badges": ["klasik"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/java-concurrency/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/java-concurrency/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=165",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=165"
+    ]
   },
-  {
+ {
     "id": 166,
     "sku": "AUR-AUT-OBD-0166",
     "title": "ELM327 Bluetooth OBD2 Araç Arıza Tespit Cihazı",
@@ -4689,8 +4887,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/obd2-scanner/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/obd2-scanner/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/obd2?lock=166",
+    "images": [
+      "https://loremflickr.com/500/500/obd2?lock=166"
+    ]
   },
   {
     "id": 167,
@@ -4721,8 +4921,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ethiopia-coffee/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/ethiopia-coffee/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeebeans?lock=167",
+    "images": [
+      "https://loremflickr.com/500/500/coffeebeans?lock=167"
+    ]
   },
   {
     "id": 168,
@@ -4753,8 +4955,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/soundcore-liberty/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/soundcore-liberty/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/earbuds?lock=168",
+    "images": [
+      "https://loremflickr.com/500/500/earbuds?lock=168"
+    ]
   },
   {
     "id": 169,
@@ -4785,8 +4989,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/gooseneck-kettle/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/gooseneck-kettle/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/kettle?lock=169",
+    "images": [
+      "https://loremflickr.com/500/500/kettle?lock=169"
+    ]
   },
   {
     "id": 170,
@@ -4817,8 +5023,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/shaker/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/shaker/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/shaker?lock=170",
+    "images": [
+      "https://loremflickr.com/500/500/shaker?lock=170"
+    ]
   },
   {
     "id": 171,
@@ -4849,8 +5057,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/clean-coder/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/clean-coder/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=171",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=171"
+    ]
   },
   {
     "id": 172,
@@ -4881,8 +5091,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/clothing/rain-jacket/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/clothing/rain-jacket/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/rainjacket?lock=172",
+    "images": [
+      "https://loremflickr.com/500/500/rainjacket?lock=172"
+    ]
   },
   {
     "id": 173,
@@ -4913,8 +5125,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/timing-belt/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/timing-belt/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carparts?lock=173",
+    "images": [
+      "https://loremflickr.com/500/500/carparts?lock=173"
+    ]
   },
   {
     "id": 174,
@@ -4945,8 +5159,10 @@
     "badges": ["premium"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/white-tea/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/white-tea/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/whitetea?lock=174",
+    "images": [
+      "https://loremflickr.com/500/500/whitetea?lock=174"
+    ]
   },
   {
     "id": 175,
@@ -4977,10 +5193,12 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/switch-tester/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/switch-tester/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/keyboardswitches?lock=175",
+    "images": [
+      "https://loremflickr.com/500/500/keyboardswitches?lock=175"
+    ]
   },
-    {
+  {
     "id": 176,
     "sku": "AUR-BOK-DGS-0176",
     "title": "DGS Geometri ve Sayısal Mantık 10'lu Deneme Seti",
@@ -5009,8 +5227,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/dgs-deneme/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/dgs-deneme/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=176",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=176"
+    ]
   },
   {
     "id": 177,
@@ -5041,8 +5261,10 @@
     "badges": ["yeni"],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/freelancer-guide/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/freelancer-guide/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=177",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=177"
+    ]
   },
   {
     "id": 178,
@@ -5073,8 +5295,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/fuel-filter/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/fuel-filter/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/fuelfilter?lock=178",
+    "images": [
+      "https://loremflickr.com/500/500/fuelfilter?lock=178"
+    ]
   },
   {
     "id": 179,
@@ -5097,7 +5321,7 @@
       "savingsFormatted": "₺0,00"
     },
     "currency": "TRY",
-    "rating": 5.00,
+    "rating": 5.0,
     "reviewCount": 340,
     "stock": 999,
     "inStock": true,
@@ -5105,8 +5329,10 @@
     "badges": ["popüler"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/udemy-gift-card/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/udemy-gift-card/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/giftcard?lock=179",
+    "images": [
+      "https://loremflickr.com/500/500/giftcard?lock=179"
+    ]
   },
   {
     "id": 180,
@@ -5137,8 +5363,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kenya-coffee/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/kenya-coffee/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeebeans?lock=180",
+    "images": [
+      "https://loremflickr.com/500/500/coffeebeans?lock=180"
+    ]
   },
   {
     "id": 181,
@@ -5169,8 +5397,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/wireframe-notebook/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/wireframe-notebook/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/notebook?lock=181",
+    "images": [
+      "https://loremflickr.com/500/500/notebook?lock=181"
+    ]
   },
   {
     "id": 182,
@@ -5201,8 +5431,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/precious-metals/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/precious-metals/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=182",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=182"
+    ]
   },
   {
     "id": 183,
@@ -5233,8 +5465,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/brake-pads/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/brake-pads/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/brakepads?lock=183",
+    "images": [
+      "https://loremflickr.com/500/500/brakepads?lock=183"
+    ]
   },
   {
     "id": 184,
@@ -5265,8 +5499,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/tchibo-cafissimo/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/tchibo-cafissimo/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeemachine?lock=184",
+    "images": [
+      "https://loremflickr.com/500/500/coffeemachine?lock=184"
+    ]
   },
   {
     "id": 185,
@@ -5297,8 +5533,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/shortcut-mousepad/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/shortcut-mousepad/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/mousepad?lock=185",
+    "images": [
+      "https://loremflickr.com/500/500/mousepad?lock=185"
+    ]
   },
   {
     "id": 186,
@@ -5329,8 +5567,10 @@
     "badges": [],
     "isNew": true,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/trading-poster/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/trading-poster/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/poster?lock=186",
+    "images": [
+      "https://loremflickr.com/500/500/poster?lock=186"
+    ]
   },
   {
     "id": 187,
@@ -5361,8 +5601,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/internship-planner/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/internship-planner/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/planner?lock=187",
+    "images": [
+      "https://loremflickr.com/500/500/planner?lock=187"
+    ]
   },
   {
     "id": 188,
@@ -5393,8 +5635,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/acoustic-panel/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/furniture/acoustic-panel/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/acousticpanel?lock=188",
+    "images": [
+      "https://loremflickr.com/500/500/acousticpanel?lock=188"
+    ]
   },
   {
     "id": 189,
@@ -5425,8 +5669,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/dgs-matematik-konu/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/dgs-matematik-konu/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=189",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=189"
+    ]
   },
   {
     "id": 190,
@@ -5457,8 +5703,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/retrofit-api/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/retrofit-api/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=190",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=190"
+    ]
   },
   {
     "id": 191,
@@ -5489,8 +5737,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/ugreen-car-charger/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/ugreen-car-charger/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/carcharger?lock=191",
+    "images": [
+      "https://loremflickr.com/500/500/carcharger?lock=191"
+    ]
   },
   {
     "id": 192,
@@ -5521,8 +5771,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/smart-thermos/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/smart-thermos/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/thermos?lock=192",
+    "images": [
+      "https://loremflickr.com/500/500/thermos?lock=192"
+    ]
   },
   {
     "id": 193,
@@ -5553,8 +5805,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen/code-mug/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/kitchen/code-mug/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/mug?lock=193",
+    "images": [
+      "https://loremflickr.com/500/500/mug?lock=193"
+    ]
   },
   {
     "id": 194,
@@ -5585,8 +5839,10 @@
     "badges": ["fırsat"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/mx-vertical/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/mx-vertical/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/computermouse?lock=194",
+    "images": [
+      "https://loremflickr.com/500/500/computermouse?lock=194"
+    ]
   },
   {
     "id": 195,
@@ -5617,8 +5873,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/books/energy-markets/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/books/energy-markets/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/book?lock=195",
+    "images": [
+      "https://loremflickr.com/500/500/book?lock=195"
+    ]
   },
   {
     "id": 196,
@@ -5649,8 +5907,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/laptop-cooler/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/laptop-cooler/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/laptopcooler?lock=196",
+    "images": [
+      "https://loremflickr.com/500/500/laptopcooler?lock=196"
+    ]
   },
   {
     "id": 197,
@@ -5681,8 +5941,10 @@
     "badges": ["çok satan"],
     "isNew": false,
     "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports/ua-duffel-bag/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/sports/ua-duffel-bag/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/dufflebag?lock=197",
+    "images": [
+      "https://loremflickr.com/500/500/dufflebag?lock=197"
+    ]
   },
   {
     "id": 198,
@@ -5713,8 +5975,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/automotive/snow-chains/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/automotive/snow-chains/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/snowchains?lock=198",
+    "images": [
+      "https://loremflickr.com/500/500/snowchains?lock=198"
+    ]
   },
   {
     "id": 199,
@@ -5745,8 +6009,10 @@
     "badges": [],
     "isNew": false,
     "isBestSeller": false,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/costa-rica-coffee/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/groceries/costa-rica-coffee/1.webp"]
+    "thumbnail": "https://loremflickr.com/500/500/coffeebeans?lock=199",
+    "images": [
+      "https://loremflickr.com/500/500/coffeebeans?lock=199"
+    ]
   },
   {
     "id": 200,
@@ -5768,6 +6034,20 @@
       "savings": 3500,
       "savingsFormatted": "₺35,00"
     },
+    "currency": "TRY",
+    "rating": 4.90,
+    "reviewCount": 150,
+    "stock": 100,
+    "inStock": true,
+    "availabilityStatus": "Stokta",
+    "badges": ["yeni"],
+    "isNew": true,
+    "isBestSeller": false,
+    "thumbnail": "https://loremflickr.com/500/500/mug?lock=200",
+    "images": [
+      "https://loremflickr.com/500/500/mug?lock=200"
+    ]
+  },
     "currency": "TRY",
     "rating": 5.00,
     "reviewCount": 42,
