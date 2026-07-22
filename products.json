@@ -1610,26 +1610,41 @@
       "thumbnail": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=400",
       "images": ["https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=800"]
     },
-    
-      "compareAt": 95000,
-      "compareAtFormatted": "₺950,00",
-      "discountPercentage": 10.52,
-      "savings": 10000,
-      "savingsFormatted": "₺100,00"
+    {
+      "id": 71,
+      "sku": "AUR-KIT-BOD-0071",
+      "title": "Bodum Chambord French Press 1 Litre",
+      "description": "Taze çekilmiş filtre kahvenizi veya dökme yaprak çaylarınızı en saf haliyle demlemeniz için tasarlandı. Isıya dayanıklı borosilikat camı ve paslanmaz çelik tasarımıyla mutfağınıza şıklık katar.",
+      "slug": "bodum-chambord-french-press-1l",
+      "brand": "Bodum",
+      "category": "kitchen",
+      "categoryName": "Mutfak",
+      "unitPrice": 85000,
+      "price": {
+        "amount": 85000,
+        "currency": "TRY",
+        "formatted": "₺850,00",
+        "compareAt": 95000,
+        "compareAtFormatted": "₺950,00",
+        "discountPercentage": 10.52,
+        "savings": 10000,
+        "savingsFormatted": "₺100,00"
+      },
+      "currency": "TRY",
+      "rating": 4.85,
+      "reviewCount": 124,
+      "stock": 45,
+      "inStock": true,
+      "availabilityStatus": "Stokta",
+      "badges": ["çok satan"],
+      "isNew": false,
+      "isBestSeller": true,
+      "thumbnail": "https://loremflickr.com/500/500/frenchpress?lock=71",
+      "images": [
+        "https://loremflickr.com/500/500/frenchpress?lock=71"
+      ]
     },
-    "currency": "TRY",
-    "rating": 4.90,
-    "reviewCount": 310,
-    "stock": 75,
-    "inStock": true,
-    "availabilityStatus": "Stokta",
-    "badges": ["çok satan"],
-    "isNew": false,
-    "isBestSeller": true,
-    "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/thumbnail.webp",
-    "images": ["https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/1.webp"]
-  },
-{
+     {
     "id": 71,
     "sku": "AUR-KIT-BOD-0071",
     "title": "Bodum Chambord French Press 1 Litre",
