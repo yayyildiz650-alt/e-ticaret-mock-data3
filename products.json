@@ -1628,7 +1628,8 @@
     "isBestSeller": true,
     "thumbnail": "https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/thumbnail.webp",
     "images": ["https://cdn.dummyjson.com/product-images/electronics/ugreen-hub/1.webp"]
-  },{
+  },
+{
     "id": 71,
     "sku": "AUR-KIT-BOD-0071",
     "title": "Bodum Chambord French Press 1 Litre",
